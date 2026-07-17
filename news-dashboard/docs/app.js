@@ -108,6 +108,82 @@ function matchedWatchKeywords(item) {
   return state.prefs.watchKeywords.filter((kw) => matchesKeyword(item, kw));
 }
 
+// ---------- Chinese translation (on-demand, per card) ----------
+
+const translationCache = {}; // link -> { status: idle|loading|done|error, visible, zhTitle, zhSummary }
+
+function getTranslationState(link) {
+  if (!translationCache[link]) {
+    translationCache[link] = { status: "idle", visible: false, zhTitle: "", zhSummary: "" };
+  }
+  return translationCache[link];
+}
+
+async function translateToChinese(text) {
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  const translated = data?.responseData?.translatedText;
+  if (!translated) throw new Error("No translation returned");
+  return translated;
+}
+
+function renderTranslationBox(box, btn, transState) {
+  box.hidden = !transState.visible;
+  if (transState.status === "loading") {
+    box.textContent = "翻译中… Translating...";
+    btn.textContent = "中文摘要 (loading…)";
+  } else if (transState.status === "error") {
+    box.textContent = "Translation failed — tap to try again.";
+    btn.textContent = "中文摘要 Translate";
+  } else if (transState.status === "done") {
+    box.innerHTML = "";
+    const titleEl = document.createElement("p");
+    titleEl.className = "translation-title";
+    titleEl.textContent = transState.zhTitle;
+    box.appendChild(titleEl);
+    if (transState.zhSummary) {
+      const summaryEl = document.createElement("p");
+      summaryEl.className = "translation-summary";
+      summaryEl.textContent = transState.zhSummary;
+      box.appendChild(summaryEl);
+    }
+    btn.textContent = transState.visible ? "中文摘要 Hide" : "中文摘要 Show";
+  } else {
+    btn.textContent = "中文摘要 Translate";
+  }
+}
+
+async function handleTranslateClick(item, box, btn) {
+  const transState = getTranslationState(item.link);
+
+  if (transState.status === "done" || transState.status === "error") {
+    transState.visible = !transState.visible;
+    renderTranslationBox(box, btn, transState);
+    return;
+  }
+  if (transState.status === "loading") return;
+
+  transState.status = "loading";
+  transState.visible = true;
+  renderTranslationBox(box, btn, transState);
+
+  try {
+    const [zhTitle, zhSummary] = await Promise.all([
+      translateToChinese(item.title),
+      item.summary ? translateToChinese(item.summary) : Promise.resolve(""),
+    ]);
+    transState.status = "done";
+    transState.zhTitle = zhTitle;
+    transState.zhSummary = zhSummary;
+  } catch (err) {
+    transState.status = "error";
+    console.error("Translation failed:", err);
+  }
+  renderTranslationBox(box, btn, transState);
+}
+
 function personalScore(item) {
   let score = IMPORTANCE_RANK[item.importance] ?? 0;
   for (const topic of item.topics) {
@@ -268,6 +344,11 @@ function renderCard(item) {
   }
   card.appendChild(topics);
 
+  const translationBox = document.createElement("div");
+  translationBox.className = "translation-box";
+  translationBox.hidden = true;
+  card.appendChild(translationBox);
+
   const actions = document.createElement("div");
   actions.className = "news-actions";
 
@@ -316,6 +397,13 @@ function renderCard(item) {
     renderList();
   });
   actions.appendChild(downBtn);
+
+  const translateBtn = document.createElement("button");
+  translateBtn.className = "action-btn";
+  translateBtn.textContent = "中文摘要 Translate";
+  translateBtn.addEventListener("click", () => handleTranslateClick(item, translationBox, translateBtn));
+  actions.appendChild(translateBtn);
+  renderTranslationBox(translationBox, translateBtn, getTranslationState(item.link));
 
   card.appendChild(actions);
   return card;

@@ -10,6 +10,7 @@ A self-updating news dashboard that scans for stories relevant to my work and in
 - **Bookmarks** and **Read Later**, with dedicated views.
 - **Feedback**: "More like this" / "Not relevant" buttons nudge future ranking via a simple per-topic weight, so the feed adapts over time.
 - **Notifications** (bell icon): browser notifications for new High-importance or watch-keyword stories while the dashboard is open in a tab — there's no backend, so this doesn't fire while the browser itself is closed.
+- **中文摘要 Translate**: on-demand Chinese translation of a story's title and summary, via the free [MyMemory](https://mymemory.translated.net/) API called directly from the browser (no key, no backend). Click again to hide; results are cached per story for the session.
 
 ### How it's built
 - **`docs/`** — the static web app (`index.html`/`styles.css`/`app.js`).
