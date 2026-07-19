@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:40:59.190150+00:00",
+  "generated_at": "2026-07-19T16:02:33.242273+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,82 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street - The Motley Fool (Finance) | Apple (AAPL) Hits Record $334 on China AI Win; Can It Hold Into July 30 Earnings? - TradingKey (Finance) | I racked up $35,000 in credit-card debt. Should I file for bankruptcy? (Finance) | AI work agents: China’s Ant, Tencent, Alibaba, Baidu flex for enterprise clients - South China Morning Post (Technology) | American Airlines CEO lays out his vision to close a more than $3 billion profit gap (Finance)",
-  "count": 88,
+  "daily_brief": "Top stories right now: Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid? (Finance) | Can former employers withhold money from your 401(k) when you’re laid off? (Finance) | Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start - Crypto Briefing (Technology) | Apple (AAPL) Raises iPhone Prices in Japan by Up to 11% - GuruFocus (Finance) | Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street - The Motley Fool (Finance)",
+  "count": 86,
   "items": [
+    {
+      "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+      "link": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-19T15:43:00+00:00",
+      "summary": "Some children who don’t qualify for the government contribution may be eligible for an initial $250.",
+      "key_points": [
+        "Some children who don’t qualify for the government contribution may be eligible for an initial $250."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
+      "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-19T14:45:00+00:00",
+      "summary": "There are two main ways to move money from your workplace retirement plan when you leave your job. One can cost you.",
+      "key_points": [
+        "There are two main ways to move money from your workplace retirement plan when you leave your job.",
+        "One can cost you."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QR1hfT1hHREt0cnRYaEJjS0xWSGRmZlVfMEM2S0ZadS1TczBUVmRCenkxVEgtbF9RNHhhMWtzdDFDRTRkVXcwcXFGR3JCOTRpak5udXdkNHVnTDVEa0NNblJBeFJDa09sTlE?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-19T14:14:50+00:00",
+      "summary": "Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start&nbsp;&nbsp;Crypto Briefing",
+      "key_points": [
+        "Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start&nbsp;&nbsp;Crypto Briefing"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11% - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYm5qemVwNklVS2wwSE1iVTFhcGZ2bHlydHBwd3R5WHRKMGRlVWtlT1VUOGRhT3kzVDE0NVN2WTJDMzBzZGVGYlNFNFlMM000bFhNMDBoeG45cFkzUk80RXV1R2g1VGZ4RG9SMkczVlIwaWE4U1VaSnR0RF9UbmNwV0p3eTV2SE5KQjVLbVMtdWFweHlELWc?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-07-19T14:05:19+00:00",
+      "summary": "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11%&nbsp;&nbsp;GuruFocus",
+      "key_points": [
+        "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11%&nbsp;&nbsp;GuruFocus"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnEyeFJHNVVJV2lrMnZWV0c5aGRvRXpSRTZDanZSWjc5TmNQci15bmEwdGpaS01MOXdOUF9hdzBnLVRSRDZ2YUZIRGZZWWl4QXBDTVJwSFkxbGR1ejY4ZnpDTXRteG51b1VUbnhuVU51M3M3TWhyN2h1NHdZejV4MTBOeVhKMnk0SW0zbUtwSW1PSEdDb3Fj?oc=5",
@@ -24,6 +97,24 @@
       "importance": "Medium",
       "topics": [
         "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple raises iPhone prices in Japan by as much as 11% amid weak yen (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2ZZdlNOQUdENzlQQ1lVTTF4U1FJX0JJb0diRGg0T3B1SUZQUndFcmQxSXJUa0ZaOWVEeUhfUHFsNzlXcG43dmxOU09yRzA0dFRPUmJiUjNScHYtcXljcDB6dWxiNzFfRjFXd0tDM3AzTmc3SkFabUUxRFNtWk05T2ZaajFkSVR1RXE4T0RmclUzUk9FTDQ0TDRTUXpRdzBSeEJUam84Zy1iTElJejR4Vzl3?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-07-19T13:17:48+00:00",
+      "summary": "Apple raises iPhone prices in Japan by as much as 11% amid weak yen (AAPL:NASDAQ)&nbsp;&nbsp;Seeking Alpha",
+      "key_points": [
+        "Apple raises iPhone prices in Japan by as much as 11% amid weak yen (AAPL:NASDAQ)&nbsp;&nbsp;Seeking Alpha"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -214,7 +305,7 @@
       "title": "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500. Here's Why the Stock Isn't Tanking. - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNblp5ZUhGMTRLWU1WZFBITWxxRmF1eFd1cHlCRWVCQnpCQjV6bjZ0eExiVnhkak1FdTJhY0xTZEU5MFkyTWtqeE9DQ2JzZkplNTJqOGM2eDQ5LXo2NXV0cEVQeEg2TWxVU3ppbVZxRlFmOFFhMHM0RFdOaE52ZEx2Y3kwWkNVbmNmbkxCN2VXckVhZ2lwMnQxbQ?oc=5",
       "source": "The Motley Fool",
-      "published": "2026-07-19T08:35:16+00:00",
+      "published": "2026-07-19T09:00:00+00:00",
       "summary": "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500. Here's Why the Stock Isn't Tanking.&nbsp;&nbsp;The Motley Fool",
       "key_points": [
         "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500.",
@@ -248,13 +339,13 @@
       ]
     },
     {
-      "title": "Moonshot Kimi K3 China Launches World's Largest Open AI Model To Rival US Tech Giants - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWdNZl9fdng4bE11NTR2dkdnbGZJNThBcWt4c2NkTzEyM3I2SEwxQWVFLTJ4Y0l6aURiTUpWWE54U0x4ZGh5WkxfQmxCZV83eG12VzBZR3VyUUlKRGpYMGhPVXJuaGRWUmVHN3EtV2l3M2JIRXk0VmhNR1FTek1MbUpVOWQ1YnFrUnF6cldDQXFJc21fUnk3Sm41dGo2RnRTZFR5cFktWHJ0SXV0SDlWeTZwakVXaS1YQ0pGQ2I0OXhtZHprdFFSN3kxa0E3aXptSkYxTA?oc=5",
+      "title": "China Launches World's Largest Open AI Model To Rival US Tech Giants - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWdNZl9fdng4bE11NTR2dkdnbGZJNThBcWt4c2NkTzEyM3I2SEwxQWVFLTJ4Y0l6aURiTUpWWE54U0x4ZGh5WkxfQmxCZV83eG12VzBZR3VyUUlKRGpYMGhPVXJuaGRWUmVHN3EtV2l3M2JIRXk0VmhNR1FTek1MbUpVOWQ1YnFrUnF6cldDQXFJc21fUnk3Sm41dGo2RnRTZFR5cFktWHJ0SXV0SDlWeTZwakVXaS1YQ0pGQ2I0OXhtZHprdFFSN3kxa0E3aXptSkYxTNIB3AFBVV95cUxNSC1NbUxjLUt5OXphYUYzcmVqR21tM3ZmOWhpbWlNYlpNNGVwQXpBRzB4NFZiQld4R2NfbElCVDJkZEtXX3BrazNZV2Flanl6RTd1SnZPQUY0UGk1WUJZcTNnYjUzU0g4bjNxV0pjNGdXbEdmUTEzaDc5ZEJVTUpuRW5GWkZqR2VyY3l6R2RoNkJRb1JrS21MNXB0bmNUTjZhcThrUVZQaG5rS3RwQWJmeDlwR3pfcWU1UDY1OEY0ckl4UGdiOE1uVFNNYmJFNUk5ZFJaeDROY01YYmRE?oc=5",
       "source": "NDTV",
       "published": "2026-07-19T03:58:25+00:00",
-      "summary": "Moonshot Kimi K3 China Launches World's Largest Open AI Model To Rival US Tech Giants&nbsp;&nbsp;NDTV",
+      "summary": "China Launches World's Largest Open AI Model To Rival US Tech Giants&nbsp;&nbsp;NDTV",
       "key_points": [
-        "Moonshot Kimi K3 China Launches World's Largest Open AI Model To Rival US Tech Giants&nbsp;&nbsp;NDTV"
+        "China Launches World's Largest Open AI Model To Rival US Tech Giants&nbsp;&nbsp;NDTV"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
@@ -356,6 +447,24 @@
       ]
     },
     {
+      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGpVblc3X1RaN21ldURkQWxXUXRDbTZOUDc4R05GZEN3bVZEVTh2UjFsMGFnQWZQWkFubHBKUDNLN1dhY0xuMDFQQm4wbWdYcDZPV2lrbzF3Qy1wMVZSaGJNTFVsYndGcVVIaFV6UERTNVFDb3dKV3d3VXRBaFA4cnBSRUx3NVFQSjU4dVRn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-18T21:45:00+00:00",
+      "summary": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
       "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
@@ -446,43 +555,6 @@
       ]
     },
     {
-      "title": "These are the obstacles still keeping women from retirement security",
-      "link": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-18T18:48:00+00:00",
-      "summary": "Yes, women still need a “retirement security day.” Here’s why.",
-      "key_points": [
-        "Yes, women still need a “retirement security day.” Here’s why."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "The World Cup–winning side will make $50 million — and the IRS gets a cut",
-      "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-18T18:32:00+00:00",
-      "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
-      "key_points": [
-        "“It doesn’t make a difference who wins the game.",
-        "The IRS will get a piece.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "A massive margin call and 'push-button liquidity' torched stocks, but they're poised to rebound - Fortune",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ09iZk5rRi1COHhyWWpwX09RMDQxVGVacWk4b0k5V0N6TGk3T1ZKaVlEeGtNRm14Y2FENEpZUTZULXpLYUtTRlc2YW9Uelg2c2NJTlpTTWQ3MzNHUzlCaVpvbU12bk53VDEtc1BlM1Z2OHh1OFQxbzI0d0hrYkZ3d2M2WFpDLUJxOFctblB1V2RxNjdQN2JhZw?oc=5",
       "source": "Fortune",
@@ -529,7 +601,7 @@
         "Apple (AAPL) Upgraded to Buy as HSBC Anticipates Strong Growth C&nbsp;&nbsp;GuruFocus"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Apple / AAPL"
       ],
@@ -547,7 +619,7 @@
         "The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Stock Market"
       ],
@@ -737,6 +809,24 @@
       ]
     },
     {
+      "title": "7 Popular Data Analytics Certifications: Your 2026 Guide - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UGZPemZZZFl3TUVjbmtJZDFNd2F3N3RZSXFLTHNNRHQ5c2t2TzBoTG1yMUJlSUpvdjFaMnYyVXZDcVhqcmJCWVRVRi11RGR5ZUdkY29ROW9CSUZ4Ri1MSDc2enVydTVqejJNOWFOdw?oc=5",
+      "source": "Coursera",
+      "published": "2026-07-18T04:33:00+00:00",
+      "summary": "7 Popular Data Analytics Certifications: Your 2026 Guide&nbsp;&nbsp;Coursera",
+      "key_points": [
+        "7 Popular Data Analytics Certifications: Your 2026 Guide&nbsp;&nbsp;Coursera"
+      ],
+      "why_recommended": "Matched your \"Data & Portfolio Tools\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Data & Portfolio Tools"
+      ],
+      "sections": [
+        "Projects"
+      ]
+    },
+    {
       "title": "Apple (AAPL) Faces Mixed Market Sentiment Ahead of Earnings Repo - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmZYMkNQNHJ2djFtQlZHcjU2QUJVVE1HNlJSU0N4WUQyQkVBZG5jdW5OLXVVRFNFYXlvcnBKZ25jUjd4Z2M4eGJDZ2ZsWTl5SmctamZPWm9UeUMtZVhlSjhiYlJ6LUlSOEJRbHRfLU5FeUNDcWM5Rk9TMEFPWm5HWTEwaTlZcjF6UHlxWDd4TGJDVldHTk9EZ1ZpaTdkVHBCbElnODM2MUdwam1ETWFHLU1TYVRyUQ?oc=5",
       "source": "GuruFocus",
@@ -845,42 +935,6 @@
       ]
     },
     {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
-      "source": "NYSE",
-      "published": "2026-07-17T22:00:00+00:00",
-      "summary": "The New York Stock Exchange | NYSE&nbsp;&nbsp;NYSE",
-      "key_points": [
-        "The New York Stock Exchange | NYSE&nbsp;&nbsp;NYSE"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "AAPL Stock In Focus — Apple, DOJ Discuss Antitrust Settlement As iPhone Maker Seeks To Resolve 2024 Lawsuit - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVmdlaXJfaG1TYUJLb2poemsyNHVWcnhvLXBFUy1hR3ZIZE43a2VfNFhtMWZaM0VvZTM3LWJzQlJLYWo4ZHBiMmxoa3hZQTd3TFhvbXhrQjlGTFQ3SVY0dTdBdU5NSDc2bWlFeFZZeXd1RmZSS2FiYzluR1VOZXdzbmM1ZWpfRll6Rk1aYzFDSEg3WC1OaS04OTZHLWJPT2EyUTU1TWd6NjhRdnhkRWlOOWRGZEU4T0JBYkZ3OHZvOGlWdHR6NnpkT20zT2I5MGFHTjRfZ293d2lpOGRoenRDd1VLRU1sVmtsRFc1QTdJLTNNZ21XLTZCVHhCakc?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-07-17T21:05:00+00:00",
-      "summary": "AAPL Stock In Focus — Apple, DOJ Discuss Antitrust Settlement As iPhone Maker Seeks To Resolve 2024 Lawsuit&nbsp;&nbsp;Stocktwits",
-      "key_points": [
-        "AAPL Stock In Focus — Apple, DOJ Discuss Antitrust Settlement As iPhone Maker Seeks To Resolve 2024 Lawsuit&nbsp;&nbsp;Stocktwits"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
       "source": "Reuters",
@@ -889,14 +943,12 @@
       "key_points": [
         "Apple unseats Nvidia to become world's most valuable company as AI bets shift&nbsp;&nbsp;Reuters"
       ],
-      "why_recommended": "Matched multiple topics you follow: \"Apple / AAPL\", \"Tech Industry\".",
-      "importance": "Medium",
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
       "topics": [
-        "Apple / AAPL",
         "Tech Industry"
       ],
       "sections": [
-        "Finance",
         "Technology"
       ]
     },
@@ -916,24 +968,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-17T19:57:41+00:00",
-      "summary": "Xi pitches China as leader of new global AI order, challenging US dominance&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "Xi pitches China as leader of new global AI order, challenging US dominance&nbsp;&nbsp;Reuters"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1391,42 +1425,6 @@
       ]
     },
     {
-      "title": "Weekly Career & Finance Horoscope, July 13 to July 19, 2026 | Astrology - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFZKUjd0dzg3WUFxcjlJU2ZVeXNRMTQzc1BzVDJWNmVDVG42eGo5YkR1aTU0cGdpdUI2N05LQi16cUZzUXNKaEVuMEphOVVieUs0aEFyUHZWZndpdkI0eDcwX0Z5RGhGMlk2SlpWeDM1eTZtLWNVVWFkcGNkVExLd3I1YjdEN29idWtMazRMdmliQ0pNdkhPSktldUhxOHNDdllwRUZTdmNkNGJxWmpRaFhCaHBuT2RRWXN2WndNWUZERHVoUHfSAcsBQVVfeXFMTlUxMEpCb29YTUFFNnQzNlozY2dNNE95YTQ3VU5pZDJ0eS1HdThtM3ZQQ3ZjNTVEN19uQ3pQc0sxTzF5TTZfNlp5bGJwMFFFelEyNXRQM2o2cjlNRjBQVXpkeVFvd1BuSEZSTlNKUXJaQWRhRW4ybmNYeFc4YW9VT3dqUTY0OExPU3kyeVBOdlRJXzBGZ2dHakZMYVFSVEpoOVJfX0V4X3cwams3dTQ5S0I4UkJrTGxLZ1ltN01tNmJ5eEhWek9vVFRBNlU?oc=5",
-      "source": "Hindustan Times",
-      "published": "2026-07-12T03:00:33+00:00",
-      "summary": "Weekly Career & Finance Horoscope, July 13 to July 19, 2026 | Astrology&nbsp;&nbsp;Hindustan Times",
-      "key_points": [
-        "Weekly Career & Finance Horoscope, July 13 to July 19, 2026 | Astrology&nbsp;&nbsp;Hindustan Times"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Career & Finance Horoscope for July 11, 2026: What today's predictions say about your work and money | Astrology - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNS3ZuNUI1QUZmWnBJSnEyUEI0Z0FHZ19JN1ZwNnVaeTQ0VkxNbFhaSHQzRUNJQ0lZWm56dXhTMTg1Ylc1eVh5b0oxMk5MNmhMYk9Fck9kOGhPdGNqOUdyUzBSTHhzNFhTYWdEWVhiOWNtaGI1OHBIWjEtQ1NyeFl3YWRUdTl6Y1ZDUE80SWdfZFZ2am9SUjBpRWplTVNJREZBb0YzUE8zSldMdjVTUjU5dmNwQXJVdXBBQWRDTllMWUtIMVByQ2FTc29LTWdYS2dIcURkdTQyUjduU1hObzJJblU4OXAybDY0OE0xMTZiREo2ZmlpWWhQbUpaUdIBgAJBVV95cUxNR1Y3YW9uRHF6YkxTNkh1T05yTDlqX2tMRklTNDVEaFZVOE5JLWw5VmN3bmNLbUZtZW44ZzNIdGdFUGlidUpXSS14aEhpbldNRm14WVB3WDZYaHd2aE5DZ1FoYlJGMkVGTFdyZFdDWHp5S0ZRclVyektsRGdOalBETGhmTlgyQlFlMjZUM05XQm1va3R2Sm5GNGpTR1J4LUNkQ2FnSXRGUjRvQ1gtUGlSVzhpTEpLOFIwb2JwU1RURjF2UVh4ejh5SHhFZkRKbXNxSlVPSm5iTElXdWpJd0F3WW95WHhpTDZ1NVhqSG9TVl84YmxMWWtyQV95TFdCVG13?oc=5",
-      "source": "Hindustan Times",
-      "published": "2026-07-11T03:00:13+00:00",
-      "summary": "Career & Finance Horoscope for July 11, 2026: What today's predictions say about your work and money | Astrology&nbsp;&nbsp;Hindustan Times",
-      "key_points": [
-        "Career & Finance Horoscope for July 11, 2026: What today's predictions say about your work and money | Astrology&nbsp;&nbsp;Hindustan Times"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
       "title": "SUNY ADK adds business analytics degree - Sun Community News",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWRWWDR1bTFzN0tJcU4wY0RfZ1lDaF9Jclg2M1Z0RzlYX2Z4NjMtS0J3NGMwOXNHTC1BbVgxbkN5MGZFTkRRalVGNXpBd3pranMtQU9oRFpfZXM1SDdaNUViLU4xa2Y4MHdtLWRDT1p5dkIzOEtKN005WkxZcWFOamVyYW5nTWZK?oc=5",
       "source": "Sun Community News",
@@ -1463,13 +1461,13 @@
       ]
     },
     {
-      "title": "Bursa Malaysia closes higher on rebound in financial stocks - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3IyVmlwYm9KUFZOeTAzTGw2Rk43Q3FaMmY5UnRWRkliYnhUajZGMzZwRmlMTjB6M3lYQzY0STFDbk56VWNJM2cxMzA1LTA3QXhTR2h1UkxkSUdOVkhscFhTTHpPbEFzTEt3M1YzeVZuaFhPVGs0Sk9ISHpGUGNZSUN0YjhVMXBEYTJZU0JibE1xZFd0T0pkOHJsdFp4SmdMYW9IRmJ1NUVvR1hsMlE?oc=5",
-      "source": "KLSE Screener",
+      "title": "Bursa Malaysia closes higher on rebound in financial stocks - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTElnb09kT3FTUmZLeDdua253emc2Q2NKQk84ZlNQQlpaX241NEY2TlhkTmlQT09aeHV4d0RPVThnZHhaZmZhdmR0a3VaMnd3T0liVlYzSG5VdDVzZjNIOVUxQVlmMEJGYnhSWldhNEw3T1I5S3lRb1dHaUN6Sk95QWZuSmloNHFPRHhwMVVqajhBOUV2YWEtQkFvcXJ3ZGZsWGRIZVd2WGVLVXlDT3FMdtIBtgFBVV95cUxOZ2ZXZXJwUzZneXhsdGVBWEZNZG9sdnNVR3FZa2pvRTQyZWxnVEE4N0VEQjF1czU5TWhyQ1BpWkg4SmpzcjUyTVN0Y0FMVWIzSC16ai1Dc2NiQ2RsbzhuZkpNQmROSjRIUGNvRXhNVkUtdnFreWwxT2dDRWNPR19xWVRTYklqWDRDeHdYbXQzbTNiZHhnQlhsc0ZnNU1PX2NXaGswUkFoTnBzeUwwbzY5cnc5TUtXUQ?oc=5",
+      "source": "NST Online",
       "published": "2026-07-10T10:13:15+00:00",
-      "summary": "Bursa Malaysia closes higher on rebound in financial stocks&nbsp;&nbsp;KLSE Screener",
+      "summary": "Bursa Malaysia closes higher on rebound in financial stocks&nbsp;&nbsp;NST Online",
       "key_points": [
-        "Bursa Malaysia closes higher on rebound in financial stocks&nbsp;&nbsp;KLSE Screener"
+        "Bursa Malaysia closes higher on rebound in financial stocks&nbsp;&nbsp;NST Online"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1535,24 +1533,6 @@
       ]
     },
     {
-      "title": "Research firms expect Bank Negara to hold OPR at 2.75pct till year-end - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzliaVJHdmZEN0tSa3ZJYlFsS2hJQkNmc09oNElzZDQ4aEdab1VTS1FrUHlCOXlZUW9XVlVfS1RIc0poOVh1YjJZSDlOTHNNdlhHTGNRWWVUVEJkSnhXU09tUEl3U1VIREpfSXdPV0dNLV9UQm02RVZMLWNBdzI5RlQ2OFBnYXBKLUVDWTlxU2h6Tm1TZU90XzNTeHZTZkxGUmg2dEU1VXRKUVhFQnR1R2NIMWtxc0k0Q3FPUg?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-07-10T02:45:41+00:00",
-      "summary": "Research firms expect Bank Negara to hold OPR at 2.75pct till year-end&nbsp;&nbsp;KLSE Screener",
-      "key_points": [
-        "Research firms expect Bank Negara to hold OPR at 2.75pct till year-end&nbsp;&nbsp;KLSE Screener"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "What to expect on Bursa Malaysia this Friday - Focus Malaysia",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zb3NSNmR4azRoNDJnUUI5Q205ZzEyR2lQdVQxdm5kVURhVkRxSUxQZU1BUGpyZXJIbVNkVHFXbEJ3OWpBSlBKMEQtNEpXbmxBSGE5TnZQdnFYMW44RkFUTDdmRW9WMTZicDZVbFF0X0k5eFpOeXdLSXU1U3VSVWM?oc=5",
       "source": "Focus Malaysia",
@@ -1586,24 +1566,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "BNM may hold policy rate, signal upcoming hike as AI boosts economic growth - Free Malaysia Today",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWGFvM3I2RHNfTDN1U0pQZ0pBOVFGMUJkaTVIODJqME5TQ1RxOEw5VlBKNjVFbGQ5a1NlRUNtWXk3dmFFbUZYcm9fWlFiNEsxenFucW1aUEFyNVBWUFNST0w0V1VzSG5JbVNEMExRMDJSbGpBekN6SWpYY0Jua3dmSE1Ta3QxYWVPX1pGSDQ3aERrczNJcnc4b0NjVTdVdEdqRUtPbUxNZG9hT3pGWFUyTFBNcVVhMkwxQVpfeFh1d3E2Skp3VU9WcUxWakRpNDBybkk4?oc=5",
-      "source": "Free Malaysia Today",
-      "published": "2026-07-09T14:54:37+00:00",
-      "summary": "BNM may hold policy rate, signal upcoming hike as AI boosts economic growth&nbsp;&nbsp;Free Malaysia Today",
-      "key_points": [
-        "BNM may hold policy rate, signal upcoming hike as AI boosts economic growth&nbsp;&nbsp;Free Malaysia Today"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     }
   ]
