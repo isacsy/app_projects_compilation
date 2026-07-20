@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T03:50:31.443005+00:00",
+  "generated_at": "2026-07-20T09:29:43.270875+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,14 +8,105 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies (Finance) | Stock market closes lower as chip stocks slide; S&P 500 falls 1% - eciks.org (Finance) | Apple (AAPL) Surpasses Nvidia (NVDA) in Market Value Before Losses - GuruFocus (Finance) | Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus - Stocktwits (Finance) | ASX edges up; oil prices highest in a month as Middle East hostilities escalate - SMH.com.au (Finance)",
-  "count": 85,
+  "daily_brief": "Top stories right now: If history is a guide, there’s still another week before earnings will start to move the stock market (Finance) | No one talks about FAANG anymore. Now, it’s time to retire Magnificent Seven as well, Citigroup argues (Finance) | Sean ‘Diddy’ Combs sells $55 million Miami mansion he tried to use for bail (Finance) | ‘Full House’ creator Jeff Franklin relists $45 million Beverly Hills home built on site of Manson murders (Finance) | US Stock Market Today: S&P 500 Futures Fall As Cooling Inflation Clouds Growth Outlook - simplywall.st (Finance)",
+  "count": 83,
   "items": [
     {
-      "title": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies",
+      "title": "If history is a guide, there’s still another week before earnings will start to move the stock market",
+      "link": "https://www.marketwatch.com/story/if-history-is-a-guide-theres-still-another-week-before-earnings-will-start-to-move-the-stock-market-52baccad?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T09:18:00+00:00",
+      "summary": "The S&P 500 is primed to climb during the third, fourth and fifth weeks of the financial reporting period, according to Jefferies.",
+      "key_points": [
+        "The S&P 500 is primed to climb during the third, fourth and fifth weeks of the financial reporting period, according to Jefferies."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "No one talks about FAANG anymore. Now, it’s time to retire Magnificent Seven as well, Citigroup argues",
+      "link": "https://www.marketwatch.com/story/no-one-talks-about-faang-anymore-now-its-time-to-retire-magnificent-seven-as-well-citigroup-argues-ddf312c5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T09:18:00+00:00",
+      "summary": "Magnificent Seven as a group is underperforming the broader market this year, but strategists at Citi argue it’s no longer a grouping that even makes sense to think about it.",
+      "key_points": [
+        "Magnificent Seven as a group is underperforming the broader market this year, but strategists at Citi argue it’s no longer a grouping that even makes sense to think about it."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Sean ‘Diddy’ Combs sells $55 million Miami mansion he tried to use for bail",
+      "link": "https://www.marketwatch.com/story/sean-diddy-combs-sells-55-million-miami-mansion-he-tried-to-use-for-bail-3cd2cb02?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T09:02:00+00:00",
+      "summary": "Disgraced music mogul Sean “Diddy” Combs has finally sold the Miami mansion he once put up as collateral in his failed bid for bail in his sex-trafficking case. It was sold for $55 million while he was behind bars.",
+      "key_points": [
+        "Disgraced music mogul Sean “Diddy” Combs has finally sold the Miami mansion he once put up as collateral in his failed bid for bail in his sex-trafficking case.",
+        "It was sold for $55 million while he was behind bars."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘Full House’ creator Jeff Franklin relists $45 million Beverly Hills home built on site of Manson murders",
+      "link": "https://www.marketwatch.com/story/full-house-creator-jeff-franklin-relists-45-million-beverly-hills-home-built-on-site-of-manson-murders-4d6a3f07?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T08:59:00+00:00",
+      "summary": "“Full House” creator Jeff Franklin is once again on the hunt for a buyer for his Beverly Hills mansion which has sinister ties to the Charles Manson murders.",
+      "key_points": [
+        "“Full House” creator Jeff Franklin is once again on the hunt for a buyer for his Beverly Hills mansion which has sinister ties to the Charles Manson murders."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Fall As Cooling Inflation Clouds Growth Outlook - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2E4cnRuQnIzQWRDeDJPMG1DZGNVemtudGVvYTRNaHQ1bkZOSU94WURlSHJVU3RRV2RtbXR5cmlSTlYxcUpOU0l3UnVZN09zV1lpUmp6Skl3YVh3dDdreHNBU2JyOW1NaC1jbW41azNtVF8tbVJ2VFdUb2ZVdDZ2WV9QZFZGd1lNdWVfX2ZySkZyWGdkLXAwV3otZUJsU1V3TWZVTWN6RWRxSy1NallVcS1KbVp4V00zTDdoX0VWYkctV2lNc3NVVTNJV1N2ZEhXb1HSAdcBQVVfeXFMTVFYR2hqMnQ4NlFUelFYWDFkOTBTU0NzNTBZY3B6eE9kaVJoLU5KcGhpSktwRU5hNURhTlZZakQtX1MyNU9lXzdyZm1QQWw1Q2RoU3I3TEVKdzdxWnVId2NnejIwaXlKWEZNaDZCRFdhQUthRDFfZTRXODdqMzdCODlBeTF4R290ZmdjVkpaVFB5NlRRQ1dpcFZCWXozMjdjVEc1bFI3VldZMFJZTG90V2JQNkQ3aFUwUGYtUm1ES3RLT1hKbWlwSkJESnJ3Q3dmU0pKeXFsbkU?oc=5",
+      "source": "simplywall.st",
+      "published": "2026-07-20T08:28:03+00:00",
+      "summary": "US Stock Market Today: S&P 500 Futures Fall As Cooling Inflation Clouds Growth Outlook&nbsp;&nbsp;simplywall.st",
+      "key_points": [
+        "US Stock Market Today: S&P 500 Futures Fall As Cooling Inflation Clouds Growth Outlook&nbsp;&nbsp;simplywall.st"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Oil prices climb as U.S. and Iran continue to fight",
       "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-20T03:02:00+00:00",
+      "published": "2026-07-20T08:07:00+00:00",
       "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
       "key_points": [
         "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week."
@@ -24,6 +115,168 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Moonshot AI’s Kimi K3 faces GPU crunch amid US-China tech rivalry - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVBDNjJ2TmR6WV80M1YwMzlLRXFPVkF5dGJtQVVlMEhnVlRGdEVFbXZHRE9uT3RFTFFVZlFyaklOd01WMlpibEczT2MxYkVza0ZSa1JyQUdlQ2xkQ3JjeTk5M1ZBQVBXdFRTRWxsakhOekU0emlFZGt4UjVvVmUyU3NBTWFhaFlLbzZGREdoNll4VGxiZm5hc3llemVLQ00tcUoyRjBtN2R0VkRXamh2SdIBsAFBVV95cUxOQ0lTVzEtdGd6UkFORHpsZkF0ZE5zU1VZbk1XUC1MLVJHNUd4YnZ6UEFLclk5b3M0Vmllc2tXQ2FENDNhSFZ0MnlDZy1faUdVRXRQaFh1SmQteVZDRkhXNEFHNGtYS3FreXphRTJITDJ0N2h6X1BpcEdwbjNab2hMa25CaDNGNng1ZTBJVldPVm5kUEZfcVVMaHBIQ2FHX1pjMjhPbnlielQ1QUlZUDdldw?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-07-20T06:30:05+00:00",
+      "summary": "Moonshot AI’s Kimi K3 faces GPU crunch amid US-China tech rivalry&nbsp;&nbsp;South China Morning Post",
+      "key_points": [
+        "Moonshot AI’s Kimi K3 faces GPU crunch amid US-China tech rivalry&nbsp;&nbsp;South China Morning Post"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Is the S&P 500 heading for a bear market in 2026? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCeEdQLWh2MEpfNEpuMTdnbnFDM2RFTlZsblRpSHFNcGNpY253MUl3UkZzbXR5cDJ2ZjdoTVRyLUVoU2VkS0E2WVFEQjMycVczX0t0emNPc0dFSDNiRGlmUEtZVmQ5LXFtdXRFVWxGTmZEYy1UWjFhYWZMZWdLSDQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-07-20T06:21:00+00:00",
+      "summary": "Is the S&P 500 heading for a bear market in 2026?&nbsp;&nbsp;Yahoo Finance UK",
+      "key_points": [
+        "Is the S&P 500 heading for a bear market in 2026?&nbsp;&nbsp;Yahoo Finance UK"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple (AAPL) Files Lawsuit Against OpenAI Accusing Theft of Trad - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0FPVjl4VGdnMUg5TGE1SXdzdGdBUHFJV2VKZUJEcldMaDJ5S0FCd01WR09CSWhERFJDbG9vdGMzLXhVb1JfaWc3OXJheE4zcjFDa0p0LUtIdElUc2R3LWZSRFRpMDNTaDFhT3JQWlNlVnc4T0c0Vkw3OGljdk5nZ0pVdFczSGp6SndnLUFxc1REZWd3dXpEM1FZazl5RVZEOXBOdVRXRTI0UFR0Yk8w?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-07-20T06:19:56+00:00",
+      "summary": "Apple (AAPL) Files Lawsuit Against OpenAI Accusing Theft of Trad&nbsp;&nbsp;GuruFocus",
+      "key_points": [
+        "Apple (AAPL) Files Lawsuit Against OpenAI Accusing Theft of Trad&nbsp;&nbsp;GuruFocus"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGFFbUIzR1dQX2FoTUh0cU9DOVJYekFlaDR2UFNRVlozei05aUQ3Z2E5dU9RYkFRd2hvMVdwMkZCRnJqYkhFQWpYWWpNYW94aVEtMDNodnpNZjdIQjFaNkVlRlVVT21zNm43WjRWbmdwcmtxQVpMSUNCMlNINWpzRm5jbjNLZ0w2cUZuM0ZhUENTZGxmLWptMUx3?oc=5",
+      "source": "Benzinga",
+      "published": "2026-07-20T05:57:25+00:00",
+      "summary": "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga",
+      "key_points": [
+        "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock market today: South Korea's KOSPI dips nearly 4 percent as Wall Street futures rise following tech-led sell-off - Economy Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS0JwQmtQY18tUEhkWm9Ga1lmaW81S0NGTE5nejBiQmRvY3NqbU5xTWRhTEQ1LTJzYllJak5lSDFQa0xKclZnRVEyZzFzamlZSlVsWkFFOUJqNWNlX09mNU8yV3MwTkxSNVdYSVBSNU5XWG03dUdFcjNWS1J0bWVGZ0UwNXlNZlVhSlVKS2hsZGUySk9PNXplay1ZOUx6TmFtbEV4Uld4amZJZDdpZTJScFJhM09xUXd2SEQ0bGNEMDFGTk91T1lPMktlUU5vcl9MYUhGczlBYVU1T1FtNnZDSmJxRGNmZw?oc=5",
+      "source": "Economy Middle East",
+      "published": "2026-07-20T05:39:11+00:00",
+      "summary": "Stock market today: South Korea's KOSPI dips nearly 4 percent as Wall Street futures rise following tech-led sell-off&nbsp;&nbsp;Economy Middle East",
+      "key_points": [
+        "Stock market today: South Korea's KOSPI dips nearly 4 percent as Wall Street futures rise following tech-led sell-off&nbsp;&nbsp;Economy Middle East"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11% - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTBydjNoenM2WVVRNzBZQmlBQmQyVWRRdVRxX0FHT01icDdKSmhkY09GcjMxYlRHYndjRDR1NmYyZXRFZS1uWUJ4a0xqbGpaVmx4NGRwYVYwZW5lalgwMFBoRkhHbF9CbnFvOEl4STJqSUFFZUhpY0pXbTA3YlNmc01IQ1pzc3R3VHplcHJjaExaV1VfUnp3Q0QzXzB6aGw0ZXRZU0ln?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-07-20T05:37:30+00:00",
+      "summary": "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11%&nbsp;&nbsp;GuruFocus",
+      "key_points": [
+        "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11%&nbsp;&nbsp;GuruFocus"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "3 S&P 500 Stocks Just Touched 52-Week Lows - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGhKekJTZHVjY3hNcEFmd0pFY3hkR09JT1l5aFctbGlHR3FTeWtTZWpScklEUC04R3M3UFlZeG5QeU0yQl9Ubk0wUGdYU0puSVpoRG1OZDhqSlA4eERkdGJwWHd0dk9oQi05UDFzZUMta2hHMnJrQzlYVWNaMkt1WFhiTmV2TUh5akxKYUxFRkZ6cWRMZk41UVNQRE1wSEZuT3Nj?oc=5",
+      "source": "Trefis",
+      "published": "2026-07-20T05:11:25+00:00",
+      "summary": "3 S&P 500 Stocks Just Touched 52-Week Lows&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "3 S&P 500 Stocks Just Touched 52-Week Lows&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The 52-Week-High List: 34 S&P 500 Names On Friday - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUxJdFNoNFg4ZGdPRTFfci1aWTQycEllTnpBeGd0YUQwOVkzN2d3U28weDd6YkhXeV96eVhFcWY5MkgwaFZiX0VSdEdacVh6d0hQWlFFaTBlbHZ2cno4TmxGUEVuX3BrQW10MXBXZkllcHY5N2VCYy00bXZCY0JYcEh1emZMRllocmVpN0FVZExSa0NoTzM2LUoyU2FMNV83ZjhJMkVudlVxems?oc=5",
+      "source": "Trefis",
+      "published": "2026-07-20T05:02:37+00:00",
+      "summary": "The 52-Week-High List: 34 S&P 500 Names On Friday&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "The 52-Week-High List: 34 S&P 500 Names On Friday&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "S&P 500 Movers | Winners: TRV, STX, CNC | Losers: ISRG, CDNS, SNPS - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDQ1czF1MWFrcUVNMkR1WXhHc3J1UWJFZlI3MVZCaWw0dVBxYzg3SGJWQXFWZTdBTVktWHdtemh3UzVteDZUNG1Ec1ZPNm8wXzFuTmRDWHhEVVB2enoyNmkxN29HVS1waVZuV091YjRJTFUwdnM4M001a25jWTVGNlN1eThLaDZhOUVZRmRaN3AtdnAyTzU4YnNYcmwtbUpLYldCT2dib0kyT0lwcmRuT3I1UHF6Zw?oc=5",
+      "source": "Trefis",
+      "published": "2026-07-20T05:01:23+00:00",
+      "summary": "S&P 500 Movers | Winners: TRV, STX, CNC | Losers: ISRG, CDNS, SNPS&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "S&P 500 Movers | Winners: TRV, STX, CNC | Losers: ISRG, CDNS, SNPS&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -73,24 +326,6 @@
       "summary": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus&nbsp;&nbsp;Stocktwits",
       "key_points": [
         "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus&nbsp;&nbsp;Stocktwits"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "ASX edges up; oil prices highest in a month as Middle East hostilities escalate - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZ6M3NjZThDd3k2YlcwZ05aSnZ6R3pEeFQwa1JzaGF2eFpyQ3ZkNDI5X3FFbDBwU2hRNm9VcVNCbE1BQ1dmOHVrS2dDXzQwT0ppM1VwcXJIeG9FbzJrN0VBM29uQTZoanZvVXV1aVcxTVpwRkhjVVZ2MUd5VGNMRmRldlhWSjFMNHAzYmg5SW4yV0ktUlVaTjlpSTZDUjNrWFE5RXZfMmR6SFFiX1d0eTc0Zw?oc=5",
-      "source": "SMH.com.au",
-      "published": "2026-07-20T00:43:52+00:00",
-      "summary": "ASX edges up; oil prices highest in a month as Middle East hostilities escalate&nbsp;&nbsp;SMH.com.au",
-      "key_points": [
-        "ASX edges up; oil prices highest in a month as Middle East hostilities escalate&nbsp;&nbsp;SMH.com.au"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -175,25 +410,6 @@
       ]
     },
     {
-      "title": "Your company has changed. Has artificial intelligence noticed? - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmtQdkJJY3dZbGVMUlFhdVpoX0xlUUY3allsZWRsQjVxZEozYU9maFc4bFk4OEJlaGY5bU0zeEZaRkpGd1A4cG1QaDhFUlFWQnZjVUVGRk9MVklncUw0UXZiMWNnLTd2OEJrNnZuQzlybG1DRUx4M1ZweGJza2k4bkY2UDJMMzV4QzFyMGk1QS1pb0RrSlkzSjFWMWphbkVMdGk0VUlFclB6MnloSDBoZURTNFnSAbQBQVVfeXFMT2JrUHZCSWN3WWxlTFJRYXVaaF9MZVFGN2pZbGVkbEI1cWRKM2FPZmhXOGxZODhCZWhmOW1NM3hGWkZKRndQOHBtUGg4RVJRVkJ2Y1VFRkZPTFZJZ3FMNFF2YjFjZy03djhCazZ2bkM5cmxtQ0VMeDNWcHhic2tpOG5GNlAyTDM1eEMxcjBpNUEtaW9Ea0pZM0oxVjFqYW5FTHRpNFVJRXJQejJ5aEgwaGVEUzRZ?oc=5",
-      "source": "The Times of India",
-      "published": "2026-07-19T15:25:34+00:00",
-      "summary": "Your company has changed. Has artificial intelligence noticed?&nbsp;&nbsp;The Times of India",
-      "key_points": [
-        "Your company has changed.",
-        "Has artificial intelligence noticed?&nbsp;&nbsp;The Times of India"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
       "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
@@ -231,32 +447,14 @@
       ]
     },
     {
-      "title": "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11% - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYm5qemVwNklVS2wwSE1iVTFhcGZ2bHlydHBwd3R5WHRKMGRlVWtlT1VUOGRhT3kzVDE0NVN2WTJDMzBzZGVGYlNFNFlMM000bFhNMDBoeG45cFkzUk80RXV1R2g1VGZ4RG9SMkczVlIwaWE4U1VaSnR0RF9UbmNwV0p3eTV2SE5KQjVLbVMtdWFweHlELWc?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-07-19T14:05:19+00:00",
-      "summary": "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11%&nbsp;&nbsp;GuruFocus",
-      "key_points": [
-        "Apple (AAPL) Raises iPhone Prices in Japan by Up to 11%&nbsp;&nbsp;GuruFocus"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnEtOEZBQnFhaEt2X0RSNWE4NFBZVzZKRUNOMkRpMkNQUGYtalF0WnhMWmZJaFRFZFdvQjJJeGpsX3pCUW5iNHU5Uml4SU9lWmx0bU5BakxweFA2a2Jta285Z1lITEFhcHllMWxGa3FfdF9kUlhHMmd0M1hRdlgxUFBmcjhZcVl6UHZUY1U4MXYwVEp6UHlWLTNDc2dNdw?oc=5",
-      "source": "Yahoo Finance",
+      "title": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkw2TzNEQ0lNUTRIT0J0YUNhN3U3cmlqLTdhdl94cnlUM2xvYXVCaEk1dHRVVnRxVkRLT2tZZHFjTk9ZenlrcHMwaEhzTm9hMm5pVmJkaEdsdE1sT0FYVDJJdS1Gam9sTTR3a1k1V09RMUN4RnpEdWhUUUxqS1lzRTJDN3NRb2JBLUh3WDFvaGxSeldvQ3V5dFhOd0Zhc2VOanh5TXExSGctd05VdWV5SC1XSzFOVkZEekU2blY4ZGZHMHJ5ZUE?oc=5",
+      "source": "Barchart.com",
       "published": "2026-07-19T14:00:02+00:00",
-      "summary": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock.&nbsp;&nbsp;Yahoo Finance",
+      "summary": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock.&nbsp;&nbsp;Barchart.com",
       "key_points": [
         "Apple Intelligence Just Got the Green Light in China.",
-        "What That Means for AAPL Stock.&nbsp;&nbsp;Yahoo Finance"
+        "What That Means for AAPL Stock.&nbsp;&nbsp;Barchart.com"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
@@ -376,18 +574,18 @@
       ]
     },
     {
-      "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-      "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-19T11:30:00+00:00",
-      "summary": "“He is now no longer able to think clearly or communicate his wishes.”",
+      "title": "The Stock Market Is Doing Something Observed Only 3 Times in 155 Years -- 1999, 2022, and 2026 -- and It Offers a Dire Warning for Wall Street - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakVBRHBMS2FCcEgweU43c3NIaGFkYU91b0pLeHZGOXNTQ1lDbmlQeWYwZEhaTFJLd1M3d3RPTzc1T1ljVWtjSkF4dGVQRkZXdGdfbHZSQnVLbzJVWVdWMzZIblhENTNDN1RLVlRheHNpUFU3VkxIN2hMeE5FS3NuVUJHZXdPVVRkX3BYclI4MEE4T2VTQzVaRQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-07-19T11:36:00+00:00",
+      "summary": "The Stock Market Is Doing Something Observed Only 3 Times in 155 Years -- 1999, 2022, and 2026 -- and It Offers a Dire Warning for Wall Street&nbsp;&nbsp;The Motley Fool",
       "key_points": [
-        "“He is now no longer able to think clearly or communicate his wishes.”"
+        "The Stock Market Is Doing Something Observed Only 3 Times in 155 Years -- 1999, 2022, and 2026 -- and It Offers a Dire Warning for Wall Street&nbsp;&nbsp;The Motley Fool"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -440,46 +638,9 @@
         "Apple (AAPL) Names John Ternus CEO As Tim Cook Steps Down&nbsp;&nbsp;simplywall.st"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-19T09:20:00+00:00",
-      "summary": "“I’m wondering whether I should ask to work with someone closer to our generation.”",
-      "key_points": [
-        "“I’m wondering whether I should ask to work with someone closer to our generation.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500. Here's Why the Stock Isn't Tanking. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNblp5ZUhGMTRLWU1WZFBITWxxRmF1eFd1cHlCRWVCQnpCQjV6bjZ0eExiVnhkak1FdTJhY0xTZEU5MFkyTWtqeE9DQ2JzZkplNTJqOGM2eDQ5LXo2NXV0cEVQeEg2TWxVU3ppbVZxRlFmOFFhMHM0RFdOaE52ZEx2Y3kwWkNVbmNmbkxCN2VXckVhZ2lwMnQxbQ?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-19T09:00:00+00:00",
-      "summary": "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500. Here's Why the Stock Isn't Tanking.&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "Conagra Brands Slashes Its 10% Dividend Yield in Half Just 1 Month After Getting Kicked Out of the S&P 500.",
-        "Here's Why the Stock Isn't Tanking.&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -495,7 +656,7 @@
         "Pocket-size AI: Powerful phones star at China show&nbsp;&nbsp;Tech Xplore"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -513,7 +674,7 @@
         "Apple (AAPL) Surpasses Nvidia in Market Value Amid AI Investment Caution&nbsp;&nbsp;GuruFocus"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Apple / AAPL"
       ],
@@ -531,7 +692,7 @@
         "China Launches World's Largest Open AI Model To Rival US Tech Giants&nbsp;&nbsp;NDTV"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -612,96 +773,6 @@
       ]
     },
     {
-      "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGpVblc3X1RaN21ldURkQWxXUXRDbTZOUDc4R05GZEN3bVZEVTh2UjFsMGFnQWZQWkFubHBKUDNLN1dhY0xuMDFQQm4wbWdYcDZPV2lrbzF3Qy1wMVZSaGJNTFVsYndGcVVIaFV6UERTNVFDb3dKV3d3VXRBaFA4cnBSRUx3NVFQSjU4dVRn?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-18T21:45:00+00:00",
-      "summary": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-      "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-18T19:16:00+00:00",
-      "summary": "“I met with a financial representative who was not aware that AT&T was the shortened form of American Telephone and Telegraph.”",
-      "key_points": [
-        "“I met with a financial representative who was not aware that AT&T was the shortened form of American Telephone and Telegraph.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-18T19:00:00+00:00",
-      "summary": "“I’ve just been ignoring their attempts.”",
-      "key_points": [
-        "“I’ve just been ignoring their attempts.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGxwckVsWmdFNEt1ZTBtOU1tbmxCajFtQjlNQ3VKTzFJNnRZblBIcjBfSlpmVnEzSHF0UmtBY1phQndWU1prdldHRzRnTmpvUHpMUXZuOGVfTm94ekc1ZllKek9Ib1p4YXlwZXpkNEtadVpBZkdBOUh1NDRSSGt4RGVaem5MZTFpSWozYTNOaXNFZzlEOGpGOEZBOA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-18T18:50:00+00:00",
-      "summary": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "2 Vanguard ETFs Using Momentum to Outpace the S&P 500&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "A massive margin call and 'push-button liquidity' torched stocks, but they're poised to rebound - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ09iZk5rRi1COHhyWWpwX09RMDQxVGVacWk4b0k5V0N6TGk3T1ZKaVlEeGtNRm14Y2FENEpZUTZULXpLYUtTRlc2YW9Uelg2c2NJTlpTTWQ3MzNHUzlCaVpvbU12bk53VDEtc1BlM1Z2OHh1OFQxbzI0d0hrYkZ3d2M2WFpDLUJxOFctblB1V2RxNjdQN2JhZw?oc=5",
-      "source": "Fortune",
-      "published": "2026-07-18T17:21:00+00:00",
-      "summary": "A massive margin call and 'push-button liquidity' torched stocks, but they're poised to rebound&nbsp;&nbsp;Fortune",
-      "key_points": [
-        "A massive margin call and 'push-button liquidity' torched stocks, but they're poised to rebound&nbsp;&nbsp;Fortune"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "At 63, He Wants to Take a Big Career Leap. The FedEx CEO's 'Just Say Yes' Story Shows Why the Smarter Bet May Be Social Security. - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQa2tYZlQ5V3huLVppSHR5VFZBQ0lsUTdnZktyYkNIcTJ1Z2NaT0wzSUw1MHd5RVZVUDNsYjB0WHhPTkpUTlIza1RWN3lZY2xzZF9xbU55YUpMMXc0bGt6RDB2VlBnMUs3RGlzVC15UlIwY1dWMHM0TjBtWkxVM1BlWkllZFJkUFhnaHhQd1hQcy12MW1WMVMtZlZSMDkyVTBVX0p2bUtUaGtDSGRwRHRiWHF5U1lORDlVWUhMcFVvWE9GemZEZ1BWUkkwTUg4SjFTazh3N2FtRERod21Ca1RhU2RpN3pKM0p0N041U2ZPUGdkSFBZU2x5VF9TVGlES0tqWmt2TGM4TVVRQl90YVJPa3JkYXBIQlREYXc?oc=5",
       "source": "24/7 Wall St.",
@@ -721,24 +792,6 @@
       ]
     },
     {
-      "title": "The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSm83d2N5ZGhqNHl0XzhJU3EtUHhXSmdaYUhSSXVQWWpXbk9KUzNYci1QY050Z0h1R25qYURzcUVNbzN4SU9lb2x4cUJXSHlfYUZtbEdFbzlsSTVSQkphRTlLS1k3cUw3M3hPbXVsa2hWRi0xdXllaTJKZ2NOZmpIRU1DajFNUGNEQVdBMTJWOU41eDdh?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-18T14:21:32+00:00",
-      "summary": "The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Apple Stock Forecast: Apple Posted $111.2B Revenue, So Why Did AAPL Fall After WWDC? - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXV4XzlFSkVPUTRmVEdHSWd2UW0zQlVWMTc1a3JPRHU0eFZqMkxjcTBZS3NtekYwcUxYb0hjTG5PWDZRVjNnWVUzY2pqSVlEMEtCUTBBMmtBU18wUGQ3UnMtTkFsMDBPYy1ueUxmZFhMdWRyenJiV21XUS1XS09zaWI3cktiXzl1N3RPbFJNdElfeTZPQ0s5WUhIUmtUX3VJYVNBV1ZiRXhoc2YwbjRrdXRyeS1wMUFDU1FPM1FiaHF3SGw2MWt0NE9YM21zM0pJWV9rTjJ3aUtNMENwMTBqZnJnQ243eUk0R3c?oc=5",
       "source": "TradingKey",
@@ -751,42 +804,6 @@
       "importance": "Low",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "The S&P 500 is breaking the earnings playbook: Chart of the Day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3VrT2hlM2pUVEZsdnhUcHJfN2h3TzBWNlkyUW10UDhKNWFrMTJQY01iNE9zSHBZdDBxSGdQT00tUHNGUFZ5VFZFX3FjZEdoWDdFS2lTSGZodk9aNG9oVTlUdTVXcS1WOUEwRGpHN1hHYUs1RFJUeFhnbndVMFQ1dTB2QkgzdlhqaWRCWmkxeGhWamZhN3RXeEpkV09KYUMwMy0xTFEyY0hIYmV6U01uZVM2dk1STTdnVGc?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-18T11:56:02+00:00",
-      "summary": "The S&P 500 is breaking the earnings playbook: Chart of the Day&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "The S&P 500 is breaking the earnings playbook: Chart of the Day&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "These are the most oversold stocks after a rough week on Wall Street - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHZyNHdCTmY4d2lWV0lsU0h1TzVwTG05VW9Pd01pTTBLTkk2X1FsQXRRQ0h6SExFLTduUGRhejA2Vklod3VzeEc3THY5Rkg5ejZLS29RcDdxclJaM3Q1UEU3WUhVQTJWa2ZHRTlWd3plcThTV0c3eVRCd2R4RjdkYXF6ZG5FcGZnTFpjRkt2OVpJTVV2Wk5EajhhZm9UYmlIMDZ5TVQxNW8?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-18T11:16:26+00:00",
-      "summary": "These are the most oversold stocks after a rough week on Wall Street&nbsp;&nbsp;CNBC",
-      "key_points": [
-        "These are the most oversold stocks after a rough week on Wall Street&nbsp;&nbsp;CNBC"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -848,24 +865,6 @@
       ]
     },
     {
-      "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT - Tech Xplore",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS285bENyek5TdXFLSkNoSmpjdkRrRnFaUHRhTUltNnotZzZHVGlOVkxzbC1UMDB1VnB0YlZXZThlRXpMSk45MHNsMzRFT1ZTYkNRVmd5R0NJMldhSnNNSVB1Tl81MDV1V3NnNDhObERIamZfbVAtcUlldnBJR2VQSQ?oc=5",
-      "source": "Tech Xplore",
-      "published": "2026-07-18T08:06:24+00:00",
-      "summary": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT&nbsp;&nbsp;Tech Xplore",
-      "key_points": [
-        "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT&nbsp;&nbsp;Tech Xplore"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years — HSBC Sees Another 10% Upside - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc0dhWjJ6Nms4ZGtCbVloQ19IYVowckJJWXBFb2Q4b1Fwa0ZBLWZMcllIVGl5ekdUa0tSdE9kQUVicnVlS1EzdEhtek1MZ2hraTlNNDl6VlRzcGZ4ZWpqT1RMc09neXhsaDRtU21Ra2xwWl9ZM1N6bE1EUXBScDB0Wk12TVJleVllazBTWm5TVUF4NEYwbFNhbWhhUVFLeE5kSGFfR2laTGxoeTZPNzl2ay1aNENhZzJzQjJhVjRjQXpfNzJRalMzOTY5VnFrblY3cGJOYTM4LTNlTFIxcm1pNHQwOW9XTTZ0bVRBNzBTSk5iRUlrSUI0NVRZVmFxdw?oc=5",
       "source": "Stocktwits",
@@ -899,24 +898,6 @@
       ],
       "sections": [
         "Projects"
-      ]
-    },
-    {
-      "title": "Apple (AAPL) Faces Mixed Market Sentiment Ahead of Earnings Repo - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmZYMkNQNHJ2djFtQlZHcjU2QUJVVE1HNlJSU0N4WUQyQkVBZG5jdW5OLXVVRFNFYXlvcnBKZ25jUjd4Z2M4eGJDZ2ZsWTl5SmctamZPWm9UeUMtZVhlSjhiYlJ6LUlSOEJRbHRfLU5FeUNDcWM5Rk9TMEFPWm5HWTEwaTlZcjF6UHlxWDd4TGJDVldHTk9EZ1ZpaTdkVHBCbElnODM2MUdwam1ETWFHLU1TYVRyUQ?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-07-18T02:12:37+00:00",
-      "summary": "Apple (AAPL) Faces Mixed Market Sentiment Ahead of Earnings Repo&nbsp;&nbsp;GuruFocus",
-      "key_points": [
-        "Apple (AAPL) Faces Mixed Market Sentiment Ahead of Earnings Repo&nbsp;&nbsp;GuruFocus"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -1011,13 +992,14 @@
       ]
     },
     {
-      "title": "Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVRySWxsVG5jQS1Jb2RQQzhTb1dyNWpwbEp5QUdhREowOU5LTmRIM2VuZE40MEtwN2lkakFxR2w4MTdmNTJOTEZza2xSX2tCSThsVEM3aTFqak9nV0Y3X0phU0c0eWlFbWZQeUZBckw1X1pTWGpxUm5fU2xqYWs0Rmk3cTFpY0ZNVm9hUFRkUngzTkI3RUx0anR4MTlBOFpvaWpBV0NGeG00RGlCejQxWjhqUE15YzA?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-07-17T18:42:58+00:00",
-      "summary": "Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income&nbsp;&nbsp;24/7 Wall St.",
+      "title": "China's Xi calls for more global efforts to guide AI, chides U.S. for its curbs on tech sharing - PBS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNk9zcVVrbEl4YW9xYlZ1RzNwN2VlTUtrMUx5THhLOE1LNDQ3bHZURWZ4anh0U1NzZHotVXllZkgyNUc2bGVtb19jdkl3bDhIdVNKVEoxRjFiUWtRX25jMDZyQXNkbW9RZHh1bDhZQ0F2bGFFTmhMQmoyZTNPWHFHcXRuMkRJcVp2d21KWHAtWGstc0pFTndZa1FjMG9fcFpGSy1GVGxPUmJkeGFCLWM5N1dnTmo5STJSTTE4OFRtYlZzOG830gHKAUFVX3lxTE5UZ3pUOUlVWjZXNExmQ0M2SEhOZXVVLXdqaUtsT0k3bGNCc1pCSEI5aE5ZMXZURHY4NmdVT0FqM3BiQy1Wc09FNFZxUkNyTVFEZkpmejRwelY4Smw2U3JTS0RkVXRTalg0aTJMd3l5eV9Qakt2T3N0VHZaTHlxY01RLXZRQ0t0UUdaOWoyXzRpSWhORGFnbUE1b0Y4MWFyQTdWTXhtb3pWY21kcHVYenUzZHJCeU5IMFlVMU9vLVh2RmRFckFTM2VNUHc?oc=5",
+      "source": "PBS",
+      "published": "2026-07-17T17:07:29+00:00",
+      "summary": "China's Xi calls for more global efforts to guide AI, chides U.S. for its curbs on tech sharing&nbsp;&nbsp;PBS",
       "key_points": [
-        "Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income&nbsp;&nbsp;24/7 Wall St."
+        "China's Xi calls for more global efforts to guide AI, chides U.S.",
+        "for its curbs on tech sharing&nbsp;&nbsp;PBS"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1083,6 +1065,25 @@
       ]
     },
     {
+      "title": "A.I. Is Running on Borrowed Money - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckFkRlhlWjFRTTRweHNMZjc0d2RWR01wcWF5dUVEMmc4aDNuSHdRWTBmclhmRTJlSTdCNEJxc3VtVWlWNUhwN1VORWFUYnBfZXZacklFWHJLUmFQX3FMX1VJUmtoTGNMRzdFZjhWNDdwcVYxWUlXMFlzU0dmYlh5V3g5YlctOW8?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-17T12:55:24+00:00",
+      "summary": "A.I. Is Running on Borrowed Money&nbsp;&nbsp;The New York Times",
+      "key_points": [
+        "A.I.",
+        "Is Running on Borrowed Money&nbsp;&nbsp;The New York Times"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
       "link": "https://www.cnbc.com/2026/07/17/great-wealth-transfer-estimates.html",
       "source": "Business News",
@@ -1108,6 +1109,24 @@
       "summary": "Malaysia’s Economy Grew Faster Than Forecasted in 2Q, Inflation Lowered&nbsp;&nbsp;TRP | The Rakyat Post",
       "key_points": [
         "Malaysia’s Economy Grew Faster Than Forecasted in 2Q, Inflation Lowered&nbsp;&nbsp;TRP | The Rakyat Post"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Malaysia’s growth unexpectedly surges to 5.8% on exports - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWpPOHhMQzUydXpfbzF1elZlLXR1aTltX1A1Vnp4X0tiNlllNjJEaGlTMzdmeWljMHhZbVNFVVFVaDF3MHBka2xmcTBGbDJNdWVfbmlydHMyZHBOMnNpQ1FXU0RIbnJ6TV9TN3JhNURGcjEydXF2R1VDM2xlVEx4eERsc1BYUy1ac2RNUHhXZ0VDNTFiM0dPZ3R2cXZETWI2Tnc?oc=5",
+      "source": "The Straits Times",
+      "published": "2026-07-17T06:03:53+00:00",
+      "summary": "Malaysia’s growth unexpectedly surges to 5.8% on exports&nbsp;&nbsp;The Straits Times",
+      "key_points": [
+        "Malaysia’s growth unexpectedly surges to 5.8% on exports&nbsp;&nbsp;The Straits Times"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1373,24 +1392,6 @@
       ]
     },
     {
-      "title": "Malaysia's Q2 GDP growth expected to moderate: economists - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmdqWV9WRHlZX2I5Y0U4VlFGdjBMM09LVW9rVE5neHZ5ZFhoaHItY0ktR29LVUdHbzg3SktSX2FqekpMT18tUkJUOE1pcC1Qc0ZnRDY1N0NmYlU2bzJRdVgyNWlrZWhrTjRQSmdkOWs3c3d3RXpBenNlLXNSbllvcFhVQjg1c09WZEVaNmprcUpMc1VTTE0tUHlsYUlBd0ZweXRiVUVVM1FYXzdk0gGyAUFVX3lxTFBuclN0akU3WVdVQm9sbHZUeTBZQmtjSzYxdzNvemlOQ3hZYXpHYWNIWEVjdlhrVng0UzFLR0Z5Y1lxQUZfeG0tdFJxcDU2SGlLc2I3WV9RcmNhWWtRcGRsMWFpQ29yLUxCQ0lKQkVzSzRHVjVjS183cWloZzEyU0JjLUNCaEpmWlJqeHc5bHdRWlpaZlQ5c1BBMkcyTE9udjQ4c3BxejA5X0U3WnBEa3U5Q2c?oc=5",
-      "source": "NST Online",
-      "published": "2026-07-15T05:14:23+00:00",
-      "summary": "Malaysia's Q2 GDP growth expected to moderate: economists&nbsp;&nbsp;NST Online",
-      "key_points": [
-        "Malaysia's Q2 GDP growth expected to moderate: economists&nbsp;&nbsp;NST Online"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "'Finance is a trust business': Why the human element still counts - NZ Herald",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNU00ekdNYjJZckpOYWI1R01EYnhsaWhEdnJXVVJRYmMwbElJUUxsWVBWak9GbGtGQk5uNVU3d29KRDlzOU5OTHZvWTMxZzVNWTVnblFzNjVOd0J3UXRGU1VITkowcHAwRWFmeW51cmJGOHhXZUZPZ2pzQmdWZWRFdVVad2hoYUE4Nk9QMmpGLWE4MEl2SDVDSWNZdnpYR1B3VzZQMmF0MThkZnBYSV9ZSF9qWjZUVFZWODNRMU5oa25Lbmo5azdBak9Hb013R2s2eGstOE81Ymp0QUdDWG1hMy1SYkY3UHRmZnVVTG5vLXRKS0R0WmowSTJwWjBHXzRzbjNjaVdGRkNCZE0w?oc=5",
       "source": "NZ Herald",
@@ -1507,42 +1508,6 @@
       "summary": "Bursa closes higher on rebound in financial stocks&nbsp;&nbsp;Free Malaysia Today",
       "key_points": [
         "Bursa closes higher on rebound in financial stocks&nbsp;&nbsp;Free Malaysia Today"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor - The Star",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjViSlpkckpoOEpuaVJkc0kzTHlucWM5NGdmVENyXzJsVzRuR3FFNmpVQjd5MzdmeUkxTW94MktCM3I2UnhIX25DZmZOYU50NThSbl82bVE0T25kSE0tdWFBNi1KX0QxX3pYclNPTXFMSElfTXBEdHdiYzVpc1dDdlJUWENCSC05UnR4dVVPZS1QRVp5XzdPb0ZnRXltRDg1alYxcGFScVluOWN2VXFQQkdId3FqNE84Z1Z1S09PNGZqWXpQSEtGSA?oc=5",
-      "source": "The Star",
-      "published": "2026-07-10T07:00:00+00:00",
-      "summary": "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor&nbsp;&nbsp;The Star",
-      "key_points": [
-        "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor&nbsp;&nbsp;The Star"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3FteUcxSlJVU3p0ZEdxNllfUERzNlJXU3hDMXlwNnduV3hvbE9BR2ZJZGRBRHNMN0psaTFVclYwYm8yc1dDTzhuWV9qLWJ3Z0VlX0dMMXg0RzN2SWVNOVJRcXFQVkxHTUNZOUN2bW1JMzlRbmxmVVR3QTQwRVFlbWJycmw5UW1IUFlIdDN3VE84djVlSU9IdFhrdHdDbTBpRFBIVnplT2ZpcVlEMk43MlhXOE4?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-07-10T03:55:01+00:00",
-      "summary": "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor&nbsp;&nbsp;KLSE Screener",
-      "key_points": [
-        "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor&nbsp;&nbsp;KLSE Screener"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
