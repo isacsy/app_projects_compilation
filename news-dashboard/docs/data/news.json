@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:59:30.397669+00:00",
+  "generated_at": "2026-07-20T03:50:31.443005+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,22 +8,131 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: ASX eyes uncertain start, Wall Street hit by AI slump - SMH.com.au (Finance) | Can the ‘Magnificent Seven’ save a stock market that might be doomed without them? (Finance) | S&P 500 Index outlook: top catalysts for US stocks this week - Invezz (Finance) | Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid? (Finance) | Your company has changed. Has artificial intelligence noticed? - The Times of India (Technology)",
-  "count": 87,
+  "daily_brief": "Top stories right now: Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies (Finance) | Stock market closes lower as chip stocks slide; S&P 500 falls 1% - eciks.org (Finance) | Apple (AAPL) Surpasses Nvidia (NVDA) in Market Value Before Losses - GuruFocus (Finance) | Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus - Stocktwits (Finance) | ASX edges up; oil prices highest in a month as Middle East hostilities escalate - SMH.com.au (Finance)",
+  "count": 85,
   "items": [
     {
-      "title": "ASX eyes uncertain start, Wall Street hit by AI slump - SMH.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZ6M3NjZThDd3k2YlcwZ05aSnZ6R3pEeFQwa1JzaGF2eFpyQ3ZkNDI5X3FFbDBwU2hRNm9VcVNCbE1BQ1dmOHVrS2dDXzQwT0ppM1VwcXJIeG9FbzJrN0VBM29uQTZoanZvVXV1aVcxTVpwRkhjVVZ2MUd5VGNMRmRldlhWSjFMNHAzYmg5SW4yV0ktUlVaTjlpSTZDUjNrWFE5RXZfMmR6SFFiX1d0eTc0Zw?oc=5",
-      "source": "SMH.com.au",
-      "published": "2026-07-19T19:22:43+00:00",
-      "summary": "ASX eyes uncertain start, Wall Street hit by AI slump&nbsp;&nbsp;SMH.com.au",
+      "title": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies",
+      "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-20T03:02:00+00:00",
+      "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
       "key_points": [
-        "ASX eyes uncertain start, Wall Street hit by AI slump&nbsp;&nbsp;SMH.com.au"
+        "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock market closes lower as chip stocks slide; S&P 500 falls 1% - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EVS0wM3BRSEY3UG1XLUlNR2dSaUoyRUJlN19QV1hMckJCZVhnZG1hX2tZakdtQ2wzUE1rNGZTazdoWmFxLVFVQ3NtWDZIR0wzNlRlUVUwendINEZ0OE5FYy1XM0JnNmxxdG9VNjFwUlo?oc=5",
+      "source": "eciks.org",
+      "published": "2026-07-20T02:49:15+00:00",
+      "summary": "Stock market closes lower as chip stocks slide; S&P 500 falls 1%&nbsp;&nbsp;eciks.org",
+      "key_points": [
+        "Stock market closes lower as chip stocks slide; S&P 500 falls 1%&nbsp;&nbsp;eciks.org"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
         "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple (AAPL) Surpasses Nvidia (NVDA) in Market Value Before Losses - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWhleUNUWTRDZExqNk5RQXFYVTI0S2J3M3B3dFNSSmczZ1Aya2FnTDhSbmJ1Q29aQ2VZQmRBU29iZUJvSXo0WG8wNkhXc2J2Vl9qN0ZmT1pTMTRFUlN6WHozU3F3VEpWamc1eWNmLURUajMzM0JTck8wT3l0NmJyZzVtbTMwbS1pWWtnMG93WXd6akFjSlZuUzQ1VWsta2tfUWEw?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-07-20T02:03:58+00:00",
+      "summary": "Apple (AAPL) Surpasses Nvidia (NVDA) in Market Value Before Losses&nbsp;&nbsp;GuruFocus",
+      "key_points": [
+        "Apple (AAPL) Surpasses Nvidia (NVDA) in Market Value Before Losses&nbsp;&nbsp;GuruFocus"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZFc1TGx0T3E3aG5NcUZaaEh5d1p6eF85cVdQS1lib3h1dWhtQjZ4dzNMZGtaVUNMNWtGMUkxSWlMQ1JBTUtZbDFpeFNadEhsdjdadXhuaHplZUFBUExoV3BTanFKQmZTUXpGTHN3X05QRmVxZ3p1ODA2RzNodXRYS3dYd2tBb0hpYXZObVlEYWRjRVp5MlBlbGRPTmprWEdDbC1rUEJrSDhTbENsa19CYlVPcXJVSVNSTS1GNFRmYzBCS1d4V3VlNWdKUkVJZFR5YVhrYVBHX1UwMFQ0RThaTnBzakpuRXBsSkF2TFIzWFJCLUtJRmo5OU12bllQZjVI?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-07-20T01:37:26+00:00",
+      "summary": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus&nbsp;&nbsp;Stocktwits",
+      "key_points": [
+        "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus&nbsp;&nbsp;Stocktwits"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "ASX edges up; oil prices highest in a month as Middle East hostilities escalate - SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZ6M3NjZThDd3k2YlcwZ05aSnZ6R3pEeFQwa1JzaGF2eFpyQ3ZkNDI5X3FFbDBwU2hRNm9VcVNCbE1BQ1dmOHVrS2dDXzQwT0ppM1VwcXJIeG9FbzJrN0VBM29uQTZoanZvVXV1aVcxTVpwRkhjVVZ2MUd5VGNMRmRldlhWSjFMNHAzYmg5SW4yV0ktUlVaTjlpSTZDUjNrWFE5RXZfMmR6SFFiX1d0eTc0Zw?oc=5",
+      "source": "SMH.com.au",
+      "published": "2026-07-20T00:43:52+00:00",
+      "summary": "ASX edges up; oil prices highest in a month as Middle East hostilities escalate&nbsp;&nbsp;SMH.com.au",
+      "key_points": [
+        "ASX edges up; oil prices highest in a month as Middle East hostilities escalate&nbsp;&nbsp;SMH.com.au"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbjM3Y21RZDduaDhMc1F5bF91bnBkMGx1akJaeldmUTVVRE5MNlZocmxmajFhV2QzaVh6dTRwV0s4SFFHY0NTQWtnVi1RYzZfSm51M3MwNGttZWx4MTNEcXhna3RsekZrM1FIWnJoaFVEUFdReV9XM21GVXV2QWFvbXlGXzRJTWgyc255akFaS3Z4Mm1EZjRaWkJlNWdzdExIZlRNNUkwR2pJXy1kZmY4eWhsOUtDTFZNQV9GV2g1ZV9QSEJTUWZGR0xDVjZOeFRQakp1TjFBWW9vUlZPN01YZTI3b0NJcVRyeWZv0gHwAUFVX3lxTE00UkhzME9oSXQ1MkU5eTdsc0dVYzFkQXFxZDczWnA2Y2s5NE9lbEFpRExIby1fS0ZtM0Z6QWVoenZCWk0wWVR5T29WbjB4UWYyVXZrNUxIa1FPUlhGcmJUUC1ESEpkck9EU2QtSEZuLVlJZHo5djI0UVR6OUNWb0RrTkladk80RnNkckpNQ0s4bFlrcWF6S3pkeTRNNDJZeTVSQnFTb1lxTWZNanQ2VHVMQmJKSm1VbzJYRTRIM2ZEQllXVW9ybVA4Y3ZUNTh2eVd3RUhNZUhUVkhqcFdjTTI0eENMSFlzNEZrWmlReWlZVQ?oc=5",
+      "source": "Moneycontrol.com",
+      "published": "2026-07-19T22:30:19+00:00",
+      "summary": "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com",
+      "key_points": [
+        "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+      "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-19T22:29:00+00:00",
+      "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+      "key_points": [
+        "“It doesn’t make a difference who wins the game.",
+        "The IRS will get a piece.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
       ],
       "sections": [
         "Finance"
@@ -42,24 +151,6 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500 Index outlook: top catalysts for US stocks this week - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEMyVjJBc0RUYTdYazBkcW9kZGdnUUt0Z19OaHFvS1JlOFh5aDhMV0NvM3ZyN3ZaMFJQbWoySklwSS0tS2xQazNUVnRZS3FTQ216Ti1idkVYUUFtTHYwQ01NYmJjUWJZX3BKNFEzcWI3cGVYYl82ek15Y1dNMkpTLUtkS3ctbzQ1U3o1T0hWa01iWXF4bGpHWDR3?oc=5",
-      "source": "Invezz",
-      "published": "2026-07-19T17:02:31+00:00",
-      "summary": "S&P 500 Index outlook: top catalysts for US stocks this week&nbsp;&nbsp;Invezz",
-      "key_points": [
-        "S&P 500 Index outlook: top catalysts for US stocks this week&nbsp;&nbsp;Invezz"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -137,24 +228,6 @@
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnEyeFJHNVVJV2lrMnZWV0c5aGRvRXpSRTZDanZSWjc5TmNQci15bmEwdGpaS01MOXdOUF9hdzBnLVRSRDZ2YUZIRGZZWWl4QXBDTVJwSFkxbGR1ejY4ZnpDTXRteG51b1VUbnhuVU51M3M3TWhyN2h1NHdZejV4MTBOeVhKMnk0SW0zbUtwSW1PSEdDb3Fj?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-19T14:06:00+00:00",
-      "summary": "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "Fed Chair Kevin Warsh Just Hammered Home the 2 Words That'll Define His Tenure as Head of the Central Bank -- and They're Worrisome for Wall Street&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -476,7 +549,7 @@
         "Weekly Career & Finance Horoscope, July 20 to July 26, 2026 | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Finance Degrees & Careers"
       ],
@@ -494,30 +567,12 @@
         "Why Did AAPL, ATAI, UNH Stocks Jump To 52-Week Highs Today?&nbsp;&nbsp;Stocktwits"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Apple / AAPL"
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "PHOTO GALLERY: Robots, AI and tech innovations on display at the World Artificial Intelligence Conference - Ahram Online",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVk0UzhSSFdwbDRJbGVBY3NsTzlESEl6V081Z0NGZEx5aWZpNTd4MFJBcFhwVVk5X3BERjNMbGpaMUtnY1Qza3Q5OUhSSENaajFmYURpalh5WXQ0ZnVtWDZxY3RpMkROYjBRbXFIci1FbzI1X0x5c3hvZHVGTHU5MnA1UXRlMWhQa2hfRFhESzJyLVdsQVpsVFJkbWZKVEx1NDlXMXBoamd6VE03ckZVZnNOb2p3Ri04R3VPcjhQVG8waWE1Z0RSeHc1MFc?oc=5",
-      "source": "Ahram Online",
-      "published": "2026-07-19T00:23:47+00:00",
-      "summary": "PHOTO GALLERY: Robots, AI and tech innovations on display at the World Artificial Intelligence Conference&nbsp;&nbsp;Ahram Online",
-      "key_points": [
-        "PHOTO GALLERY: Robots, AI and tech innovations on display at the World Artificial Intelligence Conference&nbsp;&nbsp;Ahram Online"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -530,7 +585,7 @@
         "Horoscope Today, July 19, 2026: Check career advice, success, financial gains and fresh opportunity for...&nbsp;&nbsp;Moneycontrol.com"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Finance Degrees & Careers"
       ],
@@ -611,24 +666,6 @@
       ]
     },
     {
-      "title": "Netflix is spending big money on sports. Is the company making the right bets?",
-      "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-18T18:54:00+00:00",
-      "summary": "The streaming service says live programming helps draw in new subscribers, but investors have become disillusioned with Netflix’s broader engagement trends.",
-      "key_points": [
-        "The streaming service says live programming helps draw in new subscribers, but investors have become disillusioned with Netflix’s broader engagement trends."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500 - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGxwckVsWmdFNEt1ZTBtOU1tbmxCajFtQjlNQ3VKTzFJNnRZblBIcjBfSlpmVnEzSHF0UmtBY1phQndWU1prdldHRzRnTmpvUHpMUXZuOGVfTm94ekc1ZllKek9Ib1p4YXlwZXpkNEtadVpBZkdBOUh1NDRSSGt4RGVaem5MZTFpSWozYTNOaXNFZzlEOGpGOEZBOA?oc=5",
       "source": "Yahoo Finance",
@@ -641,24 +678,6 @@
       "importance": "Low",
       "topics": [
         "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
-      "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-18T18:49:00+00:00",
-      "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
-      "key_points": [
-        "Netflix is still a Wall Street favorite — and a target for government regulators"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
       ],
       "sections": [
         "Finance"
@@ -717,24 +736,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Big Tech’s AI Data Center Power Demands Trigger $15B PJM Auction and a Nuclear SMR Boom - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3A3UWpQemhNMnNld0dGaDVJejRUTnkzNm9uenFLaVdYeGNtUVpJZWZwY0JqSl9rVXJ3SGhtaGlONEFfUTJLeUhzamd4YmF2b0xqVWd0YjlReXNYTlpJZGdFcDRwZFJCT3JxYUxKSklqdmVfb3JjeGpVWk4tUV9lbUVDanE0ZFotWkk1dmpneVR0bmRlUC1xcy1YWGQ1RFdGVE5tczhLYjlYdGJOLTdpV1V3TFJuYW10N2JQRU4yT0JtNlhUeHJaMkNPWk02bFNlTV9ITk9HaTdLcVk?oc=5",
-      "source": "TradingKey",
-      "published": "2026-07-18T13:31:05+00:00",
-      "summary": "Big Tech’s AI Data Center Power Demands Trigger $15B PJM Auction and a Nuclear SMR Boom&nbsp;&nbsp;TradingKey",
-      "key_points": [
-        "Big Tech’s AI Data Center Power Demands Trigger $15B PJM Auction and a Nuclear SMR Boom&nbsp;&nbsp;TradingKey"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -865,24 +866,6 @@
       ]
     },
     {
-      "title": "Chinese tech firms join global race to reinvent smartphones for AI era - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmMyYUZNSGY2TVBqTEdIb2lObnBPbjdrTDljdlliNzdidkJjbV9feEdhazhLcTJXc2ptMWFHRWVlNV9ONlJ1UnFiU2tHR0xDdkVnZ3pDUVAtd2tBNVZlbnI3ZGw1X1haVEVCbDV3N2RaQ1ptejkxLUhYck9vTVBseEd1dW04c3F4SV9SYzFxbHZfVTZpQWpoMFN5azV0elk0LW5heXFHVi1YTm1Gb2pxZGpIYjBFc256NG5ieXBZaTZPRnJDYl9pNkUyUTU3RWhnbGNmM0ZoNF9wYTVfMlHSAeMBQVVfeXFMTjJYNEYtMVVnekh0bUt6am9QOG05Z0cxQ0hPTTJEbVN4QUpiV0g4bnlYaS1xejdrb3lGTDdfVTlJSUFQVVRocHp2cmlxVXh1bkpGeXNQMnFEeGRaQmRaaWNCdnBNX3lvMUV6dXdLT3dyWlZhUVlRVWdsOG9jVkZUdC1KTWl1Q3hCYVowdkNTYmtiTWp3R3BJV2c2a1AxYVFObWFPZU9HRmU2bjVyTS15RWV2Sl9hblNNMjRYSnlSNy1rWXo4RUpnSnpYM1ViLVRzaXdzSzNKTzlFTW01LWdYTUdjQzQ?oc=5",
-      "source": "Business Standard",
-      "published": "2026-07-18T07:25:48+00:00",
-      "summary": "Chinese tech firms join global race to reinvent smartphones for AI era&nbsp;&nbsp;Business Standard",
-      "key_points": [
-        "Chinese tech firms join global race to reinvent smartphones for AI era&nbsp;&nbsp;Business Standard"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years — HSBC Sees Another 10% Upside - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNc0dhWjJ6Nms4ZGtCbVloQ19IYVowckJJWXBFb2Q4b1Fwa0ZBLWZMcllIVGl5ekdUa0tSdE9kQUVicnVlS1EzdEhtek1MZ2hraTlNNDl6VlRzcGZ4ZWpqT1RMc09neXhsaDRtU21Ra2xwWl9ZM1N6bE1EUXBScDB0Wk12TVJleVllazBTWm5TVUF4NEYwbFNhbWhhUVFLeE5kSGFfR2laTGxoeTZPNzl2ay1aNENhZzJzQjJhVjRjQXpfNzJRalMzOTY5VnFrblY3cGJOYTM4LTNlTFIxcm1pNHQwOW9XTTZ0bVRBNzBTSk5iRUlrSUI0NVRZVmFxdw?oc=5",
       "source": "Stocktwits",
@@ -920,9 +903,9 @@
     },
     {
       "title": "Apple (AAPL) Faces Mixed Market Sentiment Ahead of Earnings Repo - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbVpWQjhoT0lSeXFrY05rZEVlUkowT3k5LThrMW1DdzdzbG5CczZSMFZ4bG5BRy03TVdoTXV5OER0MEFvQl9DRVVDQVJMTEM0WkhLOFJZdUdDSDVKMEQtLUJCRHQtN3RLN3BlOUJHRXFHYjB4YU92Q2t0SjBTM0EtSWNRZnQxZmRpX3F1WmhSOFlWRzZ2dThwRF9EZ1dRcGhLbzhWd05tRk4yYXNsVlhZcFFLRFhqbWdnUUtiRTJJQkFwelNaZWx0c3NjeWhCN2w4VHVGOERSX3lWY2M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmZYMkNQNHJ2djFtQlZHcjU2QUJVVE1HNlJSU0N4WUQyQkVBZG5jdW5OLXVVRFNFYXlvcnBKZ25jUjd4Z2M4eGJDZ2ZsWTl5SmctamZPWm9UeUMtZVhlSjhiYlJ6LUlSOEJRbHRfLU5FeUNDcWM5Rk9TMEFPWm5HWTEwaTlZcjF6UHlxWDd4TGJDVldHTk9EZ1ZpaTdkVHBCbElnODM2MUdwam1ETWFHLU1TYVRyUQ?oc=5",
       "source": "GuruFocus",
-      "published": "2026-07-18T00:44:10+00:00",
+      "published": "2026-07-18T02:12:37+00:00",
       "summary": "Apple (AAPL) Faces Mixed Market Sentiment Ahead of Earnings Repo&nbsp;&nbsp;GuruFocus",
       "key_points": [
         "Apple (AAPL) Faces Mixed Market Sentiment Ahead of Earnings Repo&nbsp;&nbsp;GuruFocus"
@@ -934,6 +917,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "MLT Aikins technology lawyers discuss Canada’s tech future with Canada’s Minister of Artificial Intelligence and Digital Innovation - MLT Aikins",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQWlFSHNPaVp4cDZQRlpPWnptSWpsZlFzYi1UbkpTa0psekdWZnNHSWNCNDJub3Y2blJEMjFOZVRRLU9Mc3BDZEZUQ1dmV2hoUnVZOEx5dkJCVFFhYktDazBBOXRoWUxmdHkzWEY0QzZCM0FIVVk1enJTQjVfR0ZTTVBWQW5DenFLQlRHV01sN2U1WDllWGJpakpOSEIwZFZkTDI2d0NhU0p4UE1hczNlWWZtWmt3aHQ2Z0Q2dWlOWlJKMVVGTERrZUQ1M2tTMTRHVmYtbTJlaGJOS09tU21RNmRvcXlnWHotVDlqaDl5dDRzMDQ?oc=5",
+      "source": "MLT Aikins",
+      "published": "2026-07-17T22:33:27+00:00",
+      "summary": "MLT Aikins technology lawyers discuss Canada’s tech future with Canada’s Minister of Artificial Intelligence and Digital Innovation&nbsp;&nbsp;MLT Aikins",
+      "key_points": [
+        "MLT Aikins technology lawyers discuss Canada’s tech future with Canada’s Minister of Artificial Intelligence and Digital Innovation&nbsp;&nbsp;MLT Aikins"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -955,21 +956,21 @@
       ]
     },
     {
-      "title": "Apple (AAPL) Engages in Settlement Talks Over Antitrust Case - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RlMEF4YWFOXzVDMDBDUHpnbnVTeGd2blhPa0tXcXBBbG5JWHppVkE4RDFzbm8wcmlRMUd0UnR1U3Bfdzc0WlZBLTlhR1E1dGJNbWU3QzdpQkVnZ05ISXlUajhhRy1DRnRYdjdBM3YtUXNXQUxxanBjcWxxc2Q5THc0TTVSc0NEUjBIUU1wSXNUT0JfS0pIM1ltRk9pQQ?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-07-17T22:05:04+00:00",
-      "summary": "Apple (AAPL) Engages in Settlement Talks Over Antitrust Case&nbsp;&nbsp;GuruFocus",
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-17T20:32:56+00:00",
+      "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift&nbsp;&nbsp;Reuters",
       "key_points": [
-        "Apple (AAPL) Engages in Settlement Talks Over Antitrust Case&nbsp;&nbsp;GuruFocus"
+        "Apple unseats Nvidia to become world's most valuable company as AI bets shift&nbsp;&nbsp;Reuters"
       ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
       "topics": [
-        "Apple / AAPL"
+        "Tech Industry"
       ],
       "sections": [
-        "Finance"
+        "Technology"
       ]
     },
     {
@@ -1007,6 +1008,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVRySWxsVG5jQS1Jb2RQQzhTb1dyNWpwbEp5QUdhREowOU5LTmRIM2VuZE40MEtwN2lkakFxR2w4MTdmNTJOTEZza2xSX2tCSThsVEM3aTFqak9nV0Y3X0phU0c0eWlFbWZQeUZBckw1X1pTWGpxUm5fU2xqYWs0Rmk3cTFpY0ZNVm9hUFRkUngzTkI3RUx0anR4MTlBOFpvaWpBV0NGeG00RGlCejQxWjhqUE15YzA?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-17T18:42:58+00:00",
+      "summary": "Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income&nbsp;&nbsp;24/7 Wall St.",
+      "key_points": [
+        "Meet TMGN, the 0.88% Fee ETF Betting on Tech Giants and Options Income&nbsp;&nbsp;24/7 Wall St."
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -1335,24 +1354,6 @@
       ]
     },
     {
-      "title": "CPD 12 2026: Data-driven decision-making in the built environment – improving performance, profitability and resilience - building.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeUVXaGZ1THVIQ0ZYSDBIb2hDWE03N1RIeGhzbV9HSHNpTk1iZ0p5VmhacGtCWGVqM0RzNXB5Z3VfbEFjYVRLSlpwLWxyMENnV05LOG9qckJmVmtmV3YtXzUtRElMM180dUMtSUM5cTBFOWZuY2xSWGdnMEotNk9FM25fdk8wdHd5VUE2Q2pUWWZ0RDNRbnRCNkl6TGNKR2laRmJ6ckJFV04xNXdRQzB1cVJBSXVmaEtTc3k2VlVteUFiMlotMVd2VXZIQ2pCVW14Z2hCd2VJMEk4OGk0c3Z6U2E0dDU5UjlfdUg2YlVmbkJuTFZN?oc=5",
-      "source": "building.co.uk",
-      "published": "2026-07-15T10:05:50+00:00",
-      "summary": "CPD 12 2026: Data-driven decision-making in the built environment – improving performance, profitability and resilience&nbsp;&nbsp;building.co.uk",
-      "key_points": [
-        "CPD 12 2026: Data-driven decision-making in the built environment – improving performance, profitability and resilience&nbsp;&nbsp;building.co.uk"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
       "title": "What Is Tableau? Features, Use Cases, and More - Coursera",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KbjcxZXQ1RHJJTlEydzJVR1ljS0dkVjMyNmhqMTdWZDJKSVZ6WEJUV295SkNCbFl3YXBvbDJ4LXk5MFNYZW9Zd0Vocl8xcVNlVTJr?oc=5",
       "source": "Coursera",
@@ -1542,42 +1543,6 @@
       "summary": "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor&nbsp;&nbsp;KLSE Screener",
       "key_points": [
         "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor&nbsp;&nbsp;KLSE Screener"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Research firms expect Bank Negara to hold OPR at 2.75pct till year-end - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzliaVJHdmZEN0tSa3ZJYlFsS2hJQkNmc09oNElzZDQ4aEdab1VTS1FrUHlCOXlZUW9XVlVfS1RIc0poOVh1YjJZSDlOTHNNdlhHTGNRWWVUVEJkSnhXU09tUEl3U1VIREpfSXdPV0dNLV9UQm02RVZMLWNBdzI5RlQ2OFBnYXBKLUVDWTlxU2h6Tm1TZU90XzNTeHZTZkxGUmg2dEU1VXRKUVhFQnR1R2NIMWtxc0k0Q3FPUg?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-07-10T02:45:41+00:00",
-      "summary": "Research firms expect Bank Negara to hold OPR at 2.75pct till year-end&nbsp;&nbsp;KLSE Screener",
-      "key_points": [
-        "Research firms expect Bank Negara to hold OPR at 2.75pct till year-end&nbsp;&nbsp;KLSE Screener"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "What to expect on Bursa Malaysia this Friday - Focus Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zb3NSNmR4azRoNDJnUUI5Q205ZzEyR2lQdVQxdm5kVURhVkRxSUxQZU1BUGpyZXJIbVNkVHFXbEJ3OWpBSlBKMEQtNEpXbmxBSGE5TnZQdnFYMW44RkFUTDdmRW9WMTZicDZVbFF0X0k5eFpOeXdLSXU1U3VSVWM?oc=5",
-      "source": "Focus Malaysia",
-      "published": "2026-07-10T01:20:41+00:00",
-      "summary": "What to expect on Bursa Malaysia this Friday&nbsp;&nbsp;Focus Malaysia",
-      "key_points": [
-        "What to expect on Bursa Malaysia this Friday&nbsp;&nbsp;Focus Malaysia"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
