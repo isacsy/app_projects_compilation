@@ -15,6 +15,7 @@ export function useStockHistory(symbol, range) {
     let cancelled = false
     setLoading(true)
     setError(null)
+    setData(null)
     getHistory(symbol, range)
       .then((res) => {
         if (!cancelled) setData(res.points ?? [])

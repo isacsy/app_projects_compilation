@@ -37,8 +37,15 @@ export default function SearchBar({ onSelectSymbol }) {
         setOpen(false)
       }
     }
+    function handleEscape(event) {
+      if (event.key === 'Escape') setOpen(false)
+    }
     document.addEventListener('mousedown', handleClickOutside)
-    return () => document.removeEventListener('mousedown', handleClickOutside)
+    document.addEventListener('keydown', handleEscape)
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside)
+      document.removeEventListener('keydown', handleEscape)
+    }
   }, [])
 
   function handleSelect(symbol) {
@@ -78,9 +85,14 @@ export default function SearchBar({ onSelectSymbol }) {
           />
         </div>
       </form>
-      {open && (results.length > 0 || error) && (
+      {open && !loading && (results.length > 0 || error || query.trim().length > 0) && (
         <div className="absolute z-20 mt-2 w-full overflow-hidden rounded-xl border border-slate-200 bg-white shadow-lg dark:border-slate-700 dark:bg-slate-800">
           {error && <p className="px-3 py-2 text-sm text-red-500">{error}</p>}
+          {!error && results.length === 0 && (
+            <p className="px-3 py-2 text-sm text-slate-500 dark:text-slate-400">
+              No matches for &quot;{query.trim()}&quot;. Press Enter to look it up as a ticker.
+            </p>
+          )}
           {results.map((item) => (
             <button
               key={item.symbol}

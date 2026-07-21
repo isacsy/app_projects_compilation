@@ -1,3 +1,17 @@
+// Best-effort logo lookup. Never throws — a missing/failed logo should not
+// break the quote, the UI falls back to an initials badge.
+async function fetchLogoUrl(symbol, apiKey) {
+  try {
+    const url = `https://api.twelvedata.com/logo?symbol=${encodeURIComponent(symbol)}&apikey=${apiKey}`
+    const response = await fetch(url)
+    const data = await response.json()
+    if (data.status === 'error') return null
+    return data.logo_base || data.logo_quote || data.logo || data.url || null
+  } catch {
+    return null
+  }
+}
+
 export default async function handler(req, res) {
   const { symbol } = req.query
 
@@ -12,11 +26,12 @@ export default async function handler(req, res) {
 
   try {
     const url = `https://api.twelvedata.com/quote?symbol=${encodeURIComponent(symbol)}&apikey=${apiKey}`
-    const response = await fetch(url)
+    const [response, logoUrl] = await Promise.all([fetch(url), fetchLogoUrl(symbol, apiKey)])
     const data = await response.json()
 
     if (data.status === 'error') {
-      return res.status(502).json({ error: data.message || `No data for ${symbol}` })
+      console.error('Twelve Data quote error:', data.message)
+      return res.status(502).json({ error: `No stock found for "${symbol}". Check the ticker and try again.` })
     }
 
     res.setHeader('Cache-Control', 's-maxage=30, stale-while-revalidate=120')
@@ -29,6 +44,7 @@ export default async function handler(req, res) {
       previousClose: Number(data.previous_close),
       timestamp: Number(data.timestamp),
       isMarketOpen: data.is_market_open,
+      logoUrl,
     })
   } catch (err) {
     return res.status(500).json({ error: 'Failed to reach Twelve Data' })
