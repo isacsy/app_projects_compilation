@@ -3,6 +3,7 @@ import { useState } from 'react'
 import { useStockHistory } from '../../hooks/useStockHistory'
 import { useStockQuote } from '../../hooks/useStockQuote'
 import PriceChart from './PriceChart'
+import StockLogo from './StockLogo'
 
 const RANGES = ['1M', '6M', '1Y']
 
@@ -34,9 +35,12 @@ export default function StockDetailCard({ symbol }) {
   return (
     <div className="rounded-2xl bg-gradient-to-br from-indigo-600 to-purple-700 p-6 text-white shadow-lg sm:p-8">
       <div className="flex flex-wrap items-start justify-between gap-4">
-        <div>
-          <p className="text-sm text-indigo-100">{quote?.name ?? symbol}</p>
-          <p className="text-lg font-semibold tracking-tight">{symbol}</p>
+        <div className="flex items-center gap-3">
+          <StockLogo symbol={symbol} logoUrl={quote?.logoUrl} />
+          <div>
+            <p className="text-sm text-indigo-100">{quote?.name ?? symbol}</p>
+            <p className="text-lg font-semibold tracking-tight">{symbol}</p>
+          </div>
         </div>
         <div className="flex gap-1 rounded-xl bg-white/10 p-1">
           {RANGES.map((r) => (
