@@ -1,29 +1,27 @@
-import { useState } from 'react'
-import Sidebar from './components/layout/Sidebar'
-import TopBar from './components/layout/TopBar'
-import StockDetailCard from './components/stock/StockDetailCard'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import Layout from './components/layout/Layout'
+import { AuthProvider } from './context/AuthContext'
 import { ThemeProvider } from './context/ThemeContext'
-
-function DashboardContent() {
-  const [symbol, setSymbol] = useState(null)
-
-  return (
-    <div className="flex min-h-screen bg-slate-50 dark:bg-slate-950">
-      <Sidebar />
-      <div className="flex min-h-screen flex-1 flex-col">
-        <TopBar onSelectSymbol={setSymbol} />
-        <main className="flex-1 p-4 sm:p-8">
-          <StockDetailCard symbol={symbol} />
-        </main>
-      </div>
-    </div>
-  )
-}
+import DashboardPage from './pages/DashboardPage'
+import PortfolioPage from './pages/PortfolioPage'
+import SettingsPage from './pages/SettingsPage'
+import WatchlistPage from './pages/WatchlistPage'
 
 export default function App() {
   return (
     <ThemeProvider>
-      <DashboardContent />
+      <AuthProvider>
+        <BrowserRouter>
+          <Routes>
+            <Route element={<Layout />}>
+              <Route index element={<DashboardPage />} />
+              <Route path="watchlist" element={<WatchlistPage />} />
+              <Route path="portfolio" element={<PortfolioPage />} />
+              <Route path="settings" element={<SettingsPage />} />
+            </Route>
+          </Routes>
+        </BrowserRouter>
+      </AuthProvider>
     </ThemeProvider>
   )
 }

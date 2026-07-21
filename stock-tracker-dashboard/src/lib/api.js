@@ -21,3 +21,8 @@ export function getQuote(symbol) {
 export function getHistory(symbol, range) {
   return fetchJSON(`${BASE}/history?symbol=${encodeURIComponent(symbol)}&range=${range}`)
 }
+
+export function getQuotes(symbols) {
+  if (!symbols?.length) return Promise.resolve({ quotes: {} })
+  return fetchJSON(`${BASE}/quotes?symbols=${encodeURIComponent(symbols.join(','))}`)
+}
