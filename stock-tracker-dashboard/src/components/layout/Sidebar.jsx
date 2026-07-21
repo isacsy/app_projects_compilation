@@ -1,10 +1,11 @@
 import { Briefcase, LayoutDashboard, Settings, Star, TrendingUp } from 'lucide-react'
+import { NavLink } from 'react-router-dom'
 
 const NAV_ITEMS = [
-  { label: 'Dashboard', icon: LayoutDashboard, available: true },
-  { label: 'Watchlist', icon: Star, available: false },
-  { label: 'Portfolio', icon: Briefcase, available: false },
-  { label: 'Settings', icon: Settings, available: false },
+  { label: 'Dashboard', icon: LayoutDashboard, to: '/' },
+  { label: 'Watchlist', icon: Star, to: '/watchlist' },
+  { label: 'Portfolio', icon: Briefcase, to: '/portfolio' },
+  { label: 'Settings', icon: Settings, to: '/settings' },
 ]
 
 export default function Sidebar() {
@@ -17,28 +18,22 @@ export default function Sidebar() {
         <span className="text-lg font-semibold tracking-tight">StockTracker</span>
       </div>
       <nav className="flex flex-1 flex-col gap-1">
-        {NAV_ITEMS.map(({ label, icon: Icon, available }) => (
-          <button
+        {NAV_ITEMS.map(({ label, icon: Icon, to }) => (
+          <NavLink
             key={label}
-            type="button"
-            disabled={!available}
-            title={available ? undefined : `${label} arrives in Phase 2`}
-            className={`flex items-center justify-between rounded-xl px-3 py-2.5 text-sm font-medium transition ${
-              available
-                ? 'bg-gradient-to-r from-indigo-600 to-purple-600 text-white shadow-sm'
-                : 'cursor-not-allowed text-slate-400 dark:text-slate-600'
-            }`}
+            to={to}
+            end={to === '/'}
+            className={({ isActive }) =>
+              `flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium transition ${
+                isActive
+                  ? 'bg-gradient-to-r from-indigo-600 to-purple-600 text-white shadow-sm'
+                  : 'text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800'
+              }`
+            }
           >
-            <span className="flex items-center gap-3">
-              <Icon className="h-4 w-4" />
-              {label}
-            </span>
-            {!available && (
-              <span className="rounded-full bg-slate-100 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-slate-400 dark:bg-slate-800 dark:text-slate-500">
-                Soon
-              </span>
-            )}
-          </button>
+            <Icon className="h-4 w-4" />
+            {label}
+          </NavLink>
         ))}
       </nav>
     </aside>
