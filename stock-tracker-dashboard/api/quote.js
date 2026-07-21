@@ -16,7 +16,8 @@ export default async function handler(req, res) {
     const data = await response.json()
 
     if (data.status === 'error') {
-      return res.status(502).json({ error: data.message || `No data for ${symbol}` })
+      console.error('Twelve Data quote error:', data.message)
+      return res.status(502).json({ error: `No stock found for "${symbol}". Check the ticker and try again.` })
     }
 
     res.setHeader('Cache-Control', 's-maxage=30, stale-while-revalidate=120')

@@ -27,7 +27,8 @@ export default async function handler(req, res) {
     const data = await response.json()
 
     if (data.status === 'error') {
-      return res.status(502).json({ error: data.message || `No history for ${symbol}` })
+      console.error('Twelve Data history error:', data.message)
+      return res.status(502).json({ error: `No chart data found for "${symbol}".` })
     }
 
     const points = (data.values ?? [])

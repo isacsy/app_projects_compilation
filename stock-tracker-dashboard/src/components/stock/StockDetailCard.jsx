@@ -24,7 +24,7 @@ export default function StockDetailCard({ symbol }) {
   if (quoteError) {
     return (
       <div className="rounded-2xl border border-red-200 bg-red-50 p-6 text-sm text-red-600 dark:border-red-900 dark:bg-red-950 dark:text-red-400">
-        Couldn&apos;t load {symbol}: {quoteError}
+        {quoteError}
       </div>
     )
   }
