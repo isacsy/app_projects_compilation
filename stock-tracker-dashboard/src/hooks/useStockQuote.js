@@ -15,6 +15,7 @@ export function useStockQuote(symbol) {
     let cancelled = false
     setLoading(true)
     setError(null)
+    setData(null)
     getQuote(symbol)
       .then((res) => {
         if (!cancelled) setData(res)
