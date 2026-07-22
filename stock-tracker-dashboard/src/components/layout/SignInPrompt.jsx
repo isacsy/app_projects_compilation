@@ -1,7 +1,7 @@
 import { useAuth } from '../../context/AuthContext'
 
 export default function SignInPrompt({ message }) {
-  const { signInWithGoogle } = useAuth()
+  const { authError, signInWithGoogle } = useAuth()
 
   return (
     <div className="flex min-h-[320px] flex-col items-center justify-center gap-4 rounded-2xl border border-dashed border-slate-300 bg-white p-8 text-center dark:border-slate-700 dark:bg-slate-900">
@@ -13,6 +13,7 @@ export default function SignInPrompt({ message }) {
       >
         Sign in with Google
       </button>
+      {authError && <p className="max-w-xs text-xs text-red-500">{authError}</p>}
     </div>
   )
 }

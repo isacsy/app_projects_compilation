@@ -3,9 +3,8 @@ import { useEffect, useRef, useState } from 'react'
 import { useAuth } from '../../context/AuthContext'
 
 export default function AuthButton() {
-  const { user, loading, signInWithGoogle, signOutUser } = useAuth()
+  const { user, loading, authError, signInWithGoogle, signOutUser } = useAuth()
   const [open, setOpen] = useState(false)
-  const [error, setError] = useState(null)
   const containerRef = useRef(null)
 
   useEffect(() => {
@@ -18,15 +17,6 @@ export default function AuthButton() {
     return () => document.removeEventListener('mousedown', handleClickOutside)
   }, [])
 
-  async function handleSignIn() {
-    setError(null)
-    try {
-      await signInWithGoogle()
-    } catch (err) {
-      setError('Sign-in failed. Try again.')
-    }
-  }
-
   if (loading) {
     return <div className="h-10 w-10 shrink-0 animate-pulse rounded-full bg-slate-200 dark:bg-slate-700" />
   }
@@ -36,13 +26,13 @@ export default function AuthButton() {
       <div className="flex flex-col items-end gap-1">
         <button
           type="button"
-          onClick={handleSignIn}
+          onClick={signInWithGoogle}
           className="shrink-0 whitespace-nowrap rounded-xl bg-gradient-to-r from-indigo-600 to-purple-600 px-3 py-2 text-sm font-medium text-white shadow-sm transition hover:opacity-90"
         >
           <span className="sm:hidden">Sign in</span>
           <span className="hidden sm:inline">Sign in with Google</span>
         </button>
-        {error && <p className="text-xs text-red-500">{error}</p>}
+        {authError && <p className="max-w-[200px] text-right text-xs text-red-500">{authError}</p>}
       </div>
     )
   }
