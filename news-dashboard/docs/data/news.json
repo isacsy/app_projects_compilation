@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T03:33:42.380258+00:00",
+  "generated_at": "2026-07-23T08:41:27.192483+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,209 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus - Stocktwits (Finance) | Apple (AAPL) Begins Production of iPhone 18 Series, Hiring Surge at Foxconn - GuruFocus (Finance) | China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC (Technology) | The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies (Finance) | ServiceNow’s stock rises as earnings show momentum in cybersecurity (Finance)",
-  "count": 83,
+  "daily_brief": "Top stories right now: Texas Instruments shares are sliding, and its rival is doing even worse. What’s going on in the world of analog semiconductors. (Finance) | South Korea Imposes Fines on TikTok and Apple (AAPL) for Data Mi - GuruFocus (Finance) | Where The Buying Ran Strongest: 16 S&P 500 Stocks At 52-Week Highs - Trefis (Finance) | Thailand Secures $43.6bn 1H 2026 Investment Surge as Big Tech Accelerates Southeast Asia AI Infrastructure Push - TMX Newsfile (Technology) | Amazon Lays Off Staff in Artificial General Intelligence Division - Fintech Singapore (Technology)",
+  "count": 85,
   "items": [
+    {
+      "title": "Texas Instruments shares are sliding, and its rival is doing even worse. What’s going on in the world of analog semiconductors.",
+      "link": "https://www.marketwatch.com/story/texas-instruments-shares-are-sliding-and-its-rival-is-doing-even-worse-whats-going-on-in-the-world-of-analog-semiconductors-e999a8ac?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-23T08:36:00+00:00",
+      "summary": "Texas Instruments shares were falling while STMicroelectronics stock was diving on Thursday, after both makers of analog semiconductors struggled to meet heightened expectations after reporting strong demand in the second quarter.",
+      "key_points": [
+        "Texas Instruments shares were falling while STMicroelectronics stock was diving on Thursday, after both makers of analog semiconductors struggled to meet heightened expectations after reporting strong demand in the second quarter."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "South Korea Imposes Fines on TikTok and Apple (AAPL) for Data Mi - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1VfbW1LWU0wVGRtTTlVUFQ5am5IblhjNlpfWC1FVHFXWXMxOTFPMzNzcGVZSWVCQUJ0VzNhdll3UV84UXYzMlU1UTFvdkxBc2ZfQkJzRE9QekMwZFlpeVJ5SV9tanQtWVZyTGx5NzBuQU9BeVFHOW1SMWVEMl90VU5RZlE1VFZyUTg4eUxKV3JTNmxBcVFJbFJuc1dCZlA0eGdVSmtucUk?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-07-23T06:42:34+00:00",
+      "summary": "South Korea Imposes Fines on TikTok and Apple (AAPL) for Data Mi&nbsp;&nbsp;GuruFocus",
+      "key_points": [
+        "South Korea Imposes Fines on TikTok and Apple (AAPL) for Data Mi&nbsp;&nbsp;GuruFocus"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Where The Buying Ran Strongest: 16 S&P 500 Stocks At 52-Week Highs - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ1RneF9VMmZfUENHVXM4YTd4SHhCTmtvTTlRWmFMdndzejVad3BZRG8zQld2a242U003RjRjZTNfQ2ZVbGozTUh5bnZ5bnc4UUd5MUpYa1R3TnJ5SFU3RFVjYXVKQ0FwRlUwR0k1bjJBZi1FVGRUM2xKekZRNGFjZk5TX2NXM2I0eGdGbWlzVllNS2ZPUGNnQlhuS0lLWGhrWTJYZnpUY0tzWWVoelFmREhmRUU2S2YwekpOTTVVWjdKUQ?oc=5",
+      "source": "Trefis",
+      "published": "2026-07-23T06:33:45+00:00",
+      "summary": "Where The Buying Ran Strongest: 16 S&P 500 Stocks At 52-Week Highs&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "Where The Buying Ran Strongest: 16 S&P 500 Stocks At 52-Week Highs&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Thailand Secures $43.6bn 1H 2026 Investment Surge as Big Tech Accelerates Southeast Asia AI Infrastructure Push - TMX Newsfile",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3JDSGJXOUVDdzlPcmNZRFozSE9KN0lJUmR4anpmRktqWG5haW5pTWhFMFlUc2RRdHdkcmU3bGY2SVUxd3E5NENFakxFbGtfYzhJZGxnd2RWcUR1SzRCT0RLdFhrRUlKWWIzMFVtNzJzejhZMUVsVGR6SWZfYkNBQjMwTG9GZXY4RUw0Q3RKZ3dVTlpTTGZkU3Y5Y2xsMTNKN1lRNG16VWhBTlFIQmRtYWMxRDUwVDRtRk5MTUlCbjBRSHZsRkl3a2FKSGxKUFo0TU1fWmRYQ0NNMktiZ2VTRV9NeVVGckxoX1E?oc=5",
+      "source": "TMX Newsfile",
+      "published": "2026-07-23T06:30:00+00:00",
+      "summary": "Thailand Secures $43.6bn 1H 2026 Investment Surge as Big Tech Accelerates Southeast Asia AI Infrastructure Push&nbsp;&nbsp;TMX Newsfile",
+      "key_points": [
+        "Thailand Secures $43.6bn 1H 2026 Investment Surge as Big Tech Accelerates Southeast Asia AI Infrastructure Push&nbsp;&nbsp;TMX Newsfile"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Amazon Lays Off Staff in Artificial General Intelligence Division - Fintech Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10Tm1LcF8zNjJSQXdCU3h0OFNPT2hRdFNaeXZ6N3ZNcVFRR1lRR0g0aE92aG9JMUhNUm40Z2V4cTZzSThJMjFhVE1zN3RpT3ZycmNHd3pTSHhLSVVSNGRnaQ?oc=5",
+      "source": "Fintech Singapore",
+      "published": "2026-07-23T06:23:33+00:00",
+      "summary": "Amazon Lays Off Staff in Artificial General Intelligence Division&nbsp;&nbsp;Fintech Singapore",
+      "key_points": [
+        "Amazon Lays Off Staff in Artificial General Intelligence Division&nbsp;&nbsp;Fintech Singapore"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Why artificial intelligence has failed to fix ‘broken’ workplaces - Stockhead",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDVSLTVLTEgzUnlJTDJMa1pWMVVFcGZwS1dRMjVPR3h1aWI4ZnRwRDgwNWthUjNRM183TzhVSVlnekdJUDBkZzlERjdlejBSNDV2d1MxVDZydk5BUHVIMUVUSDlwbkxPakNKQmktQUtkMjVQYmN2c0pKdDlpXzhkZlhXOWgyeVlzQ0FhN3Q4cjhWX1l1RWFmaXN3?oc=5",
+      "source": "Stockhead",
+      "published": "2026-07-23T06:21:14+00:00",
+      "summary": "Why artificial intelligence has failed to fix ‘broken’ workplaces&nbsp;&nbsp;Stockhead",
+      "key_points": [
+        "Why artificial intelligence has failed to fix ‘broken’ workplaces&nbsp;&nbsp;Stockhead"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "The 52-Week-Low List: 6 S&P 500 Names On Wednesday - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnFQdzlvV3ZpOWo2LWN5Y2hNUk5mODFPVFR1ajJmQTVqM3p4Q29GWW9LWHA0Q0dhZXd0WU5RX1hsUVVLWl9pTTlpRVczX3pRbGF0TkZXUHg3M21wYmFkaVY2Y1ZuOTAyXzNTM3BUc3l5SWlJSnVOaEtyQ1Fldm56NnhaMU9MSkRUeFd0bzAwcmlGakg3RnAwYlZoaS1IcjdBMGdWQS1pMEptdGl0?oc=5",
+      "source": "Trefis",
+      "published": "2026-07-23T06:19:21+00:00",
+      "summary": "The 52-Week-Low List: 6 S&P 500 Names On Wednesday&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "The 52-Week-Low List: 6 S&P 500 Names On Wednesday&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "S&P 500 Movers | Winners: SMCI, WAB, DELL | Losers: GEV, NOW, PTC - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGJ3YThtTmZ2RVdYS05HUUJCMndaM3QzeDhpSnl6WjBDUmZIYzVYdzdVOGNCeVU4QTB5bmh1eVRwSld5OHVndGtRM2NPczlpclBpX3JzdDBFM29Ub1BjczR2YTBFTi1oeWdhUWNlbzU3eEhObjNFd0dmT1prV2JMaUVGcG9BNW1TejZQUWVjdHBmR0lyNnVMeVV3dU9PVHFrdHZtSkZJNi1ydXBzYzc0M285Vzk?oc=5",
+      "source": "Trefis",
+      "published": "2026-07-23T06:13:31+00:00",
+      "summary": "S&P 500 Movers | Winners: SMCI, WAB, DELL | Losers: GEV, NOW, PTC&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "S&P 500 Movers | Winners: SMCI, WAB, DELL | Losers: GEV, NOW, PTC&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Finance specialists celebrate early career success with two school leavers achieving diplomas - Greater Birmingham Chambers of Commerce",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUl5WnZQaTRRQkEtVUtfeVYzYVZUSV9nRnpFVk1YT2NVRnNTVkcwRVgwam40VXM1dnZ0S0RKU0xEdVV0SS1fNFl4MVdlT0dkVFNFR09nTmhhdjdycDRmMVl0aEw2SFpLRktjR1Y4bFNlSDVaMWR3TEtyQjN3ckZYOGlTUGdlYzhrODZWcUxMckdOV3VYYjlCdERIXzVfeU9ZUFlCMXl4bXhkMkJVODhfblVYd0ZOY0JzbUhPV2hYTS1XRjlEanlZa3I3MDhUSUJIb3gyZlpfYml6dExiNDRZdllCQQ?oc=5",
+      "source": "Greater Birmingham Chambers of Commerce",
+      "published": "2026-07-23T04:21:08+00:00",
+      "summary": "Finance specialists celebrate early career success with two school leavers achieving diplomas&nbsp;&nbsp;Greater Birmingham Chambers of Commerce",
+      "key_points": [
+        "Finance specialists celebrate early career success with two school leavers achieving diplomas&nbsp;&nbsp;Greater Birmingham Chambers of Commerce"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "OpenAI’s models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYUFTS0hqU3YtT3pmaDVoTUFveDJ1T0ZYU3Bkc1l2LVZLSnNtX0h6V2dZNWdPNWozQmU3ejZLbWtscmdqQ3VtNkZmQnZmYXFtcUVHdnFtUHZXZ3ZWeEw4WWUyOHdaNmFwY091ekVfd0JvM2Y1RHNERUQycnBhb3oyem1vM3puRWg3dlFpaXVGZEs5cGk2dWtnWXZJUm45bDQ5N0hMMnZsaTZNdjlSQnMtakEtcmR1VU9sQzVjcUFuLU9uM1Q2YXRJ?oc=5",
+      "source": "The Conversation",
+      "published": "2026-07-23T02:18:00+00:00",
+      "summary": "OpenAI’s models autonomously hacked a tech startup. It signals a seismic shift in cybersecurity&nbsp;&nbsp;The Conversation",
+      "key_points": [
+        "OpenAI’s models autonomously hacked a tech startup.",
+        "It signals a seismic shift in cybersecurity&nbsp;&nbsp;The Conversation"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTFKcDFTTzZKdkxXdi16Vk8wRW1OSXBvbHNPV2o3VG5pNVU5b0hFRG84cE52VkJDSlZiaVBBQzFONGRoTjhaem9zaXNkSWplWjJDTXdCaHkybmtkRHhzTUpDUnU2dHpzVmpNZmh4MDc0aDczTnNuY0lHc0h2eDRKUWRTR251bGFCUnVHdzR5eXpCMTJ0NUROMQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-07-23T02:14:00+00:00",
+      "summary": "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28. Here's What It Means for iPhone Revenue.&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "Apple Is Reportedly Launching a Device-Leasing Program With Klarna on July 28.",
+        "Here's What It Means for iPhone Revenue.&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "Nasdaq, S&P 500, Dow Futures Edge Higher, Brushing Off Fresh US-Iran Clashes As Earnings Take Center Stage: TSLA, NOW, GOOGL, NOK In Focus - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ2hXeEdGRTNxOXdsM2UyZTZlZGxOczEwOXBwYzI2SkNpbGQ4THdtQnpJcTRUMklhQUlrWlZyZU5qdDFDcEowRG1YM3FWODhiVVdEMUg0V2Jad1VwOWszbDhWS052LTRPSnJXRVAyME9tMVdLX3NWbElKb2FEd0pVWUtWcGNVeXJ4Ty1aVG5Kd0VGRTZBZ1AzQ2FVQXFwR08xU1hpZkJUcHFxTE1hMTlMQ1JGWWY5TlJLNGp4ZUF1MDd6ZzY1YnkyOHVESmtWTlZEZndqb3duaWNmZGstSmFtemtyeldlY3dKTjFUZWM4VVk1YmpuaVJLU2NPdUxlVXhvRWhvQmNvbVZtM2VBWGZoc0phWWNpQmk2WC00UHJ4ckZlM3V0eFE?oc=5",
@@ -264,24 +464,6 @@
       ]
     },
     {
-      "title": "Stocks churn late as big-tech earnings kick off - The Edge Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zYlVhN1hJWEszc0ZvWjUybUtLS0J0eGhNbDAzSk53VFd2WHN3a3JBTlQ1VEwyanVLUjlzQU91UTNIR0d3X2xYdG02ekZncHpL?oc=5",
-      "source": "The Edge Malaysia",
-      "published": "2026-07-22T22:12:21+00:00",
-      "summary": "Stocks churn late as big-tech earnings kick off&nbsp;&nbsp;The Edge Malaysia",
-      "key_points": [
-        "Stocks churn late as big-tech earnings kick off&nbsp;&nbsp;The Edge Malaysia"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFFQbHRrYlpOdlhDeGQ1bmY2NHNfdEhOQWlVNXhSZUgwak4xejFKRm9qanJiRkx1YUhyekV0OW16R3ZlMTNRczBKaUtjMXFQSUNTVGdfb1lFY2dIQWdGcG5GRHBIYmRVeXZ4RnA3dmFaVi1DcTJ3a25MeGVOUmlXQklzWUk3ZGJtM1JoVDR5b2VDR0d4Z2c?oc=5",
       "source": "Yahoo Finance",
@@ -289,24 +471,6 @@
       "summary": "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close&nbsp;&nbsp;Yahoo Finance",
       "key_points": [
         "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street indices dip with technology earnings, rising oil in focus - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZlNhRlhEOXpkVnoyQ2RvQ0c1VWtMdFg2bXF4dGNhY1lhbnhrX3ZEcjUwM0U4M1NVeEJEUmJuMF9ORUxjVloxZnNGWThqaFlaTWFWelNONXJTUnI5TllDV2pzdm1HVWc2amg0djNzZTcxY3FDT1QwZjRuR2x2UXVXU1lGdDF1YUxnbkhGU1hlMlB4Q3dJREJWT1lvTTd1bDlHcGU5ekFoeEVsN0pRUS1ZVG9yaUxueXp5YXdsYjV5dVFZVlBndXlDU2FMN1BDYjZLX0Y2MA?oc=5",
-      "source": "The Business Times",
-      "published": "2026-07-22T21:51:00+00:00",
-      "summary": "Wall Street indices dip with technology earnings, rising oil in focus&nbsp;&nbsp;The Business Times",
-      "key_points": [
-        "Wall Street indices dip with technology earnings, rising oil in focus&nbsp;&nbsp;The Business Times"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -355,6 +519,25 @@
       ]
     },
     {
+      "title": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens. - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSm11b1UtTEFoZU5HQWZxWkltenNxcHNzQXM4YXpkX0dkYTVldXpiS2l0bDhiQzRncVp0ZlJ1dWc0TmMwUUZDd2NDRXIzLVZRVS1Rb1J2Yl9sbFF2U2dfUWd6aXEyLTZlM3hIal9uS1ZocDV3YVYxOHB5U1BwaVhpTllhYkRVUk1BN2thZjVVWUhLTDc2RUo1Rm9aYkF0OFhLcFdUZ1lYa2pRTmVyeWFQXzdNaGZzdHRKbmtlQWpNLTZPaG4z?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-07-22T21:02:59+00:00",
+      "summary": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens.&nbsp;&nbsp;24/7 Wall St.",
+      "key_points": [
+        "This $222 Billion Vanguard ETF Is Trailing the S&P 500.",
+        "That Almost Never Happens.&nbsp;&nbsp;24/7 Wall St."
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
       "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
@@ -367,6 +550,24 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics — TSLA, GOOGL, PSKY, RDDT, AMZN In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS3FCM2FtQ09vLVR0YzVSUlRxWTg3azY1WlUzamt4cUE0b0c4a1g2WGVvRWhfTHA3bUlWb05BUXdiaWxjZ282alByRjhFU0NPMFloUF9xRUFWWS1wZVp0Zmc4bzJhckh1dUxQcUd2azdETm5KTmlUVGlDQUxfWXpCOE1GbXp4UWVCdGo2OTNYUUxPNnlEYmVRT0lIWVhiMjZ5MzJtRHFTcWkwbXI3aTJJQ1ZXcE5PWjNkU3ZSWnFfaVNsZm1GdEZGLTBaVFY5aFBNX2Q4dzdfMlNRWDRZT1RZcFhMVHRKVFFHRnNF?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-07-22T20:59:07+00:00",
+      "summary": "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics — TSLA, GOOGL, PSKY, RDDT, AMZN In Focus&nbsp;&nbsp;Stocktwits",
+      "key_points": [
+        "S&P 500, Nasdaq End Lower, Futures Extend Declines As Attention Shifts To Tech Earnings, Geopolitics — TSLA, GOOGL, PSKY, RDDT, AMZN In Focus&nbsp;&nbsp;Stocktwits"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -446,24 +647,6 @@
       ]
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings loom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTXBKajBzM0pqZExjOW05NlBGdkRKQzY3b3gwT0lkSHJJVm5jTDJRNVBBRno5cnpUMnRzbnRSdEUxel9MZGtuazZDV2FPUlpuVlllUjBIYy1mWm00RmtvMUZkd0JDNmFITVVCdnpOOXZqc3FpSXU5N2h0c1M2cUxJWko2dktldUV1U2VhbWlHN295TUVsV1dGbkt3cHRVaXlvQnFHZ1U2a1pLS2NXNnNQRll2d0J5bS16U2JjWHFNNjFMZ0p5MEtTZ3BiSjQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-22T20:05:16+00:00",
-      "summary": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings loom&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings loom&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Bitcoin Has Returned 0% for 5 Years. Get Ready for the S&P 500 to Do the Same. - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkkydTBNNjRPRVpCeEJ0REFpd1BFYk9iYjRCM01yYUg2UUdGWGk2U3NTM0FTZGVZMkt3TEkzXy1wWUNWQmMwVmFvc1diX0dRMWJDS2R0OUdVX00ySHFDcGVQMG1OTUtDdW43MUNnYVo4Vy1rUXgtYkVuTHhES0FSd2pxS21XTUFmbEVJeUFseUhOOTNSX0E?oc=5",
       "source": "Yahoo Finance",
@@ -480,42 +663,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-      "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-22T20:00:00+00:00",
-      "summary": "“We would rather pay taxes upfront than pay mortgage interest.”",
-      "key_points": [
-        "“We would rather pay taxes upfront than pay mortgage interest.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Tech innovation must solve Africa’s biggest social challenges, says Isaac - The Guardian Nigeria News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3FDMXA2X09KOUxaQS1WVHVub1VoSU4zNzUxR2FoR0tORi1kR2d3amtvcU5FUzZ1STBxaHg3Z2NGUU14bXN4cXdUb1R1Nm1WVlYxNTd6Z0tjODF5WF92MnZTTlctaXBLVkZmZHRuLWJlUmZQVC16cnJvRW14bnZMaDBQNzNlUlBBaWVydDZqLU9zTER3bkQwTl95ejM5Zw?oc=5",
-      "source": "The Guardian Nigeria News",
-      "published": "2026-07-22T19:38:00+00:00",
-      "summary": "Tech innovation must solve Africa’s biggest social challenges, says Isaac&nbsp;&nbsp;The Guardian Nigeria News",
-      "key_points": [
-        "Tech innovation must solve Africa’s biggest social challenges, says Isaac&nbsp;&nbsp;The Guardian Nigeria News"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -574,24 +721,6 @@
       ]
     },
     {
-      "title": "Amazon cuts jobs in artificial general intelligence unit - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90cnNiMWR2U2NLcm5RLW9zRlZ4N29ha3FMWFZMa0NHWWtqOU9fUXRDY1dpdWpBNUhwcHJJQ0pKZlJFdW42cW1nVm96U0trbWp1eUdPNnY1cm9pNEh4ckNSMWRB?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-22T18:18:48+00:00",
-      "summary": "Amazon cuts jobs in artificial general intelligence unit&nbsp;&nbsp;Crypto Briefing",
-      "key_points": [
-        "Amazon cuts jobs in artificial general intelligence unit&nbsp;&nbsp;Crypto Briefing"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
       "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
       "source": "Business News",
@@ -628,25 +757,6 @@
       ]
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOay1lTzNkWnR6MEhwaUVzeEZVVTd6QnBKeXZSdUJ2UVlkb2lLcmtnX1JjQjB2bkR1aC1EeEFVMlZLY1dlZ1hMVFdwT0ZwUHZMb0djQXh0RXVILTdrYXRsTlhQMUV4YkxZM1BjQ1laSDB1bkh3Wm1xMVZTQnJOQ0lnZ1U0d1dEcWU5STVDZXh4di1wUE1aaXlpa0FkRldOazdKRHM5WDhWRDJiYXVhR2ItU3UwUlJyY1Y1cEE?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-07-22T18:00:16+00:00",
-      "summary": "Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck&nbsp;&nbsp;Yahoo! Finance Canada",
-      "key_points": [
-        "Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck&nbsp;&nbsp;Yahoo!",
-        "Finance Canada"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ29VelJDN3FYSmZtWnpoSFV4MnkyYlRMb09QWGF5UFJXYzZ1REduNkk5akx0aXlZZjJpWEJiOE1Tam93ZDJ4eDRiSTM5OUF1eG93X015bmtjY1BwdTBfUlh2dURIaWdRQTl4VzRtcEJxVVl6aTNBd0hEWUxsdkNUYXlwdHNLVWJ6cjhtbE5kSUxiQjdIWEJEcjF0ZXU0ZDl3VGUwLWhwMXgyLWFjRzRrQnFRYWFlZmZwUmtDSmd4OFgzOGpaZUNmVEtWMk1ZQV9XVDlraERKa19KaklnZGVibDVYX0tTY2F5blJkc05uTGdBRDdqVzNZeGNJMGZPcGxZRk12eHBkTHlaTkRMVGt1S25STlNjUXZZclYzVDJoenNUOW5BYk84WS1SODVFSDV5czgtbldvYw?oc=5",
       "source": "Tom's Hardware",
@@ -662,24 +772,6 @@
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Small Caps Are Crushing the S&P 500—3 Stocks Still Worth Buying - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVE9kOHJtNl9kVmR3dDZsWHpLSGd6R0dfMzl5LTdCZXBsZGltWFVkNjQxYVBfQXlFSExyZWYySTJlVXVOSVhlTnNyOWVEQzVzb0NkMnI2cnRUa25tcG1LNlRzSjNOUzBOOVJZd0U3d3dYelFibW9tV3EzcHVEVHNaZ0laMHZ2UE9KOHloM3k3NG50MkRPU20zekRQcWVPeGNQNEZ2RE1B?oc=5",
-      "source": "MarketBeat",
-      "published": "2026-07-22T17:54:03+00:00",
-      "summary": "Small Caps Are Crushing the S&P 500—3 Stocks Still Worth Buying&nbsp;&nbsp;MarketBeat",
-      "key_points": [
-        "Small Caps Are Crushing the S&P 500—3 Stocks Still Worth Buying&nbsp;&nbsp;MarketBeat"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -756,24 +848,6 @@
       ]
     },
     {
-      "title": "Oil prices rise another 3%, while Wall Street drifts in mixed trading - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanFyTS1QMjVOQmI2ZmJydTVHbmdhdWR0c1V6NExsN1ljQ1BaLTlkYUdVakxZd1ZjdkZvU1NQX0RTUEc0d09VNk9Eb0wwRjZ0OVRYal9fRzlRMTZGUlNKNHIxc25jdHMxdmUxaUlRLWxuNmNZRTZZVVFJcTRQVi1lM092QjgzOVpFNlppc3FXOWdWcl9yeDNMLUx0WDBMaDZKNHhiYVM3aXkzaFdTdEhpMEotSHFXZzNSUGhUWVpZUGtia2lHT2c?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-22T16:49:39+00:00",
-      "summary": "Oil prices rise another 3%, while Wall Street drifts in mixed trading&nbsp;&nbsp;The Washington Post",
-      "key_points": [
-        "Oil prices rise another 3%, while Wall Street drifts in mixed trading&nbsp;&nbsp;The Washington Post"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Apple (AAPL) Plans New Mac Releases Amid Rising AI Demand - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazBzaXlGeHZtTDJLZy02c05QbWZzOWFnSHB6RmNLTmRTN2tEZTdrMEpLN3M1VFBNcnRLRjlhRU1yUkhPZC01cVlyZkV2d0RxLTVVczBubVJPR3R3NW9lSTNWSXRLd3JPS2NCWEZoTkktaFc3aEkzYmxtM2RNOTN0U0FMLVgtdXZxYjdUVWhpcmxQd2ZJLU12RS13?oc=5",
       "source": "GuruFocus",
@@ -813,7 +887,7 @@
       "title": "AAPL Plans Major MacBook, iMac Overhaul To Capitalize On AI-Fueled Demand For High-Performance Devices - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmwtX3RfQjUzNkNlTTZxUnhMdE5pNThueFFfUWstb19TREtLX296aWlzNDZVRkF1QTFaNjdTSHZ1S2tHcFJSVEZ2SUlRbkxobjdCbm5DMEtkVEJfV1lkUG1vU242UUU0S0ZFeVVERWhZMDZxYUo2WnR2SFVPNUgwYm55aS1xcEtYQWZZSmpwU0VXbFZCMW9CVURwR2IyYVU4NFlXTl9HbU9RM0FTWmh1dDVMMkxXUzNpc19ZWmlvdm4?oc=5",
       "source": "Stocktwits",
-      "published": "2026-07-22T15:39:14+00:00",
+      "published": "2026-07-22T15:36:00+00:00",
       "summary": "AAPL Plans Major MacBook, iMac Overhaul To Capitalize On AI-Fueled Demand For High-Performance Devices&nbsp;&nbsp;Stocktwits",
       "key_points": [
         "AAPL Plans Major MacBook, iMac Overhaul To Capitalize On AI-Fueled Demand For High-Performance Devices&nbsp;&nbsp;Stocktwits"
@@ -865,24 +939,6 @@
       ]
     },
     {
-      "title": "Amazon lays off employees in its Artificial General Intelligence (AGI) division - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVlGT2lmdXVNQ0d0b0RxQ3phR3JpZk1ZZnJEWFZzTGtpNVFZT3Q3Q0E0ZFpxOEQ1UzhhU0xhV2w4aDFpbnFEWHpDWW9JejZqYmFydDBBY2pTZXdYM2RremJYY3gxc2xBNTVPUnZsb3k5SGdwcFdSS09weGtiTWtTbnY4R0xXVWpQSkM2QjI1dXlPZXVyRHczbWdOZ2d2bTBEOUo5SmZBaWEyUDhkQXZvUXNUM0c2VG84UHprcXRONNIBxAFBVV95cUxPbjd6eGs0ZDdrbl9rMUx1dkh0a0J4RzFUYWY2QXlqQzZnaXhIb1BZUnNtZGpJZ2ZDR1BRWnpqLXhaMXE3bFRhLWJBaTczcW1kcXAwV0tiQUJtZHJDcEYyZTUyT3JaZEhPWjhqRTZONW9yejEzSWdRQ0Y3RThjN3QzWlVLMTl5ZjRzN043OEY5Wm5NQ3hDM3hIbHBhTkZvY2VWSVd6NkJpSlQ3bEN4bV81Nmh6UUlBcjAwX0psdjBmd0F0aDhL?oc=5",
-      "source": "Firstpost",
-      "published": "2026-07-22T14:59:54+00:00",
-      "summary": "Amazon lays off employees in its Artificial General Intelligence (AGI) division&nbsp;&nbsp;Firstpost",
-      "key_points": [
-        "Amazon lays off employees in its Artificial General Intelligence (AGI) division&nbsp;&nbsp;Firstpost"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Why Apple Could Be the Last One Standing in the Tech Wreck - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWotUTBDc1JEMldLOEdPX0JiVDRnRHBrcHg1RGdmeGRNRWZYNFhEXzJTM09VLXVRc1A5b2ZIczVUN3ZfQi1RNjhGRlN5cjVtc3dCMWVoM2EwcXIxOFZSLVJIQjVHSnZQQjl5UU9peW0ydHk2T3VoSUI0a1Z0LVJkT1RWMWY5Mm1PSVB4MUxBTko2Sjg?oc=5",
       "source": "MarketBeat",
@@ -926,24 +982,6 @@
       "summary": "What's Going on With Apple Stock Wednesday?&nbsp;&nbsp;Benzinga",
       "key_points": [
         "What's Going on With Apple Stock Wednesday?&nbsp;&nbsp;Benzinga"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Samsung debuts 3 new foldable phones as Apple readies its own - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGxsWUk0Rkg3M1dwc2dmM1FZX1BxZVdRanlpLVlZaHlDeXpwR0JBWVFkN0NYZ3c4alRZcU93ZHhHdVNRRVlMempMVzJUYktIUWVmQ25hM3l6VVBvWDFtRHJ5dmM1ZmN4SXB1X0puN3RHdkthczhPQWRRNjAyVTg3X3BGTGQzZkY1MXQ4VVY0WlZXSF9EUkhOZ1FjUjhZWjlLcnBiV0hqQ3k2VWtVOHdJRDQzYmRrUG5HMXRhOTNn?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "Samsung debuts 3 new foldable phones as Apple readies its own&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Samsung debuts 3 new foldable phones as Apple readies its own&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
@@ -1004,24 +1042,6 @@
       "importance": "Medium",
       "topics": [
         "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple's Upcoming Earnings Call Marks Tim Cook's Final Appearance as CEO (AAPL) - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXVFOFJWZFhNSlR5S3QyeEpnajd4SlVBQ01GWFdtZEI5RF9xZlZVT2o3NWVKRTZlYllhdXhUUkR3amdnZW44aXpYNGFsZFlLNExIcHhQMjlDc1pvbjB3VmtMaUJjbTlWTXBPWlpFQnFmSGRXbjRMa2gyX2NwVUhDOGZWbkxYTEE5Unp2eTc2RVlSUlZ0U09rZGE4VldlaDhDNENRazRsSDJPM2tqTGJmOHcwaw?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-07-22T08:18:27+00:00",
-      "summary": "Apple's Upcoming Earnings Call Marks Tim Cook's Final Appearance as CEO (AAPL)&nbsp;&nbsp;GuruFocus",
-      "key_points": [
-        "Apple's Upcoming Earnings Call Marks Tim Cook's Final Appearance as CEO (AAPL)&nbsp;&nbsp;GuruFocus"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -1116,6 +1136,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Graduate Training Programme gives young Caymanian a foothold in reinsurance - Cayman Finance",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0p6T2cwbGJYanAxaGd0amY5R1ZwaWwtUjM0LTJBNGxveDVRTlJLTFdHRFpoZm9VbjdaTkhUajVPZE55NUdtODdJZ09IdV9YQjhTRzE4bkJFdzZsVEQzZnFINi16YkFTVW5wS2hYVW9kLTcwbTZ3OHJtd2lUUVdXWlFCVlNiQ1V2MHlYSGFGNkdzXzRXaHltcl9tM09uekEtWUpqZlhfaG83SFRMMjhhYU13?oc=5",
+      "source": "Cayman Finance",
+      "published": "2026-07-21T08:16:17+00:00",
+      "summary": "Graduate Training Programme gives young Caymanian a foothold in reinsurance&nbsp;&nbsp;Cayman Finance",
+      "key_points": [
+        "Graduate Training Programme gives young Caymanian a foothold in reinsurance&nbsp;&nbsp;Cayman Finance"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
       ]
     },
     {
