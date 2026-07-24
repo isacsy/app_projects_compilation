@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:40:45.082114+00:00",
+  "generated_at": "2026-07-24T22:11:45.476118+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,17 +8,378 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: The world is facing its largest oil shock ever. Here is why prices are not higher. (Finance) | Apple Inc. (NASDAQ:AAPL) stock rises 3.5% as low-capex AI profile draws a premium - TechStock² (Finance) | Don’t rush to save Social Security, AARP tells Congress: ‘It should be debated openly — not through an accelerated process’ (Finance) | Before you ask AI to invest your life savings, you need to understand its hidden biases (Finance) | Stock market today: Dow, S&P 500, Nasdaq recover as oil eases, new Trump tariffs take effect - Yahoo Finance (Finance)",
-  "count": 87,
+  "daily_brief": "Top stories right now: ‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home? (Finance) | Would you take $65,000 today, or flip a coin for a chance to win $1.3 million? (Finance) | I will definitely claim Social Security early. Why do so few people talk about the elephant in the room? (Finance) | Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom. - Barron's (Finance) | The stock market is completely unprepared for a 6% yield on the 30-year Treasury (Finance)",
+  "count": 88,
   "items": [
     {
-      "title": "The world is facing its largest oil shock ever. Here is why prices are not higher.",
-      "link": "https://www.marketwatch.com/story/the-world-is-facing-its-largest-oil-shock-ever-here-is-why-prices-are-not-higher-0bb943c7?mod=mw_rss_topstories",
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+      "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T19:31:00+00:00",
-      "summary": "Oil prices aren’t yet near the level economists had said would put the global economy in jeopardy of a recession.",
+      "published": "2026-07-24T22:00:00+00:00",
+      "summary": "“I own my home outright, have no children or other dependents.”",
       "key_points": [
-        "Oil prices aren’t yet near the level economists had said would put the global economy in jeopardy of a recession."
+        "“I own my home outright, have no children or other dependents.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
+      "link": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:48:00+00:00",
+      "summary": "Your answer to this viral poll question probably says a lot about the state of your finances.",
+      "key_points": [
+        "Your answer to this viral poll question probably says a lot about the state of your finances."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:45:00+00:00",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "key_points": [
+        "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWXJZQ0VETF9uSklXMVRYTE5VQk9sd0JwTmlvT1Zjd2dIeHFoZkZER3FCVFhzRTZXWklYUWIyQnF5TFVSdURBQmw3OGlsSnBnT2xkaVM3enBXUWFpSFRmWmcwYTc5TFh1YlhXT3hpWU5mUkJtWWc?oc=5",
+      "source": "Barron's",
+      "published": "2026-07-24T21:38:00+00:00",
+      "summary": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.&nbsp;&nbsp;Barron's",
+      "key_points": [
+        "Micron Stock Falls to End Strong Week.",
+        "What Comes Next Could Define the Memory Boom.&nbsp;&nbsp;Barron's"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
+      "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:38:00+00:00",
+      "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
+      "key_points": [
+        "Long-bond spike would crush stock gains and deepen bond-fund losses."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:30:00+00:00",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "key_points": [
+        "“At that point, they arguably no longer need the government’s retirement safety net.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
+      "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:30:00+00:00",
+      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
+      "key_points": [
+        "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "source": "Business News",
+      "published": "2026-07-24T21:24:09+00:00",
+      "summary": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
+      "key_points": [
+        "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\""
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
+      "link": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:22:00+00:00",
+      "summary": "One solution is getting a different job — but that’s not so simple.",
+      "key_points": [
+        "One solution is getting a different job — but that’s not so simple."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+      "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T21:21:00+00:00",
+      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
+      "key_points": [
+        "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc (AAPL) Stock Up 3.5% but GF Value Says Overvalued -- G - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEk4MkZSbVRSVUJmUDRua01iRUswOTJlSkxHbWlsaTFWUnNRck5yeHYwZHYxMVB2aG83aEFBdGVLdWdDTlIyZlVxWUZteVc4b2puT2lkVnYwSGZmWDZUZW1aNW1GNjR2SnRPcXc5OEkzeXdtV2tKcUFfbXRNSTVORWx2V0MwTWFFRUpWQ2RwaHc3OHpFbUNMZ3kwLUN4cVhWLURTUFAtUUJ5T2Y1Ync?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-07-24T21:15:10+00:00",
+      "summary": "Apple Inc (AAPL) Stock Up 3.5% but GF Value Says Overvalued -- G&nbsp;&nbsp;GuruFocus",
+      "key_points": [
+        "Apple Inc (AAPL) Stock Up 3.5% but GF Value Says Overvalued -- G&nbsp;&nbsp;GuruFocus"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Why sorority rush can shape college—and your career - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ1czQtbDY0SFpoeDNJVzB0aEI5SHUwTldaczRVaXNwNnljTEdDNDFqbjMtaUxfb21nZkU3MVNDSE5yUFZ3UTdGS2dvTFZIcTJiTjQxaWRDMzA3TnJPTjRfNWxiWmhsdXlGa2NGTzVIQnN2VDY1R09GOXpoLWI5UnY5YkE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T21:15:00+00:00",
+      "summary": "Why sorority rush can shape college—and your career&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Why sorority rush can shape college—and your career&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Up 3.5% on Analyst Upgrade - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVhrN2U2enN1b28zMmQ4ZFlrcS1hTVluYVFteTl2X2d6TzhfRTNvS2tZT1hOU1RzQVgwLVVMSkxnVDBMVXotYVpEUmlGWTF6VVhOUzZmbXB5cmM4aTBQajRfV2pQV21XR1JFNXM0OTA0d2VnTkszcTBfWFpiV2tMZEhCZEw0bmV2S2FLbDBWTFFraWIxNXZjU3dBQU5BSHA4S09NZg?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-07-24T21:02:51+00:00",
+      "summary": "Apple (NASDAQ:AAPL) Shares Up 3.5% on Analyst Upgrade&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple (NASDAQ:AAPL) Shares Up 3.5% on Analyst Upgrade&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcUZNNGEyYWV5dnZlQkctb0tnaWRCZGxWVFNZUXgyX0Etb0o5a2xzRlFNUmJOZlJBeVd4LVk4d3NsWWtJTGNaQS1hbDI3VDVwWU1VRnltOF9lV1dQcldhREtsblBMU0I1cmJGX005UE1iZW5wSFVndlRwclZOU1lfb2JaY0UzWV9jWnBpT0pEamFyeFJEcEw3SkdiUm5WWlBybEVtWFdpdGN1MGRNODhtZ201NVJPM3IwYkVJWFcxM2p4bVF2VVdhUXl2R2R6Q3NnOGRpdWd3dG9tdEZj?oc=5",
+      "source": "BNN Bloomberg",
+      "published": "2026-07-24T20:41:32+00:00",
+      "summary": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week&nbsp;&nbsp;BNN Bloomberg",
+      "key_points": [
+        "Stocks waver on Wall Street while crude oil prices fall for the first time in a week&nbsp;&nbsp;BNN Bloomberg"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "source": "Business News",
+      "published": "2026-07-24T20:33:21+00:00",
+      "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+      "key_points": [
+        "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered.",
+      "link": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T20:26:00+00:00",
+      "summary": "A group of experts, some of whom work in the peptide industry, said the Food and Drug Administration should allow six peptides to be compounded, in a move that could widen access to the popular wellness products for Americans.",
+      "key_points": [
+        "A group of experts, some of whom work in the peptide industry, said the Food and Drug Administration should allow six peptides to be compounded, in a move that could widen access to the popular wellness products for Americans."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEIzWXNKUjRPV0FkNHB6bnY3YzFMNnVNZE8yY1YwWllUVl94MEUyVmhKc1JGQ2QxclU1LWZ0X0pYRkR5RndJTTQwWDBvWTZfaXI0NVZSMWFVUHlYNVhXY1hfVzlCWHV2VkM3TjNDbmxLVEQ4d2d3eHlpTHR4ZHdFNGktdzljVTZ6ek9LZHE5cEtYbU5ZbXFJa1RyVHRKbFBBSEV0dkVfcDc5ZUp5UjQyVmpEVDdxelJucHc?oc=5",
+      "source": "Investing.com",
+      "published": "2026-07-24T20:23:58+00:00",
+      "summary": "Nasdaq lags on angst over AI spending ahead of earnings reports By Reuters&nbsp;&nbsp;Investing.com",
+      "key_points": [
+        "Nasdaq lags on angst over AI spending ahead of earnings reports By Reuters&nbsp;&nbsp;Investing.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence: QAwerks CEO Konstantin Klyagin Warns Many Financial Institutions Unprepared For Regulator Queries - Crowdfund Insider",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdUo2V3JmZEQ1cXh2NkdtT3NENVF6cG9xd1VFMGtWOUg3bVdNcWp2RHVXRGxhWkxqc0ZGVVBXQ3VkZmFKWHFtUkNkMGFfUTlaSHhJM3Fud09oYno3bU5TbVZEVTM1alFIcGgwNjVYNUFReWExaG5YUUp6Z2dGd0h4Y3RLdWdzZjhSSUFoMmMydmtuZ1ZsLXc3bU9ZZk1MbTcxcTcyYnZrUW5LcGo3NGxmcy00aU1BdmNLMUdlWTU2TkIya0lhOWRDeTJDeE1JZ3QxOGZkZ0ZUemg0QVlaa2M5dWljS0RsQkJoa0NCS2tmc2N2R3lBODdvMzFLMkdNczQ?oc=5",
+      "source": "Crowdfund Insider",
+      "published": "2026-07-24T20:18:58+00:00",
+      "summary": "Artificial Intelligence: QAwerks CEO Konstantin Klyagin Warns Many Financial Institutions Unprepared For Regulator Queries&nbsp;&nbsp;Crowdfund Insider",
+      "key_points": [
+        "Artificial Intelligence: QAwerks CEO Konstantin Klyagin Warns Many Financial Institutions Unprepared For Regulator Queries&nbsp;&nbsp;Crowdfund Insider"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week - WDEF",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFc0R01lckJxdEFZUDBaT25PZm83TDlxNk5RWll1MmItdGwtX0xGTTNxMFc0ZHNZVWpzbVBSUzVMYU01Q1o0ZUdMWlo1VTVwdVowZDNVT1BuNmV4N0V5NnViUDFlR1lBOGh2SnhacDZGWC1VbWR3MmhDdDMtWXp0Y1REdEFWMUpjZVJRdExKbDZ3bDUwdUxJWGJLVVNodnJlRm1PbzhfRGZnZw?oc=5",
+      "source": "WDEF",
+      "published": "2026-07-24T20:15:16+00:00",
+      "summary": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week&nbsp;&nbsp;WDEF",
+      "key_points": [
+        "Stocks waver on Wall Street while crude oil prices fall for the first time in a week&nbsp;&nbsp;WDEF"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+      "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-24T20:11:00+00:00",
+      "summary": "My emergency fund is running out — I thought I did everything right",
+      "key_points": [
+        "My emergency fund is running out — I thought I did everything right"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "CDC says massive cyclospora outbreak is now in nine states",
+      "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+      "source": "Business News",
+      "published": "2026-07-24T19:53:01+00:00",
+      "summary": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+      "key_points": [
+        "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -49,42 +410,6 @@
       ]
     },
     {
-      "title": "Don’t rush to save Social Security, AARP tells Congress: ‘It should be debated openly — not through an accelerated process’",
-      "link": "https://www.marketwatch.com/story/dont-rush-to-save-social-security-aarp-tells-congress-it-should-be-debated-openly-not-through-an-accelerated-process-96cfb75d?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T19:17:00+00:00",
-      "summary": "The Promise Act would curtail proper debate, the senior-focused organization said.",
-      "key_points": [
-        "The Promise Act would curtail proper debate, the senior-focused organization said."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
-      "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T19:12:00+00:00",
-      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
-      "key_points": [
-        "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Stock market today: Dow, S&P 500, Nasdaq recover as oil eases, new Trump tariffs take effect - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYaE1xaFRzalhQdWRXZ1d5dEpsQWlsVzBfS1V6RU52aG5reW8wRnZYdFk0LV93RVdxOFIzYnhteDM5RnBkOURtYWhpWXhJNjVmUkoxczRHVVFnbU1KQzFlaTQ4bVJ2MldmbGhhcU1kY2hIVndoaEY3ZXF1T2xocGM5TkNxM2FsY2hpcXltckJHQ0xSb0Rybm5BamN1Nmpfay1ObzF1d1I?oc=5",
       "source": "Yahoo Finance",
@@ -103,167 +428,21 @@
       ]
     },
     {
-      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWXJZQ0VETF9uSklXMVRYTE5VQk9sd0JwTmlvT1Zjd2dIeHFoZkZER3FCVFhzRTZXWklYUWIyQnF5TFVSdURBQmw3OGlsSnBnT2xkaVM3enBXUWFpSFRmWmcwYTc5TFh1YlhXT3hpWU5mUkJtWWc?oc=5",
-      "source": "Barron's",
-      "published": "2026-07-24T19:06:00+00:00",
-      "summary": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.&nbsp;&nbsp;Barron's",
+      "title": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTW54UjY0dzZndlJBcHUtNHVpUnd4em1TWFlha0hCMzhyV1dFNVo4YUdsdUFLZUlmNnU5X09pTlY3cVhKck1pMGs1eDhZOEtmbTR2Q3EwNV9OZlVGaC1LR2xpZC1XenJjUWpuY1RrLUJWdVFkM3BxSWdOc1JjMTZ0UTUxSEhFdWVQYUc5bnpqYllZbkptb2hQUTFrYm5nWFNmelI2Q1pnQlhtWjBpaHRqMXpaaXNvbVYzYjdVb1Jld21OT2ZSOEhQcVlOZWo0RWxDRnVBRjBMaURiR2IydzhTY0lZYWpUdHRpeFdkeGI5Qk5Zb1BMQlE?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-07-24T18:31:48+00:00",
+      "summary": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list&nbsp;&nbsp;Tom's Hardware",
       "key_points": [
-        "Micron Stock Falls to End Strong Week.",
-        "What Comes Next Could Define the Memory Boom.&nbsp;&nbsp;Barron's"
+        "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list&nbsp;&nbsp;Tom's Hardware"
       ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
       "topics": [
-        "Stock Market"
+        "Tech Industry"
       ],
       "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
-      "link": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T19:00:00+00:00",
-      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
-      "key_points": [
-        "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
-      "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T18:58:00+00:00",
-      "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
-      "key_points": [
-        "Long-bond spike would crush stock gains and deepen bond-fund losses."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "The bond market hasn’t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-hasnt-been-this-calm-since-the-dot-com-bust-and-the-financial-crisis-history-warns-of-a-rude-awakening-5597c25d?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T18:47:00+00:00",
-      "summary": "Junk-bond spreads are near the lows reached before the financial crisis of 2007-09. Here’s how to hedge before the market wakes up.",
-      "key_points": [
-        "Junk-bond spreads are near the lows reached before the financial crisis of 2007-09.",
-        "Here’s how to hedge before the market wakes up."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "This energy company sidestepped Iran war challenges by pushing into data centers",
-      "link": "https://www.marketwatch.com/story/this-energy-company-sidestepped-iran-war-challenges-by-pushing-into-data-centers-0aed9ca7?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T18:39:00+00:00",
-      "summary": "SLB has looked beyond the Middle East, capitalizing on revenue opportunities in other regions and in the AI market.",
-      "key_points": [
-        "SLB has looked beyond the Middle East, capitalizing on revenue opportunities in other regions and in the AI market."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up",
-      "link": "https://www.marketwatch.com/story/why-micron-and-other-major-chip-stocks-are-falling-even-as-the-rest-of-tech-holds-up-506851dc?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T18:37:00+00:00",
-      "summary": "There isn’t one “smoking gun” catalyst — but investors could be reacting to Chinese memory developments, Korean stock-market weakness and Intel’s inability to sustain postearnings gains",
-      "key_points": [
-        "There isn’t one “smoking gun” catalyst — but investors could be reacting to Chinese memory developments, Korean stock-market weakness and Intel’s inability to sustain postearnings gains"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them more?",
-      "link": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T18:31:00+00:00",
-      "summary": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
-      "key_points": [
-        "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Can AI-powered ETFs beat the stock market?",
-      "link": "https://www.marketwatch.com/story/can-ai-powered-etfs-beat-the-stock-market-c5be6a9b?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-24T18:31:00+00:00",
-      "summary": "“So far, AI isn’t poised to steal portfolio managers’ jobs.”",
-      "key_points": [
-        "“So far, AI isn’t poised to steal portfolio managers’ jobs.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "source": "Business News",
-      "published": "2026-07-24T18:20:17+00:00",
-      "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-      "key_points": [
-        "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
+        "Technology"
       ]
     },
     {
@@ -303,18 +482,18 @@
       ]
     },
     {
-      "title": "CDC says massive cyclospora outbreak is now in nine states",
-      "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "source": "Business News",
-      "published": "2026-07-24T17:32:22+00:00",
-      "summary": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+      "title": "Apple Stock (AAPL) Opinions on Analyst Upgrades and Upcoming Products - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHExWEJnRHF6dGxSSWdiUjJmeUdvWTJseEc5YUZxdlRnWXdwM3JuZ0dzZUZqWl9hUTBNbjJHX2JKZkQzU1N0NTU4VzZVRUxfN2ZvbjFpM2poSFM0Zm1TbWJtNEJ5TFJVSlZiZzBJQlJELWYtUVE1UUFndGhRNHlZZWIzM3F0elZaaFptSnNPYTRsMENNaVNwTGtEc0RqQURxQXVoSS1TRUhKUQ?oc=5",
+      "source": "Quiver Quantitative",
+      "published": "2026-07-24T17:33:00+00:00",
+      "summary": "Apple Stock (AAPL) Opinions on Analyst Upgrades and Upcoming Products&nbsp;&nbsp;Quiver Quantitative",
       "key_points": [
-        "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan."
+        "Apple Stock (AAPL) Opinions on Analyst Upgrades and Upcoming Products&nbsp;&nbsp;Quiver Quantitative"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -339,6 +518,24 @@
       ]
     },
     {
+      "title": "Apple Stock Price Forecast: BofA and Morgan Stanley Expect Third-Quarter Earnings to Top Wall Street Consensus, Can Share Price Hit New High? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjA0WVpzZFFmWGdVU0JCLWVlRTFvUHB2SUVkOEFnXzRZcnR3NnBrNTJLamtlMnBtZVJpSzFGNnN4SG9iTUZKT1pNaEl2Z3pkV0lLdHFxc1RzZFE3ZGFDcW9Jb0lDdUhlaFY2TUZhMms4RFRKdVp3YnFDdW10UUZZVjRSV2tJMktWdHM0LWhxM2ppeV9MNjR5ZWsxd084QmJudTRaMDRBRkM3VTZ2VGFSRWxmNWtFTFExdHlFdnJXdVNCUlIxS3ZWTmFwZXUySkRVZTFwMXBBM180QXBaa3Vyem54NWlDbU0?oc=5",
+      "source": "TradingKey",
+      "published": "2026-07-24T17:02:54+00:00",
+      "summary": "Apple Stock Price Forecast: BofA and Morgan Stanley Expect Third-Quarter Earnings to Top Wall Street Consensus, Can Share Price Hit New High?&nbsp;&nbsp;TradingKey",
+      "key_points": [
+        "Apple Stock Price Forecast: BofA and Morgan Stanley Expect Third-Quarter Earnings to Top Wall Street Consensus, Can Share Price Hit New High?&nbsp;&nbsp;TradingKey"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Fashion Retail Trades Gimmicks for Operational Tech - WWD",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODBFWF91ZkhZN2o0RVBvcFBndWRWRFM1SDIyVW5KRjN6cGpMN2ZObGpvdWF0TWFEMU9UTVpRMGZyVXE1eFIxS3NEQUtnODNKa1htaEtiSlpFVVJJVkVOel9zamtJc3FBYndIejhlblBaZjdWaWszY3N4U1BhZlZvQ0ctSnN5YU5Ia2Z3djAzem5LRTJIa3ZmeXVKZWZVSkFjaG1RS3FybnFxTmNpNGEzUjY2UWQ4SkU?oc=5",
       "source": "WWD",
@@ -357,24 +554,6 @@
       ]
     },
     {
-      "title": "Stocks rise on Wall Street while crude oil prices fall for the first time in a week - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcUZNNGEyYWV5dnZlQkctb0tnaWRCZGxWVFNZUXgyX0Etb0o5a2xzRlFNUmJOZlJBeVd4LVk4d3NsWWtJTGNaQS1hbDI3VDVwWU1VRnltOF9lV1dQcldhREtsblBMU0I1cmJGX005UE1iZW5wSFVndlRwclZOU1lfb2JaY0UzWV9jWnBpT0pEamFyeFJEcEw3SkdiUm5WWlBybEVtWFdpdGN1MGRNODhtZ201NVJPM3IwYkVJWFcxM2p4bVF2VVdhUXl2R2R6Q3NnOGRpdWd3dG9tdEZj?oc=5",
-      "source": "BNN Bloomberg",
-      "published": "2026-07-24T17:01:23+00:00",
-      "summary": "Stocks rise on Wall Street while crude oil prices fall for the first time in a week&nbsp;&nbsp;BNN Bloomberg",
-      "key_points": [
-        "Stocks rise on Wall Street while crude oil prices fall for the first time in a week&nbsp;&nbsp;BNN Bloomberg"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Digital Realty Trust Is Today's Best S&P 500 Stock as Data Center Demand Backs Strong Earnings - Barron's",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3RWT1hfNWhrRk0yQlc5bVRDUk5oQ0E4UVhYdEs3VHpoaDFjb184bG5BOGJUWHAxOFJGLWIxbUNqRHR0bGREMFZNeXY0ejYxVjY3Wmxld0RqcVd0ZUNTM0ZWemhTYWxfWFd5Q3d0U0JJY2lhdlBPa29YRC11cTNGVDRXMW5DSWV5LTlz?oc=5",
       "source": "Barron's",
@@ -387,24 +566,6 @@
       "importance": "Medium",
       "topics": [
         "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Stock Price Forecast: BofA and Morgan Stanley Expect Third-Quarter Earnings to Top Wall Street Consensus, Can Share Price Hit New High? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjA0WVpzZFFmWGdVU0JCLWVlRTFvUHB2SUVkOEFnXzRZcnR3NnBrNTJLamtlMnBtZVJpSzFGNnN4SG9iTUZKT1pNaEl2Z3pkV0lLdHFxc1RzZFE3ZGFDcW9Jb0lDdUhlaFY2TUZhMms4RFRKdVp3YnFDdW10UUZZVjRSV2tJMktWdHM0LWhxM2ppeV9MNjR5ZWsxd084QmJudTRaMDRBRkM3VTZ2VGFSRWxmNWtFTFExdHlFdnJXdVNCUlIxS3ZWTmFwZXUySkRVZTFwMXBBM180QXBaa3Vyem54NWlDbU0?oc=5",
-      "source": "TradingKey",
-      "published": "2026-07-24T16:57:04+00:00",
-      "summary": "Apple Stock Price Forecast: BofA and Morgan Stanley Expect Third-Quarter Earnings to Top Wall Street Consensus, Can Share Price Hit New High?&nbsp;&nbsp;TradingKey",
-      "key_points": [
-        "Apple Stock Price Forecast: BofA and Morgan Stanley Expect Third-Quarter Earnings to Top Wall Street Consensus, Can Share Price Hit New High?&nbsp;&nbsp;TradingKey"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -648,42 +809,6 @@
       ]
     },
     {
-      "title": "1 S&P 500 Stock Worth Investigating and 2 Facing Challenges - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGE1dDZsX3NjUGpscDNaZHNSTGY3Q1FzbG9paXUtVDRJdW1xMDRiZ3pSaTNPcy1XU0o3ZGhwckFkLXVuOGdFWThVSzM5cTFqLUc4S0NzY1ByYUc0cl9pU0o3OEVpaFN2SUhma1ZyaVVHa0ZUdlNSVGZwYmwxaUZoWkpGMjU4T3NGMjFyNA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-24T12:57:08+00:00",
-      "summary": "1 S&P 500 Stock Worth Investigating and 2 Facing Challenges&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "1 S&P 500 Stock Worth Investigating and 2 Facing Challenges&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500: Alphabet Reveals Scary Risk — Big Companies Bleed Tons Of Cash - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFVRa0lzVW5iME9pYURiRUU2dnpDUWVKRmtYTmxZV0o0VC1walA3ZXBhYndLRjhtZVAycXpBdmF3MHN2Y2pPMFJ2dmpXaWh4b1dCSi1Wa1pzUmV3bTJEWGxMUDBWdjQzcEc3ZWRaRkMxVTZoNG81S1V0VDdiMFRnRUNSUkdRMFNQYTY0RUlFbTF5R2JQZ1Q2WDk3cFliTVVNNGpnX0ZBbDF5QV9aMndtemg1bVQ1ZG8?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-07-24T12:00:00+00:00",
-      "summary": "S&P 500: Alphabet Reveals Scary Risk — Big Companies Bleed Tons Of Cash&nbsp;&nbsp;Investor's Business Daily",
-      "key_points": [
-        "S&P 500: Alphabet Reveals Scary Risk — Big Companies Bleed Tons Of Cash&nbsp;&nbsp;Investor's Business Daily"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
       "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
       "source": "Business News",
@@ -740,24 +865,6 @@
       ]
     },
     {
-      "title": "Apple (AAPL) Expected to Boost Foldable Smartphone Market by 21% in 2026 - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMFRZZVVHbHBkem8xYkFrWENENmo3elVvU0UzcmtPNWpScWtDRVQ2NndwWWhMdm13b043QnpSc1ZucjY1T2FGd3Q4Rm1CTDZQbjhneFZRMGpFUHRpQTk1V0VGNjJOZGFCX1BUaVRObW1MOHZVYV9JRXJ1bEthOTlNeXB0ZktqcXhyX0swQnpkRm9kY0h5dzNBN2x0dXJoMTU3X1RGd3J0TE1DdmZw?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-07-24T08:17:23+00:00",
-      "summary": "Apple (AAPL) Expected to Boost Foldable Smartphone Market by 21% in 2026&nbsp;&nbsp;GuruFocus",
-      "key_points": [
-        "Apple (AAPL) Expected to Boost Foldable Smartphone Market by 21% in 2026&nbsp;&nbsp;GuruFocus"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "This start-up wearable gadget promises “meaningful memories.” It’s all AI-generated - Digital Camera World",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSUtlWmh6dTFCT05fVUI1VWUyZlpWV0REbjZFVThfT0VNUlVLUE4zU3ctZnZBd0ViRDItVnFWMWFaS3lKVldRUm45MGZlWWJrYkl6YWwxdjljenBqSENialBYOGJSSE94T0NQWGpMbUVOakpmdmxmc1ZYS2p1NkgwRkRaOGZMN3ljdVVXVUYtUkc5RlhHbmpEUWZrRDdWRlNmZ3M5amNTS3p4S0Y0MEFSQzNKNFM1Ymw0d3J4OVhuRHZ6S1lhSGxtOGhUS3V0ZlowQWJFUHRtR1pfanpXRTY1b20zcXRjRi1obm9JWA?oc=5",
       "source": "Digital Camera World",
@@ -773,44 +880,6 @@
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Elevated Capital Advisors LLC Has $11.67 Million Holdings in Apple Inc. $AAPL - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2RsYzhxN3hFaGF2YlllSlhEd0tBN2p6Uks1SVlVOWRoZzk5V3N2Q1dTTDZJX2lnNGFlc3gzRGwwVlFfdk5BY1YyQWYtenM3b1c4R2RyUjQ2NzRaWmVyUnFtRkJfam53ZkFoclgzZ0M4eTZtSGRJOUl0UTdMSjkzRi12QVZSSzloS092NDRSZkI1NnEyQ0V5YkdzeGd2S0ltX0dYanhrWXpFSmp4dUJUQlByWm1Ba0xTN3l1MzZubkxvZnBqSmFQcmZ3Rjd2U2s?oc=5",
-      "source": "MarketBeat",
-      "published": "2026-07-24T07:34:06+00:00",
-      "summary": "Elevated Capital Advisors LLC Has $11.67 Million Holdings in Apple Inc. $AAPL&nbsp;&nbsp;MarketBeat",
-      "key_points": [
-        "Elevated Capital Advisors LLC Has $11.67 Million Holdings in Apple Inc.",
-        "$AAPL&nbsp;&nbsp;MarketBeat"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Accredited Investors Inc. Sells 9,918 Shares of Apple Inc. $AAPL - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0NtRS1xYmc0ZHNNUm1DVjFGckV0blQ5d2VSRHhHN0p4V0pZbmZrd0xHOUpzUm1lalhieUh2QVJaclJRQkxGNE01bVZoVGQ0RVZsTXU4THVyUF9TNzYwUER3Q0FoZjhoVVhlNkptQ0lYUDhIOGVIVnk4aXNIU2duNlhIMU15QlFKVUZ1emxtOFZXbTI5OWJrc0o5TkhuOEZkSG8zc1hzZEV1M2VVMHFINVlBMlJ5VWxpVm1pZVV3?oc=5",
-      "source": "MarketBeat",
-      "published": "2026-07-24T07:08:01+00:00",
-      "summary": "Accredited Investors Inc. Sells 9,918 Shares of Apple Inc. $AAPL&nbsp;&nbsp;MarketBeat",
-      "key_points": [
-        "Accredited Investors Inc.",
-        "Sells 9,918 Shares of Apple Inc."
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -896,7 +965,7 @@
         "AI is forcing Big Tech to do something it's never done: Spend more than it earns, and Wall Street hates it&nbsp;&nbsp;Fortune"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -914,7 +983,7 @@
         "Utah business analytics firm Domo to be acquired in $400M deal&nbsp;&nbsp;Deseret News"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Business & Financial Analytics"
       ],
@@ -932,30 +1001,12 @@
         "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Google and Tesla shares plunge as AI spending rattles markets - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVzVZQlgwd2o3MkNkSlZlVkVmVmFJU21GTTJOR1g4V3Bwb19TVEZiRUNGc3d5T0g4WkljemsybW5ma3dndEVULTJFZHp4VXFEZUdVdmo4b29VQQ?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T20:42:33+00:00",
-      "summary": "Google and Tesla shares plunge as AI spending rattles markets&nbsp;&nbsp;BBC",
-      "key_points": [
-        "Google and Tesla shares plunge as AI spending rattles markets&nbsp;&nbsp;BBC"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -968,7 +1019,7 @@
         "AWG Leverages Student Business Analytics to Help Drive Private Brand Growth&nbsp;&nbsp;Store Brands"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Business & Financial Analytics"
       ],
@@ -986,30 +1037,12 @@
         "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Magnificent 7 Lose $797 Billion as AI Skeptics Dump Tech Stocks - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3FDZWU4M0lzN0pmSTdmaFN1VnRWVkl4YUZTT1lvc2NsM2puNWFtRFliaGNiVk43a2RKSGs0OWg4Nkh2UG1jQTlvMkJCMjBvZ0h0NkwxSjUwVjZfUm9CaXlBSGMzdTEzNVRQMUhnZ05WejBtTzVLZjhNWUdJUDctdTNOVUc5bC1sM0I2NUI2QVBHckY3aE5tZHBUM2lLS0F5ZWJvbWhiZzBjUWJZQkxaVnE2RXE?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-07-23T20:10:22+00:00",
-      "summary": "Magnificent 7 Lose $797 Billion as AI Skeptics Dump Tech Stocks&nbsp;&nbsp;Bloomberg.com",
-      "key_points": [
-        "Magnificent 7 Lose $797 Billion as AI Skeptics Dump Tech Stocks&nbsp;&nbsp;Bloomberg.com"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1140,24 +1173,6 @@
       ]
     },
     {
-      "title": "China's Geely to make EVs at Ford plant in Spain under new joint venture",
-      "link": "https://www.cnbc.com/2026/07/23/ford-china-geely-ev-europe.html",
-      "source": "Business News",
-      "published": "2026-07-23T11:49:29+00:00",
-      "summary": "Ford and Geely plan for the joint venture will begin operations in the first half of 2027, with the first new vehicles scheduled to roll off the line in 2028.",
-      "key_points": [
-        "Ford and Geely plan for the joint venture will begin operations in the first half of 2027, with the first new vehicles scheduled to roll off the line in 2028."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "How Mitsubishi Electric Automotive Czech transitioned to data-driven decision making - Machinery Market",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3FnQ2RKQVpqLVhoYXpWUnJ5LWgxWEk2djhNWnZuWjlYalRXakYwa043TFgydGExR3VLSE1ld2d1anZZdkJkclBrWVltOWJPQWdGYnl5WVFRZUIycHNucUR4VG5wREI0Z3liajdvTjkzeldFenE3MTFpQzI1Q0k2cWEzNnI5eEd0QzhQVUR6bnBJdENBRV9CNm93U3pURDFXX1IyQXNWc1p2S2NUU0dKcDMtQWkxZHdrRXZKSDNIN1FlNEJEaWxYSUdB?oc=5",
       "source": "Machinery Market",
@@ -1227,6 +1242,24 @@
       ],
       "sections": [
         "Education"
+      ]
+    },
+    {
+      "title": "UW-Oshkosh adds MBA in Business Analytics; program will launch in fall - Universities of Wisconsin",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRER6bWlITGNZR3c2eUR6Q0ZTNXlDOE1scjMzenNrVlVRSVh4d0xVN2dxWUJBeG9lVXNSeFo4Q3Q5Y0JtSG5qbjZpS0h3bHFoOVp1WjZSTmdyYl9iWE0taFQza0FpMmF1MXNOcTBzV2VmUUhRbW94bUQ0TVFvTVlfbVJOYzBkMkJEb3hNbE5wRDVmTnZTRkxrQ1JOakpOdHlYbWNXeWFSTUZ3cEt0UlEwS1hZRWZwWkdkY2cw?oc=5",
+      "source": "Universities of Wisconsin",
+      "published": "2026-07-22T14:32:12+00:00",
+      "summary": "UW-Oshkosh adds MBA in Business Analytics; program will launch in fall&nbsp;&nbsp;Universities of Wisconsin",
+      "key_points": [
+        "UW-Oshkosh adds MBA in Business Analytics; program will launch in fall&nbsp;&nbsp;Universities of Wisconsin"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
       ]
     },
     {
@@ -1461,25 +1494,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "What Is Financial Analytics? Skills, Jobs, Salary, and More - Coursera",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pLWtVVXI0dTdiNlpfd1lkT1FSUlhkcjFlZk82OHN6YWpaOGVYT2tOdU5IUmZtNXVFLWdqQjBRLUQ4UTAzLTJ3UHJBU0ViUk1jYUNPdkFBTzdxM2JmSnZRQ2ctbw?oc=5",
-      "source": "Coursera",
-      "published": "2026-07-17T05:36:00+00:00",
-      "summary": "What Is Financial Analytics? Skills, Jobs, Salary, and More&nbsp;&nbsp;Coursera",
-      "key_points": [
-        "What Is Financial Analytics?",
-        "Skills, Jobs, Salary, and More&nbsp;&nbsp;Coursera"
-      ],
-      "why_recommended": "Matched your \"Data & Portfolio Tools\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Data & Portfolio Tools"
-      ],
-      "sections": [
-        "Projects"
       ]
     },
     {
