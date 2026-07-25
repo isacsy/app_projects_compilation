@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T16:09:01.698801+00:00",
+  "generated_at": "2026-07-25T19:19:21.624680+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,17 +8,17 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off. (Finance) | Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know. (Finance) | Big Tech’s Trillion-Dollar Bet Is Starting to Crack, Investors Are Looking Elsewhere for Profits - 24/7 Wall St. (Technology) | The August stock-market slump is a myth — so why does Wall Street keep repeating it? (Finance) | I’m 38, lost my job, and have to move back in with my parents. What did I do wrong? (Finance)",
-  "count": 90,
+  "daily_brief": "Top stories right now: Yes, the AI stock selloff looks terrifying. But it might actually save the bull market. (Finance) | College kids are moving into retirement communities for reasons beyond ‘cheap rent’ (Finance) | Is your index fund an accidental bet on AI? These two massive ETFs show why it might be. (Finance) | Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in. (Finance) | ‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home? (Finance)",
+  "count": 87,
   "items": [
     {
-      "title": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
-      "link": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T15:30:00+00:00",
-      "summary": "More than 200 individuals had a total of more than $85 billion in tax-sheltered retirement accounts",
+      "published": "2026-07-25T18:59:00+00:00",
+      "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
       "key_points": [
-        "More than 200 individuals had a total of more than $85 billion in tax-sheltered retirement accounts"
+        "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -30,13 +30,13 @@
       ]
     },
     {
-      "title": "Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/still-waiting-for-the-free-1-000-to-hit-your-trump-account-heres-what-to-know-acc5c789?mod=mw_rss_topstories",
+      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+      "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T15:20:00+00:00",
-      "summary": "Around $1.5 billion has been deposited into the accounts since their launch earlier this month, the Treasury Department said.",
+      "published": "2026-07-25T18:54:00+00:00",
+      "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
       "key_points": [
-        "Around $1.5 billion has been deposited into the accounts since their launch earlier this month, the Treasury Department said."
+        "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”"
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -45,6 +45,170 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
+      "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:45:00+00:00",
+      "summary": "South Korean stocks weren’t a big deal in emerging-markets funds. Artificial intelligence changed that.",
+      "key_points": [
+        "South Korean stocks weren’t a big deal in emerging-markets funds.",
+        "Artificial intelligence changed that."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
+      "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:34:00+00:00",
+      "summary": "The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.",
+      "key_points": [
+        "The Iran war isn’t causing your energy bill to soar.",
+        "Blame Wall Street for that."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+      "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:31:00+00:00",
+      "summary": "“I own my home outright, have no children or other dependents.”",
+      "key_points": [
+        "“I own my home outright, have no children or other dependents.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
+      "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:15:00+00:00",
+      "summary": "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute.",
+      "key_points": [
+        "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "link": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T18:00:00+00:00",
+      "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
+      "key_points": [
+        "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
+      "link": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T17:48:00+00:00",
+      "summary": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
+      "key_points": [
+        "Stay with the AI trade and overweight technology stocks, according to one earnings expert."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
+      "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T17:36:00+00:00",
+      "summary": "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails.",
+      "key_points": [
+        "Bots can build a portfolio in seconds — but wait until you see where their financial advice fails."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T17:24:00+00:00",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "key_points": [
+        "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQmN4ekdZeXppaXlQZkRRd3kxcXhTZnliNy1kQWNVMTR0VmR3cjRJdk9aUXd1SDZoTjIxc25LYTFPMTVSb05WVXRjSlViZ0dUbmtXYkpZVmFYRFBWQlJZay1lSjM1LWFvZWctaVc4bWRBUF9KSFlzZVJoZ3l4dkpZQkdCVUptQ3FUZXFVUHRJRnVvejh0U2lJM2x6VU8zQUtuRjlIaDdwaXZGODJENVVxazFPU294ZEVQUXQyMW9kdTRFMFNUS1hic2JGbGZMN01taDI1WXFhZ0JZREtHa1cydm95ZTRoQlJYU0lXVlJkUE5qUXJrbkdKWlZpYTZfdzZzWDFEZEUwaEpra0dTWm5vMGkybk9yTWNnal83Sg?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-07-25T16:41:59+00:00",
+      "summary": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure&nbsp;&nbsp;Tom's Hardware",
+      "key_points": [
+        "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure&nbsp;&nbsp;Tom's Hardware"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -63,42 +227,6 @@
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
-      "link": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T14:59:00+00:00",
-      "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
-      "key_points": [
-        "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
-      "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T14:56:00+00:00",
-      "summary": "My emergency fund is running out — I thought I did everything right",
-      "key_points": [
-        "My emergency fund is running out — I thought I did everything right"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -121,101 +249,10 @@
       ]
     },
     {
-      "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
-      "link": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T14:32:00+00:00",
-      "summary": "Bob Elliott sparks buzz highlighting the bargain level of TIPS.",
-      "key_points": [
-        "Bob Elliott sparks buzz highlighting the bargain level of TIPS."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
-      "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T14:21:00+00:00",
-      "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
-      "key_points": [
-        "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
-      "link": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T14:08:00+00:00",
-      "summary": "The 30-year fixed-rate mortgage edged up to its highest level of 2026.",
-      "key_points": [
-        "The 30-year fixed-rate mortgage edged up to its highest level of 2026."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Your retirement math may have a surprising flaw",
-      "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T13:53:00+00:00",
-      "summary": "Stress-test your retirement plan against late-life healthcare and housing shocks.",
-      "key_points": [
-        "Stress-test your retirement plan against late-life healthcare and housing shocks."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
-      "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T13:36:00+00:00",
-      "summary": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
-      "key_points": [
-        "Active stock pickers almost always lose against the broad market.",
-        "They can’t beat simple math."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "The Clock Is Ticking on Wall Street's $1.5 Trillion Powder Keg, and History Says Time Is Almost Up - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM3E2Xy1rVGtqSEtabFR6MVlUdDhXc3ZibjZkbDB2TWRuSTZXV01LSnJlSk1PQkktNGtiazZzMHBmaFRpNi14eTU2RFFzV1o0R2JVd0J3dGNtcXN5dVRCU3hrQVU0T2JaN3RsSmtEM0E1OUlIaVlZVDhQXy1Sa2JuT1d5RjdBQ09yMVc5TEJnWTZiOWJyb1E?oc=5",
       "source": "The Motley Fool",
-      "published": "2026-07-25T13:32:06+00:00",
+      "published": "2026-07-25T14:06:00+00:00",
       "summary": "The Clock Is Ticking on Wall Street's $1.5 Trillion Powder Keg, and History Says Time Is Almost Up&nbsp;&nbsp;The Motley Fool",
       "key_points": [
         "The Clock Is Ticking on Wall Street's $1.5 Trillion Powder Keg, and History Says Time Is Almost Up&nbsp;&nbsp;The Motley Fool"
@@ -278,43 +315,6 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
-      "link": "https://www.marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T12:00:00+00:00",
-      "summary": "It would likely be too expensive and time-consuming for SpaceX to build a mobile network on its own. But the major wireless carriers have to hope one of their rivals doesn’t sell out.",
-      "key_points": [
-        "It would likely be too expensive and time-consuming for SpaceX to build a mobile network on its own.",
-        "But the major wireless carriers have to hope one of their rivals doesn’t sell out."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Morgan Stanley’s Latest Apple Stock Price Prediction (AAPL) - Watcher Guru",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUkNPWlZxalRTYXFvMUI2ck93eDMwaWp3S2NwWU41U21rOVZrRHJaeXZBRUpETWktVUlkdVVWQlJOUFdxQ1M4Nm1xeDEzQktNemFmOXdhS2x2T3BYc19YYVMzeFk2VXdYOTFtOEFfZ29sVjJKN0RVQllDWndUY1lfVkdaWGF2ZWdVb2c?oc=5",
-      "source": "Watcher Guru",
-      "published": "2026-07-25T10:08:15+00:00",
-      "summary": "Morgan Stanley’s Latest Apple Stock Price Prediction (AAPL)&nbsp;&nbsp;Watcher Guru",
-      "key_points": [
-        "Morgan Stanley’s Latest Apple Stock Price Prediction (AAPL)&nbsp;&nbsp;Watcher Guru"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -545,6 +545,24 @@
       ]
     },
     {
+      "title": "How major US stock indexes fared Friday 7/24/2026 - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDYyQWtuTGN4ZGpYVlJxU2xqNEpKaDZrclNYVklMRnJLaWxlLVJ1dlh3cVdFR0VZeFZ3cEpFbkxWS1pEVGE0U0VxTlJ1eWRUVUQ0RzRzMXRFWkpGU2NjVG9SbkVZbkotZWFOa2VKM1FHOGpsSW5kTVY0YjdsQzdGX0xITEtlb2g4clRRLUNZVWtjbU5yVnFSSFRTUzJsdHBmWGJ2dm9VbmpudGZmRG5ZS3dEVTZYaVBhRm84aFFHZTJWaVk?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-25T03:37:12+00:00",
+      "summary": "How major US stock indexes fared Friday 7/24/2026&nbsp;&nbsp;The Washington Post",
+      "key_points": [
+        "How major US stock indexes fared Friday 7/24/2026&nbsp;&nbsp;The Washington Post"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Career & Finance Horoscope for July 25, 2026: Fortune may surprise you today | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcTlsMzZISENmNjNGelRoLTVZa2EzWXFnNXNmRlN4aHBjbTdnamJzdWZOeFBSQjNTTllnOGhXQ3J0eXhIMDUwMWpnM3ZfWmcza1FYZTlnNVBsVjlaZkdoeUpycVo3RHVNRXAxaXp4ZmgtWjAzcHBXWnZFWkt2dE1Fd1UtQkZWeWtlY0xOY0ZSR2puODhZZ1J0TldTbjkySFZjcDI1alV3dExZYllxRnhwcVVTSGVpSVh3OXlqa0k4MlVleDMwOXcxcG5XeVhicXhDNUZxdzk2ZDR2NFZ10gHiAUFVX3lxTFBWckNXT1BoSjRrZGI3VW9zLVVHbEtZdGxDRGpON1RzcXo5NXozT1VnbUctTHF1Q2VnbmtOb1FHa01YSnRpMVV4Rkxsam9maFNKclVieEpLQU9WVTFxYXRac0hwVFk3bk5JSFFzWHAySl9fVzBOSnNjbHVyR1VqMHdLZHNVejhsdWZLRmd6R1NoODQwWXBlM1h5ZGREQjJFN2xieVJLYm1tbWIySEdsN21TWjhwUGJGcFkwN2JjbjhnZ2ZKaUZBZHpHbnNwTS1PQjNLVTVUWGZZcjZpMDdvYWx6Unc?oc=5",
       "source": "Hindustan Times",
@@ -727,6 +745,42 @@
       ]
     },
     {
+      "title": "Apple (NASDAQ:AAPL) Shares Up 3.5% on Analyst Upgrade - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVhrN2U2enN1b28zMmQ4ZFlrcS1hTVluYVFteTl2X2d6TzhfRTNvS2tZT1hOU1RzQVgwLVVMSkxnVDBMVXotYVpEUmlGWTF6VVhOUzZmbXB5cmM4aTBQajRfV2pQV21XR1JFNXM0OTA0d2VnTkszcTBfWFpiV2tMZEhCZEw0bmV2S2FLbDBWTFFraWIxNXZjU3dBQU5BSHA4S09NZg?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-07-24T21:02:51+00:00",
+      "summary": "Apple (NASDAQ:AAPL) Shares Up 3.5% on Analyst Upgrade&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple (NASDAQ:AAPL) Shares Up 3.5% on Analyst Upgrade&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVmpaZkdKUzVtbG14WVhZR2FGY1lUZmVjYVdEcV9odng3VmRJRlg3YVlxXzFCenVUQnZHck05ZXN3WERSSC0wcWdRM2FDd3JKZjF0MkFfb0pHTHE1UVFpMGdDcjZ5dlJrOF9EYVJGbHdySjFWM1ZsLTkwSWhsM2N4WktqU1NFdVhMakprNlZkMlBZb2F1WjhqRnBHZ0J4WnBzVXdsNXpzc2FaLUNPRlBIT19qblpKeFV5bzNDSklRMzVaQ212OEJTZ2wzUk9BalRQcnVlbjBVajhYZGRfblA0S3J3?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-07-24T20:49:25+00:00",
+      "summary": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus&nbsp;&nbsp;Stocktwits",
+      "key_points": [
+        "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus&nbsp;&nbsp;Stocktwits"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "The Best College Degree for Paying Off Student Loans Quickly, Based on Salary and Debt Rankings - Investopedia",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONE5lcVJ0V2E1TFFXTjhhdUV6X1p2dk5aczExZUlXYmdxUXhNaU5OTFFqZUc5cnB0ZG14dEdFTWw1Skw2V21oTmJUY2l4YVlWc1p2Q2gwU29yVk5NeHY4T1YtSHJQbWhncDhfOFFxLXE5cWdoS0RRVFVGMnQ1QzBaUTBhcHhCQjhoQkpJQTZIYUFEd3VCRnZtQUt6NHBxM1cxamhzenVmX09mZEM1S3gzdThfR1Q1aFIzdk00SkU5WTU2X2d6cGpybU9nZ1U?oc=5",
       "source": "Investopedia",
@@ -781,24 +835,6 @@
       ]
     },
     {
-      "title": "Stocks Struggle as Iran, Inflation Worries Persist: Stock Market Today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVVkNk8yX3hmdTgxY19VeXdsdENxZE9tRTVCbW5OZDVfY1FUV2NsaDRVSW1CbjA3NHNub0xxSVFSeEcxN3IyaUt2dlpOWGdTTjhadUhBR1lYNDlYQzI0c0FpV1A0XzloY0JnZzMya0xCMVJsNkFjTjl2Q3ZvMHU3TmV1LVpHSm5uWVJRSmVVMElHVU5ra3FseVFyVmZ2cjVzRkplb3RR?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-24T20:08:04+00:00",
-      "summary": "Stocks Struggle as Iran, Inflation Worries Persist: Stock Market Today&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Stocks Struggle as Iran, Inflation Worries Persist: Stock Market Today&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "CDC says massive cyclospora outbreak is now in nine states",
       "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
       "source": "Business News",
@@ -817,6 +853,24 @@
       ]
     },
     {
+      "title": "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEx4TTJ0MlFnQXdLVDZ3OUdIbEVEdTY3RGFDVWtBZUJTenpPd3hJRG96MExyS3FkVlBHaUlZeVQ5Zi1Dbmg2YldiZXFXbWpfTE00YldQZ1dyLU9sWHVGaENmT21vQnRCNTV1cXJGc0tHekFRTVd2TWJicUZKZ1FtbkdTMFZSWTFnMXVDUVJVeGJIV0xrMi1SUV9mc3oxN2E5OTBldU0yVnBQVk9DbGw2U1hjV0tOZw?oc=5",
+      "source": "Investopedia",
+      "published": "2026-07-24T19:22:13+00:00",
+      "summary": "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence&nbsp;&nbsp;Investopedia",
+      "key_points": [
+        "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence&nbsp;&nbsp;Investopedia"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTW54UjY0dzZndlJBcHUtNHVpUnd4em1TWFlha0hCMzhyV1dFNVo4YUdsdUFLZUlmNnU5X09pTlY3cVhKck1pMGs1eDhZOEtmbTR2Q3EwNV9OZlVGaC1LR2xpZC1XenJjUWpuY1RrLUJWdVFkM3BxSWdOc1JjMTZ0UTUxSEhFdWVQYUc5bnpqYllZbkptb2hQUTFrYm5nWFNmelI2Q1pnQlhtWjBpaHRqMXpaaXNvbVYzYjdVb1Jld21OT2ZSOEhQcVlOZWo0RWxDRnVBRjBMaURiR2IydzhTY0lZYWpUdHRpeFdkeGI5Qk5Zb1BMQlE?oc=5",
       "source": "Tom's Hardware",
@@ -826,7 +880,7 @@
         "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list&nbsp;&nbsp;Tom's Hardware"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -844,30 +898,12 @@
         "Nvidia, Microsoft and other tech giants back open-source AI models&nbsp;&nbsp;Reuters"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Stock Market Today: Oil Slides But Wall Street Breathes as Dow, S&P Rally - Vanguard S&P 500 ETF (ARCA:VO - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb08wYzZuZ0pENzhCLWJWNUJrbk1ucW0wbE1JOFk1NWwzZU9VV1pDQnBOWWlfTGV1WmVWcmtaT3BfVVVKMm1ObE5FcFJNd1JhS2RWd1hNZFZkdUdUbEg3R0x0enhXNmZkeS04Zjc4RzRDSUUtWGprSG0xczBFNVNfYk1ha2M0Xy1pSHB5TnZoakFEOXVYTkFtUE5RTnFxMDFUd2l6RUM1VGdVM1VFeXBLS1gzMV92TG9PbVE?oc=5",
-      "source": "Benzinga",
-      "published": "2026-07-24T17:59:57+00:00",
-      "summary": "Stock Market Today: Oil Slides But Wall Street Breathes as Dow, S&P Rally - Vanguard S&P 500 ETF (ARCA:VO&nbsp;&nbsp;Benzinga",
-      "key_points": [
-        "Stock Market Today: Oil Slides But Wall Street Breathes as Dow, S&P Rally - Vanguard S&P 500 ETF (ARCA:VO&nbsp;&nbsp;Benzinga"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -880,7 +916,7 @@
         "Fashion Retail Trades Gimmicks for Operational Tech&nbsp;&nbsp;WWD"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -898,7 +934,7 @@
         "OpenAI's HuggingFace breach heralds an unprecedented age of AI cyber warfare — contemporary LLMs have caused massive upheaval in cybersecurity, and it's only going to get worse&nbsp;&nbsp;Tom's Hardware"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -944,24 +980,6 @@
       ]
     },
     {
-      "title": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcVc3WDJZZUNTbmNQMDBZcHNsUHNWcUt2WTdxWEI4VXFxQXc3RHJsUEpVbWZjMWJmbmwwcmlIUXVGcTM1SjVZdkJ6c3RYa2RQNFZvTmJ4dnRSd3VQa3pZRXFZT0lSYmhOTXdaNjY2X0hVUlB4TmZEMWZJbFdkY21FTXA1T1cwRk5vVWNmbUNxUlJDUXpEcUZCSHlkeXdITy1yaG1QWEI1QXg3d3FteTNIUWZDUWlMOHQ5NUNaY3ZtSUhCVXppWmJVYWZtMWZ1NWR4MkdkMXZFVHVubkJmM19HYTkxeWRPRXZTaTYyXw?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-07-24T13:47:15+00:00",
-      "summary": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days&nbsp;&nbsp;Tom's Hardware",
-      "key_points": [
-        "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days&nbsp;&nbsp;Tom's Hardware"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
       "link": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
       "source": "Business News",
@@ -977,24 +995,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "This start-up wearable gadget promises “meaningful memories.” It’s all AI-generated - Digital Camera World",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSUtlWmh6dTFCT05fVUI1VWUyZlpWV0REbjZFVThfT0VNUlVLUE4zU3ctZnZBd0ViRDItVnFWMWFaS3lKVldRUm45MGZlWWJrYkl6YWwxdjljenBqSENialBYOGJSSE94T0NQWGpMbUVOakpmdmxmc1ZYS2p1NkgwRkRaOGZMN3ljdVVXVUYtUkc5RlhHbmpEUWZrRDdWRlNmZ3M5amNTS3p4S0Y0MEFSQzNKNFM1Ymw0d3J4OVhuRHZ6S1lhSGxtOGhUS3V0ZlowQWJFUHRtR1pfanpXRTY1b20zcXRjRi1obm9JWA?oc=5",
-      "source": "Digital Camera World",
-      "published": "2026-07-24T08:00:00+00:00",
-      "summary": "This start-up wearable gadget promises “meaningful memories.” It’s all AI-generated&nbsp;&nbsp;Digital Camera World",
-      "key_points": [
-        "This start-up wearable gadget promises “meaningful memories.” It’s all AI-generated&nbsp;&nbsp;Digital Camera World"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1032,24 +1032,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "Utah business analytics firm Domo to be acquired in $400M deal - Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObXBrRTdqV2V6ZWRNTkZzRmRBM0hCR3A0YTVTS010U2xValZ3Vnl1Z1M4NUtNMnAwd2FvRHhnNVNDeGh4ay1VYTltUkstMHJLb2xjMUNLUEM5WlhKZlROcXYycHBRaGc1XzQyTlFiWnlnUWxWcnNRRWl3LWw2cWNtelVVcldIVWhMSGRneHdyYlhlVFhaUXNwU0k1aFhzdDNMUkFEMGpTVW5XQkRCakhBc3M0clRib0h1MjFjdFF4RHB2dWJzX19VZHc0MEpsLUVCcVhuY1BUaXBpTXJnZGFNQWRRcnVBQ3ZEV2o3Zg?oc=5",
-      "source": "Deseret News",
-      "published": "2026-07-23T22:01:00+00:00",
-      "summary": "Utah business analytics firm Domo to be acquired in $400M deal&nbsp;&nbsp;Deseret News",
-      "key_points": [
-        "Utah business analytics firm Domo to be acquired in $400M deal&nbsp;&nbsp;Deseret News"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
       ]
     },
     {
@@ -1397,24 +1379,6 @@
       ]
     },
     {
-      "title": "Women urged to see personal finance as a career - Financial Planning Today",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmUwR1MyX1BTOUxfd0VfaWxoZ3RTdkJxUjBwVElYM2hQOFN4M081VVl1S19jNEZMZjVaenY5MFR6T0JIbTdmek1VQkRmMmNLMy1CYmN6ckJPVGc3VFM5bkN6TUhtY0ttWEpaT1FRNG5uWHduVXp6ZUxCbGZULU9OZm9KUVlPSXJMTjA0bWJibXRESmZyczVTdQ?oc=5",
-      "source": "Financial Planning Today",
-      "published": "2026-07-20T10:53:27+00:00",
-      "summary": "Women urged to see personal finance as a career&nbsp;&nbsp;Financial Planning Today",
-      "key_points": [
-        "Women urged to see personal finance as a career&nbsp;&nbsp;Financial Planning Today"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
       "title": "Data Analyst Syllabus | Data Analysis Course Outline 2026 - Simplilearn.com",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uQ2tIUld0QzJ1NDJWcWg3Qk1RaVVIc2xlX29wSHFtNWs5eDFpQzZGdl9mbDNaSTRLckFRYkZfOUhLNWtGX2JZaTJnMDVFT2J1X3R3Ti1idFNTQ2pDMGZDZWl2RVFmeGll?oc=5",
       "source": "Simplilearn.com",
@@ -1430,42 +1394,6 @@
       ],
       "sections": [
         "Projects"
-      ]
-    },
-    {
-      "title": "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbjM3Y21RZDduaDhMc1F5bF91bnBkMGx1akJaeldmUTVVRE5MNlZocmxmajFhV2QzaVh6dTRwV0s4SFFHY0NTQWtnVi1RYzZfSm51M3MwNGttZWx4MTNEcXhna3RsekZrM1FIWnJoaFVEUFdReV9XM21GVXV2QWFvbXlGXzRJTWgyc255akFaS3Z4Mm1EZjRaWkJlNWdzdExIZlRNNUkwR2pJXy1kZmY4eWhsOUtDTFZNQV9GV2g1ZV9QSEJTUWZGR0xDVjZOeFRQakp1TjFBWW9vUlZPN01YZTI3b0NJcVRyeWZv0gHwAUFVX3lxTE00UkhzME9oSXQ1MkU5eTdsc0dVYzFkQXFxZDczWnA2Y2s5NE9lbEFpRExIby1fS0ZtM0Z6QWVoenZCWk0wWVR5T29WbjB4UWYyVXZrNUxIa1FPUlhGcmJUUC1ESEpkck9EU2QtSEZuLVlJZHo5djI0UVR6OUNWb0RrTkladk80RnNkckpNQ0s4bFlrcWF6S3pkeTRNNDJZeTVSQnFTb1lxTWZNanQ2VHVMQmJKSm1VbzJYRTRIM2ZEQllXVW9ybVA4Y3ZUNTh2eVd3RUhNZUhUVkhqcFdjTTI0eENMSFlzNEZrWmlReWlZVQ?oc=5",
-      "source": "Moneycontrol.com",
-      "published": "2026-07-19T22:30:19+00:00",
-      "summary": "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com",
-      "key_points": [
-        "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Weekly Career & Finance Horoscope, July 20 to July 26, 2026 | Astrology - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHpnTl9QLVlZRV96eW00UklxczNVTEhtdWtlTzFyQ0VYTDFRRlE3QVJiaWczalNFX1lWVEd3SjlnVjNsRjVsRno4RXVyYmpNZUotT0Vzam01REJxdmw2VDRuNC1sWi15cEZmeFY2YmtCQXN6YmpoU2ZlQnVRSDR1Mm5YeGlPUXNhUWdiMF9FUk8xVEVUbmd2VW5IZUxGZE9RRVlSVmRSSzlxV3JZV0tVN0VsMzBPUVo3VzNVRWRUc0dfVnVNcWfSAcsBQVVfeXFMTld3NC1rZlBpeExVQVlraHozRVQ5NmZKS0JPODFObmJQekpJY0FycmRzenZVTkVjQ25FQ1Rza1p1UXVVTkNRRnAtSDZjQ2R2NEZPQmE2QWtUWlBLbG42TFl3cXNVSW1hQUxhd2NBVEt3UXpFLTl5Y0lBUFU3YTlTWHpXbHF5bmRZcFAtMHIwOHFCSF9nZUFtdU5PSVhLQWQwTjZ6STBDaVdDX0R0bzJnREVrUUFNSTNHYXhOQVNLQmdMTTB2Z0dwN04xTG8?oc=5",
-      "source": "Hindustan Times",
-      "published": "2026-07-19T03:00:30+00:00",
-      "summary": "Weekly Career & Finance Horoscope, July 20 to July 26, 2026 | Astrology&nbsp;&nbsp;Hindustan Times",
-      "key_points": [
-        "Weekly Career & Finance Horoscope, July 20 to July 26, 2026 | Astrology&nbsp;&nbsp;Hindustan Times"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
       ]
     },
     {
@@ -1614,6 +1542,42 @@
       ]
     },
     {
+      "title": "WWA launches career guide to encourage women into personal finance - FT Adviser",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RZWQ2aTZMOW1melhDeWRGSjYyLXpwRGtDblhHTWJzWnkwcFllclVjSm5jWU5fZkpDOVpZaDI0dkNmZkpVaW1fSjZ2RkpVZWZtdzdWLXBLNDBQdTZsUHQ5RGR1Z3lIcVFpdmMzOTl1SzhvQUZDbG9YT0dR?oc=5",
+      "source": "FT Adviser",
+      "published": "2026-07-16T17:19:59+00:00",
+      "summary": "WWA launches career guide to encourage women into personal finance&nbsp;&nbsp;FT Adviser",
+      "key_points": [
+        "WWA launches career guide to encourage women into personal finance&nbsp;&nbsp;FT Adviser"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "Liquidity in Malaysia may tighten further as rate-hike bets grow - Free Malaysia Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWF4amNRbFdVZmhwajVCOFUwVmRkeElENk9iZ2ZEbS1UcF9FSmxQYk1LREVkMUw3YkNsMmVLLVVtZkc1TnVKR2paakhyakFlczFGRkc4ZndBeV8xZVhXY2YwY2pqamVwN0E5U1NEYXQ4UGNXNGEzQnBYVWhIS1c1djl1RnNFVTloUzdvQUVOODVLZml5YXVyWExQeUo0ejVnQmdCdmp6RHp6N0kxeFltbm1yZHV4NXRDbXZTVUNsTW9fbk0?oc=5",
+      "source": "Free Malaysia Today",
+      "published": "2026-07-16T07:00:00+00:00",
+      "summary": "Liquidity in Malaysia may tighten further as rate-hike bets grow&nbsp;&nbsp;Free Malaysia Today",
+      "key_points": [
+        "Liquidity in Malaysia may tighten further as rate-hike bets grow&nbsp;&nbsp;Free Malaysia Today"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "7 Must-Have Skills for Data Analysts in 2026 - Simplilearn.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KX1B3Z25pV1FpRDQxRGFnSXoxN29NYVo5LWlXTDRZM2tFODB3ZEJ1bWZOVlpaX21MaGlKR2NQR2RCLWNLRngxUWhVUWROcmwyTEFVX1ZmbmR3SWU5WDFWcnNhMU5JWmdmR3FV?oc=5",
       "source": "Simplilearn.com",
@@ -1629,24 +1593,6 @@
       ],
       "sections": [
         "Projects"
-      ]
-    },
-    {
-      "title": "Liquidity in Malaysia may tighten further as rate-hike bets grow - Free Malaysia Today",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWF4amNRbFdVZmhwajVCOFUwVmRkeElENk9iZ2ZEbS1UcF9FSmxQYk1LREVkMUw3YkNsMmVLLVVtZkc1TnVKR2paakhyakFlczFGRkc4ZndBeV8xZVhXY2YwY2pqamVwN0E5U1NEYXQ4UGNXNGEzQnBYVWhIS1c1djl1RnNFVTloUzdvQUVOODVLZml5YXVyWExQeUo0ejVnQmdCdmp6RHp6N0kxeFltbm1yZHV4NXRDbXZTVUNsTW9fbk0?oc=5",
-      "source": "Free Malaysia Today",
-      "published": "2026-07-16T02:57:15+00:00",
-      "summary": "Liquidity in Malaysia may tighten further as rate-hike bets grow&nbsp;&nbsp;Free Malaysia Today",
-      "key_points": [
-        "Liquidity in Malaysia may tighten further as rate-hike bets grow&nbsp;&nbsp;Free Malaysia Today"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     }
   ]
