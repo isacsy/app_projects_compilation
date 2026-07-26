@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:22:17.447866+00:00",
+  "generated_at": "2026-07-26T22:05:33.982578+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,82 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: There’s a technical ‘triple threat’ for stocks, but also places investors can hide (Finance) | ‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky? (Finance) | I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional? (Finance) | Apple (AAPL) Prioritizes Privacy in Upcoming Smart Glasses Devel - GuruFocus (Finance) | We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit? (Finance)",
+  "daily_brief": "Top stories right now: Jensen Huang: NVIDIA's Journey From Wrong Tech to A… - StartupHub.ai (Technology) | Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says - Yahoo Finance (Finance) | I will definitely claim Social Security early. Why do so few people talk about the elephant in the room? (Finance) | ‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance? (Finance) | There’s a technical ‘triple threat’ for stocks, but also places investors can hide (Finance)",
   "count": 87,
   "items": [
+    {
+      "title": "Jensen Huang: NVIDIA's Journey From Wrong Tech to A… - StartupHub.ai",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVENoemVQcDRvME1wdXRZaUVPc3RjTktyVDdGMjUwUEZFU25LdnBDbnpPWl9YVVNQTzlvOWs1Z1FITXFWMVdUckhGVERBQjh1T183a3FoLURBdmcwT3pDand6UFByclJXNVlSM2hFNTVCaFhpMnJiUE0xU1F3a3cxcnVrOGJPUk5tdnFyYWY1Wm04MTBQRFZLbUhDREtpS0hzanhHVm5fWldZa1hyQWVFajJ2NVNPcVhZMUFmRzNyVXZzMlZhbEtr?oc=5",
+      "source": "StartupHub.ai",
+      "published": "2026-07-26T21:03:18+00:00",
+      "summary": "Jensen Huang: NVIDIA's Journey From Wrong Tech to A…&nbsp;&nbsp;StartupHub.ai",
+      "key_points": [
+        "Jensen Huang: NVIDIA's Journey From Wrong Tech to A…&nbsp;&nbsp;StartupHub.ai"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlV1YU5Pem9WRWJsS0RpYWpIQ1RjOXZfNGN1LTZlNzdmcFhMWl9IcXFVaUREWURnSUZCV05fQzhoVjB0ZGY1VHMtQ3A5bnQyeGpHZTA2dTZmNkxhdUNtc3lDMjFMYkpZV1hjaEtZb0V4eWxwd1ROLXNSeWJSbHhFb3BvQlowMnBNOUI2UklXaE1UcEJXYkxV?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-26T20:02:46+00:00",
+      "summary": "Is Equal-Weighting the S&P 500 Worth It? Here’s What the Data Says&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Is Equal-Weighting the S&P 500 Worth It?",
+        "Here’s What the Data Says&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T20:00:00+00:00",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "key_points": [
+        "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
+      "link": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T19:30:00+00:00",
+      "summary": "“I would likely be the one responsible for dealing with the house.”",
+      "key_points": [
+        "“I would likely be the one responsible for dealing with the house.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
       "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
@@ -27,6 +100,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Samsung introduces advanced phones and watches with Artificial Intelligence - KOHA.net",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW5BTXNiSFR2SHQ5UWZ2aFZWR0tJTXVXbl81dXNYcVg4cFg4dW1nSGJwbC1ndFYxcGpfZlFaOWZMUGdWQTZoV2k3NzlTb1FiSFdrOTBldG02YlBwMXgzcF9wWkhWd1FVN2t2LUs4YUgtTGt4S1ZwZXNSR215TmZVT2VnZWxtUlQyczhWSmVRQThBZWtET0c2VG9Sd2tzQVFkY3VYaEtwWQ?oc=5",
+      "source": "KOHA.net",
+      "published": "2026-07-26T19:15:00+00:00",
+      "summary": "Samsung introduces advanced phones and watches with Artificial Intelligence&nbsp;&nbsp;KOHA.net",
+      "key_points": [
+        "Samsung introduces advanced phones and watches with Artificial Intelligence&nbsp;&nbsp;KOHA.net"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -174,6 +265,24 @@
       ]
     },
     {
+      "title": "AI Investment Faces Scrutiny Amidst Tech Earnings - StartupHub.ai",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkxTUER0X3dpQ18xSjllMGdSRFNjYkJCRXMzajZyWGR5QUM4c0RVeVIwRjM1d19JaktKdGhPWkZTOGpNMjM3MEx0cURVUDdyczRXYUtEbGJGWlF3Vkp5S0Q1ODhaS3hCVnRKNHBDV2pqWklhR0h4MkNmWEJIaTZhRUduR3pycmx2QW8xSUNMUk1paHJreFFRWWZVa1ZvSjNWXzZQdzhyS00yOVF4Qk5ldTNR?oc=5",
+      "source": "StartupHub.ai",
+      "published": "2026-07-26T14:03:07+00:00",
+      "summary": "AI Investment Faces Scrutiny Amidst Tech Earnings&nbsp;&nbsp;StartupHub.ai",
+      "key_points": [
+        "AI Investment Faces Scrutiny Amidst Tech Earnings&nbsp;&nbsp;StartupHub.ai"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
       "link": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
@@ -186,6 +295,24 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTERQYXZTM0RqdVFkbkZDdmxjbnpFTHlrYTVDdThncW9rUkkweHBLbHl2QkI1Q2FHYVFURUhwcERmNW44VjhsZXB1ZUk1Z3FNLUFJbURzOUlhd0NsRVNiR0d1UWpMdEdfQWRYOXFfb0gyekZLWm1FM0tNRkhXMjNiSVNueFRXb3B5TXVGV0N0OWxXVzh2M2lRUkVyQktmVG9sTHdXNWpzZjRqRV9sMjI2OWNJNzE0OTBQNC1IY3I2QWNTbUVKenRB?oc=5",
+      "source": "Investing.com",
+      "published": "2026-07-26T13:19:02+00:00",
+      "summary": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era&nbsp;&nbsp;Investing.com",
+      "key_points": [
+        "Companies with aggressive buybacks have lagged the S&P 500 in the AI era&nbsp;&nbsp;Investing.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -266,24 +393,6 @@
       ]
     },
     {
-      "title": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTERQYXZTM0RqdVFkbkZDdmxjbnpFTHlrYTVDdThncW9rUkkweHBLbHl2QkI1Q2FHYVFURUhwcERmNW44VjhsZXB1ZUk1Z3FNLUFJbURzOUlhd0NsRVNiR0d1UWpMdEdfQWRYOXFfb0gyekZLWm1FM0tNRkhXMjNiSVNueFRXb3B5TXVGV0N0OWxXVzh2M2lRUkVyQktmVG9sTHdXNWpzZjRqRV9sMjI2OWNJNzE0OTBQNC1IY3I2QWNTbUVKenRB?oc=5",
-      "source": "Investing.com",
-      "published": "2026-07-26T12:44:56+00:00",
-      "summary": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era&nbsp;&nbsp;Investing.com",
-      "key_points": [
-        "Companies with aggressive buybacks have lagged the S&P 500 in the AI era&nbsp;&nbsp;Investing.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUG9xM0hSYW1KT1dYeW9lWEk4XzAtSFdqVVBGS3FyeHU3UzNNX053RmllUXJxcFZQNlhRVnJNOXJkZXpLTTZycUE1dzhNY2ZQcGZhdVBPaHZnQnM1SmVHckFCMkhlNUlCaDVrdHlkc1dmR0h2dmptaE9IWnhHcFNtbmVfbzZad2NSVUdlbzhiZWpSTjdkNjh3QjJLT3hxdndKYXk4Vi1XcHNTOGdlSmI4QVFDY09ZaU9ELTAxd1c5SVRCVDY1ejU5bWlmdC00YVpEeVJvckNpSQ?oc=5",
       "source": "Benzinga",
@@ -296,24 +405,6 @@
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-26T12:30:00+00:00",
-      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-      "key_points": [
-        "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
       ],
       "sections": [
         "Finance"
@@ -563,42 +654,6 @@
       ]
     },
     {
-      "title": "The United States tried to introduce humanoid artificial intelligence (AI) robots for educational as.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PbEFHbHo5eV9CWHRVT2E0V2J1V3gxbzNnODBuLTQtQ2pPZk1tOTR2cFJrVmRqdDA5ME9jQk9OenUyN0ZpMkpJM1NrS2ZhdEE?oc=5",
-      "source": "매일경제",
-      "published": "2026-07-26T07:41:13+00:00",
-      "summary": "The United States tried to introduce humanoid artificial intelligence (AI) robots for educational as..&nbsp;&nbsp;매일경제",
-      "key_points": [
-        "The United States tried to introduce humanoid artificial intelligence (AI) robots for educational as..&nbsp;&nbsp;매일경제"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Artificial intelligence (AI) battlegrounds are moving from graphic processing units (GPUs) to \"optic.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yenpRSDJrYkR3clg3T3BtWnZLazZCSEZtSV9BcnpPYkdobHgxbG5MTWFJQVdPeGUtZnB0QzMxLTcwZ1FVZEpWNWxLWGxmbGs?oc=5",
-      "source": "매일경제",
-      "published": "2026-07-26T07:36:33+00:00",
-      "summary": "Artificial intelligence (AI) battlegrounds are moving from graphic processing units (GPUs) to \"optic..&nbsp;&nbsp;매일경제",
-      "key_points": [
-        "Artificial intelligence (AI) battlegrounds are moving from graphic processing units (GPUs) to \"optic..&nbsp;&nbsp;매일경제"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Apple Inc. $AAPL Shares Sold by American Trust - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUR2b2piYUFXWWtUUUJsdDdPTWlpSnJ5dnR0dm8xTkFjanRIOFdGYTBvTlJodTBTd05wNHIxLXktOFZselFaY2REbW5hQ3d4VWphbDJDRDhDc29WLWxwRGctOE5QR0t0bDNWYnF3OW0xQTZqQmRjT3FKLWp2VVpiamxxY3RmUzQyWkRBclB3Z0djeUFOWVdfZFZnY0ZRLXJHX2U1TUdDTDY?oc=5",
       "source": "MarketBeat",
@@ -636,6 +691,24 @@
       ]
     },
     {
+      "title": "Weekly Career Horoscope, July 27 to Aug 2, 2026: Thorough research and comparison may lead to smarter choices | Astrology - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOc3N5WUpiVDZsckNUNjdwMnlsQzJXaXUtUXMyRHdYOVMtdURXN05lWndxdnVSWkFWZ3JUUDVzaVM5ZmhGdzg5R3p1Nk5ELU02eUtRSU44dTZMM05MaGJkbHN4dnN2NWJ4ZUpfemFWZW8tR3MtTGdqMzRNNk1zMGQ0VFNSbUZzYlo3cTNTTmphUWNnZFV2TUR3bVpKcEZwMGVfN3p5aFVTQnNyaEdxUmswaTBOcUZEYzczUUlEZVY3azVlWFdXVzdqWWNSNC1YWTJDcEZiMVZ3R1dFMGstaW9udll5Z3pyQlM5V3U3UXRwQkpaQXRTRUhqMlBnRVZaZXlMenRIYjJuT0k5Z9IBjwJBVV95cUxOeWxLUWFfMTVoSGx5MkdSNktvTF9BRFJudk5YS3ZsRUVNZFNZV20taWVMQ1FOYzlSTDNuV09YMHVVWDU5M0NWS29sUUdYMmVLUzhRaVFvTzJBX09oZ3lnWk95RDd6WWl4LW4yQk1iRlAzWlJIVUh6RlpuelFmNjdHR0Qta3Z0UVRESlE5Y3BOVENpWU05NF9RSzY0OVptTWJTTEwtNGlNUGVYc0Ywd2Z1WV9DVmt6SnRoSDNFWTZnWTNxczFhcjZkZVVPWDF3aG94ZUYtdDBjNTlkNXdZVWsxel93NWs2c0k0SlVLczRYVVRGUUdrQ1VlWmNTam9YSWZBVXFpWFk2V05SeTZjOWNj?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-07-26T03:00:29+00:00",
+      "summary": "Weekly Career Horoscope, July 27 to Aug 2, 2026: Thorough research and comparison may lead to smarter choices | Astrology&nbsp;&nbsp;Hindustan Times",
+      "key_points": [
+        "Weekly Career Horoscope, July 27 to Aug 2, 2026: Thorough research and comparison may lead to smarter choices | Astrology&nbsp;&nbsp;Hindustan Times"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
       "title": "Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN1V1TUxma3d3V3dxNG53X192d09iUHlWZkhZTzhDSU5xYUFTSDdpc1JBXzdsOGFWY29zNGhUeHdmXzFKTzZhYmM2NmIyVkpueGtzbVVsZVowNWxNMklSbElZcGFzMlItOEpqTURlT0VUT0R2QkJFenEtbDZyWTJRdDR3N05FX25YZmhvZUpoM1JRTkV4MzkwanFtRG1yMUVzNmo3dHRqV1ZoR3NCYjdROUNxLTBmMjhjc1VkYXBrWnJTMzd3MWJSNkZMU2o1aXpGb2hqWVFNMjlxRkFYMl9fZEhPODd0YlN3S2tPaFh3ck92aEZ2WXZ5aElURUlXLURWc1JKc0dkUHBhX0FKcThKQVhPWmhaY3NmVFJ4LUpLdw?oc=5",
       "source": "The Motley Fool",
@@ -664,27 +737,9 @@
         "Top 3 US Stock Market Stories From This Week&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T21:00:00+00:00",
-      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
-      "key_points": [
-        "“I asked why the limit was so low, but they couldn’t give me an explanation.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
       ],
       "sections": [
         "Finance"
@@ -782,24 +837,6 @@
       ]
     },
     {
-      "title": "S&P 500 flashes sell signals — options traders brace for wild swings in Apple, Meta and Microsoft - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON1hZUG51eU9SOVJtM1J5a18yeDJ6R0pVODBPcWlDZ0pQckRxYjRwUHBybU05bVdNSUNrX2g3d0lPa2Nvd255ZkVuODNtV0l5SGxuQWQzb3BmVVJiQnJXTWJrZUZrZU90YjZVVF9MVHNISU1jeXNkZkJHR0dfZm5yYlpjTVlsM1ZndHh6VVNJNm5YRWlVUUdsNThYLTBiOW40Nl9oTDVzU3pGM20tdjM1YVcyQ0RmTnN6eno3M0hyU25zX3hJZEI1RlZqaWZwcXZWbEtXRzA4YnByRGc?oc=5",
-      "source": "MarketWatch",
-      "published": "2026-07-25T14:21:00+00:00",
-      "summary": "S&P 500 flashes sell signals — options traders brace for wild swings in Apple, Meta and Microsoft&nbsp;&nbsp;MarketWatch",
-      "key_points": [
-        "S&P 500 flashes sell signals — options traders brace for wild swings in Apple, Meta and Microsoft&nbsp;&nbsp;MarketWatch"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Big Tech debt flood is taking over risk in market - The Edge Malaysia",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1ZHBPekhsUk8wal9LNmRrSF9TbzRQaEx0eXgzejM3aEpVa0RzeVc5X2Yyd2xFQ0N4bXJDa1IzNk1Hc0J5R3I5aE9xR01lUHNl?oc=5",
       "source": "The Edge Malaysia",
@@ -873,6 +910,24 @@
       ]
     },
     {
+      "title": "Silicon Valley CEOs take a stand that helps their Chinese rivals - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGlQNF9QRFVZd2NBR3BUTHd3SmdVRlhzUWE4Z0hVVElHV0Q3VS13MXNzQy1LdzRvQnNIaFoxNWJGRFQwTlNUMFFjUkhpdkVUNElWVzNQS0o0TVFZRUdXSmN2M2ZvWm9yS0pfdlM4MVI3cExtWjRKWUdtWWNUQkJhUk1weG1ZYmJ6Z2ZTMC1fV0VTQ016VDEySWl3V0V2OENIZnpkOWpuS3luUkJKTjAtdGlB?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-25T02:57:30+00:00",
+      "summary": "Silicon Valley CEOs take a stand that helps their Chinese rivals&nbsp;&nbsp;The Washington Post",
+      "key_points": [
+        "Silicon Valley CEOs take a stand that helps their Chinese rivals&nbsp;&nbsp;The Washington Post"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
       "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
       "source": "Business News",
@@ -888,24 +943,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Open-Weight AI Debate: Tech Giants Urge Washington - StartupHub.ai",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVdkUXU0MWVneDBTbXZlTGNlYXR1dDU5UVQtQU80LXB1OWJiTGtReHBGWHJDdDFoTFBtR04wYWFMekcxOVNHVGJ4c1RuVlN6NV9tUk9wRDZZMmg2UkpTU1Rtbm1HLWtvMGZKTDBxYnYwa0MzU1dKWmhUclRuRlF2LXVBb0FyeWF3Z1hROTNER0FsWWR3NGdiUnUwZXA1Y1d3cWxtbVRyOUxNaHJ3aEtjd1pR?oc=5",
-      "source": "StartupHub.ai",
-      "published": "2026-07-24T22:02:53+00:00",
-      "summary": "Open-Weight AI Debate: Tech Giants Urge Washington&nbsp;&nbsp;StartupHub.ai",
-      "key_points": [
-        "Open-Weight AI Debate: Tech Giants Urge Washington&nbsp;&nbsp;StartupHub.ai"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -978,24 +1015,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEx4TTJ0MlFnQXdLVDZ3OUdIbEVEdTY3RGFDVWtBZUJTenpPd3hJRG96MExyS3FkVlBHaUlZeVQ5Zi1Dbmg2YldiZXFXbWpfTE00YldQZ1dyLU9sWHVGaENmT21vQnRCNTV1cXJGc0tHekFRTVd2TWJicUZKZ1FtbkdTMFZSWTFnMXVDUVJVeGJIV0xrMi1SUV9mc3oxN2E5OTBldU0yVnBQVk9DbGw2U1hjV0tOZw?oc=5",
-      "source": "Investopedia",
-      "published": "2026-07-24T19:22:13+00:00",
-      "summary": "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence&nbsp;&nbsp;Investopedia",
-      "key_points": [
-        "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence&nbsp;&nbsp;Investopedia"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1214,25 +1233,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "How to make the most of an internship, even when the position is unfulfilling - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXFLM2ZLZjZhVlB2cnpiVXR6d2Uxb3VNVS01bWtHS1l2VUtOWm4yMlpmZ1NVbXVfMERabml6SzJnZzcwQmo4SDRKcFJxUURNMFVObTdnYi1LSktYTkFhNzVLUHQ0OWViV0JHSDhKZ195ZUxPQ2ZxMG8xczZrOTR6ZkRJdTdKdXdxU2RJeEdrdGNFWkNDb2c?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-07-23T14:21:38+00:00",
-      "summary": "How to make the most of an internship, even when the position is unfulfilling&nbsp;&nbsp;Yahoo! Finance Canada",
-      "key_points": [
-        "How to make the most of an internship, even when the position is unfulfilling&nbsp;&nbsp;Yahoo!",
-        "Finance Canada"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
       ]
     },
     {
