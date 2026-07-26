@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:01:26.227440+00:00",
+  "generated_at": "2026-07-26T03:40:45.031401+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,64 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit? (Finance) | I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional? (Finance) | ‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky? (Finance) | Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones - Yahoo Finance (Finance) | Yes, the AI stock selloff looks terrifying. But it might actually save the bull market. (Finance)",
-  "count": 88,
+  "daily_brief": "Top stories right now: Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant - The Motley Fool (Technology) | ‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky? (Finance) | Top 3 US Stock Market Stories From This Week - Yahoo Finance (Finance) | I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit? (Finance) | I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional? (Finance)",
+  "count": 92,
   "items": [
+    {
+      "title": "Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN1V1TUxma3d3V3dxNG53X192d09iUHlWZkhZTzhDSU5xYUFTSDdpc1JBXzdsOGFWY29zNGhUeHdmXzFKTzZhYmM2NmIyVkpueGtzbVVsZVowNWxNMklSbElZcGFzMlItOEpqTURlT0VUT0R2QkJFenEtbDZyWTJRdDR3N05FX25YZmhvZUpoM1JRTkV4MzkwanFtRG1yMUVzNmo3dHRqV1ZoR3NCYjdROUNxLTBmMjhjc1VkYXBrWnJTMzd3MWJSNkZMU2o1aXpGb2hqWVFNMjlxRkFYMl9fZEhPODd0YlN3S2tPaFh3ck92aEZ2WXZ5aElURUlXLURWc1JKc0dkUHBhX0FKcThKQVhPWmhaY3NmVFJ4LUpLdw?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-07-25T22:48:59+00:00",
+      "summary": "Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "Figma vs.",
+        "IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-25T22:30:00+00:00",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "key_points": [
+        "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Top 3 US Stock Market Stories From This Week - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVThNWDVmTVBUbEpEM2gyWklxV2xCZU1meTh6bFBodzNiZ3ZVaXBkalNyWUdIOXNHZ0JyTkl3NW9PYjMtc2lNeXJTYUpOdWJNWmJ5NlRDRUJQVEllWHd1aVUzNG9mQTdXUmhfcmhMZHJ6QzZXZFhVeWN6ZkpMUGEwTUk5ckF5SWNjTDRLbjJVWQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-25T21:41:17+00:00",
+      "summary": "Top 3 US Stock Market Stories From This Week&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Top 3 US Stock Market Stories From This Week&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
       "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
@@ -37,24 +92,6 @@
       "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
       "key_points": [
         "“At that point, they arguably no longer need the government’s retirement safety net.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T20:00:00+00:00",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "key_points": [
-        "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”"
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -267,6 +304,24 @@
       ]
     },
     {
+      "title": "Machine learning algorithm predicts Apple stock price on August 1, 2026 - Finbold",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5SUW9tN1dhLXR5em01bzk5MXdzTVBHcEVzVGpPeXlyblNJYjNpYkJ1NngxRkVRaU5rMENQSnNKSHhJMkJjazNFMkRoSFAwTTB2OEQ5a3JLQ3hpVWQ0cm5kRk5zSmNIZ0dGdTZhUUlTSHM4Q0tCYlI3R2puWUplVzU2RWYzbmNvdHdpVjdmeHJhMWxtM1E?oc=5",
+      "source": "Finbold",
+      "published": "2026-07-25T14:23:00+00:00",
+      "summary": "Machine learning algorithm predicts Apple stock price on August 1, 2026&nbsp;&nbsp;Finbold",
+      "key_points": [
+        "Machine learning algorithm predicts Apple stock price on August 1, 2026&nbsp;&nbsp;Finbold"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "S&P 500 flashes sell signals — options traders brace for wild swings in Apple, Meta and Microsoft - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON1hZUG51eU9SOVJtM1J5a18yeDJ6R0pVODBPcWlDZ0pQckRxYjRwUHBybU05bVdNSUNrX2g3d0lPa2Nvd255ZkVuODNtV0l5SGxuQWQzb3BmVVJiQnJXTWJrZUZrZU90YjZVVF9MVHNISU1jeXNkZkJHR0dfZm5yYlpjTVlsM1ZndHh6VVNJNm5YRWlVUUdsNThYLTBiOW40Nl9oTDVzU3pGM20tdjM1YVcyQ0RmTnN6eno3M0hyU25zX3hJZEI1RlZqaWZwcXZWbEtXRzA4YnByRGc?oc=5",
       "source": "MarketWatch",
@@ -393,24 +448,6 @@
       ]
     },
     {
-      "title": "An Inflation Double Whammy Awaits Wall Street, Making a Stock Market Crash Likelier Under President Donald Trump - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMk43S01LaXhDZGpUS0NYWmQ1RVNPaUlSNXowTzU0OUs4Q3FtSTROaHFYMWVlcTgtbXFfa3BaUGl6VmhUaEZSLU9hYVVFSVZlY0tZNFktVk5pTXVES0xoaG5yX1k5UVNteURUWHhGdDBMTkVjZjZ3NEk0VjVoM0lHbkg1V0tYUFFVVkVXTGx3NEhJV2lH?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-25T09:06:00+00:00",
-      "summary": "An Inflation Double Whammy Awaits Wall Street, Making a Stock Market Crash Likelier Under President Donald Trump&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "An Inflation Double Whammy Awaits Wall Street, Making a Stock Market Crash Likelier Under President Donald Trump&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Dell Versus Apple: The Repricing Has Already Started - Trefis",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFFhY0VKQW53SElVazFUQU9JU0RQSmhkLTdwTmh2dlM0ejkxVG4xSWFSM1p2aHl4QTdnZjhlMl9CeEczSTduYXlrMjFZVDl3TXFheFNqaE5lSFRrclFNTzAzWWtRaTloQk5CNGYwb0N6Y2NZQUR4ejFBTzU0MVFRaXJWNFdhcGtPX1lBRXl2dmZEamRZbklxSU1VRV9MNkZIbVZuOV9vOXZreHh1ZnNWSkFn?oc=5",
       "source": "Trefis",
@@ -505,6 +542,25 @@
       ]
     },
     {
+      "title": "Relyea Zuckerberg Hanson LLC Sells 14,507 Shares of Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkFNZnR2X3JhdGQza1hEZFYyUnZKUTJfYWxqdV9uUTZhcWlHRkM3ck9ZckZfVFNPMlk5REdJa0dYbGZob0JPa3lMM1Y5QVNOSlJCdDNEbjVIN3ZIVDU1UjQtN3dzVEJUQnB1RTR3N3lKOTd5Q0hkTVh6YzBvbFpUT1d5dE5Yd3BvWEEtcHYxUlhnOHFxWWFYck1YN0M5UUNTOHFHNlMtY0NsWWpSR2RnTWRGdjRRZHJaZlRsNUZ3S0FGWUFv?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-07-25T08:38:48+00:00",
+      "summary": "Relyea Zuckerberg Hanson LLC Sells 14,507 Shares of Apple Inc. $AAPL&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Relyea Zuckerberg Hanson LLC Sells 14,507 Shares of Apple Inc.",
+        "$AAPL&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Beacon Harbor Wealth Advisors Inc. Purchases 3,456 Shares of Apple Inc. $AAPL - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObnUycmIwbXVPd01ha3lNREZPTERIcEUzckRBQXBqaG5qT3dXSnNoSFRkVFRPTXZrVVpyYW5rYk5mR1lraTk3RjA1ZkcwRHBHazRSeUJXdGhoVmZ2c0lhWVNma3NsYVBaeEVsbkhYNWY1UV9YR2hMN25QcmFrVDFJLXQtYlpLMXI2clpOek85SERka1U4U2ZvY2k3U0V1YmY0VG16cFZKc1ZLNzZlOTNqZjNCWkhSRE9MbFhjSTdOdFB0WjNpZnJYMzZIVml5UlU?oc=5",
       "source": "MarketBeat",
@@ -581,24 +637,6 @@
       ]
     },
     {
-      "title": "Why Apple Stock Is Up Today - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qR256dDhjVXQ0NGJDT1BObkVmUzNyU25mcjZPUlFpMDg3OFRXYk9ja3pZdjNXaWtMZXBncHFmdWhMWnpIQTVOUGJTbktkdHIyUHFxSTQyZXdqZEswUXJ5RFZ1VzVMUU9ld3BDU00yVmlFbmd6SzBxR2xR?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-25T03:42:00+00:00",
-      "summary": "Why Apple Stock Is Up Today&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "Why Apple Stock Is Up Today&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "How major US stock indexes fared Friday 7/24/2026 - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDYyQWtuTGN4ZGpYVlJxU2xqNEpKaDZrclNYVklMRnJLaWxlLVJ1dlh3cVdFR0VZeFZ3cEpFbkxWS1pEVGE0U0VxTlJ1eWRUVUQ0RzRzMXRFWkpGU2NjVG9SbkVZbkotZWFOa2VKM1FHOGpsSW5kTVY0YjdsQzdGX0xITEtlb2g4clRRLUNZVWtjbU5yVnFSSFRTUzJsdHBmWGJ2dm9VbmpudGZmRG5ZS3dEVTZYaVBhRm84aFFHZTJWaVk?oc=5",
       "source": "The Washington Post",
@@ -608,7 +646,7 @@
         "How major US stock indexes fared Friday 7/24/2026&nbsp;&nbsp;The Washington Post"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Stock Market"
       ],
@@ -626,7 +664,7 @@
         "Career & Finance Horoscope for July 25, 2026: Fortune may surprise you today | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Finance Degrees & Careers"
       ],
@@ -644,27 +682,9 @@
         "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Inc (AAPL) Stock Up 3.5% but GF Value Says Overvalued -- G - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEk4MkZSbVRSVUJmUDRua01iRUswOTJlSkxHbWlsaTFWUnNRck5yeHYwZHYxMVB2aG83aEFBdGVLdWdDTlIyZlVxWUZteVc4b2puT2lkVnYwSGZmWDZUZW1aNW1GNjR2SnRPcXc5OEkzeXdtV2tKcUFfbXRNSTVORWx2V0MwTWFFRUpWQ2RwaHc3OHpFbUNMZ3kwLUN4cVhWLURTUFAtUUJ5T2Y1Ync?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-07-24T22:40:16+00:00",
-      "summary": "Apple Inc (AAPL) Stock Up 3.5% but GF Value Says Overvalued -- G&nbsp;&nbsp;GuruFocus",
-      "key_points": [
-        "Apple Inc (AAPL) Stock Up 3.5% but GF Value Says Overvalued -- G&nbsp;&nbsp;GuruFocus"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -680,49 +700,12 @@
         "Open-Weight AI Debate: Tech Giants Urge Washington&nbsp;&nbsp;StartupHub.ai"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Trip.com (TCOM) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZ3JqeGxodkxONDEyRzMtdG9KTTM5aXEzWVBhcE9IeklrQ0wtSkdxa3VtNldGbm9lUV9peC15b2hKOERQOVB1cy1Ec3JjeGtXMzhWdE5JeGR1QjYwdklaWXhlXzNueHNnVnBfUU5YQld6YzJpNjZHdGlqYmZWYjA?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published": "2026-07-24T22:00:02+00:00",
-      "summary": "Trip.com (TCOM) Beats Stock Market Upswing: What Investors Need to Know&nbsp;&nbsp;Yahoo Finance Singapore",
-      "key_points": [
-        "Trip.com (TCOM) Beats Stock Market Upswing: What Investors Need to Know&nbsp;&nbsp;Yahoo Finance Singapore"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWXJZQ0VETF9uSklXMVRYTE5VQk9sd0JwTmlvT1Zjd2dIeHFoZkZER3FCVFhzRTZXWklYUWIyQnF5TFVSdURBQmw3OGlsSnBnT2xkaVM3enBXUWFpSFRmWmcwYTc5TFh1YlhXT3hpWU5mUkJtWWc?oc=5",
-      "source": "Barron's",
-      "published": "2026-07-24T21:38:00+00:00",
-      "summary": "Micron Stock Falls to End Strong Week. What Comes Next Could Define the Memory Boom.&nbsp;&nbsp;Barron's",
-      "key_points": [
-        "Micron Stock Falls to End Strong Week.",
-        "What Comes Next Could Define the Memory Boom.&nbsp;&nbsp;Barron's"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -733,6 +716,24 @@
       "summary": "Wild Markets Week Settles Down&nbsp;&nbsp;WSJ",
       "key_points": [
         "Wild Markets Week Settles Down&nbsp;&nbsp;WSJ"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock market today: Nasdaq slips, Dow and S&P 500 recover to close a volatile week on Wall Street - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYaE1xaFRzalhQdWRXZ1d5dEpsQWlsVzBfS1V6RU52aG5reW8wRnZYdFk0LV93RVdxOFIzYnhteDM5RnBkOURtYWhpWXhJNjVmUkoxczRHVVFnbU1KQzFlaTQ4bVJ2MldmbGhhcU1kY2hIVndoaEY3ZXF1T2xocGM5TkNxM2FsY2hpcXltckJHQ0xSb0Rybm5BamN1Nmpfay1ObzF1d1I?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T21:28:07+00:00",
+      "summary": "Stock market today: Nasdaq slips, Dow and S&P 500 recover to close a volatile week on Wall Street&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Stock market today: Nasdaq slips, Dow and S&P 500 recover to close a volatile week on Wall Street&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Low",
@@ -813,6 +814,24 @@
       ],
       "sections": [
         "Education"
+      ]
+    },
+    {
+      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczRlbUM0Um1xajhMZDJqLVU2ekUxckdUQ2o0bzN3Y2M0RWY1OXFyYlB1MldzRjdncnduRlJnU2pxSlJOWlBMQ2tHdjlrbGhwYWV4c0Y5cDFGQ09scWtQZjQ2XzRtdEJXU3pmdHRjalljOHltSnFJOHZVZDlsQV9LSC1peEY1anhKUHhseXE3UUdacUwy?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-24T20:45:14+00:00",
+      "summary": "Nasdaq lags on angst over AI spending ahead of earnings reports&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Nasdaq lags on angst over AI spending ahead of earnings reports&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
       ]
     },
     {
@@ -950,24 +969,6 @@
       "key_points": [
         "South Korean memory giants Samsung and SK Hynix are set to announce massive deals with leading U.S.",
         "tech firms, report claims — Korean president arrives in Silicon Valley for meetings and high-profile AI summit&nbsp;&nbsp;Tom's Hardware"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Big Tech companies defend open-weight AI models - Politico",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRxcmw1WmJqMk1SekYzRFZYdm52RWtoMmZDbWtpeTlsdU02bXY3dDV5VkVmSnNnT1VDaXZOd2I1aDNzX0J3Y2NoZHg1ZWxEQTVOdzFPMGVpOV9LY2ZuQ2FwR0FFRFhhcWoySTREUnNXdTVXb0l6VnkwV1JBNHlFeFpzZmtQNkdTX3VwQWUxVXBURExKa3U5N2RxVkJKdw?oc=5",
-      "source": "Politico",
-      "published": "2026-07-24T14:19:00+00:00",
-      "summary": "Big Tech companies defend open-weight AI models&nbsp;&nbsp;Politico",
-      "key_points": [
-        "Big Tech companies defend open-weight AI models&nbsp;&nbsp;Politico"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1306,31 +1307,31 @@
       ]
     },
     {
-      "title": "Bank Negara's international reserves at US$131.8bil as at July 15 - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZWxPcUpfZGpkVmZ2WS1tbEs3dDJLcGFhbVltM0E2MzJWaGxsVmxDcEljeFhFNnVnS0pyakR2OVd3b3Z4MXBiUVlPYWdTOThoNHBkQjV3U0c2T3BEYUpsYVlzSTJfb2JJN2JPN0lVclZJU2RqUURUTHF2eFdXdTAtR2JKeEpqOG1HWkZsZGtlVHQ4SlliQmdOMmlJT3FIa0VjcXU4T3lGVW5vVlJrRVHSAbMBQVVfeXFMUGNvTElGak1SR092MmI5MjhGeVc0ZHgwTTE2OXYtN0tnMGxfeFlpakttb2ZWS2ZRVHlJZVZBd3RlR3dlY0tYZmJwYnBxSzBpcFVPTmxaU201azBlV3JoQUVwRzNxSUpQb0dWR1N6RThBT1BoSVliMXBXZ3k5aEdGRWNsVG9LMEc5R2JiQWw2Ynd2enlVeFp4ZzR4andLUkpzVHJBZTl5NmpJVnZUOXlZOWR0ckk?oc=5",
-      "source": "NST Online",
-      "published": "2026-07-22T10:04:35+00:00",
-      "summary": "Bank Negara's international reserves at US$131.8bil as at July 15&nbsp;&nbsp;NST Online",
+      "title": "8 Best Statistical Analysis Software I Recommend (2026) - G2 Learning Hub",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrT3NMUS1uRmVSaEdYWTZ6cWswSXFZTEdUSkxRVnoxTmFCaVhsd3RyVlJQR0JfZjVwd3lQYVZOX2o1R2J5UnkzckhaaFAzZEhEQmozUnhLYndlMU5pa3FWb2dDQk9UQdIBdkFVX3lxTFBCS2tqWWFXTkZhM05BYzBhLTAta0xPWTA5cUZWUVNVYnNpTlZvQm9Ba0ZDNmlyaUlTWHQ5UEEtX2hLYjRaQnZvc1VCLVlnTlJ4M3EydWNXbWwzSG13bHBxZ05Ld1BfRXp6cUFtcjZoOU5tNklod1E?oc=5",
+      "source": "G2 Learning Hub",
+      "published": "2026-07-21T07:00:00+00:00",
+      "summary": "8 Best Statistical Analysis Software I Recommend (2026)&nbsp;&nbsp;G2 Learning Hub",
       "key_points": [
-        "Bank Negara's international reserves at US$131.8bil as at July 15&nbsp;&nbsp;NST Online"
+        "8 Best Statistical Analysis Software I Recommend (2026)&nbsp;&nbsp;G2 Learning Hub"
       ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "why_recommended": "Matched your \"Data & Portfolio Tools\" topic.",
       "importance": "Low",
       "topics": [
-        "Malaysia Finance"
+        "Data & Portfolio Tools"
       ],
       "sections": [
-        "Finance"
+        "Projects"
       ]
     },
     {
-      "title": "Bank Negara to continue promoting two-way flows in onshort financial market - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREdodkdSYndVb2ZaZEh1R1pXOUhoWkV0OTVkWUJoVmc2bVdhenZocnUybUZPX1liaFc3czF6T2pxYmRWbzd4aF81czZaZ2tfd3VOczBBZzBQaGJtNGl4TENQNFdmOE5zQkZ5Zk5aN0pnNUl3X1lwUTNXS2RfRzBRYzRsVFFjdjhrcWh2ZlhOSHIyLTRNeTNqSzJQZGdZMzJIa0t6am5FVUw1M3l1NWZ0WEpYaEJIbVZUdFHSAb8BQVVfeXFMT0pMeHYyQ21QOXNNS0VzWXNvc0twMFUyc3FGZmZVV2VNY0FnQ2tESjVQZGVIR1JGQU16dnNHSHlISWdLaElSTWptdUJlUGhqeUJiZm4yMmZHa3FLY3owX2xycjBhNUpabVhvR1JYVHctTm1zRmV6VmtwYWZWbDg4QlE0T1ZDT2ZteEsya2cyVnBKNWxtbkxvc1hzbjJXdV9PYTRrZWZiSWt3Vk9yYm4yNXc4dDliSVR5UUdrUm1GRUk?oc=5",
-      "source": "NST Online",
+      "title": "Bank Negara to continue promoting two-way flows in onshort financial market - KLSE Screener",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVNhQnNzMXkzZmR3RUV0R0EyZjk2cFNpOEp5MDhsVkFnZUFYaEhnQUN1TU9EZUo5UXo1RDNjcGFpLW5iSEVSdXR3ekxZZ3R5eHJhc0tWNWRoeUtVOEZhTTFOb2ViQWNrSFZhck5NVlpLbnNROGxWaFY1V1cwWDRHaTNOUmdUYjVrcnlCOVRZaXl6NlVkRmVfYW03Sm9JemF2bnJ4ZFUtMDAwSWN4cG1mRHFkZnJ2THBPblpGLU9sdlZONGM?oc=5",
+      "source": "KLSE Screener",
       "published": "2026-07-21T06:42:05+00:00",
-      "summary": "Bank Negara to continue promoting two-way flows in onshort financial market&nbsp;&nbsp;NST Online",
+      "summary": "Bank Negara to continue promoting two-way flows in onshort financial market&nbsp;&nbsp;KLSE Screener",
       "key_points": [
-        "Bank Negara to continue promoting two-way flows in onshort financial market&nbsp;&nbsp;NST Online"
+        "Bank Negara to continue promoting two-way flows in onshort financial market&nbsp;&nbsp;KLSE Screener"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1378,6 +1379,24 @@
       ]
     },
     {
+      "title": "Women urged to see personal finance as a career - Financial Planning Today",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmUwR1MyX1BTOUxfd0VfaWxoZ3RTdkJxUjBwVElYM2hQOFN4M081VVl1S19jNEZMZjVaenY5MFR6T0JIbTdmek1VQkRmMmNLMy1CYmN6ckJPVGc3VFM5bkN6TUhtY0ttWEpaT1FRNG5uWHduVXp6ZUxCbGZULU9OZm9KUVlPSXJMTjA0bWJibXRESmZyczVTdQ?oc=5",
+      "source": "Financial Planning Today",
+      "published": "2026-07-20T10:53:27+00:00",
+      "summary": "Women urged to see personal finance as a career&nbsp;&nbsp;Financial Planning Today",
+      "key_points": [
+        "Women urged to see personal finance as a career&nbsp;&nbsp;Financial Planning Today"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
       "title": "Data Analyst Syllabus | Data Analysis Course Outline 2026 - Simplilearn.com",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uQ2tIUld0QzJ1NDJWcWg3Qk1RaVVIc2xlX29wSHFtNWs5eDFpQzZGdl9mbDNaSTRLckFRYkZfOUhLNWtGX2JZaTJnMDVFT2J1X3R3Ti1idFNTQ2pDMGZDZWl2RVFmeGll?oc=5",
       "source": "Simplilearn.com",
@@ -1396,6 +1415,42 @@
       ]
     },
     {
+      "title": "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbjM3Y21RZDduaDhMc1F5bF91bnBkMGx1akJaeldmUTVVRE5MNlZocmxmajFhV2QzaVh6dTRwV0s4SFFHY0NTQWtnVi1RYzZfSm51M3MwNGttZWx4MTNEcXhna3RsekZrM1FIWnJoaFVEUFdReV9XM21GVXV2QWFvbXlGXzRJTWgyc255akFaS3Z4Mm1EZjRaWkJlNWdzdExIZlRNNUkwR2pJXy1kZmY4eWhsOUtDTFZNQV9GV2g1ZV9QSEJTUWZGR0xDVjZOeFRQakp1TjFBWW9vUlZPN01YZTI3b0NJcVRyeWZv0gHwAUFVX3lxTE00UkhzME9oSXQ1MkU5eTdsc0dVYzFkQXFxZDczWnA2Y2s5NE9lbEFpRExIby1fS0ZtM0Z6QWVoenZCWk0wWVR5T29WbjB4UWYyVXZrNUxIa1FPUlhGcmJUUC1ESEpkck9EU2QtSEZuLVlJZHo5djI0UVR6OUNWb0RrTkladk80RnNkckpNQ0s4bFlrcWF6S3pkeTRNNDJZeTVSQnFTb1lxTWZNanQ2VHVMQmJKSm1VbzJYRTRIM2ZEQllXVW9ybVA4Y3ZUNTh2eVd3RUhNZUhUVkhqcFdjTTI0eENMSFlzNEZrWmlReWlZVQ?oc=5",
+      "source": "Moneycontrol.com",
+      "published": "2026-07-19T22:30:19+00:00",
+      "summary": "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com",
+      "key_points": [
+        "Horoscope Today, July 20, 2026: Career, love, finance and money predictions for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "Weekly Career & Finance Horoscope, July 20 to July 26, 2026 | Astrology - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHpnTl9QLVlZRV96eW00UklxczNVTEhtdWtlTzFyQ0VYTDFRRlE3QVJiaWczalNFX1lWVEd3SjlnVjNsRjVsRno4RXVyYmpNZUotT0Vzam01REJxdmw2VDRuNC1sWi15cEZmeFY2YmtCQXN6YmpoU2ZlQnVRSDR1Mm5YeGlPUXNhUWdiMF9FUk8xVEVUbmd2VW5IZUxGZE9RRVlSVmRSSzlxV3JZV0tVN0VsMzBPUVo3VzNVRWRUc0dfVnVNcWfSAcsBQVVfeXFMTld3NC1rZlBpeExVQVlraHozRVQ5NmZKS0JPODFObmJQekpJY0FycmRzenZVTkVjQ25FQ1Rza1p1UXVVTkNRRnAtSDZjQ2R2NEZPQmE2QWtUWlBLbG42TFl3cXNVSW1hQUxhd2NBVEt3UXpFLTl5Y0lBUFU3YTlTWHpXbHF5bmRZcFAtMHIwOHFCSF9nZUFtdU5PSVhLQWQwTjZ6STBDaVdDX0R0bzJnREVrUUFNSTNHYXhOQVNLQmdMTTB2Z0dwN04xTG8?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-07-19T03:00:30+00:00",
+      "summary": "Weekly Career & Finance Horoscope, July 20 to July 26, 2026 | Astrology&nbsp;&nbsp;Hindustan Times",
+      "key_points": [
+        "Weekly Career & Finance Horoscope, July 20 to July 26, 2026 | Astrology&nbsp;&nbsp;Hindustan Times"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
       "title": "Python in Excel: Enhance Your Data Analysis Skills - Simplilearn.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JOFdZeFRCMVR6cHAxNlNrY3kyUFpEXzhiQ0xoaWNPTmR6N1V0R01ETDBYcHhBamE4blF0bDdZUlJnSGlORDZzSnJkMW9RSDNDSGtrRFZpNDIyVlVaTEFMTA?oc=5",
       "source": "Simplilearn.com",
@@ -1411,6 +1466,24 @@
       ],
       "sections": [
         "Projects"
+      ]
+    },
+    {
+      "title": "Global financial analytics market to triple to $36.1B by 2035 driven by AI, cloud, and predictive tech. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2MyUTJueEZoYWJMT09MM3pGcDJyTHFOcWhtbWVXWHk5cnpRb2RaMFp4Z01XREFZcWVkdlJKdnR4V2huVjVfTktmTEFTWTVuOExBWHlyRHV0Qi1PSW9IX19QRGVWc0NieDBlVEgwNW9MUFRYTnNJa2hzNG5tdmRldS1SNmgyZ3U4UnBFSDd1N1l0OWh2LXhjYjVwN1psbWp2V1pReC1FcFA0UQ?oc=5",
+      "source": "Pluang",
+      "published": "2026-07-17T14:25:55+00:00",
+      "summary": "Global financial analytics market to triple to $36.1B by 2035 driven by AI, cloud, and predictive tech.&nbsp;&nbsp;Pluang",
+      "key_points": [
+        "Global financial analytics market to triple to $36.1B by 2035 driven by AI, cloud, and predictive tech.&nbsp;&nbsp;Pluang"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
       ]
     },
     {
@@ -1447,6 +1520,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Financial Analytics Market Worth $36.10 Billion by 2035 as AI and Predictive Analytics Transform Enterprise Finance | Research by SNS Insider - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXRaR0pOSGF0ejRheFhJaW1SVGVtOG9hUGZCeThxZW8ybjMtNnhqcnFIQmlqTVpzR2NQbjdpdk1RYmhOY3ZmZVlYOGVIMzZzUHY3ejhxc1hxRFc2VWFSTW9UeTdVRTVjMS1BQnBFUDZudnZWT0pCNUR3QmlKTkFjVmx2dGNUV3VGeEZOMU9hUlZ3Y0laRmVRa0dIdzBkckRM?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-17T07:00:00+00:00",
+      "summary": "Financial Analytics Market Worth $36.10 Billion by 2035 as AI and Predictive Analytics Transform Enterprise Finance | Research by SNS Insider&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Financial Analytics Market Worth $36.10 Billion by 2035 as AI and Predictive Analytics Transform Enterprise Finance | Research by SNS Insider&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
       ]
     },
     {
@@ -1523,13 +1614,13 @@
       ]
     },
     {
-      "title": "Malaysia’s economy expands faster than expected at 5.8% in 2Q, flash estimates show - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnZoSUQ0alRFZnhHbXVpRFBvLWduWF9aZGRhRE01aUplR3M1SkhIWlR6MWNlRTRSa1dBSjBLbFFtaHdocFNISW5SNWFlRE9qajFETFhudVo2YmhrdWVtSWFWX1k2a2lUUElPWUdMUEV5eTFGSVI2VmxtZGV4amRnYzZ4X01OQkhiZmNpRW91eV9xOFowQ0tVN3dZTjlHMERZVW9ucVN0VDM3MHMzQ2dORkNGeHpEVHVpY0RVMHc4eTgxNVdzeG0xV3FYZw?oc=5",
-      "source": "KLSE Screener",
+      "title": "Malaysia’s economy expands faster than expected at 5.8% in 2Q, flash estimates show - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYY3VleFctXy1NUUdVcmswdjg1QURCS2MtZHRmNGhhTk5XWGNaTTRjR1ktc3Faa0M1MHhVR09UTlBtNmJJMTkwTFlfcVA2ODFu?oc=5",
+      "source": "The Edge Malaysia",
       "published": "2026-07-17T04:02:39+00:00",
-      "summary": "Malaysia’s economy expands faster than expected at 5.8% in 2Q, flash estimates show&nbsp;&nbsp;KLSE Screener",
+      "summary": "Malaysia’s economy expands faster than expected at 5.8% in 2Q, flash estimates show&nbsp;&nbsp;The Edge Malaysia",
       "key_points": [
-        "Malaysia’s economy expands faster than expected at 5.8% in 2Q, flash estimates show&nbsp;&nbsp;KLSE Screener"
+        "Malaysia’s economy expands faster than expected at 5.8% in 2Q, flash estimates show&nbsp;&nbsp;The Edge Malaysia"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1538,24 +1629,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "WWA launches career guide to encourage women into personal finance - FT Adviser",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RZWQ2aTZMOW1melhDeWRGSjYyLXpwRGtDblhHTWJzWnkwcFllclVjSm5jWU5fZkpDOVpZaDI0dkNmZkpVaW1fSjZ2RkpVZWZtdzdWLXBLNDBQdTZsUHQ5RGR1Z3lIcVFpdmMzOTl1SzhvQUZDbG9YT0dR?oc=5",
-      "source": "FT Adviser",
-      "published": "2026-07-16T17:19:59+00:00",
-      "summary": "WWA launches career guide to encourage women into personal finance&nbsp;&nbsp;FT Adviser",
-      "key_points": [
-        "WWA launches career guide to encourage women into personal finance&nbsp;&nbsp;FT Adviser"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
       ]
     },
     {
