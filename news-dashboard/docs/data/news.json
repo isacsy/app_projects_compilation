@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T16:08:45.979150+00:00",
+  "generated_at": "2026-07-26T19:22:17.447866+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,81 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit? (Finance) | For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement - CNBC (Finance) | Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks - CNBC (Finance) | The S&P 500’s earnings growth has gone bonkers thanks to one company (Finance) | South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next - The Motley Fool (Finance)",
-  "count": 86,
+  "daily_brief": "Top stories right now: There’s a technical ‘triple threat’ for stocks, but also places investors can hide (Finance) | ‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky? (Finance) | I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional? (Finance) | Apple (AAPL) Prioritizes Privacy in Upcoming Smart Glasses Devel - GuruFocus (Finance) | We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit? (Finance)",
+  "count": 87,
   "items": [
+    {
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T19:15:00+00:00",
+      "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
+      "key_points": [
+        "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T19:01:00+00:00",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "key_points": [
+        "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-07-26T18:30:00+00:00",
+      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "key_points": [
+        "“At that point, they arguably no longer need the government’s retirement safety net.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple (AAPL) Prioritizes Privacy in Upcoming Smart Glasses Devel - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnZOVzdlZW9SMktIMTJIMGhnNjBzd1NFakx4N1hxX2dLd2tWVmY4c2pWZGVxcWVBblZnOUtJTFM0VWJwbmxnS19ORy0tSTMwM1M0cG40QnJtU1dsOVNNQ2NUdENycGc2TXRRY2U1NmRsRGxlcTA0emRGcjdXV053bUU3ZFlybEdSNGZvbTFKckhUQlpYaHF3TTNDbk5OSjUweHc2UDV5Sk10ZTQ?oc=5",
+      "source": "GuruFocus",
+      "published": "2026-07-26T18:10:08+00:00",
+      "summary": "Apple (AAPL) Prioritizes Privacy in Upcoming Smart Glasses Devel&nbsp;&nbsp;GuruFocus",
+      "key_points": [
+        "Apple (AAPL) Prioritizes Privacy in Upcoming Smart Glasses Devel&nbsp;&nbsp;GuruFocus"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
       "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
@@ -48,6 +120,24 @@
       ]
     },
     {
+      "title": "Al Akhir wins international Business Analytics Excellence award 2026 - Daily Observer",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rNElEQkNsS0k3Zkh4ejlpRzgyNTVLdG9GZ1REbThlUnlqUTc4RWs4Wk15c0JTcG15UmpmNnR6RzRkWHBGQ2FtbExn?oc=5",
+      "source": "Daily Observer",
+      "published": "2026-07-26T14:23:50+00:00",
+      "summary": "Al Akhir wins international Business Analytics Excellence award 2026&nbsp;&nbsp;Daily Observer",
+      "key_points": [
+        "Al Akhir wins international Business Analytics Excellence award 2026&nbsp;&nbsp;Daily Observer"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
+    {
       "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks - CNBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vbDc1ZDAxWnpwdEpFZkNuUU10TlV1bWY1RGtoM2tsQVBwd2pIRjg1T3hiZnNRRklTUEQ4bXdfV2hvZ0F3M2t3d3VJR0h4cXRKOHhhRmVDSmZEalFyY3RPMHhyUTd4NjBCWjR5dkhWX3dkd9IBd0FVX3lxTFBrZWdtSEgwVWcwekZOdUlxYVhnV3BoQVBwdklPckJ3dk85eHFUN0lPWkswbnBXdEU4QmxPcU1kNWN5dnVSeXdQM244MUdXUlE5TVBKNDBvSG9EdjVRdEtUWXF0TVl2MjhBNjQxekh6LWtCWEE5S3pv?oc=5",
       "source": "CNBC",
@@ -55,6 +145,24 @@
       "summary": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks&nbsp;&nbsp;CNBC",
       "key_points": [
         "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks&nbsp;&nbsp;CNBC"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQai1CODVHOFNsZ29WTlpFVmFZTU85MnVnanpXd1E1d0lBbjkwZnEtNm0zaUY2dTRKd1RiZ09uN1Uwc3Brb3R2WDU4WE5DX1ZMN1R2ekNGdjFITnBSQ1RUQWhHQ1Fob2FPWmN1VVQ4MUtWczlTNzhVdUpITHBjM0lJNVVBZVdhb1V4TDFFbWZvYURGNkhEQTJhTA?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-07-26T14:06:00+00:00",
+      "summary": "South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next&nbsp;&nbsp;The Motley Fool"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -78,24 +186,6 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQai1CODVHOFNsZ29WTlpFVmFZTU85MnVnanpXd1E1d0lBbjkwZnEtNm0zaUY2dTRKd1RiZ09uN1Uwc3Brb3R2WDU4WE5DX1ZMN1R2ekNGdjFITnBSQ1RUQWhHQ1Fob2FPWmN1VVQ4MUtWczlTNzhVdUpITHBjM0lJNVVBZVdhb1V4TDFFbWZvYURGNkhEQTJhTA?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-07-26T13:32:31+00:00",
-      "summary": "South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "South Korea's KOSPI Is Trading Like a Meme Stock, and the S&P 500 or Nasdaq Composite May Be Next&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -147,24 +237,6 @@
       "summary": "“I own my home outright, have no children or other dependents.”",
       "key_points": [
         "“I own my home outright, have no children or other dependents.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
-      "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-26T13:00:00+00:00",
-      "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
-      "key_points": [
-        "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -266,24 +338,6 @@
       ]
     },
     {
-      "title": "Corporate America is the most optimistic it's been in 15 years — but the market's still stuck: Chart of the Day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeEpQV25ELVZndDAyMHNpNVk1ODl1V21GWVEzQ3hVRXludVUxcFM5X0RRaW4yVkIyR0lxand3dlVBN1BlZGcxRUpZNkNSVXY3SXB6ZHUyc1pZUWpqTkdsc2FncmZ3UFV4RWVxUjVMVXBOTWlZSG1kSC1kckljbmRJY084OG5sY3VkQjN4UmlqdkpuajVINHlWTi02TGpYVGdJOVJWcUcxWkZIMi1xZ0RsSUs3c1pwNzZScHZMTVhjY3FZTWhiWWlMUjN5TVBaZlpFeWlzcXI2STN5WUhoVFFtVjVQZzlLSXRUTGlFcUF0OHQ2VkNmYm1r?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-26T12:10:54+00:00",
-      "summary": "Corporate America is the most optimistic it's been in 15 years — but the market's still stuck: Chart of the Day&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Corporate America is the most optimistic it's been in 15 years — but the market's still stuck: Chart of the Day&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
       "link": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
@@ -339,18 +393,19 @@
       ]
     },
     {
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-26T11:00:00+00:00",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "title": "Apple Inc. $AAPL Shares Acquired by Midwest Trust Co - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmVkTzE2VmRnYnYxRWhsRUl3QUtLV0V6cE8wblA3cW1oME01LVpET0N5VFVCTm95T3FvRzBtN2lGTC1tWjNfNlZ0dzRtRUZVTkpVNzloVThlMjFuSDdGSE52eG1GTmU1dktIamE3UU1GN1ZsWnpjTlptSjBNbE5pcG95R0VVcXlRY2U0eDdlZEk5eC1BVFZaVGx4MTJGTUVYaUxPTU1mVnZNQ2FhalNwMg?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-07-26T08:49:40+00:00",
+      "summary": "Apple Inc. $AAPL Shares Acquired by Midwest Trust Co&nbsp;&nbsp;MarketBeat",
       "key_points": [
-        "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”"
+        "Apple Inc.",
+        "$AAPL Shares Acquired by Midwest Trust Co&nbsp;&nbsp;MarketBeat"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -383,24 +438,6 @@
       "summary": "Golf training goes high-tech in Spain&nbsp;&nbsp;Inside The Games",
       "key_points": [
         "Golf training goes high-tech in Spain&nbsp;&nbsp;Inside The Games"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Global artificial intelligence (AI) companies called in by K Semiconductor have left promises beyond.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIRmNCLVBaQlFVWlJsRVZfRlpIeEFpLVZSeFNIZmpvZHJPbnl6OVZEcFRLVHRvMm1RajdUa3RMUVRmeDI2N0FXSjhCZw?oc=5",
-      "source": "매일경제",
-      "published": "2026-07-26T08:20:47+00:00",
-      "summary": "Global artificial intelligence (AI) companies called in by K Semiconductor have left promises beyond..&nbsp;&nbsp;매일경제",
-      "key_points": [
-        "Global artificial intelligence (AI) companies called in by K Semiconductor have left promises beyond..&nbsp;&nbsp;매일경제"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
@@ -654,24 +691,6 @@
       ]
     },
     {
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-07-25T20:15:00+00:00",
-      "summary": "“At that point, they arguably no longer need the government’s retirement safety net.”",
-      "key_points": [
-        "“At that point, they arguably no longer need the government’s retirement safety net.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUZlSXJpQXppbWFCSXBQWjZBS0s4T2FtWEpSd3JGdzRIOFVQd0xKU0JtNGVCS1E1MFdCZDhYeWd1Qkp5cXd1RUlPcDdSZ1ZScXduZTdjU05QWGxzVHIzYkNQY0doNUxfVEFwRnBjb0hRR1B6anN4ejZiYTRSTFJORmZhbWV1bEt4TXBuNndhU0JQR3pScUpZWXRjaWxTSTZl?oc=5",
       "source": "Yahoo Finance",
@@ -681,7 +700,7 @@
         "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Apple / AAPL"
       ],
@@ -699,7 +718,7 @@
         "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure&nbsp;&nbsp;Tom's Hardware"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -763,6 +782,24 @@
       ]
     },
     {
+      "title": "S&P 500 flashes sell signals — options traders brace for wild swings in Apple, Meta and Microsoft - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON1hZUG51eU9SOVJtM1J5a18yeDJ6R0pVODBPcWlDZ0pQckRxYjRwUHBybU05bVdNSUNrX2g3d0lPa2Nvd255ZkVuODNtV0l5SGxuQWQzb3BmVVJiQnJXTWJrZUZrZU90YjZVVF9MVHNISU1jeXNkZkJHR0dfZm5yYlpjTVlsM1ZndHh6VVNJNm5YRWlVUUdsNThYLTBiOW40Nl9oTDVzU3pGM20tdjM1YVcyQ0RmTnN6eno3M0hyU25zX3hJZEI1RlZqaWZwcXZWbEtXRzA4YnByRGc?oc=5",
+      "source": "MarketWatch",
+      "published": "2026-07-25T14:21:00+00:00",
+      "summary": "S&P 500 flashes sell signals — options traders brace for wild swings in Apple, Meta and Microsoft&nbsp;&nbsp;MarketWatch",
+      "key_points": [
+        "S&P 500 flashes sell signals — options traders brace for wild swings in Apple, Meta and Microsoft&nbsp;&nbsp;MarketWatch"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Big Tech debt flood is taking over risk in market - The Edge Malaysia",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1ZHBPekhsUk8wal9LNmRrSF9TbzRQaEx0eXgzejM3aEpVa0RzeVc5X2Yyd2xFQ0N4bXJDa1IzNk1Hc0J5R3I5aE9xR01lUHNl?oc=5",
       "source": "The Edge Malaysia",
@@ -793,42 +830,6 @@
       "importance": "Low",
       "topics": [
         "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Stock Forecast: Apple Posted $111.2B Revenue, So Why Did AAPL Fall After WWDC? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXV4XzlFSkVPUTRmVEdHSWd2UW0zQlVWMTc1a3JPRHU0eFZqMkxjcTBZS3NtekYwcUxYb0hjTG5PWDZRVjNnWVUzY2pqSVlEMEtCUTBBMmtBU18wUGQ3UnMtTkFsMDBPYy1ueUxmZFhMdWRyenJiV21XUS1XS09zaWI3cktiXzl1N3RPbFJNdElfeTZPQ0s5WUhIUmtUX3VJYVNBV1ZiRXhoc2YwbjRrdXRyeS1wMUFDU1FPM1FiaHF3SGw2MWt0NE9YM21zM0pJWV9rTjJ3aUtNMENwMTBqZnJnQ243eUk0R3c?oc=5",
-      "source": "TradingKey",
-      "published": "2026-07-25T11:47:05+00:00",
-      "summary": "Apple Stock Forecast: Apple Posted $111.2B Revenue, So Why Did AAPL Fall After WWDC?&nbsp;&nbsp;TradingKey",
-      "key_points": [
-        "Apple Stock Forecast: Apple Posted $111.2B Revenue, So Why Did AAPL Fall After WWDC?&nbsp;&nbsp;TradingKey"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Dell Versus Apple: The Repricing Has Already Started - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFFhY0VKQW53SElVazFUQU9JU0RQSmhkLTdwTmh2dlM0ejkxVG4xSWFSM1p2aHl4QTdnZjhlMl9CeEczSTduYXlrMjFZVDl3TXFheFNqaE5lSFRrclFNTzAzWWtRaTloQk5CNGYwb0N6Y2NZQUR4ejFBTzU0MVFRaXJWNFdhcGtPX1lBRXl2dmZEamRZbklxSU1VRV9MNkZIbVZuOV9vOXZreHh1ZnNWSkFn?oc=5",
-      "source": "Trefis",
-      "published": "2026-07-25T08:56:27+00:00",
-      "summary": "Dell Versus Apple: The Repricing Has Already Started&nbsp;&nbsp;Trefis",
-      "key_points": [
-        "Dell Versus Apple: The Repricing Has Already Started&nbsp;&nbsp;Trefis"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -977,6 +978,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEx4TTJ0MlFnQXdLVDZ3OUdIbEVEdTY3RGFDVWtBZUJTenpPd3hJRG96MExyS3FkVlBHaUlZeVQ5Zi1Dbmg2YldiZXFXbWpfTE00YldQZ1dyLU9sWHVGaENmT21vQnRCNTV1cXJGc0tHekFRTVd2TWJicUZKZ1FtbkdTMFZSWTFnMXVDUVJVeGJIV0xrMi1SUV9mc3oxN2E5OTBldU0yVnBQVk9DbGw2U1hjV0tOZw?oc=5",
+      "source": "Investopedia",
+      "published": "2026-07-24T19:22:13+00:00",
+      "summary": "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence&nbsp;&nbsp;Investopedia",
+      "key_points": [
+        "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence&nbsp;&nbsp;Investopedia"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -1198,6 +1217,25 @@
       ]
     },
     {
+      "title": "How to make the most of an internship, even when the position is unfulfilling - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXFLM2ZLZjZhVlB2cnpiVXR6d2Uxb3VNVS01bWtHS1l2VUtOWm4yMlpmZ1NVbXVfMERabml6SzJnZzcwQmo4SDRKcFJxUURNMFVObTdnYi1LSktYTkFhNzVLUHQ0OWViV0JHSDhKZ195ZUxPQ2ZxMG8xczZrOTR6ZkRJdTdKdXdxU2RJeEdrdGNFWkNDb2c?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published": "2026-07-23T14:21:38+00:00",
+      "summary": "How to make the most of an internship, even when the position is unfulfilling&nbsp;&nbsp;Yahoo! Finance Canada",
+      "key_points": [
+        "How to make the most of an internship, even when the position is unfulfilling&nbsp;&nbsp;Yahoo!",
+        "Finance Canada"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
       "title": "How Mitsubishi Electric Automotive Czech transitioned to data-driven decision making - Machinery Market",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3FnQ2RKQVpqLVhoYXpWUnJ5LWgxWEk2djhNWnZuWjlYalRXakYwa043TFgydGExR3VLSE1ld2d1anZZdkJkclBrWVltOWJPQWdGYnl5WVFRZUIycHNucUR4VG5wREI0Z3liajdvTjkzeldFenE3MTFpQzI1Q0k2cWEzNnI5eEd0QzhQVUR6bnBJdENBRV9CNm93U3pURDFXX1IyQXNWc1p2S2NUU0dKcDMtQWkxZHdrRXZKSDNIN1FlNEJEaWxYSUdB?oc=5",
       "source": "Machinery Market",
@@ -1307,7 +1345,7 @@
     },
     {
       "title": "JP Morgan lifts Malaysia GDP forecast to 5.3pct, expects Bank Negara to raise OPR in Q4 - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObU1GWVhfLWp0VTRrVXJWek9VbTlDUmpZMERTdjRHdlN0QlVUN25wVGJXMU5LYVhQdzVfclJBVUt0SjBrZzJsOUU0M280Wkk0M3MzbjVJbUcxOVNwTC1TbVFyVEZtZDI0R3VsMWh1cmw2NVR4U0stZWRxNlJBZ2dQekdTUF8wdFVVTjh5eTVSdm1pVDV5N1M2Z3h5RUwta3pvdlpvOVhqajFfTy1PcU5DdHdEZmNjazBjenlV0gHAAUFVX3lxTE5iSGQyZUp5dkZKS0hxd0FXdEdFa2EzLUltVGMzRjR1Q1BRSXN3anY2cHJhSzJ5aUd5cUNYNlozajRxdkJCTC0waVZTa3V6Mm9tUFNXUnp6d2NtZWdsbzJLbjB1UThja3dRWFRHSnFuTTlCMzl6Y3N5VDN6YVhuSVJpcjJ5OXpvN0U1Y1lBRWgtcE9nYmtuQ09vdEpZT0x6WDVtV2FxTVF6c2FjekprQ2Z6OHJFMGZaUV9vdUFtdl9yMQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWjVKTHJURUJ4MEEtamZ2NVp6X2hhakVxOWtXNHlReGJsaXktZXBNdnRvYW1uR2hJdUFiREx0a292bTRoUEFReDVjR2lMWlhYaGstR3FQQk4yOUJXOEFSdXgtTmdkeXR5Y1F2ejdQVGpqcFM2TjhZQVkxMFdzRjBxV2hFM0FQVHJPMGZOWkotVEFhakFwbXdVaTV1MHVMc29vcXdGZklWYlNoX0JGMnBoekhGYVh2dUhQRlhVN0lYSW1XcFowaS1sZVo1XzVTUdIBwAFBVV95cUxOYkhkMmVKeXZGSktIcXdBV3RHRWthMy1JbVRjM0Y0dUNQUUlzd2p2NnByYUsyeWlHeXFDWDZaM2o0cXZCQkwtMGlWU2t1ejJvbVBTV1J6endjbWVnbG8yS24wdVE4Y2t3UVhUR0pxbk05QjM5emNzeVQzemFYbklSaXIyeTl6bzdFNWNZQUVoLXBPZ2JrbkNPb3RKWU9Melg1bVdhcU1RenNhY3pKa0NmejhyRTBmWlFfb3VBbXZfcjE?oc=5",
       "source": "NST Online",
       "published": "2026-07-21T06:36:50+00:00",
       "summary": "JP Morgan lifts Malaysia GDP forecast to 5.3pct, expects Bank Negara to raise OPR in Q4&nbsp;&nbsp;NST Online",
@@ -1555,24 +1593,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "WWA launches career guide to encourage women into personal finance - FT Adviser",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RZWQ2aTZMOW1melhDeWRGSjYyLXpwRGtDblhHTWJzWnkwcFllclVjSm5jWU5fZkpDOVpZaDI0dkNmZkpVaW1fSjZ2RkpVZWZtdzdWLXBLNDBQdTZsUHQ5RGR1Z3lIcVFpdmMzOTl1SzhvQUZDbG9YT0dR?oc=5",
-      "source": "FT Adviser",
-      "published": "2026-07-16T17:19:59+00:00",
-      "summary": "WWA launches career guide to encourage women into personal finance&nbsp;&nbsp;FT Adviser",
-      "key_points": [
-        "WWA launches career guide to encourage women into personal finance&nbsp;&nbsp;FT Adviser"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
       ]
     }
   ]
