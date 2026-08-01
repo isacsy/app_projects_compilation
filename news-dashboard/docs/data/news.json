@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:20:07.936493+00:00",
+  "generated_at": "2026-08-01T22:01:50.138034+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,101 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Let’s elect candidates who will make the wealthy pay taxes (Finance) | ‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back? (Finance) | Rising Medicare Part D premiums could drive more people into Medicare Advantage plans (Finance) | Apple Gets Kicked Out of the $5 Trillion Club After Reporting Earnings. Are Fears Over Surging Memory Costs Overblown? - The Motley Fool (Finance) | Americans are living longer than our retirement system can handle — and many of us are unprepared (Finance)",
-  "count": 94,
+  "daily_brief": "Top stories right now: My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait? (Finance) | If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned. (Finance) | ‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies? (Finance) | What Can You Do With a Business Analytics Degree? 6 Career Paths to Consider - seattleu.edu (Work) | TV star mum admits to personal struggle after welcoming youngest - Nine.com.au (Education)",
+  "count": 95,
   "items": [
+    {
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+      "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T22:00:00+00:00",
+      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+      "key_points": [
+        "“Her husband passed away 10 years ago.",
+        "They had been married for more than 20 years.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T21:15:00+00:00",
+      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
+      "key_points": [
+        "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-01T21:00:00+00:00",
+      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "key_points": [
+        "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "What Can You Do With a Business Analytics Degree? 6 Career Paths to Consider - seattleu.edu",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2R3SkhmQm1OVzE4STFfcDU1ajVtWDFnTHVDVTRoVmhkUVdVZ3FuSjJndE12LVJ5UUpjejZla1NWY1ItV1FZNzZ0dC1UN3N6cmRTLU1OQXBRVXFjb29JaDdJOTNLSkNBbnZCQmZVZTZrNlVqcXZPc1V0QzJaVkhhUE91ZkRpc2dvd2pEV2lOdTVIY29Pd0JIa3VTc0VNYjN3cVZ4Snp0cXRnXzZBZ1RXV09nYmxqUHVhNXBVOERVOVhVUk1GUkJ6M0l4aFd3cEt2?oc=5",
+      "source": "seattleu.edu",
+      "published": "2026-08-01T20:11:16+00:00",
+      "summary": "What Can You Do With a Business Analytics Degree? 6 Career Paths to Consider&nbsp;&nbsp;seattleu.edu",
+      "key_points": [
+        "What Can You Do With a Business Analytics Degree?",
+        "6 Career Paths to Consider&nbsp;&nbsp;seattleu.edu"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
+    {
+      "title": "TV star mum admits to personal struggle after welcoming youngest - Nine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeXZYWkVkdUo5dUZyM1VaZXVNUmVVXzl6c3gtaE1vMDhBQWdTNTN1bEVSRFREY0VBcDk2b0dPb2R6dkdxaHNnSVdXQjFrQmlta2FBM3NwUWZvWEh3STFMZF9pZEZkeTRKNGFtWGhyUy1BN3NRZXpsck5uQ042a1ROek1BWkZEUlh3SXVrd0prUFlIMFg3bTFlYkFnUVh3RUlSeFByOHp1WHhIajd3X3VhYjM0bHlwdVpJbGNVNFl0V3ZUSHpJa1lhZWI2TV80VlB1c1hoTXBKRjdSOHF4TE1jVjhTNGpJYzVKZFFqM0NYYw?oc=5",
+      "source": "Nine.com.au",
+      "published": "2026-08-01T20:00:00+00:00",
+      "summary": "TV star mum admits to personal struggle after welcoming youngest&nbsp;&nbsp;Nine.com.au",
+      "key_points": [
+        "TV star mum admits to personal struggle after welcoming youngest&nbsp;&nbsp;Nine.com.au"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
     {
       "title": "Let’s elect candidates who will make the wealthy pay taxes",
       "link": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
@@ -176,60 +268,6 @@
       ]
     },
     {
-      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-      "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-01T16:30:00+00:00",
-      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
-      "key_points": [
-        "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-01T16:15:00+00:00",
-      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
-      "key_points": [
-        "“I plan to retire at the end of my 70th year and transition to Medicare.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "I’ve seen families destroyed by this common estate-planning mistake. Here’s how to protect yours.",
-      "link": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-01T16:06:00+00:00",
-      "summary": "It’s not enough to do everything “right” on paper.",
-      "key_points": [
-        "It’s not enough to do everything “right” on paper."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "AAPL Looks 10.3% Overvalued on GF Value™ After Mixed Q3 Earnings - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVNVT3FSMXNNcWFWRnpjOWdPWUlQdGFfZGJJUm9rQ01qSmJFR1NnRV9qV1d2NDBTd0VUd1E5UVJ5RjRyUFBVcV9NZElKbEZ6NGlxdzNmdzJJTGtLMjhlWkdpb2FQM2M0aTdIV3BhZ01zdFI1WWhseTJHcjczWF9TM19fSUpHTTRaS2lnRXB0clV2bG1ldnZVWHlENEZsa0ZnMUE?oc=5",
       "source": "GuruFocus",
@@ -266,14 +304,14 @@
       ]
     },
     {
-      "title": "Apple Stock Price Forecast: Can AAPL Break $400 by 2026? Wall Street’s Highest Price Target Analysis - TradingKey",
+      "title": "Apple Stock Price Forecast: Can AAPL Break $400 by 2026? Wall Street’s Highest Price Target Analysis - tradingkey.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVzRYem5LWG1ZTmZsXzY0alZtRU1LQndJbnloaXNpd1ZPYkpJYmRoZ2dQRU5QZ3VfZS1tQ1lDNlFGVV9rTzlTdDZ2MnpOWkJ6VEF3dUoxRklRamJydDl6UGRFWEVJa3NFOXdoaEVudHJLRGdhaUtnTm5RMlk4WkdaYUlOblpRanRyVlUxRVRzMG54MDJWQlpaQkNUUXRyV3pNWmhNa3FJZzZGeUw4ZU8tTVo0NmdJUjRFN3Eta3V2QkpqanRGWmxzYXRKNUNpNGlGMGhFNkJIWkZzcHh6cGF2U2Zycw?oc=5",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "published": "2026-08-01T15:05:59+00:00",
-      "summary": "Apple Stock Price Forecast: Can AAPL Break $400 by 2026? Wall Street’s Highest Price Target Analysis&nbsp;&nbsp;TradingKey",
+      "summary": "Apple Stock Price Forecast: Can AAPL Break $400 by 2026? Wall Street’s Highest Price Target Analysis&nbsp;&nbsp;tradingkey.com",
       "key_points": [
         "Apple Stock Price Forecast: Can AAPL Break $400 by 2026?",
-        "Wall Street’s Highest Price Target Analysis&nbsp;&nbsp;TradingKey"
+        "Wall Street’s Highest Price Target Analysis&nbsp;&nbsp;tradingkey.com"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
@@ -357,13 +395,13 @@
       ]
     },
     {
-      "title": "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss - fortune.com",
+      "title": "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss - Fortune",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ULVJ3b3pjUTFZdzdWbEpzRzRRODBnRGNtcDJsSkxNaVJKTFFRRzBsSmJoaGRGUzU3SXJqV2RhN2tCNnJwNFRncVRpclRMd2RZYTBGRl9zWS1CNG1XUk96UVVTZU9vMWNJanJnRExHQkpfeUExRFo5YnRfSQ?oc=5",
-      "source": "fortune.com",
+      "source": "Fortune",
       "published": "2026-08-01T12:42:00+00:00",
-      "summary": "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss&nbsp;&nbsp;fortune.com",
+      "summary": "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss&nbsp;&nbsp;Fortune",
       "key_points": [
-        "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss&nbsp;&nbsp;fortune.com"
+        "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss&nbsp;&nbsp;Fortune"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -393,6 +431,24 @@
       ]
     },
     {
+      "title": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPVnVkN1dfWUJjNjF0Nm5lcWVMRk5HTVV3R0s0VU9GMlJaR3dEQUNObnFHRElCWnVGbzg4eFI0ZzFqVmJZaFhYUE5IZkZKMm1vYTRpVlVVckowX3dCc0pTU0ZxYzZvbEh5U1lTdzU3dmNZNWw1SWo2eUZXSTkwekRQNEt5bmdUZjAxU3ZJaENKaDFFaWlPeHRiUGlLTnZlcHRJSGx0NUZBTGUyY29fUXROSGNsVFNYVDFvTTd2cXYzRkJQR1JSU3p1V3F5VXFQYmRtV1VuVzBIbktoc0RxOEsySE56WEN4aUVsemlPbkQ1UWw3OXV4VDUyWTQ4bEpyNGJkOFJ4RUNrM0M3QjJKb2NrWEluaVFpREVaUF93cndXaG1hSmNsUS1uakpDRXc1RXNncjhhWmtNeHU0WDZzeE5yYkVtSVo3WmpZRW9xYnZTalhSanRzVERScnJVM1ptaDZMMUF1MDRFd0NjTEpyQnN2MmR4X1prMGFYN2JSeUdXeG4?oc=5",
+      "source": "Tom's Hardware",
+      "published": "2026-08-01T12:30:00+00:00",
+      "summary": "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant&nbsp;&nbsp;Tom's Hardware",
+      "key_points": [
+        "Anthropic's Claude hacked three real-life companies during security capabilities test — test environment with internet access and unwitting targets' lax cybersecurity practices led to bots running rampant&nbsp;&nbsp;Tom's Hardware"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
       "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
       "source": "Business News",
@@ -411,13 +467,13 @@
       ]
     },
     {
-      "title": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market? - MarketWatch",
+      "title": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market? - marketwatch.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX2s2RG1ZTU9xVHpVYl9ORlJGazc2cEh0Z0FHSXY5Y1RBMGtkZzBtQ1MzTk90MklOMTVra2xwSnpvdUdCNVFRcGhjRlBtTmNTZTNaM1ZEN2dWUVBIZy1ZLV9jN0FyWi0xcjctQUs5M0xOdHozNlJpVnJyTEFJaWRYb1hlYW1qYXRVa0d2czVGQXU2aHNWTmsyeV8xYjZ1Nk5sYnRWWjU1SlZCdWQ4S0VlTGY3TXVyYVY4eWlHOEJtOExHMlcyRjVETlpQNEJ4UFRLTHlFS0hVSUY2UjEwUlNtdU1R?oc=5",
-      "source": "MarketWatch",
+      "source": "marketwatch.com",
       "published": "2026-08-01T12:00:00+00:00",
-      "summary": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?&nbsp;&nbsp;MarketWatch",
+      "summary": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?&nbsp;&nbsp;marketwatch.com",
       "key_points": [
-        "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?&nbsp;&nbsp;MarketWatch"
+        "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?&nbsp;&nbsp;marketwatch.com"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -429,13 +485,13 @@
       ]
     },
     {
-      "title": "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind - MarketWatch",
+      "title": "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind - marketwatch.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQUVpSWtEYkhHUmtaelBpWTZFVy0yX1JseDZXZHdHRnJfUTVUNmQyTHRDb0N0M0FPalpxQ2NDMHRJR0FpSlphUXMwN1NhOVRpcDZ3NGFpdVJqZ2c5RFZPWWRsTWU3RzAxNHY1NFd5MTJkTG1aZWp5bk5ZT0JaY0RDOHVlRlJZU0pjZ2lXdml6bDdZNl9SYXQ1djlIUWNsZXVZTWdKTnFYOTh2WGI0cmNadU1BLU5WUTVsOXNSZzZKN3lwUmhqQmlTWHBOc2NYbFBjR25kWDg3N016eUtXR2I5bE1ieU1CMzNN?oc=5",
-      "source": "MarketWatch",
+      "source": "marketwatch.com",
       "published": "2026-08-01T11:00:00+00:00",
-      "summary": "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind&nbsp;&nbsp;MarketWatch",
+      "summary": "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind&nbsp;&nbsp;marketwatch.com",
       "key_points": [
-        "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind&nbsp;&nbsp;MarketWatch"
+        "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind&nbsp;&nbsp;marketwatch.com"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -454,6 +510,24 @@
       "summary": "S&P 500 Rises 1% Over the Week While AI Impact Leads to Mixed Results Among Major Tech Stocks&nbsp;&nbsp;TechStock²",
       "key_points": [
         "S&P 500 Rises 1% Over the Week While AI Impact Leads to Mixed Results Among Major Tech Stocks&nbsp;&nbsp;TechStock²"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQS2Nmc2ZxSEdJSWdZazMwbjAzMU8wdlQ4ZnRoR0VqaWhYNUJPeHVOT2FveFdYSVJIXzA4cjFYb2R1NGN0X2ZKZTZfNkUybjZOVlBhVnY3S19DaWRzTlNBT1JpTnV2ZE5vNF9EWGFONmxTaFFlTmpHVHZ6aDNOUjJNX205YWNyQWd2QXNIcl9tUzFJTGFxVXV2Wk1sSjA1ZGFSMHZaS000SUx6YTdHYVRZNEctcmVyRlRlS3FxZ1QtcktGaEZTZUJnRzdvNVJUb0JPdmg2d25fX3NJRTBCZTNFc2dVOVZPNml1YVg2MGIzdVlYNGlWdDYtYkRqcW8xOG84d3Jv?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-08-01T10:31:26+00:00",
+      "summary": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus&nbsp;&nbsp;Stocktwits",
+      "key_points": [
+        "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus&nbsp;&nbsp;Stocktwits"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -885,24 +959,6 @@
       ]
     },
     {
-      "title": "Libra Monthly Horoscope August-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPelltSUVya0NYTE5sakwtZlZBdzU2bGtYQnBtSVJVVF8wdEo3dlBOV2N1V1ZoZlphOWFfV1A4LWtnT0RwaWhVVXlRai1tR3g3bUlwS3Bram5rY1ZlZUFFQk5LajVJaW1MUVczcmc4R01SVmVxcWdiSWhVZElOTTZ3aXZOdkVDblVzbW53N0FBbEM4ZmR1clgxYzBOQmFIV3FzWmUwQ1hHWkFFeVZuYmYzMjJ4Q3ZWdVdtTC1rc0ZHWVJfOUpwdFl4Q0NWRGVaN3lPZmlxR3NXaS1yU1VJV2VBbkdR0gHoAUFVX3lxTE1mLVYwaVo2aXlSMEgyTzBOZzJ4ZjBsT0N2eW0tMUVVaUU3bHRnTUd4d1d6ZUp0TUFiby1idEZZWUhvYmFqeEVxZzJYN250M0VNUEsxN0h1cDRIbU53eDFWc2xXQXI4dFh4ektvYTFCQlpIc3dyOFpzTS1rZm40ZENUN284TUdJd21Yd2tGYzBnWl9mTWFtTUdxUWI1Q1RFaG1ZODhMcTdPVURLc08xeHowckhubGlaZU9wMmdCVDl1d1VHRjc2NkVvVGkzSjB2eDVkZWdvSW1qZTl1bjMzeEdGSmhRYmtyUE8?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-08-01T01:00:04+00:00",
-      "summary": "Libra Monthly Horoscope August-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Libra Monthly Horoscope August-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
       "title": "Wall Street ends higher as Amazon soothes AI jitters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
       "source": "Reuters",
@@ -921,35 +977,16 @@
       ]
     },
     {
-      "title": "U.S. Stock Market Close | Major indices staged a V-shaped recovery and all closed higher; cloud giants surged, with Google jumping 7% to recover from its post-earnings slump, Meta ended an 11-day losing streak, and Alibaba rose over 5%; the Philadelphia - news.futunn.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd2RoSThod2tZanNuejF2X2JqSWFYYjZGNzlibmVES1YwY0JFeGlqQ1FrLXZZRmpOWTZxRzkyQXdyd09xb0t6cW9QVEl2VW1MZ2NKX3JtajQ2ak9OTkZpX3dac2VTU3lBZVc5dnJyRFFkaFpaR0pZenBGclBvOGsxRkVMczdHNG9QVmI1LWFXS1QtY3dtRXFqdWRR?oc=5",
-      "source": "news.futunn.com",
-      "published": "2026-07-31T22:13:00+00:00",
-      "summary": "U.S. Stock Market Close | Major indices staged a V-shaped recovery and all closed higher; cloud giants surged, with Google jumping 7% to recover from its post-earnings slump, Meta ended an 11-day losing streak, and Alibaba rose over 5%; the Philadelphia&nbsp;&nbsp;news.futunn.com",
-      "key_points": [
-        "U.S.",
-        "Stock Market Close | Major indices staged a V-shaped recovery and all closed higher; cloud giants surged, with Google jumping 7% to recover from its post-earnings slump, Meta ended an 11-day losing streak, and Alibaba rose over 5%; the Philadelphia&nbsp;&nbsp;news.futunn.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "The S&P 500 is making a change by adding this little-known industrial stock - MarketWatch",
+      "title": "The S&P 500 is making a change by adding this little-known industrial stock - marketwatch.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaFpXU1hIekQzRG9tWTYyV1pUM0pkN1hxdVFfYUE1OXZ0QVhSalowUVNCMVlLYzVpdGV0NkFkMHRIcTV2NDNsbTlyMkpWcXNYMlV0bTFaQlVjcjhETnpzeEJDMmZOS1ZPcThDcW84dldMSk00Y1FZQ2swS29udEN5dUZlRnF5OGlHOU5Tc21qQnlfRUkxVGloMXJjd3YySjRLT2QyREZhTV9OMVp2LWJYYjFIeUE3N2duX1E?oc=5",
-      "source": "MarketWatch",
+      "source": "marketwatch.com",
       "published": "2026-07-31T21:53:00+00:00",
-      "summary": "The S&P 500 is making a change by adding this little-known industrial stock&nbsp;&nbsp;MarketWatch",
+      "summary": "The S&P 500 is making a change by adding this little-known industrial stock&nbsp;&nbsp;marketwatch.com",
       "key_points": [
-        "The S&P 500 is making a change by adding this little-known industrial stock&nbsp;&nbsp;MarketWatch"
+        "The S&P 500 is making a change by adding this little-known industrial stock&nbsp;&nbsp;marketwatch.com"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Stock Market"
       ],
@@ -967,7 +1004,7 @@
         "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -985,7 +1022,7 @@
         "Montana Tech Names First Chief Artificial Intelligence Officer in Montana University System&nbsp;&nbsp;Montana Tech"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -994,16 +1031,16 @@
       ]
     },
     {
-      "title": "Ferguson stock surges on S&P 500 inclusion announcement - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0N1QlgxM0hNenl6SGhrU3lXT2JoUWVMVGQwdUd5QnJEQTFoM240V0pMaFRyRkpwX24tMDhpUW5FMkU4b3BTZVF3STdGOWxncXRucVlVeW1YVS13cjZKNWdRRXZXOGpiWTRXQmczVUVwazJCemhEa2dGZXA5OFUzWmdzNVpzeVVkTnRVeEpSSzBoTDFIeDlnTm5GZ00yWTVTRy1oTjdyNmVDTUZ0bmM2QVNaSC1NODA?oc=5",
-      "source": "Investing.com",
-      "published": "2026-07-31T21:30:51+00:00",
-      "summary": "Ferguson stock surges on S&P 500 inclusion announcement&nbsp;&nbsp;Investing.com",
+      "title": "Ferguson stock surges on S&P 500 inclusion announcement By Investing.com - Investing.com Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGIyaE1PU01CMDJrYnNNajhGQTRuS3R1cUYxckZVVHpHcDhPOEl3c1RRMWJEX1hVOG1wQ3h5ZUVfUEEtM2JvRURJT3VFUHdBaXVaV3VQeVBLckJOdThRTzJRVG9vMEtMRmhKR01paGFybWV0ZDlDendSYkhtTUt1ejR6dWk3TTV4Q2lGRkZqdXBhaFdIeXFtejd1cnBRN1IyTXB2WGtCSGFpQUs2ZmU1d1EwelB6UQ?oc=5",
+      "source": "Investing.com Nigeria",
+      "published": "2026-07-31T21:32:46+00:00",
+      "summary": "Ferguson stock surges on S&P 500 inclusion announcement By Investing.com&nbsp;&nbsp;Investing.com Nigeria",
       "key_points": [
-        "Ferguson stock surges on S&P 500 inclusion announcement&nbsp;&nbsp;Investing.com"
+        "Ferguson stock surges on S&P 500 inclusion announcement By Investing.com&nbsp;&nbsp;Investing.com Nigeria"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Stock Market"
       ],
@@ -1021,7 +1058,7 @@
         "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -1039,7 +1076,7 @@
         "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -1057,12 +1094,30 @@
         "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "When Artificial Intelligence Is Too Valuable To Sell - Big Technology | Alex Kantrowitz",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14TXd5ZDRRSHlhcVh1RUhqWHNKOTRjOVkzd2tzOFppUWZMOFZRSDhfMjg5RS1sR3dfZ2dOcjhOQkJyelRXRFBILWZPb1BhZncyTzh4bGt0eHllY3hZTFFKVF85bkZrOXhJSjJUSlliNlBIV0ttQ3c?oc=5",
+      "source": "Big Technology | Alex Kantrowitz",
+      "published": "2026-07-31T19:30:17+00:00",
+      "summary": "When Artificial Intelligence Is Too Valuable To Sell&nbsp;&nbsp;Big Technology | Alex Kantrowitz",
+      "key_points": [
+        "When Artificial Intelligence Is Too Valuable To Sell&nbsp;&nbsp;Big Technology | Alex Kantrowitz"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -1315,43 +1370,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Why an A.I. Bubble Might Not Be a Bad Thing - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRKUE1FVXZId1lRUnR0LXIzWFI4bzVUU3Z2QUtWNGdXd2Y5bkFnRjBrQ0tpY0JIRFFBOEViZ1VfZmN6LW5IcEd3WURGMUVpMjNMOW40anBoczRYdjZGX1ZJNThnOGtxc2ktcElUY0N3ZFkwQjhqS1QxSjA3Mk5FcDVR?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-30T21:12:13+00:00",
-      "summary": "Why an A.I. Bubble Might Not Be a Bad Thing&nbsp;&nbsp;The New York Times",
-      "key_points": [
-        "Why an A.I.",
-        "Bubble Might Not Be a Bad Thing&nbsp;&nbsp;The New York Times"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize - MIT News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnZjYUttcERkVVRHYjRrM2NmalpCYkl4OGQ1RkZlcExsZUhkNFhtTTU0ZkFDcXhJanV0UUdDaDlvSm1IeTBNVUtIZmRFM1pMNXp6Wjl3Z3I5NDUzRkFZUjNfUVFDdHM2YXJLSVY3SXRUY2NTQWJyb2hIQlQxb1hEa0dRVGJwbmNVUjBWU0JfZUJwamxpSVJOY19YQ18?oc=5",
-      "source": "MIT News",
-      "published": "2026-07-30T21:00:00+00:00",
-      "summary": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize&nbsp;&nbsp;MIT News",
-      "key_points": [
-        "Daniela Rus receives Bavarian Minister-President's High-Tech Prize&nbsp;&nbsp;MIT News"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
