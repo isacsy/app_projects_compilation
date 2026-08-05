@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:25:51.410535+00:00",
+  "generated_at": "2026-08-05T16:46:31.516098+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,22 +8,424 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: U.S. economy keeps up the momentum, but rising costs put a cap on new hiring (Finance) | CVS blows past estimates, hikes guidance as insurance unit continues to improve (Finance) | Stocks rise on Wall Street and add to their records as oil prices hold steady - newsday.com (Finance) | I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular? (Finance) | S&P 500, Dow at record highs as Mideast hopes offset SpaceX, AMD drag - Reuters (Finance)",
-  "count": 97,
+  "daily_brief": "Top stories right now: Alphabet’s stock drops as Google loses another key AI executive (Finance) | US stock market could ride earnings strength to more gains after S&P 500 hits record - Reuters (Finance) | Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says (Finance) | This Medtech Beat Earnings Estimates. It’s the Worst S&P 500 Stock Today. - Barron's (Finance) | Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow - Pittsburgh Post-Gazette (Technology)",
+  "count": 98,
   "items": [
     {
-      "title": "U.S. economy keeps up the momentum, but rising costs put a cap on new hiring",
-      "link": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
+      "title": "Alphabet’s stock drops as Google loses another key AI executive",
+      "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T14:18:00+00:00",
-      "summary": "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of business and companies responded by keeping a lid on hiring.",
+      "published": "2026-08-05T16:45:00+00:00",
+      "summary": "Jeff Dean, Google’s chief scientist and one of its company’s first employees, is leaving to launch his own company.",
       "key_points": [
-        "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of business and companies responded by keeping a lid on hiring."
+        "Jeff Dean, Google’s chief scientist and one of its company’s first employees, is leaving to launch his own company."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
       "topics": [
         "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "US stock market could ride earnings strength to more gains after S&P 500 hits record - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDhYYlFmZ3FHcjh0dS1TQ2Z3ampQM2tjSmZha3pHMzhVelB5Q0xzTE8zVThKM1haMFVuTWlpNkFXUHA3WlRORjE0NFhBcExMS1hWeVRIbUtxU3RmbEI2NS1FNmNtamhnZXY5QXlUa1FGN1FMRWc4cF9PMVVJM0pfeEFWQmJfY291UFVtLWFiN292QzMzQjNRQWFmY0RIeDBLQlZKS1dPbEZUMDVidHI3d1RSNkVqYjhlX2Y0Z295M3hDb0k?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-05T16:35:23+00:00",
+      "summary": "US stock market could ride earnings strength to more gains after S&P 500 hits record&nbsp;&nbsp;Reuters",
+      "key_points": [
+        "US stock market could ride earnings strength to more gains after S&P 500 hits record&nbsp;&nbsp;Reuters"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+      "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+      "source": "Business News",
+      "published": "2026-08-05T16:18:29+00:00",
+      "summary": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
+      "key_points": [
+        "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "This Medtech Beat Earnings Estimates. It’s the Worst S&P 500 Stock Today. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92aF9XR1VkbWo2dDlveGpQenA2ZHh3Q1JVSmNxMlY3THdLWDJSTWlVMDBhVi1JQnZwS2pZdWJhUnJUWVZWeWNwVHRJUzNZQWZyT05pblZfZFZ6ekZicmhlMC1zY1NLNDJHQUI2dFlpaUFrbTdLc2dya3pn?oc=5",
+      "source": "Barron's",
+      "published": "2026-08-05T16:17:00+00:00",
+      "summary": "This Medtech Beat Earnings Estimates. It’s the Worst S&P 500 Stock Today.&nbsp;&nbsp;Barron's",
+      "key_points": [
+        "This Medtech Beat Earnings Estimates.",
+        "It’s the Worst S&P 500 Stock Today.&nbsp;&nbsp;Barron's"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1VRb1FaOGNmN3hkOEgzeXhMcGljNjJPT0tONkRJaE5oVHBkdjVXb1c3aHBhSTdSVXJabFdxY0VLd3FGM05Idk55ajEzcm41TW5qSWg4ZTV4SzZZTXRscnFOTFBESmdqeWpRb19OS0dyWmRaOXoybmg1YUhqZ1k1eDFScDh0alJjQXNKQ0ZzMWcycW9nSzZuT0JNTFl0Wm83OGtCenlSN0dJOWpPd2FlUzRTOA?oc=5",
+      "source": "Pittsburgh Post-Gazette",
+      "published": "2026-08-05T16:03:21+00:00",
+      "summary": "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "key_points": [
+        "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow&nbsp;&nbsp;Pittsburgh Post-Gazette"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Stocks waver on Wall Street and hover around records as oil prices hold steady - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjZmSXdjWmU5NW5BYTZicTRGUUJhQnRxdENIYUNVcVp4N0NxSlh2MGxHZS0yYnNRbk1tTGdyZGxaNDJfckY4LXpnaXJBemJlRmVuZS1ZcGdITHFQT1NQQlRDclk4bFF5eHhfeGoxY0RvQjM0VVRzZ3RIbDktWWtDZVFrOERQanhEWHN2cnhOYjE1WnBvOEpUVXI3aUEyWHhxVDMzOVVRUE5NY0p6UkNZYThFa1I2U3QzQi02LUxQZEFwZXBNeTJIOWtn?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-08-05T16:02:11+00:00",
+      "summary": "Stocks waver on Wall Street and hover around records as oil prices hold steady&nbsp;&nbsp;The Washington Post",
+      "key_points": [
+        "Stocks waver on Wall Street and hover around records as oil prices hold steady&nbsp;&nbsp;The Washington Post"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "5 things investors should know about the stock market’s latest rapid-fire comeback",
+      "link": "https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T16:02:00+00:00",
+      "summary": "What a difference a week makes. The S&P 500 has surged more than 6% over the past five days, its biggest gain since last year’s tariff tantrum.",
+      "key_points": [
+        "What a difference a week makes.",
+        "The S&P 500 has surged more than 6% over the past five days, its biggest gain since last year’s tariff tantrum."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
+      "link": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
+      "source": "Business News",
+      "published": "2026-08-05T16:00:36+00:00",
+      "summary": "The upstart salad chain aimed to take on Sweetgreen and expanded rapidly under the ownership of Volt Investment.",
+      "key_points": [
+        "The upstart salad chain aimed to take on Sweetgreen and expanded rapidly under the ownership of Volt Investment."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T15:56:00+00:00",
+      "summary": "Morgan Stanley expects $64 billion in capital spending from SpaceX this year. The company is dramatically ramping up AI investments.",
+      "key_points": [
+        "Morgan Stanley expects $64 billion in capital spending from SpaceX this year.",
+        "The company is dramatically ramping up AI investments."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+      "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+      "source": "Business News",
+      "published": "2026-08-05T15:55:01+00:00",
+      "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
+      "key_points": [
+        "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Lucid stock plunges as EV maker begins 'operational reset,' delays midsize vehicle",
+      "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
+      "source": "Business News",
+      "published": "2026-08-05T15:54:10+00:00",
+      "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
+      "key_points": [
+        "The company didn't provide updated guidance.",
+        "New CEO Silvio Napoli earlier this year suspended production expectations."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T15:51:00+00:00",
+      "summary": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
+      "key_points": [
+        "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Tanger CEO says World Cup drove up traffic, sales this summer",
+      "link": "https://www.cnbc.com/2026/08/05/tanger-ceo-world-cup-traffic-sales.html",
+      "source": "Business News",
+      "published": "2026-08-05T15:48:39+00:00",
+      "summary": "Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup.",
+      "key_points": [
+        "Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "How Disney parks are bucking a travel slowdown",
+      "link": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
+      "source": "Business News",
+      "published": "2026-08-05T15:44:55+00:00",
+      "summary": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
+      "key_points": [
+        "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
+      "link": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
+      "source": "Business News",
+      "published": "2026-08-05T15:25:55+00:00",
+      "summary": "Disney is considering a free streaming product as advertising takes a bigger role in making streaming profitable.",
+      "key_points": [
+        "Disney is considering a free streaming product as advertising takes a bigger role in making streaming profitable."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "U.S. economy keeps up the momentum, but rising costs put a lid on new hiring",
+      "link": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T15:01:00+00:00",
+      "summary": "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of doing business. Companies responded by keeping a lid on hiring.",
+      "key_points": [
+        "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of doing business.",
+        "Companies responded by keeping a lid on hiring."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T15:00:00+00:00",
+      "summary": "“She has been living with me for four years.”",
+      "key_points": [
+        "“She has been living with me for four years.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Shopify’s stock heads for best day in a year after the company ‘left no doubt’ about its growth trajectory",
+      "link": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T14:59:00+00:00",
+      "summary": "The company is keeping costs in check while signaling upbeat growth trends, analysts say.",
+      "key_points": [
+        "The company is keeping costs in check while signaling upbeat growth trends, analysts say."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple: Big Tech's AI Boom Offers Mixed Blessings (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGUzd3h3UVFxZC1Tajh1NGxaaktBV2Nwcnd6M0dWcGZqZ0hidmMyRTFzTVhDM0lFWEpvb0FpOE9pcG5Ob2w0M1hDXy1jWmRNU2Y3NDVyYm1JWDNjNzJBSlZRdjQ0bzZWTUtLMW44aE5IN1RGSUlsbUpZMjZXSnA2b0tCQlowcllnZXRxbzJKN0c?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-08-05T14:46:12+00:00",
+      "summary": "Apple: Big Tech's AI Boom Offers Mixed Blessings (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha",
+      "key_points": [
+        "Apple: Big Tech's AI Boom Offers Mixed Blessings (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "3 money rules I swear by — and why they work",
+      "link": "https://www.marketwatch.com/story/3-money-rules-i-swear-by-and-why-they-work-f7a1ad65?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T14:46:00+00:00",
+      "summary": "Managing money is stressful. The new voice of Don’t Short Yourself is here to share real-life tips and tools we can actually use.",
+      "key_points": [
+        "Managing money is stressful.",
+        "The new voice of Don’t Short Yourself is here to share real-life tips and tools we can actually use."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "It’s the worst time in years to invest in AI credit markets: ‘Almost no upside and plenty of downside’",
+      "link": "https://www.marketwatch.com/story/its-the-worst-time-in-years-to-invest-in-ai-credit-markets-almost-no-upside-and-plenty-of-downside-a200d5c7?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-05T14:44:00+00:00",
+      "summary": "Researchers at Andromeda Capital Management are worried about the uncertain return on investment for investors who are financing the AI capex bonanza.",
+      "key_points": [
+        "Researchers at Andromeda Capital Management are worried about the uncertain return on investment for investors who are financing the AI capex bonanza."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
+      "link": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html",
+      "source": "Business News",
+      "published": "2026-08-05T14:35:37+00:00",
+      "summary": "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from previous guidance of $82 billion to $85 billion.",
+      "key_points": [
+        "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from previous guidance of $82 billion to $85 billion."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple’s Buyback Is Retiring Less Stock Just As The Memory Bill Grows - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmtyNHp6aWhScXFkSnpqUmozVk5Ncl8wa2hlYVJPWXdrYTBfWkZsRFMtY0dNY1FBZmM3U2s2bWNUaWxhbkZiNVM0N0hWZm1pUnlqX0hVRjFmcXltWTlCSWp0Zllrc0ZGajNZRUt2OGlzajkzZzZuR3dXenhRd21SMlY0ODktc0dScmZQejBpYzFtVWJsNVNBb2RkSDFuLU8taFpQVk9EeEpZWktKbmZ1LWNNZE9ZNVpmZ1RTMnJUMl9aVVFJak00?oc=5",
+      "source": "Trefis",
+      "published": "2026-08-05T14:16:29+00:00",
+      "summary": "Apple’s Buyback Is Retiring Less Stock Just As The Memory Bill Grows&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "Apple’s Buyback Is Retiring Less Stock Just As The Memory Bill Grows&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
       ],
       "sections": [
         "Finance"
@@ -42,24 +444,6 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Stocks rise on Wall Street and add to their records as oil prices hold steady - newsday.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MXVJbEJUUWxabTBfbEdGdm92UE4tVHFqWVdUQmJSTXJHMVh3dmZBQWZYTlQ5WEtvbXVHb2w0QWVvY1JuLWQ5RWVEZVQyOG9ZRVR6Y0xWZVRKUE1lVWlpZlZ3Y2NSMFJtUVROQVFSWG13VVFjb1dKc0QxZw?oc=5",
-      "source": "newsday.com",
-      "published": "2026-08-05T14:04:38+00:00",
-      "summary": "Stocks rise on Wall Street and add to their records as oil prices hold steady&nbsp;&nbsp;newsday.com",
-      "key_points": [
-        "Stocks rise on Wall Street and add to their records as oil prices hold steady&nbsp;&nbsp;newsday.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -102,55 +486,36 @@
       ]
     },
     {
-      "title": "The S&P 500 just hit a new high. ‘Big Short’ investor Michael Burry thinks it could bring a 1987-style fall.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-just-hit-a-new-high-big-short-investor-michael-burry-thinks-it-could-bring-a-1987-style-fall-775c3b95?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T13:49:00+00:00",
-      "summary": "The famed investor says watch out after that S&P 500 surge on Tuesday. He’s not budging from some bearish tech views.",
+      "title": "Stocks rise on Wall Street and add to their records as oil prices hold steady - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEpyVWxEUmVwcThJWENTTFpseU1ockpkZFZqSmgxLTc2UUtNYnR3MWVLM1FpMk45c2VWU0w5LVFhTGhpdlBwcTc5OHFWSGM2TnZTMS0xMFBoSzJiQ2tsaGhtMWJtZmhENzlLQ2h2TTVIVXl0NmdQMUE5Z0dfRlFjVmxBdU0ybzQyOUk4emNfT25OWU95aUpiVm5Sa0xUVE80bjhvZnNudzZKUWF3?oc=5",
+      "source": "Pittsburgh Post-Gazette",
+      "published": "2026-08-05T13:50:10+00:00",
+      "summary": "Stocks rise on Wall Street and add to their records as oil prices hold steady&nbsp;&nbsp;Pittsburgh Post-Gazette",
       "key_points": [
-        "The famed investor says watch out after that S&P 500 surge on Tuesday.",
-        "He’s not budging from some bearish tech views."
+        "Stocks rise on Wall Street and add to their records as oil prices hold steady&nbsp;&nbsp;Pittsburgh Post-Gazette"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Stock Market"
       ],
       "sections": [
         "Finance"
       ]
     },
     {
-      "title": "3 reasons AMD’s stock is falling in the face of its latest earnings report",
-      "link": "https://www.marketwatch.com/story/3-reasons-amds-stock-is-falling-in-the-face-of-its-latest-earnings-report-c2e16c71?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T13:48:00+00:00",
-      "summary": "Analysts noted that the company delivered muted upside with its results, underwhelmed some investors with its margin outlook and was simply up against high expectations.",
+      "title": "Stocks add to their records on Wall Street and crude oil prices edge higher - bnnbloomberg.ca",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVk1qT3RiRWZHT0lnWWRLd3dTd2t2RkNrbXd1SHlWTFFZNFZ6aGxueDgwbUVDTkhvcFRUckU5Z05VMW94Sm9jbUs3NENGRWNiTmRwQV9qUmpRVmgwdXlab3pjWWd0ODgyY1E4Mnp1c252U3dGRkU0b1k0Xy1FX1B4aHJybTl2RS1ubjhKcjNIT3VGbVNXS2NuZ2g4cER3aDU2OVNTb01NWEMxVlVpVDI4NVhvZlNQXzNkNlFaYURLSFVFeDhsYUxzUGpSdjZudmxINDByU0Z5NWNpS0diVGVZ?oc=5",
+      "source": "bnnbloomberg.ca",
+      "published": "2026-08-05T13:44:24+00:00",
+      "summary": "Stocks add to their records on Wall Street and crude oil prices edge higher&nbsp;&nbsp;bnnbloomberg.ca",
       "key_points": [
-        "Analysts noted that the company delivered muted upside with its results, underwhelmed some investors with its margin outlook and was simply up against high expectations."
+        "Stocks add to their records on Wall Street and crude oil prices edge higher&nbsp;&nbsp;bnnbloomberg.ca"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Lilly’s revenue soars 48%, driven by demand for its GLP-1s",
-      "link": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T13:45:00+00:00",
-      "summary": "Lilly’s sales were driven by higher-than-expected demand for Mounjaro and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss.",
-      "key_points": [
-        "Lilly’s sales were driven by higher-than-expected demand for Mounjaro and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -175,32 +540,13 @@
       ]
     },
     {
-      "title": "ADP says businesses added the fewest new jobs in six months. A summer slowdown in hiring?",
-      "link": "https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T13:43:00+00:00",
-      "summary": "ADP said U.S. businesses created just 44,000 new jobs in July — the smallest increase in six months — in another sign of a sluggish labor market in which hiring is unusually soft.",
+      "title": "US Stock Market Today: S&P 500, Dow Hit Fresh Records On Earnings Boost, Hormuz Deal Hopes - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREVXOFZDZXNwNWFYQk1IWjFkVlVnenQ4ZjJ1Q1hBTnVjZzFvd0N6NGszdnVnYnpvN001eEVVdERnZU1vNzZWZ3hQdVhCNS00M1E3QjV4WU11eGpXMGk3d2duMjNmTGlmZFlkb1NBYXpmcVNhR1EyUWpGb1pEUGlCS3RoX1d0V1oxWmlfdjJpS2tDeTNva0RoUzUwbW42LXZTU280VFdCNU84cUZ5VWc0cWN3OFh4aHR4ekNKRUxTbFhwMXdDMHNMN2l2RdIB0wFBVV95cUxQZlZsc24wcTZCbmJRQ2JVaFQzWXhwQnpkZkdpMjFQUzREY2FRN2pzQ3ljQ0J4MWV0My0xajFhV0ZoR3BHU0c4TEVEeWF1VGZOQ21NWmhrMHdocmcxcm5lQ2xjVW1QaU5sRlY0VG4tLUhKX0xCQVAtRXJSYXVWdFcyRjk1WmlxWWlHYWdQLW1TQ001alQ5WEFYVnFnX2V4WUJETTJENXphZ2R5N0I1Um5HckNZd0o5R1BHLWhJOEhMdzZpcnYxNFBEV2NZTVF4LXpnNUlr?oc=5",
+      "source": "NDTV Profit",
+      "published": "2026-08-05T13:41:34+00:00",
+      "summary": "US Stock Market Today: S&P 500, Dow Hit Fresh Records On Earnings Boost, Hormuz Deal Hopes&nbsp;&nbsp;NDTV Profit",
       "key_points": [
-        "ADP said U.S.",
-        "businesses created just 44,000 new jobs in July — the smallest increase in six months — in another sign of a sluggish labor market in which hiring is unusually soft."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall St opens higher as Mideast hopes offset SpaceX, AMD drag - The Standard (HK)",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblUtWlhDR3hwSHRNUm5TZGFhYWoxYm9DTG8tc2JsaDdRcHdXamdvc0lRRzBKZ0xxR0Vtdl85dk94Z3RyZFpMTmRqT2JkemRqUFZhZmQxYWtpQU1wTzBEREVJdC1hbjBfd2J5U2lWb0dRM0VQUmVjb1gtbnRMQW50ekpYR0haQ2dNdV9majVQU0dUd3h1bjFDWldGZWk3QkE2TkxxSEVfY29vZndiZVhJMUJKMzQ?oc=5",
-      "source": "The Standard (HK)",
-      "published": "2026-08-05T13:38:47+00:00",
-      "summary": "Wall St opens higher as Mideast hopes offset SpaceX, AMD drag&nbsp;&nbsp;The Standard (HK)",
-      "key_points": [
-        "Wall St opens higher as Mideast hopes offset SpaceX, AMD drag&nbsp;&nbsp;The Standard (HK)"
+        "US Stock Market Today: S&P 500, Dow Hit Fresh Records On Earnings Boost, Hormuz Deal Hopes&nbsp;&nbsp;NDTV Profit"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -212,18 +558,18 @@
       ]
     },
     {
-      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-      "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
-      "source": "Business News",
-      "published": "2026-08-05T13:35:59+00:00",
-      "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
+      "title": "2 of the market's biggest fears are fading as stocks roar back to record highs - businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTVhRFZhb3lRYzQzeDBaUGt1ajl2NDE2Z3BzRHlHbE9PMkdlcUxlLVpJOFljWF9VSy11ZURuWmNZYW1YekozNmhYY2pmLXptV09mOGp6SnVsNEg5LUhKM3ZiR1VTMjhzVmY2ZGJOWWVQMDg5ZnVFa2YzRV9Ea2ZMS295amV0TVdyNzBpT0lOZk1wZ1FvMmc?oc=5",
+      "source": "businessinsider.com",
+      "published": "2026-08-05T13:38:40+00:00",
+      "summary": "2 of the market's biggest fears are fading as stocks roar back to record highs&nbsp;&nbsp;businessinsider.com",
       "key_points": [
-        "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner."
+        "2 of the market's biggest fears are fading as stocks roar back to record highs&nbsp;&nbsp;businessinsider.com"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -284,49 +630,13 @@
       ]
     },
     {
-      "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
-      "link": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html",
-      "source": "Business News",
-      "published": "2026-08-05T13:29:38+00:00",
-      "summary": "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from a previous guidance of $82 billion and $85 billion.",
+      "title": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage - theglobeandmail.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWpMMjVPNFZieXdNQzlIZy1uT1hzQWVKc1NtcHdLc3lRSHl2RHp5V0h4UEptN0xqbnpMdzVhckI4dENuZU9uLTNnT3R3VGFObVQzZXVranladUZmZ0ZEaUt6Z2M2QWpQNC03OXNlU09QTUJTRl9SOEw0elA5U2cyZmpkSDkxUDdReV9MaElOTldjcEhZSkpXOHREWWVUamR1LXhSekJYd0I4SlR6R0ltR3BYX3B6QQ?oc=5",
+      "source": "theglobeandmail.com",
+      "published": "2026-08-05T13:24:58+00:00",
+      "summary": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage&nbsp;&nbsp;theglobeandmail.com",
       "key_points": [
-        "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from a previous guidance of $82 billion and $85 billion."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T13:15:00+00:00",
-      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
-      "key_points": [
-        "A reader writes: “I will likely be in a position to decline my benefits.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlk0UC1taXE5UTRrd1pxbElRS2xBMk05QmYyVTJvM0dEM2xGWU9kMC04X3JTbzBjNjdSaUtxa19zd3luTUQzcHdnbmhCQkRUY3RiQy1UWXkxR2VvUU92aUJGbmVraFE5emsyVkxlMXY4WXgxeG1PMnZTVFhBOUhINnA2Z1V4cHdNOVhGY0g0REpCMTVwVDJXVkZpZ2x2RWFTM0JBWDBZQ05kaGVKRHdSQUxKMGNuUS1WQkg2amZEalhaQzE5?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-05T13:12:13+00:00",
-      "summary": "Wall Street’s performance isn’t so ‘exceptional’ on the global stage&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "Wall Street’s performance isn’t so ‘exceptional’ on the global stage&nbsp;&nbsp;Reuters"
+        "Wall Street’s performance isn’t so ‘exceptional’ on the global stage&nbsp;&nbsp;theglobeandmail.com"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -338,32 +648,31 @@
       ]
     },
     {
-      "title": "The government owns some of the same stocks you do. Here’s why that is risky.",
-      "link": "https://www.marketwatch.com/story/the-government-owns-some-of-the-same-stocks-you-do-heres-why-that-is-risky-6ad6462d?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T12:30:00+00:00",
-      "summary": "Recent deals to have the U.S. take a stake in companies mark something new: Government ownership used as a standing industrial-policy tool rather than an emergency backstop.",
+      "title": "Your August Career and Finances Horoscope: Unexpected Expenses - People.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41eHVJVm43MkNTLVljTjZ6OE1uYXF6dHRiWjRpNmJoZGJxZXBsMUJaRXE4czFYdUdOZkY1MktJcDM4VS1XdWlUd2tkcDN5R0wyN3ZVMkZsdGlab0ZMTHJFaEswS1BHMWxjbklDS21DUmtySDNYWUhWRQ?oc=5",
+      "source": "People.com",
+      "published": "2026-08-05T13:00:00+00:00",
+      "summary": "Your August Career and Finances Horoscope: Unexpected Expenses&nbsp;&nbsp;People.com",
       "key_points": [
-        "Recent deals to have the U.S.",
-        "take a stake in companies mark something new: Government ownership used as a standing industrial-policy tool rather than an emergency backstop."
+        "Your August Career and Finances Horoscope: Unexpected Expenses&nbsp;&nbsp;People.com"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Finance Degrees & Careers"
       ],
       "sections": [
-        "Finance"
+        "Education"
       ]
     },
     {
-      "title": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns - Net Influencer",
+      "title": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns - netinfluencer.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGlmRnA0akgtSkRkZ2IyTG92cmFOUGtuc3o5bVVnYklfekhveGJjTnRaQXNsdnE2RVFCU2p1eXhub0N3RU84VHg2UHpISWtCUnJiSlJqRTZtdWJPMndfcHBRNEFnUl8yN3B5SUphUC1uSUZqUjBQV25lNF8wRm92X0hBeDczNHlVYU5tMTJ2Y3Y4azFqUHlZNy0yTGc4NjgxZW5GUFBKZDl2SlczYkthWlJyYndZMUYyQjBkLWkxbi11U1hEQmE3aGF3?oc=5",
-      "source": "Net Influencer",
+      "source": "netinfluencer.com",
       "published": "2026-08-05T12:23:20+00:00",
-      "summary": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;Net Influencer",
+      "summary": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;netinfluencer.com",
       "key_points": [
-        "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;Net Influencer"
+        "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;netinfluencer.com"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Medium",
@@ -372,24 +681,6 @@
       ],
       "sections": [
         "Work"
-      ]
-    },
-    {
-      "title": "Uber profit narrowly beat forecasts as trips across its platform surge",
-      "link": "https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T12:19:00+00:00",
-      "summary": "Uber Technologies shares fell early Wednesday, despite the ride-hailing company registering earnings a tad above Wall Street estimates in the second quarter as a jump in passengers and deliveries boosted revenue.",
-      "key_points": [
-        "Uber Technologies shares fell early Wednesday, despite the ride-hailing company registering earnings a tad above Wall Street estimates in the second quarter as a jump in passengers and deliveries boosted revenue."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -430,32 +721,13 @@
       ]
     },
     {
-      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-      "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-05T12:00:00+00:00",
-      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "title": "SpaceX's spending surge, the S&P 500's new record, Chipotle's salmonella scare and more in Morning Squawk - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTJ2amZITzVBNndMeHBWaDMyaFdBaXFVTVRWNjZjZlRocUhLaWNmaWZFZDdhZDh3cGN6SXQ3OFJpSEk5aEM4VnNjNk5Sekh1WVF5TlgzXzBXMm9HVEdLTVVuVDJZc0Z2QjVONnVYeG5YZ1FEQ054MUFJc254Q1A3MmZVSHN6b3lzb0VJ0gGQAUFVX3lxTE9KV2NIN0lCeUY5MHlSOFRXYzRCR2ZnRFE0bmRsQ3NKdVcyVzlDSElRLUJSM2E1NTUwVXEzT0dRR2NHNnpSbHVWZ2VNbE41cmNTWk5iUFJNTzVFWW9qaWI4ZEp2MENBM1FGMFZxVU9DeldtVWR4ellnZGhmamtxM1pQczR2S1RiY1pzcHQ3T1BvVw?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-05T12:11:27+00:00",
+      "summary": "SpaceX's spending surge, the S&P 500's new record, Chipotle's salmonella scare and more in Morning Squawk&nbsp;&nbsp;CNBC",
       "key_points": [
-        "“I expect to have several years before I take distributions from my 401(k) account.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Archer-Daniels Midland, Best Buy, Burlington Stores, Dell Technologies, e.l.f. Beauty, Humana, Transdigm, Vale, and More - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMEZvTjh5LXVEZGRWS2pvc182ZWpNN2V4RHBuVkNhQVR1N1hNdnJCTnk1Xy1sZmoyTEoyRWdPMTNWZk4zR2d0ZlVRT2l2YUNpb1h6d2RIUHlfVDJ2UjBfTHV2Q0o2aTFheWp1bWk4Ukt1SU9hZ3pQcWc5VFNxYkZfenlSOUQ0VDMwLTRxT2NBeGRXQmY0enJseHRJSGtYU2dwa0dFWEQ3c1JEVkhtR2xRcGY4cHBoX0REeVUxeU9naTFSVm0xT2diRFV5emJtc3lxYkczTXVhTzA1NzNtd3Znb20wSXFaWlJJZ1d3SVlMMnFSRHhGWVBxOGhaZFVyQ192LXh3VTVBSmFlWTRaOXhXV292ek9WbHA0bUhvektQUHd6MVFvZ1NwZlpwNlBHR1FwbFdwLV93SVF0Zw?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-08-05T11:59:31+00:00",
-      "summary": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Archer-Daniels Midland, Best Buy, Burlington Stores, Dell Technologies, e.l.f. Beauty, Humana, Transdigm, Vale, and More&nbsp;&nbsp;24/7 Wall St.",
-      "key_points": [
-        "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Archer-Daniels Midland, Best Buy, Burlington Stores, Dell Technologies, e.l.f.",
-        "Beauty, Humana, Transdigm, Vale, and More&nbsp;&nbsp;24/7 Wall St."
+        "SpaceX's spending surge, the S&P 500's new record, Chipotle's salmonella scare and more in Morning Squawk&nbsp;&nbsp;CNBC"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -485,64 +757,10 @@
       ]
     },
     {
-      "title": "Oil prices and world shares gain after Wall Street hits fresh records on strong corporate earnings - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVk1qT3RiRWZHT0lnWWRLd3dTd2t2RkNrbXd1SHlWTFFZNFZ6aGxueDgwbUVDTkhvcFRUckU5Z05VMW94Sm9jbUs3NENGRWNiTmRwQV9qUmpRVmgwdXlab3pjWWd0ODgyY1E4Mnp1c252U3dGRkU0b1k0Xy1FX1B4aHJybTl2RS1ubjhKcjNIT3VGbVNXS2NuZ2g4cER3aDU2OVNTb01NWEMxVlVpVDI4NVhvZlNQXzNkNlFaYURLSFVFeDhsYUxzUGpSdjZudmxINDByU0Z5NWNpS0diVGVZ?oc=5",
-      "source": "BNN Bloomberg",
-      "published": "2026-08-05T10:58:03+00:00",
-      "summary": "Oil prices and world shares gain after Wall Street hits fresh records on strong corporate earnings&nbsp;&nbsp;BNN Bloomberg",
-      "key_points": [
-        "Oil prices and world shares gain after Wall Street hits fresh records on strong corporate earnings&nbsp;&nbsp;BNN Bloomberg"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Oil prices and world shares gain after Wall Street hits fresh records on strong corporate earnings - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUlKOWE3YWxOcGdXcV9iSUpUdG9YVVRWdTAwMjh3RExKWVdseGdPN1BnWl96NGF1bUY5ZEZUbVlXQm5XdFZNbkgxMVFKdGVub2xCU002Rk5ONnVnTllQLUE3VkRTbDZ1MEZya1c2eE9LOUdlS3QwQ1l6ZGtWazY4dXJiRjd5SkdxT2JXR1dBRldqQ1BpSnktNjZSeGFQUk5lQXltT1VhWnVBVXM5M0ZwV0UwNkE4WnZLZWt4bnZuOHdSVXVINVo2MmtRMXR3Vjg?oc=5",
-      "source": "WRAL",
-      "published": "2026-08-05T10:57:37+00:00",
-      "summary": "Oil prices and world shares gain after Wall Street hits fresh records on strong corporate earnings&nbsp;&nbsp;WRAL",
-      "key_points": [
-        "Oil prices and world shares gain after Wall Street hits fresh records on strong corporate earnings&nbsp;&nbsp;WRAL"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street warms to healthcare stocks as tech trade faces turbulence - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHdNWGdrRS1lcGRnWXBjeDN3Q0F3NmZFbjVtLU56X2RIY1VaUHdzZFcyQm9oT0locXRFaTNFSEtCODROV0VNVzQtTEh2MWRjc0hqSlBCRm5zTVhEQUplbVFhUldkQU95NFBpUnJUV2RjYjB1SmZsVmZCQUpBYWQ3TzJyaXVVdlZMT1JnZFJhaGFZX0dnYUVkOUoxZWM1VklFY2hWb0Q1ekVLcGhLYXo0QnlraDJWNFE?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-05T10:45:29+00:00",
-      "summary": "Wall Street warms to healthcare stocks as tech trade faces turbulence&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "Wall Street warms to healthcare stocks as tech trade faces turbulence&nbsp;&nbsp;Reuters"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Apple's Quarterly iPhone Sales Were Even Better Than They Seem - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0hraUVjSDN2ZHpLRTdrOXdmclhkdlV6MElVaWp3dUd5R09RaGgtNS1FMjM4VEFJN29Nd1NkOXVUUnF0emJGaUhha3p1dzI2TFQ4eXExSUk1OVRIMGw2N2NjdW9XbWZsMThsWGlNQjAtWVhzcWxPSHFzRkxfQ0ZORTlyRHc0U2pZeE82NGRseElFUQ?oc=5",
       "source": "The Motley Fool",
-      "published": "2026-08-05T10:18:22+00:00",
+      "published": "2026-08-05T10:55:00+00:00",
       "summary": "Apple's Quarterly iPhone Sales Were Even Better Than They Seem&nbsp;&nbsp;The Motley Fool",
       "key_points": [
         "Apple's Quarterly iPhone Sales Were Even Better Than They Seem&nbsp;&nbsp;The Motley Fool"
@@ -551,43 +769,6 @@
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Opinion: The Greatest Fleecing of Retail Investors in Wall Street's Storied History Begins Tomorrow, Aug. 6 - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnJRZU9nbjE3ZzVNMGJIcXNNZ2F4YTdqU20zRWJxM2ZwLV90X3N5VmRlWHZxVThGa2htZGtHWnI0b2hQTmh1R2RiUi03NERPYklPeEZvT1NneGM2ODlNT0V2NUlMQjhiX3E1QmFrb2Y2SFllR0RIU1l3T05WNG9VQkhfZU1lSWJkUW1hblpsQTRJZE0wNzFLMg?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-08-05T10:06:00+00:00",
-      "summary": "Opinion: The Greatest Fleecing of Retail Investors in Wall Street's Storied History Begins Tomorrow, Aug. 6&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "Opinion: The Greatest Fleecing of Retail Investors in Wall Street's Storied History Begins Tomorrow, Aug.",
-        "6&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "As 26-Year Stock Market Milestone Approaches, History Points to What Comes Next - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd28wYnFVaVdqSTVxNk9wZ2k0TzRCMlBwRl9rWGZOOVpkWHNUYVFuUXRldEx0T080SUZpZ2VrUi1QMkRScnp4R0lrYzRTQlZZS1YtbEVvNnRhNkVPY1FBREJPbktZeld4OVJOSDBEQVB2ei1HNXRIUnJkbnZWZS13TFR6NTV5V1M2U1FobFVva0dQazV3?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-08-05T09:53:21+00:00",
-      "summary": "As 26-Year Stock Market Milestone Approaches, History Points to What Comes Next&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "As 26-Year Stock Market Milestone Approaches, History Points to What Comes Next&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -684,6 +865,24 @@
       ]
     },
     {
+      "title": "Big Tech’s AI Data Center Power Demands Trigger $15B PJM Auction and a Nuclear SMR Boom - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd3A3UWpQemhNMnNld0dGaDVJejRUTnkzNm9uenFLaVdYeGNtUVpJZWZwY0JqSl9rVXJ3SGhtaGlONEFfUTJLeUhzamd4YmF2b0xqVWd0YjlReXNYTlpJZGdFcDRwZFJCT3JxYUxKSklqdmVfb3JjeGpVWk4tUV9lbUVDanE0ZFotWkk1dmpneVR0bmRlUC1xcy1YWGQ1RFdGVE5tczhLYjlYdGJOLTdpV1V3TFJuYW10N2JQRU4yT0JtNlhUeHJaMkNPWk02bFNlTV9ITk9HaTdLcVk?oc=5",
+      "source": "TradingKey",
+      "published": "2026-08-05T01:49:07+00:00",
+      "summary": "Big Tech’s AI Data Center Power Demands Trigger $15B PJM Auction and a Nuclear SMR Boom&nbsp;&nbsp;TradingKey",
+      "key_points": [
+        "Big Tech’s AI Data Center Power Demands Trigger $15B PJM Auction and a Nuclear SMR Boom&nbsp;&nbsp;TradingKey"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "Apple Stock Forecast: Apple Posted $111.2B Revenue, So Why Did AAPL Fall After WWDC? - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXV4XzlFSkVPUTRmVEdHSWd2UW0zQlVWMTc1a3JPRHU0eFZqMkxjcTBZS3NtekYwcUxYb0hjTG5PWDZRVjNnWVUzY2pqSVlEMEtCUTBBMmtBU18wUGQ3UnMtTkFsMDBPYy1ueUxmZFhMdWRyenJiV21XUS1XS09zaWI3cktiXzl1N3RPbFJNdElfeTZPQ0s5WUhIUmtUX3VJYVNBV1ZiRXhoc2YwbjRrdXRyeS1wMUFDU1FPM1FiaHF3SGw2MWt0NE9YM21zM0pJWV9rTjJ3aUtNMENwMTBqZnJnQ243eUk0R3c?oc=5",
       "source": "TradingKey",
@@ -720,43 +919,6 @@
       ]
     },
     {
-      "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
-      "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
-      "source": "Business News",
-      "published": "2026-08-04T22:47:49+00:00",
-      "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
-      "key_points": [
-        "The company didn't provide updated guidance.",
-        "New CEO Silvio Napoli earlier this year suspended production expectations."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-04T22:17:11+00:00",
-      "summary": "Trump White House Readies AI Framework to Review Security Risks&nbsp;&nbsp;The New York Times",
-      "key_points": [
-        "Trump White House Readies AI Framework to Review Security Risks&nbsp;&nbsp;The New York Times"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
       "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
       "source": "Business News",
@@ -765,60 +927,6 @@
       "key_points": [
         "Paramount Skydance reported second-quarter earnings after the bell and said it continues to prepare for its proposed merger with Warner Bros.",
         "Discovery."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
-      "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
-      "source": "Business News",
-      "published": "2026-08-04T20:15:34+00:00",
-      "summary": "McDonald's stock has fallen more than 11% this year, dragging its market cap down to roughly $191 billion.",
-      "key_points": [
-        "McDonald's stock has fallen more than 11% this year, dragging its market cap down to roughly $191 billion."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-      "link": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
-      "source": "Business News",
-      "published": "2026-08-04T20:13:38+00:00",
-      "summary": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
-      "key_points": [
-        "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Novo Nordisk shares slide after guidance disappoints investors",
-      "link": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
-      "source": "Business News",
-      "published": "2026-08-04T20:12:20+00:00",
-      "summary": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
-      "key_points": [
-        "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -920,78 +1028,6 @@
       ]
     },
     {
-      "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
-      "link": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
-      "source": "Business News",
-      "published": "2026-08-04T17:09:37+00:00",
-      "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
-      "key_points": [
-        "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-      "link": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
-      "source": "Business News",
-      "published": "2026-08-04T17:02:05+00:00",
-      "summary": "P&G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
-      "key_points": [
-        "P&G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\""
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple: A Price That Leaves Nothing For The Buyer (NASDAQ:AAPL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlJjYjlSLWs4WE5jV0VydW5CRjNZb3RBa0wzaEpLYmhqRVNybG1JVjAyQV9oWWhuOHZWYlMxRnRsYmFiTkZkbkZ6RnFoX3l0OWNMTXd4UHpjZU5CSWFUM2syTkJOdHY1aWJPRWVjRmYtcWdXQVJkZVU0UGk5eGxjWXZ5cHNxbTF4enluN0VjWjRFZw?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-08-04T15:44:06+00:00",
-      "summary": "Apple: A Price That Leaves Nothing For The Buyer (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha",
-      "key_points": [
-        "Apple: A Price That Leaves Nothing For The Buyer (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple’s AI Strategy Looks Different—Will It Pay Off? - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmM1QTluUnhGQTdPaDVxZEFFRHBQaUVVWVMxaUNCSnUzeEJBSVJjalRJZzZHSDlrS2tydmZPbjdZNzBJT0RZTE5PajhCaDYyVVJza3lPSThfdGtXd0RzRlVwaWF2aFZnX1NHTEEtZ1NZSTVreUUwY29KdnFGZjlFQkxsN0VNcUlmbFZmNUNpSQ?oc=5",
-      "source": "MarketBeat",
-      "published": "2026-08-04T15:40:33+00:00",
-      "summary": "Apple’s AI Strategy Looks Different—Will It Pay Off?&nbsp;&nbsp;MarketBeat",
-      "key_points": [
-        "Apple’s AI Strategy Looks Different—Will It Pay Off?&nbsp;&nbsp;MarketBeat"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Red tape will kill the next AI startup, and Big Tech couldn’t be happier - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFo5Qk1GYW5VRkpzZ0picmRJZkJrOW5rRXE0NkExUnJvX0RoM0FCekJ3M1dMbTdnRkg0RC1wbm05eG5halhZdmR6SG5YcUd4NU5lS3lERFhtNG90X2Jhc3ZWUk5wLXZTUlp2TlNQV2JrOHlVU3k1WmNOWlVTMC1aMlBObi1iRERRcWdBNjhOMmREeVNYYWUyNnRTNWtwUTVXcGt1Rldzbkt0UQ?oc=5",
       "source": "Washington Examiner",
@@ -1001,7 +1037,7 @@
         "Red tape will kill the next AI startup, and Big Tech couldn’t be happier&nbsp;&nbsp;Washington Examiner"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -1047,13 +1083,13 @@
       ]
     },
     {
-      "title": "QC: Artificial Intelligence’s Big Hammer Finds Another Nail - TVTechnology",
+      "title": "QC: Artificial Intelligence’s Big Hammer Finds Another Nail - tvtechnology.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNkpCZDlqSUJKT3FFdk5kc3VKZ1J0dVEtbXRWdDdMejMwbHUzTWw1RVFqdmxvZThGdWsxVmtocnI5VlM5RWRzOTdLeVA2WU1xRjA1U05IeHRWRWsxSVFRSERMSGpvMGttU0xMMVNrN3BGb1hqUXpfaTJkeWp4a2VfQ2pJdzJrSUVLUDgzNWlUMFZ5c1hueUxJTzBLbkFjZFdDYnd3?oc=5",
-      "source": "TVTechnology",
+      "source": "tvtechnology.com",
       "published": "2026-08-04T12:00:00+00:00",
-      "summary": "QC: Artificial Intelligence’s Big Hammer Finds Another Nail&nbsp;&nbsp;TVTechnology",
+      "summary": "QC: Artificial Intelligence’s Big Hammer Finds Another Nail&nbsp;&nbsp;tvtechnology.com",
       "key_points": [
-        "QC: Artificial Intelligence’s Big Hammer Finds Another Nail&nbsp;&nbsp;TVTechnology"
+        "QC: Artificial Intelligence’s Big Hammer Finds Another Nail&nbsp;&nbsp;tvtechnology.com"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1137,24 +1173,6 @@
       ]
     },
     {
-      "title": "Has a Chinese physical AI start-up manipulated a global ranking to beat Nvidia? - scmp.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbTFWNEN1WEpfWWxoWm44eXJrcWNqQVpqVkdndTNTOG8zU3ZSaXFaNGRmYmhqTkwtbjVITTlYSEpieUt4aVcybHdTbGN0R0ZQMUgyeDZ3Tkw1SDRPRko3emdfdE9tUFBhaFdxZGM4N3RjZWkwX2FRX3lIdEdGYmxCbzd1VTE5RHBWd3dqOWE3a3dKQlMxNnllNHROc21pRi00UnRIc3k0aWRoTENHcFd0cFlkR2xBaHJfdHZv0gG7AUFVX3lxTE5BUFpZRFJaNFo1QWhZRnpDSUQ0WXYxdmYzZ3ozVy1VZlpFMW81MWhkenJEdDd5cFlWMGRleGN5aURSYmdqR1VIdjJjcFNmdG5DYkNKdldYV1c0YnB3TzJkRmRKRjNMM1VmM1owRGFPeDN4SWJraVJsQmFBcUlMZG9iUF9ZTmFRX1RCQTJ6UjBnM3lRYlVUNzJWc0ZURjJyRDFTMFpJTjNERnBfWlI0QmxkOTQ1STJzMmIzTHM?oc=5",
-      "source": "scmp.com",
-      "published": "2026-08-04T10:30:06+00:00",
-      "summary": "Has a Chinese physical AI start-up manipulated a global ranking to beat Nvidia?&nbsp;&nbsp;scmp.com",
-      "key_points": [
-        "Has a Chinese physical AI start-up manipulated a global ranking to beat Nvidia?&nbsp;&nbsp;scmp.com"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Malaysia's E&E exports sustaining 2H growth amid resilient global tech cycle — CGS International - KLSE Screener",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOFpteTh0aWlsa0haUWJOYTlzQi1EcDY2TFBXcG1abnpfR2VtTGdGcENwT0JIRmVuSWpJVXA4UF91dm1Hck43X0l0OU9QQnBLd3RXTnVBSmtGQUxranNBZWRqYU9DTFAxOHdkcVVwcFBCVUlJWjVRbTYzc2NiZ04tbF80eHRtdjM2NDU5TUYtM2xiS0ZaTjNCSFBvejdGdFdsa0V5aklRZThNdHB2M0RnaVJVQk9LRkNfaEFsN0w1ZEtQeEtPRDg3VUZIYUxzd2VNWEFCRHYxTlFWUlJ6?oc=5",
       "source": "KLSE Screener",
@@ -1191,24 +1209,6 @@
       ]
     },
     {
-      "title": "'Foolish and violent behaviour': Shrewsbury finance director faces losing career over strangulation conviction - Shropshire Star",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZFBfeDhuTGFzOHZpS1oyWndwLTl1NXZCSHRBaENBV0V5Q2psTEw5OUp0UjF2MUQ0dlk5ekNpZWR2Y2hOSEplb0Rfd0h6SzBhS1hIdXdZMXBsSEMwRW1Ta0QzQncybkxEM1hfaTdTS3lHQXVSbE96c0JpVjF4VkNTQm1pQmt2M19NM0hpQzBqOHp6bmxHdC1SWmo4YWxsWDVPZmxmdWVpQm5Jd215M2Rib1gxNjJyU2RmN01Ua3lSVndIR2JrZnMtejVVOGl5WTdUbnVWZVNjVGR6dmwzLUhrWW5YejNWUGZsR0VSUHV3?oc=5",
-      "source": "Shropshire Star",
-      "published": "2026-08-04T05:00:00+00:00",
-      "summary": "'Foolish and violent behaviour': Shrewsbury finance director faces losing career over strangulation conviction&nbsp;&nbsp;Shropshire Star",
-      "key_points": [
-        "'Foolish and violent behaviour': Shrewsbury finance director faces losing career over strangulation conviction&nbsp;&nbsp;Shropshire Star"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
       "title": "Career & Finance Horoscope for August 4, 2026: Research thoroughly before making any financial decisions | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSVFXdzN6aVNPTWhhTFlUakNOVTRYeURBdkF0MkYwQmVMWVRLSlZtMEdTbVNPMFVobTc2Uy1iSFpVQjNlNF92TWlTdkJ5ckJsUVBQQjRkYU42OHBtSVNVOXdheUl2NHJlZGhwNzVBdE9LLTVKalFWYnVjNTRkMFlvZnZOeU5LV2RJNm9mY0NndElJcW9DZzlQVXdOWjRydDlRQjNPcnBhb0FLdllwVHNFSmdoQXk5eWpTU2w3dENjUkxYUkhsRDlLVjIwcnkwYmFfYzdtNUxuc1lyXzRnejJsVmcxLXBOR0RLMGxTMEd5cWhEcUJTcmVEaFY0bUVYM3Ra0gGGAkFVX3lxTE5TblI4VDZFWGlpdWpWNW8zZy13TW43VEJpaTlFNm5hb0VrRm5ZTVRSWUNHZUY1OXlRU0hYM0dfblpyVFcydHR5YzZDQ1QtVExfUl82RWFkbWc3UDNxRDZiLVlrZEl0cG1jYTRUV3dDVFNWQjJsUmk4Tzk2NVlsYUY1SjNSZTRlQWRBNnNOWDAxSDlfbHYwUzNqOHY5ZGNDRGJKUHBwdlBCYzhnOE9wYldDYmRGcFV4OUxXTVEzNy14cmVZeTgyUmVXckczX044VkNvYXotOHg3cldYSVQ4b1ZfMF9zeDF5X05NaWZFSjZUUUxPLTQyU2U4ckVCald5U0xwN051Ync?oc=5",
       "source": "Hindustan Times",
@@ -1227,13 +1227,13 @@
       ]
     },
     {
-      "title": "US tech giants invited to discuss AI security tests at White House - scmp.com",
+      "title": "US tech giants invited to discuss AI security tests at White House - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0VtOUVnZGpLMGZBaTExOWpZVk16QnczWDRNQThxejlMdndfN1pHYXd4Q0NjZ2dwLUlmYW80UW9nQ2NkTWwtMVFOMllobTR4UDR3WEFCQWI1T3NEN204MVl2bWNjdUJQMVVKS0hxSW51Q0Y1RUx2Y1lZbHE0OWE0NlVfbERudWltWXhRYS1NRjIxSFFNX3JNVkF2eWxXS01tQlM1U01DUkZKQUhnZDFaRWV4Z1JYUdIBtgFBVV95cUxOVXRWeG9hdF9yQUR2MkpnRGdRT19VQk5VdXhjTDVvSm90MGhBaklqV29VX2NObngyMXp5bnNZT2pWT3NaMjQwcUdTdi1fd19NTHl2UXJtVE9PekdnR1o2TE45MnFlMDRnZ0FVUzVIMzNDd0pVV3ZyOW9rRkE1eS1XM094aS1ZZEgyWG5tRkdCd1RuSnFxai1ER0pwVVc0c2NnUzQwVE5jdHpkWkhFTUoxejNyMVZTZw?oc=5",
-      "source": "scmp.com",
+      "source": "South China Morning Post",
       "published": "2026-08-03T22:25:55+00:00",
-      "summary": "US tech giants invited to discuss AI security tests at White House&nbsp;&nbsp;scmp.com",
+      "summary": "US tech giants invited to discuss AI security tests at White House&nbsp;&nbsp;South China Morning Post",
       "key_points": [
-        "US tech giants invited to discuss AI security tests at White House&nbsp;&nbsp;scmp.com"
+        "US tech giants invited to discuss AI security tests at White House&nbsp;&nbsp;South China Morning Post"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1554,21 +1554,21 @@
       ]
     },
     {
-      "title": "Horoscope Today, July 31, 2026: Check finance, career and investment tips for all 12 zodiac signs - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQempISW95cmw2ZUpnQjRlMDQ4N0ZvOVAwdGhNZXJiSktlYUllNi1DT0d1R2FVNzF0eEJMNWctaVdBTnMwTXQ0X2Nwdmszb3gyWDFidWRsTlZnMl9MWThOc21Ia1NhdV9uYmUweWxuWDdiZ19sQ1VIa25aeS16b3ZkbmJEdWE3QlFJZERud3B1elNqSjIxX01DS0ljWFg5cFNObVVZTWpjeWlBUTJWNGtNdWphVW01ZG9LR1lTbWpDOEdDR2dBd3RWV1FMdU1aa243d0s1WXAyRGhzQ1BvQUw0ZlpPMFFZM291d0HSAe8BQVVfeXFMTXU0QXBUcmkzaTgzMnJiWkotdE5zQUd4QXZScndmTU1fajZwWVVFRzhySDR5cVd6SDhZM0VSbUhCdXJZUjlzeFRRUEhrUnpNM2tGRy1zRlZGdi11SmxIRG80cWRLSXI3a1hLOGMtUERnM25JVnp0d25obG8xeGpjUzlha3o3VFdJZHBDVldyTzZlRTlnXzctSjM5SktKOVBFQUlMOUNaV29vNjBQLW1EaE1vYVdLd1FJT2tHRE16LVJzNFQ3S3ZJQXZUaG1DUXVhNXgyVXd1LVdtMGw5TDJLcGROTlJIVlBfS2R5T0o0YzA?oc=5",
-      "source": "Moneycontrol.com",
-      "published": "2026-07-30T23:30:21+00:00",
-      "summary": "Horoscope Today, July 31, 2026: Check finance, career and investment tips for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com",
+      "title": "Ministry strengthens Data-Driven decision making - FBC News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1pJTzhFMVlYSXBLclZfVVQzYmk2RGUxLW9MTmNCRGRUVzA3d1J5NGxPaktaWGRrZ2JqSlQzZVc2TEtxVC1hS3V4LThTMVhyQ2pxeXZjUVpzT09fQ0ZvM2tnaTZ3Zk1tRnRrQk5zNXlLQ05EdTBLcmRGMjhWaVpBX0Z0NkVCMUo0?oc=5",
+      "source": "FBC News",
+      "published": "2026-07-30T07:47:01+00:00",
+      "summary": "Ministry strengthens Data-Driven decision making&nbsp;&nbsp;FBC News",
       "key_points": [
-        "Horoscope Today, July 31, 2026: Check finance, career and investment tips for all 12 zodiac signs&nbsp;&nbsp;Moneycontrol.com"
+        "Ministry strengthens Data-Driven decision making&nbsp;&nbsp;FBC News"
       ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
       "topics": [
-        "Finance Degrees & Careers"
+        "Business & Financial Analytics"
       ],
       "sections": [
-        "Education"
+        "Work"
       ]
     },
     {
@@ -1608,13 +1608,31 @@
       ]
     },
     {
-      "title": "Online MBA Curriculum: Business Analytics & Market Trends - PW",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1lYODFxajhtRXZFX0tjeVltTXp0TUJTOFU0MXRhUEUxMUZmaElkbUZ5U1NvanV0czQtbjZORFVzalg4Mm1GZlp3a2ZLNDZ2MXdwTU1KNlZNa2phbTZqcG05bTlaVGpFbVp2TkJ4eDVwS1hXZWlKUk1ETFlDNS1PYkFqdjh2T2l5NGktV0taSkpCVmZ3M3c?oc=5",
-      "source": "PW",
-      "published": "2026-07-29T12:18:53+00:00",
-      "summary": "Online MBA Curriculum: Business Analytics & Market Trends&nbsp;&nbsp;PW",
+      "title": "Falcon Futures: UWRF student puts finance, economics and math skills to work for internship at Federal Reserve Bank of Minneapolis - Pierce County Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3Z3bTFUc2pUWmdIQ1VHZU5nTkhiOXJaQV8yMk44eVVXSVBQaDh4a0o0MlZCd0k2eGQxdW9ybS15Tm1TaFZ5NWtNaVAySE12cF92RkVsdWRBRG5OYmlkNWdJbS1fdjZwektzcjRBdGM2WHE4VGU4VWVhZGVGR2tfR0lKakEwZGZFd0hCNnJXVk9XcUpfZ2hvbkI3UWNNQnFYNmJ0eXJZYlJUTFgwT3U0WHhfUG1jenVrWVJadk4xRDExSzZSZ3V3ZzRaRF9ZNy1RbW44SkFEYnRydThY?oc=5",
+      "source": "Pierce County Journal",
+      "published": "2026-07-29T18:36:00+00:00",
+      "summary": "Falcon Futures: UWRF student puts finance, economics and math skills to work for internship at Federal Reserve Bank of Minneapolis&nbsp;&nbsp;Pierce County Journal",
       "key_points": [
-        "Online MBA Curriculum: Business Analytics & Market Trends&nbsp;&nbsp;PW"
+        "Falcon Futures: UWRF student puts finance, economics and math skills to work for internship at Federal Reserve Bank of Minneapolis&nbsp;&nbsp;Pierce County Journal"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "Online MBA Curriculum: Business Analytics & Market Trends - Pw",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON1lYODFxajhtRXZFX0tjeVltTXp0TUJTOFU0MXRhUEUxMUZmaElkbUZ5U1NvanV0czQtbjZORFVzalg4Mm1GZlp3a2ZLNDZ2MXdwTU1KNlZNa2phbTZqcG05bTlaVGpFbVp2TkJ4eDVwS1hXZWlKUk1ETFlDNS1PYkFqdjh2T2l5NGktV0taSkpCVmZ3M3c?oc=5",
+      "source": "Pw",
+      "published": "2026-07-29T12:18:53+00:00",
+      "summary": "Online MBA Curriculum: Business Analytics & Market Trends&nbsp;&nbsp;Pw",
+      "key_points": [
+        "Online MBA Curriculum: Business Analytics & Market Trends&nbsp;&nbsp;Pw"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1644,24 +1662,6 @@
       ]
     },
     {
-      "title": "Reforms start delivering results, says Bank Negara governor - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY00wNHpUYUZ0ZzNTemdBd09JZ3VaYlZMelBPOUw1YXAzY3I1aUt4LS1BTlZXUDdSWFVWVURROGdxVk1hR2hjWFQ2RW9HSVk3MWlRNFVVSTZvM0w4V3puVDk0V250TnBsZ0c3a0NDQ0FpRnh3YlJKTnBmRXZXMGw0YU9vSzVYcUE3QWtfQkp0V29objZ1aC1pcG5EY2dURGl5eEVIdERjYTBrMnBt?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-07-29T10:29:06+00:00",
-      "summary": "Reforms start delivering results, says Bank Negara governor&nbsp;&nbsp;KLSE Screener",
-      "key_points": [
-        "Reforms start delivering results, says Bank Negara governor&nbsp;&nbsp;KLSE Screener"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Malaysian economy on track for 4% to 5% growth, central bank governor says - Forex Factory",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT1htbjJzVlFlelRTaGtSYThVNjNDUEppOUZ5ZV9OQXFIN3dLMlBJaDdmMDBfZ1BidFl0TGpQRGM4d3V3ajRKWVpNeHVLYVNpTHV3UjdZNy10X3NyRjVXYmtoSVpzNnUzb0lBdnVqMmJOYWNMQkVVaHdqRkNjTF9Rc3J5SFlXUdIBiwFBVV95cUxON1JYTUE5cFVVSEM5aFp1WW9Ea1VjT2pGUFJwRkxfOEo2d2RPYnU1MmZyYVN6bjk5c3BRWWY4anJxbE1UQ3Y2ODJ5QUYzaDdyYXBJYTRmOTBMMkdHRGV2TmFSU3VON2QyeXNvZy1oZ0tjQ2tlamxIZm5vaHN1ZU5fem9oWFZuVENHUTVZ?oc=5",
       "source": "Forex Factory",
@@ -1680,13 +1680,13 @@
       ]
     },
     {
-      "title": "Pay growth lags productivity, wage setting system needs review - Bank Negara deputy governor - The Star",
+      "title": "Pay growth lags productivity, wage setting system needs review - Bank Negara deputy governor - thestar.com.my",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFBxZy03dU0wOUFXQ0dHTVZwWlJpaFhnNGRhc2hPZFVTMzUtbkNTcHRZU1F5Q21DanhpV3Rlc2JVZlozU3hrOW1LVmxmU2lYY3pEQ2RZSks1dDBUcm9VSGhyblYweDZZMzVyYU1Mcl9nbHVKbU92OHkya0RCVm5qYmE1dm9BMng1clFSaGNJcnhBS295TFBrUnZDOThqMm5wOUh2ZmVlR0thakd5eUhxbUc1T0swOVowWVFTcWJHRDVLZ0ViUWl0c1IySzlwSXVBU05zYnljUXRvYTJhM1UxYUVQd29QOW8?oc=5",
-      "source": "The Star",
+      "source": "thestar.com.my",
       "published": "2026-07-28T11:42:00+00:00",
-      "summary": "Pay growth lags productivity, wage setting system needs review - Bank Negara deputy governor&nbsp;&nbsp;The Star",
+      "summary": "Pay growth lags productivity, wage setting system needs review - Bank Negara deputy governor&nbsp;&nbsp;thestar.com.my",
       "key_points": [
-        "Pay growth lags productivity, wage setting system needs review - Bank Negara deputy governor&nbsp;&nbsp;The Star"
+        "Pay growth lags productivity, wage setting system needs review - Bank Negara deputy governor&nbsp;&nbsp;thestar.com.my"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1734,13 +1734,31 @@
       ]
     },
     {
-      "title": "Free Data Analysis Courses With Certificates - Simplilearn.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PVHRMcXRFSkNaM2UwRXZkZXRERHBkLWlQSC1mYkNwVjllNkRhVDNRVENWeXRmUWVNdFg1YnFFZUN5TXdoTC1YV2xLUnpfZFNuZk5CblRaSm01Yzk3bzdRdFhwVUNOUWFNcmVfSHdEbnYwdzFq?oc=5",
-      "source": "Simplilearn.com",
-      "published": "2026-07-27T07:00:00+00:00",
-      "summary": "Free Data Analysis Courses With Certificates&nbsp;&nbsp;Simplilearn.com",
+      "title": "Time ripe for bold structural reforms, says former Bank Negara deputy governor - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUtmTU1uZFpsVUs4eDVrd2lib1hzZnV0S2xiWkQ2SldLV3RRV3NhZndzaHFHYUpocUdWR2h2OUlCX0tDUS01djVyOXZYZ2JlUlF4aHpyXzlObXlQRldPbzJGQUFGbG9pMEhxNFYxSTczUFE3MzlPTGJKYW9iODVUbGNRNktLUjR6SmlPX3p5N29RTjJBaERENDc4NnEzb0p0ZXRuWEFlS05FQzZSanB2NEhKSnJSZXItTFZsZtIBwgFBVV95cUxQRHdXeHRtN2N2eHpqUUVjTjlLNWNRYllZZ0JyZUhLV2Iwa3VVUklmcW5VV05pcHlyWTF4eDNFdXdGTUVReG1YNDdYbGptd1lfbjBBS2dXTDB0MHJNN2ZUU2ZmNGxwNk95cndPRVIteUozSlY3LUtsOGVmS1ppZ2V2Q285emNMZms2cnpHbTFyMWxXaGE1NHRobHlZS1hNSGNnX1NXZGlNcEtxVmJITG9rNFRhanM3RFB0eXVIeFNEWjRqQQ?oc=5",
+      "source": "NST Online",
+      "published": "2026-07-28T07:13:15+00:00",
+      "summary": "Time ripe for bold structural reforms, says former Bank Negara deputy governor&nbsp;&nbsp;NST Online",
       "key_points": [
-        "Free Data Analysis Courses With Certificates&nbsp;&nbsp;Simplilearn.com"
+        "Time ripe for bold structural reforms, says former Bank Negara deputy governor&nbsp;&nbsp;NST Online"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Free Data Analysis Courses With Certificates - simplilearn.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PVHRMcXRFSkNaM2UwRXZkZXRERHBkLWlQSC1mYkNwVjllNkRhVDNRVENWeXRmUWVNdFg1YnFFZUN5TXdoTC1YV2xLUnpfZFNuZk5CblRaSm01Yzk3bzdRdFhwVUNOUWFNcmVfSHdEbnYwdzFq?oc=5",
+      "source": "simplilearn.com",
+      "published": "2026-07-27T07:00:00+00:00",
+      "summary": "Free Data Analysis Courses With Certificates&nbsp;&nbsp;simplilearn.com",
+      "key_points": [
+        "Free Data Analysis Courses With Certificates&nbsp;&nbsp;simplilearn.com"
       ],
       "why_recommended": "Matched your \"Data & Portfolio Tools\" topic.",
       "importance": "Low",
@@ -1752,13 +1770,13 @@
       ]
     },
     {
-      "title": "12 Free Data Science Courses and Programs to Learn Online - Simplilearn.com",
+      "title": "12 Free Data Science Courses and Programs to Learn Online - simplilearn.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ca2N0QmdCWHg1VWRPMm5RUmRpdm10Yy1UZ2YyTWNCOWpCZzh1SmdkNGc5VFlZRXN3aVh5ZjVoeV9sd3hIZDNjLXZSZDFhaDZtMXVQRzZqZUxFNGNFeGJ3ZS1YOWFpN1dMZjBSVnFn?oc=5",
-      "source": "Simplilearn.com",
+      "source": "simplilearn.com",
       "published": "2026-07-27T07:00:00+00:00",
-      "summary": "12 Free Data Science Courses and Programs to Learn Online&nbsp;&nbsp;Simplilearn.com",
+      "summary": "12 Free Data Science Courses and Programs to Learn Online&nbsp;&nbsp;simplilearn.com",
       "key_points": [
-        "12 Free Data Science Courses and Programs to Learn Online&nbsp;&nbsp;Simplilearn.com"
+        "12 Free Data Science Courses and Programs to Learn Online&nbsp;&nbsp;simplilearn.com"
       ],
       "why_recommended": "Matched your \"Data & Portfolio Tools\" topic.",
       "importance": "Low",
