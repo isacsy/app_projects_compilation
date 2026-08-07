@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:35:19.739897+00:00",
+  "generated_at": "2026-08-07T10:06:07.099675+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,208 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: 18 S&P 500 Stocks Just Made New 52-Week Highs - Trefis (Finance) | Where The Selling Ran Deepest: 5 S&P 500 Stocks At 52-Week Lows - Trefis (Finance) | Inside $1.46 trn AI spending spree reshaping the world's biggest tech firms - Business Standard (Technology) | Apple’s Capex Strategy Worked But Other Pressures Are Mounting Now - 24/7 Wall St. (Finance) | How major US stock indexes fared Thursday 8/6/2026 - The Washington Post (Finance)",
+  "daily_brief": "Top stories right now: There are good reasons why higher bond yields are here to stay, this strategist says (Finance) | S&P 500, Dow futures muted ahead of jobs data; chips, software stocks rise - Reuters (Finance) | Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ahead of July Jobs Report—Atlassian, Trade Desk - Benzinga (Finance) | World shares are mixed after U.S. stocks fall back, while oil rebounds - BNN Bloomberg (Finance) | Chime Financial Stock Climbs 51% On A 9-Day Winning Streak - Trefis (Finance)",
   "count": 91,
   "items": [
+    {
+      "title": "There are good reasons why higher bond yields are here to stay, this strategist says",
+      "link": "https://www.marketwatch.com/story/there-are-good-reasons-why-higher-bond-yields-are-here-to-stay-this-strategist-says-2a89d5ae?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T10:02:00+00:00",
+      "summary": "Investors are demanding higher rates when they buy long-duration bonds because there is less demand, higher supply and a hot mess of policy uncertainty, strategist explains",
+      "key_points": [
+        "Investors are demanding higher rates when they buy long-duration bonds because there is less demand, higher supply and a hot mess of policy uncertainty, strategist explains"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "S&P 500, Dow futures muted ahead of jobs data; chips, software stocks rise - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1d0RTF2VldzYWZCaFg3YzBhd2pEamRMWWU1VWNQOGZBSnFDVXFfZDNlVVowQzFwSmVHUDdObmQ4d1VDQnpZZmlhNS1xLWJabGxUMlNPSHc0NGY2SFptZ2QzOTgxTEZQVkpFblM4ZzI4anFIUkV1amFOZlNrRDRXbTUySWl0c1VMdjdiMWJxVUtNa0RmQXB5V3l6Rnl3aTRJQi1zOW1zTFFaZ1A4YjgxSnp3?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-07T09:55:45+00:00",
+      "summary": "S&P 500, Dow futures muted ahead of jobs data; chips, software stocks rise&nbsp;&nbsp;Reuters",
+      "key_points": [
+        "S&P 500, Dow futures muted ahead of jobs data; chips, software stocks rise&nbsp;&nbsp;Reuters"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ahead of July Jobs Report—Atlassian, Trade Desk - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOVA3VUFiT3dlb2NWVXRQN3paeXpnbVJzeUlzWVh2Wk9Mc1pQLUpEQldDVDJramJFSURwNXZzY2dMb01rdGdWU1VLM0ZlYmdtYXFRcnluU2kwUnFSa1dxd0Rrb1VObU10cnVuVUl5US1BWGdJRUtKdlljcTJxd2N3Vl9YUG9zWWJxVWhTbndIV3k3OUhIbGlzYnZjbjJRNlVpT1lYa2NRaEtUZE1iWXNmZzFJNG50cUVWR3EyU3VqaElVQjJpQWN4YWJ2QlN5OEpMb0dqZHFJZ2E4MGtmbzktUjhhUmFyM1ZUNjdXalpMdTE3djFLSWYzSVVBZjktd0R1aHI3azk4WGd5Zw?oc=5",
+      "source": "Benzinga",
+      "published": "2026-08-07T09:55:22+00:00",
+      "summary": "Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ahead of July Jobs Report—Atlassian, Trade Desk&nbsp;&nbsp;Benzinga",
+      "key_points": [
+        "Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ahead of July Jobs Report—Atlassian, Trade Desk&nbsp;&nbsp;Benzinga"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "World shares are mixed after U.S. stocks fall back, while oil rebounds - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFZwUy1nM0k1MkhpWFd3cnh6NmRxRjJrQlV2NlFMWldPc2R1bnJzdUJDcE9KWHFxMmRzVEdySjB6SUlUc2dhZFpfeFdVRktrQU5QdThhWUU4elNMamRCV0FwVzRsTHQ3THNwM3ZWM3ZNQ2tzcWU4Rk50LXBZTWxfbmdIa3lwdzlvM3hNcTJ0eVRxX1plSE41NUxZQm9saGxBZXcwNlNUeUMyWXpvSDFOYVZWaFNpZw?oc=5",
+      "source": "BNN Bloomberg",
+      "published": "2026-08-07T09:50:05+00:00",
+      "summary": "World shares are mixed after U.S. stocks fall back, while oil rebounds&nbsp;&nbsp;BNN Bloomberg",
+      "key_points": [
+        "World shares are mixed after U.S.",
+        "stocks fall back, while oil rebounds&nbsp;&nbsp;BNN Bloomberg"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Chime Financial Stock Climbs 51% On A 9-Day Winning Streak - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE5kVkJGRzVhUnhqdEdwZUZJazVrX2dsRHltVkhXR1NJQVFKYXR0bVctbHpIOEE0bXoyQnc2cFNEWV8xOHVpVjZWNFl3QjhoX0xMLUZuWk5EQURPS3kyNDMzLV9tY041RHl0dHkyYk9Mek9GZ3NUNjZxY2FFNnhrWkgyNk84eVNlbFNBNG1BUmtVTjF0QWUxZ1pHU0dYdWlnNEQxeWduQkpKTHVzRXZ4R2hPZk04bGFFV2c?oc=5",
+      "source": "Trefis",
+      "published": "2026-08-07T09:30:03+00:00",
+      "summary": "Chime Financial Stock Climbs 51% On A 9-Day Winning Streak&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "Chime Financial Stock Climbs 51% On A 9-Day Winning Streak&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence Has Been Used To Create New Viruses - 2oceansvibe News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnVLZW5YaGx1UXdQSkhMcmNuTFEzbWVXTUdEZWVncXJ3R0NYMXlwQkdEX0Y4MWFPcHl0SVpCemJZOGhkM0tGbXg5NXIzRk5CcU5NRFhoQzBTSUo5Q1F6elJJaHlXUU90T0VycnR2Qmp6US1rNTBsajBfMS1qcHRDRDdtNnpZc0tQX2JrM2J1QlRxWk5vZFFER0RGRnNsTmxad2cxMTg4Tmd1VnJxSmM5OXhR?oc=5",
+      "source": "2oceansvibe News",
+      "published": "2026-08-07T09:18:15+00:00",
+      "summary": "Artificial Intelligence Has Been Used To Create New Viruses&nbsp;&nbsp;2oceansvibe News",
+      "key_points": [
+        "Artificial Intelligence Has Been Used To Create New Viruses&nbsp;&nbsp;2oceansvibe News"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
+      "link": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-07T09:16:00+00:00",
+      "summary": "“I imagine scenarios like this happen more often than people realize.”",
+      "key_points": [
+        "“I imagine scenarios like this happen more often than people realize.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmFUU1lPb3lBMEhBRWxtUkEyc1VMYUtMZV9KejFPSTRGM1B0TVpBLXVTcE5hUXBJNjBXRVRMcC1pbXo5R3lMWDZ0dnBpQ1lSZ1djVmdEWDJ2d1Nfbk9RVG9rR1I2aWNfMDlIeHlhZDMtZERRLV9xcU9lQ0U2b1ZYU2Y5YUIxRzdLZEQ1Ujl5WUV2TWFuRXU1WjVvQUh6dnlDbzhoWnpSRHVPT3NhVFhpU0dERWRSS0JRc3MtVnZuX0lqSE52eVpubEN4dUFhN2VkazE3TExn?oc=5",
+      "source": "Benzinga",
+      "published": "2026-08-07T09:04:38+00:00",
+      "summary": "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga",
+      "key_points": [
+        "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Broadcom Stock: 6 Straight Green Days, Up 14% - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTVIT1luTDItQzJnTzBOSVFKcHFrSkFFWG9Rck5XOVRVNDdaYjR0XzJncE9aYWFOQW9GcUhtNjJ6UkZ1ZU01b1VpMl93bnNsZXNPVktUSlBSQy16SExLMXh2cUdvWWJKVkZKOEFiQVd3b3RDSGNPNHB4bHV0ZnZldGJ5YlNlYlFRaHQ1dVgwSFdZdm8xZEc0WDQtWjM1QWVDMzViLVZn?oc=5",
+      "source": "Trefis",
+      "published": "2026-08-07T09:03:00+00:00",
+      "summary": "Broadcom Stock: 6 Straight Green Days, Up 14%&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "Broadcom Stock: 6 Straight Green Days, Up 14%&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bringing SEB AM to Norway and Iceland \"too interesting to pass up\" for ex-Storebrand profile - AMWatch",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11Z1VlR1I2Z0dsT3RnaUhnWDFzMVJSend3cXNkU2RjM2JleVhWUmp3dVpxZUZyUkhLMDhaaHpKMVJmZG9LVTdRcDlIZTNDZUNCREI4SVZDQXV5cHBRanVFTEswZlNDclhaa2xyUHlBcw?oc=5",
+      "source": "AMWatch",
+      "published": "2026-08-07T08:30:00+00:00",
+      "summary": "Bringing SEB AM to Norway and Iceland \"too interesting to pass up\" for ex-Storebrand profile&nbsp;&nbsp;AMWatch",
+      "key_points": [
+        "Bringing SEB AM to Norway and Iceland \"too interesting to pass up\" for ex-Storebrand profile&nbsp;&nbsp;AMWatch"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Firm Services And Yield Jitters - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQODNoNG1NU1pFOURnVXNLbkF4aGt2M1ExZDhOZ1EwT0pBekw4LVYwcVQyNnU2c2QxRFp5bVpIQ1ZvNExvQVJMWVpZSnpuMjFGbHlreVNMdVdlaDZkZWNhWjFTaXMtZHFlRmFtYVBwWnZOU0J4ZVM2OVp3d0dyQzR4UWpJc1RVYUJESWlFYmFYUW01b1FQaEMyRjRhVTFaSkNuU3UyTXJMZ2lHMG5EazlyMzRwY2tpTWRHeGpaMnVNdEl5dnRHdTZXUHJSaW1tNUpfRDJmNTdhN1dYZzjSAeABQVVfeXFMTWtpemhxclhGQkMxRlZKWkNWQk5rOUtpbkFYWHZ4YlFOQU1PNjdscjY5UmRzZWRLWFc1ZU5Va0tfOE84X2pqNjRGTTBYSE5QQk9YckktY0VJUm5kWWhnZ0R3TXNpQzFhODdQakFCT2dkTHVHR0VRa2NobFhVSEJ5MDYzaHN5RTdKMWVrcG80eUE4Y3RCVThDMHV1emtEc05USm9ScXd3NGU0V0dDUVZTd1dRRFhSWFFjM2E4UkE0RElIaVRLRDgyWFhGNmE1QVZSNXU4aHBDM3RHNmlLVm9Zc2E?oc=5",
+      "source": "simplywall.st",
+      "published": "2026-08-07T08:24:18+00:00",
+      "summary": "US Stock Market Today: S&P 500 Futures Edge Higher On Firm Services And Yield Jitters&nbsp;&nbsp;simplywall.st",
+      "key_points": [
+        "US Stock Market Today: S&P 500 Futures Edge Higher On Firm Services And Yield Jitters&nbsp;&nbsp;simplywall.st"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "18 S&P 500 Stocks Just Made New 52-Week Highs - Trefis",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjlnVHhJTDBzSVBaaHFmUEx4TEp1d0tkNXMwOGtyU1N2Z0JOWU5pMEROVlBOT2xyTlhOeGY4R0JYVWZXVU4tS0M3emVyejh1bkFVbndvWE5ZSEsta1pHLVVDdGV0eDdhckpyRmN3NEJnc3VRSmx0c1VvRGZNclZKWGRCOEhUWEtXWlFld2pYeGxGd2U5aGlnUV9CalgyZm1xcllkNXhhaw?oc=5",
@@ -300,24 +499,6 @@
       ]
     },
     {
-      "title": "US stocks edge lower as oil prices rise and more earnings reports roll in - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkhlVWg3LWk2QVVRZTdrbjVlcTd4R3VlWjJYdGhVSDU2WWdIRGJwaVlfSkJseE1hZ1E4eERYWk8tZFBRc25Xb1ZjWHdQdWdDY1gzeHpaS2I3NkJyNDFfaVA0MThGR0RnN29ubnp2YzJmZ3FoRWk1Wk94THNWa2JFN1p5cENnMDdPZ3BqTERQckp0YVI2WG5padIBngFBVV95cUxOOU1MZUN4cGdScVdkTW1IaDJrSVRvYmNJSTlTZkJrYkN5UWlVVzZEdVhZMEpKOGppbndvZXdzVU56XzVZZWhKQmY4enJBam5PeFJmcUhGMXpjeXlTVnZfUzIxSV8wcERTMGRWaVBUeUpSdFpkM1U4dHA3d2Y4dGRHb1JxakpWb1YwbXhsZV9aSGJnNlZKVFEydXVuY1VpUQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-08-06T23:03:31+00:00",
-      "summary": "US stocks edge lower as oil prices rise and more earnings reports roll in&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "key_points": [
-        "US stocks edge lower as oil prices rise and more earnings reports roll in&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Trade Desk shares tumble on earnings miss and weak outlook",
       "link": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
@@ -325,24 +506,6 @@
       "summary": "Trade Desk’s growth struggles deepened in the second quarter, as the company posted an earnings and revenue miss combined with disappointing guidance.",
       "key_points": [
         "Trade Desk’s growth struggles deepened in the second quarter, as the company posted an earnings and revenue miss combined with disappointing guidance."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
-      "link": "https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-06T22:58:00+00:00",
-      "summary": "The salad chain’s shares tumbled after hours, but it said it doesn’t use iceberg lettuce and only uses jalapenos in two dressings.",
-      "key_points": [
-        "The salad chain’s shares tumbled after hours, but it said it doesn’t use iceberg lettuce and only uses jalapenos in two dressings."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -379,78 +542,6 @@
       "summary": "Trading Day: Pause before jobs&nbsp;&nbsp;Reuters",
       "key_points": [
         "Trading Day: Pause before jobs&nbsp;&nbsp;Reuters"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course — SOUN, GOOGL, SPCX, NVDA In Focus - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDBOdW96cWQ0TEhOcXJCcElvcHpmYlFmcVlLZ2VxV3YxZXVHeDhOY0ROM3Jua2V1Z09UOEFQTnZoQXN1WVktQjQ4bXZ1bDFmc2tDUUM2WWVjcG1CbWFxQjUteVphSi15SjdhOEQyT3ByM2RqNFMyTFZtZkt5MWc0MGF5X1hPTHhMY0IyNlJCNzUzX0UteXR6T3NHYVQ1RGV2SHZZbzhKSy1pdDFvbXNTTjFtb2gzWERCTnZScw?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-08-06T21:04:00+00:00",
-      "summary": "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course — SOUN, GOOGL, SPCX, NVDA In Focus&nbsp;&nbsp;Stocktwits",
-      "key_points": [
-        "S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course — SOUN, GOOGL, SPCX, NVDA In Focus&nbsp;&nbsp;Stocktwits"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500 and Nasdaq end lower as chip rally fizzles out and U.S.-Iran tensions rise - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMW8zc04ybzljU0M0UWxlT2g3QnpyQ0w2d2RuanN6cjNIZmFVbkxYRHNUUmlsbjhZcE10eGZDdnE0NGZKUmpVWWhDVzc2NXdCb2RvSGdydWFyTVV4bnF5UGJUVEl2NjFscGlOZXV4bWVVWnVZVmgzRXZwendwdVM2VEpvVTM0QWllQjJXQl91TGdWek1vWEwzTjEtVFU5ZUxXSEpDN3MzejE2dWNYOEpJbmRmNFI2ZzZ4OGZ1MENrWkstMWc0WjgzS0F6aXJRc2Y2?oc=5",
-      "source": "Investing.com",
-      "published": "2026-08-06T21:02:24+00:00",
-      "summary": "S&P 500 and Nasdaq end lower as chip rally fizzles out and U.S.-Iran tensions rise&nbsp;&nbsp;Investing.com",
-      "key_points": [
-        "S&P 500 and Nasdaq end lower as chip rally fizzles out and U.S.-Iran tensions rise&nbsp;&nbsp;Investing.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?",
-      "link": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-06T20:57:00+00:00",
-      "summary": "Gold miners’ stocks can offer a high-quality play for investors worried about inflation and the Fed.",
-      "key_points": [
-        "Gold miners’ stocks can offer a high-quality play for investors worried about inflation and the Fed."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street wobbles as AI stock rally cools - The Nightly",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjI3T1FKdFRJTGhfX1Y4dURzYU1tYlNrN1AtMjFZUTFZMU5veklqQWpUN1RwZE9ENEtQb2hZaHpBV183NGNVZzF6OFNrUzYtZk5ST0NydWZHbHpYY0t2WThydDg2YnoyUEhvM2JFWHkwVWp5SEhSbjJFLThXbnlhRHM5ZWY4a3JsOHExaDBJaGZjNmh3V01kWDBYaFNrZGcyc0x1TlJnalFyVmRFdS02TV9mV0VGcVhaMndvNjhUclpTYXRjSHc?oc=5",
-      "source": "The Nightly",
-      "published": "2026-08-06T20:45:59+00:00",
-      "summary": "Wall Street wobbles as AI stock rally cools&nbsp;&nbsp;The Nightly",
-      "key_points": [
-        "Wall Street wobbles as AI stock rally cools&nbsp;&nbsp;The Nightly"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -534,25 +625,6 @@
       ]
     },
     {
-      "title": "Netflix and MercadoLibre Are Underperforming the S&P 500. Here's the 1 Stock I'd Buy in August. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2pPODYzM1gzZ2J6NXdZdVJSbHktRGlqMjB3OXdlTVUtMGFwaVRqd0h5WmVJNWlWWkZycU5fWXhCU3ZZTXNZcnBBTGdTcF8tNFo2eFQ0dV9JWTYtcXVjZTIwY0ZpZUVON21qQUtLU2J1S1U1NmNZX01OSnV2TFdWSTVpa0JnNy1ZbkRieG5Sb0NsUW42YXlTZw?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-08-06T18:17:00+00:00",
-      "summary": "Netflix and MercadoLibre Are Underperforming the S&P 500. Here's the 1 Stock I'd Buy in August.&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "Netflix and MercadoLibre Are Underperforming the S&P 500.",
-        "Here's the 1 Stock I'd Buy in August.&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "How Startups Scale Smarter With Data-Driven Decision Making - entrepreneur.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlF3c3hPSjV1SHJDZ1Q5Tm5JaUZGRTh1Q2dGdGhqMnotTEZIRzFFNHAtaWQ1NWJzcjMxR0ZYU2taWkRjRVF0SklENzVvYlZWOEpPU3VwemRzdVRkQW9KemZITFowc2RyOVViTTYtd3FDMjkxRzVvVldrYkZkZzMwZlB0MTdsWHNIX0l2NTJtOFpEOUQtcUxsMERqdE14SnYyTWNLQw?oc=5",
       "source": "entrepreneur.com",
@@ -583,42 +655,6 @@
       "importance": "Medium",
       "topics": [
         "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "CFRA gets more bullish, hikes S&P 500 year-end target to 8,050 - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODhwREhURERyTlJURkE0UWV4RGhBZzBMWXRRcTE4ZjBjUlc4Q2pKOURnSHhhWm9vZFNweUpoMnJhYUtrN2VJZ3NURzEwNTVNREpPY01MYkQ5ZW1UUmh3QThULXJYWm4zeGQ1WkNDcWhvZkhjaGwzRkFsZ2EwblZ0aDU4VjlBdlp3TUxiNV84dDcwWmRXb29EaTdWZDA?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-06T17:56:35+00:00",
-      "summary": "CFRA gets more bullish, hikes S&P 500 year-end target to 8,050&nbsp;&nbsp;CNBC",
-      "key_points": [
-        "CFRA gets more bullish, hikes S&P 500 year-end target to 8,050&nbsp;&nbsp;CNBC"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500, Dow Fall as Brent Jumps 4%, SanDisk Trims Losses: Stock Market Today - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXQ5LXZuRGlMMGlYaVN4by1vRnlQelpVLTNLelJYOF9KeWduYkNOZFBVbk1zVk9rdUpCWld4NVhkS2c0U0JxaHVxZ0dPVk5TNHk4cTJiT0J3X0w5SXBBbF9XSDJJeXE1cUh2M0VWV19IVUl4NXNhdGh2TEdITFRnLVFXWlVUZGZzdGxmTEhMUkpxZ0ZZWTlqaEFaUVd3QV95elBWZEV4Y0U?oc=5",
-      "source": "Benzinga",
-      "published": "2026-08-06T17:31:59+00:00",
-      "summary": "S&P 500, Dow Fall as Brent Jumps 4%, SanDisk Trims Losses: Stock Market Today&nbsp;&nbsp;Benzinga",
-      "key_points": [
-        "S&P 500, Dow Fall as Brent Jumps 4%, SanDisk Trims Losses: Stock Market Today&nbsp;&nbsp;Benzinga"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -772,25 +808,6 @@
       ]
     },
     {
-      "title": "The Biggest Legal Battle in AI Music Just Took a Historic Turn... And It Could Change Every Song Generated by Artificial Intelligence. - lnt.ma",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWcxNXc2aFA3SE9POENwTzFjX20xSTdSd2xWQlZ5QkJuQkV2ZkxuUFN4ZVNkQTZESTkyRl9yMWNPWG11dFFoV0JRWXBZMTgySk9CYWtyM1d0UW4tbnE2TlJnSWFfR2JCZmp6RHhySHRyLV9UVDFjN3paSlkzZUdoWkpaM2FDeGxKRktQWXBrT1p1d1FHeUdzUkhUSlBGN2NVQTRZYWFmT2R5M1dzaXQ1QldxYmtramRyNjM0RjZPSXNaYWlVY0ppdjBHOGlTajZFSkFNOHV6Yk1IZmJCdTJr?oc=5",
-      "source": "lnt.ma",
-      "published": "2026-08-06T13:54:17+00:00",
-      "summary": "The Biggest Legal Battle in AI Music Just Took a Historic Turn... And It Could Change Every Song Generated by Artificial Intelligence.&nbsp;&nbsp;lnt.ma",
-      "key_points": [
-        "The Biggest Legal Battle in AI Music Just Took a Historic Turn...",
-        "And It Could Change Every Song Generated by Artificial Intelligence.&nbsp;&nbsp;lnt.ma"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Peloton posts first-ever annual net profit, but shares drop as outlook disappoints",
       "link": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
       "source": "Business News",
@@ -881,13 +898,13 @@
       ]
     },
     {
-      "title": "IIM Ahmedabad Opens Executive Business Finance Admissions - educationtoday.co",
+      "title": "IIM Ahmedabad Opens Executive Business Finance Admissions - Education Today",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWm5QaC1EUm5vN3JBTmd4UzFTQnJCekJQeDlWVVZLcUJMQUN2c09JNmUxZGRQTWZDaVFHV21CTFhNc0VHTzZIWDIwQkhzOE9NdFNFRGwweUNiemh1enh4eXVKNDRlckd2bXROVkM1S210RnJsODdRdWpzUF9MTUJHM2JUeHM3bl9kTHV2aFVBSW1sbG1SZTk3a0M1UWRPWmI2ODJMazNkX3V0TnRHMDFFNlRvVVoyRDhZbzJVU0tNYW1FUkNiVEFoT3RPS0s3Y2RxOUdfRGdaUHN6TlRuelp4Z0FTYw?oc=5",
-      "source": "educationtoday.co",
+      "source": "Education Today",
       "published": "2026-08-06T12:03:26+00:00",
-      "summary": "IIM Ahmedabad Opens Executive Business Finance Admissions&nbsp;&nbsp;educationtoday.co",
+      "summary": "IIM Ahmedabad Opens Executive Business Finance Admissions&nbsp;&nbsp;Education Today",
       "key_points": [
-        "IIM Ahmedabad Opens Executive Business Finance Admissions&nbsp;&nbsp;educationtoday.co"
+        "IIM Ahmedabad Opens Executive Business Finance Admissions&nbsp;&nbsp;Education Today"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Medium",
@@ -908,7 +925,7 @@
         "India’s IT sector is surviving artificial intelligence&nbsp;&nbsp;The Economist"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -1008,13 +1025,13 @@
       ]
     },
     {
-      "title": "Fake subway ads mock artificial intelligence with human creativity - nydailynews.com",
+      "title": "Fake subway ads mock artificial intelligence with human creativity - New York Daily News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQVQ1WDFwZkhQdHJRNkFfSFYwdlBtelFlaHFfQi1oTzhlNUNObE5pV3d0V19xMFNGTW5sandsOG8xVzRsNWlpU0ZvYm9BakVHZlFRSlBkUFdJbVFMUjVVWTN5RmJQRU1fVlVsN2ptVWwySkNkaENWdE9pVkFSeGpUN1FpTlZEWURQQUE?oc=5",
-      "source": "nydailynews.com",
+      "source": "New York Daily News",
       "published": "2026-08-05T19:36:59+00:00",
-      "summary": "Fake subway ads mock artificial intelligence with human creativity&nbsp;&nbsp;nydailynews.com",
+      "summary": "Fake subway ads mock artificial intelligence with human creativity&nbsp;&nbsp;New York Daily News",
       "key_points": [
-        "Fake subway ads mock artificial intelligence with human creativity&nbsp;&nbsp;nydailynews.com"
+        "Fake subway ads mock artificial intelligence with human creativity&nbsp;&nbsp;New York Daily News"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1026,13 +1043,13 @@
       ]
     },
     {
-      "title": "At Google, yet another game of musical chairs in the artificial intelligence team. - NeoFeed",
+      "title": "At Google, yet another game of musical chairs in the artificial intelligence team. - neofeed.com.br",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2FWaVhJSUtRclJQUHVjUy1sOURnb1AyUnZwMmdqUm52dXV3WUxQbDU0OGNoVUlpajMtZWtJanpRN19GM1Y3aklOVS1peHgyZDdaTWx6TDZ5MWFOM0phYk5Hc0ExaHBlTTZsalR6WFRyczhyU1lrVXpOaDFKTHRBdTZYN21qSTJWWWNBSC1reUlwdUk1Q0QxUExFZjZuOGxTaERsYURzUDdzZTRC?oc=5",
-      "source": "NeoFeed",
+      "source": "neofeed.com.br",
       "published": "2026-08-05T19:30:00+00:00",
-      "summary": "At Google, yet another game of musical chairs in the artificial intelligence team.&nbsp;&nbsp;NeoFeed",
+      "summary": "At Google, yet another game of musical chairs in the artificial intelligence team.&nbsp;&nbsp;neofeed.com.br",
       "key_points": [
-        "At Google, yet another game of musical chairs in the artificial intelligence team.&nbsp;&nbsp;NeoFeed"
+        "At Google, yet another game of musical chairs in the artificial intelligence team.&nbsp;&nbsp;neofeed.com.br"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1062,24 +1079,6 @@
       ]
     },
     {
-      "title": "Jeff Dean and Sanjay Ghemawat Depart Google to Co-Found Discovery Loop - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0FiWTdaMUI3a2ZkVk91Szg4VmF4bHlKN0RSME8zOHlPb3lrUjJ6aWNIczdER012OXhTalBjVGZlOW1NVGRjSXpUY1FfZUV2NVlrRmVPTTJXbHFraWZ5cDBaZzMzX09CMXNFUENWcFVBdGl3V19mMW9tWFpZSUFWaE5PcFRzT1NpcmhuUG41ai0xdnNvcHNTNkppZE5mT05pQ0hqWFdMYVpjNzNvNXM5LXVqbGhueFJYcXc?oc=5",
-      "source": "Tech Times",
-      "published": "2026-08-05T17:35:44+00:00",
-      "summary": "Jeff Dean and Sanjay Ghemawat Depart Google to Co-Found Discovery Loop&nbsp;&nbsp;Tech Times",
-      "key_points": [
-        "Jeff Dean and Sanjay Ghemawat Depart Google to Co-Found Discovery Loop&nbsp;&nbsp;Tech Times"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Apple: Big Tech's AI Boom Offers Mixed Blessings (NASDAQ:AAPL) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGUzd3h3UVFxZC1Tajh1NGxaaktBV2Nwcnd6M0dWcGZqZ0hidmMyRTFzTVhDM0lFWEpvb0FpOE9pcG5Ob2w0M1hDXy1jWmRNU2Y3NDVyYm1JWDNjNzJBSlZRdjQ0bzZWTUtLMW44aE5IN1RGSUlsbUpZMjZXSnA2b0tCQlowcllnZXRxbzJKN0c?oc=5",
       "source": "Seeking Alpha",
@@ -1095,6 +1094,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1VRb1FaOGNmN3hkOEgzeXhMcGljNjJPT0tONkRJaE5oVHBkdjVXb1c3aHBhSTdSVXJabFdxY0VLd3FGM05Idk55ajEzcm41TW5qSWg4ZTV4SzZZTXRscnFOTFBESmdqeWpRb19OS0dyWmRaOXoybmg1YUhqZ1k1eDFScDh0alJjQXNKQ0ZzMWcycW9nSzZuT0JNTFl0Wm83OGtCenlSN0dJOWpPd2FlUzRTOA?oc=5",
+      "source": "Pittsburgh Post-Gazette",
+      "published": "2026-08-05T14:31:41+00:00",
+      "summary": "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "key_points": [
+        "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow&nbsp;&nbsp;Pittsburgh Post-Gazette"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -1152,13 +1169,13 @@
       ]
     },
     {
-      "title": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns - netinfluencer.com",
+      "title": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns - Net Influencer",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGlmRnA0akgtSkRkZ2IyTG92cmFOUGtuc3o5bVVnYklfekhveGJjTnRaQXNsdnE2RVFCU2p1eXhub0N3RU84VHg2UHpISWtCUnJiSlJqRTZtdWJPMndfcHBRNEFnUl8yN3B5SUphUC1uSUZqUjBQV25lNF8wRm92X0hBeDczNHlVYU5tMTJ2Y3Y4azFqUHlZNy0yTGc4NjgxZW5GUFBKZDl2SlczYkthWlJyYndZMUYyQjBkLWkxbi11U1hEQmE3aGF3?oc=5",
-      "source": "netinfluencer.com",
+      "source": "Net Influencer",
       "published": "2026-08-05T12:23:20+00:00",
-      "summary": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;netinfluencer.com",
+      "summary": "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;Net Influencer",
       "key_points": [
-        "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;netinfluencer.com"
+        "Financial Analytics Platform Kixmon Launches Profit-Tracking Tool for TikTok Shop Creator Campaigns&nbsp;&nbsp;Net Influencer"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1278,13 +1295,13 @@
       ]
     },
     {
-      "title": "Malaysia poised to outperform GDP forecast - NST Online",
+      "title": "Malaysia poised to outperform GDP forecast - nst.com.my",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1hLMHRIU3ppTVo4YW54bmxNTzZIOUh2aHF5YTg3ZV9sS1libWRpRWw5VnlGdUoyUUlLdUtySFVFcFAwVGhsMzhieUhZMzhiVk9oT1hjY0lQeTJhVjVVdXM0Mm9xVE13ekZUS2FpUlU1aTZtS2czdmg2aE9pSGRpdlRzUVhMWjVMdHYwZGJuSHFYY3hjeVA2TVBwd9IBoAFBVV95cUxPX0xIMGloUWFwVDI3aGJJZlNhVHhvaUxEMU00RFcwaEIwTHRaRERCa3ZPd0hSSUtKaFlzSUQxeWVUdngxWjNYYWtuSktnc0R0TFMzeTlXcDY4OE9taUJ3eWxNWHNreUd5RnNKMXllVm1ZSnplR3pkak9ZQkJwaFpRRHpVTG1ycWpDSEl3bXNjbVl0UjFMem1kRzU2WTFUNXFY?oc=5",
-      "source": "NST Online",
+      "source": "nst.com.my",
       "published": "2026-08-04T07:14:10+00:00",
-      "summary": "Malaysia poised to outperform GDP forecast&nbsp;&nbsp;NST Online",
+      "summary": "Malaysia poised to outperform GDP forecast&nbsp;&nbsp;nst.com.my",
       "key_points": [
-        "Malaysia poised to outperform GDP forecast&nbsp;&nbsp;NST Online"
+        "Malaysia poised to outperform GDP forecast&nbsp;&nbsp;nst.com.my"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1424,13 +1441,13 @@
       ]
     },
     {
-      "title": "IIT Kanpur launches six-month online certificate course in AI, ML, and business analytics; admissions ope - The Times of India",
+      "title": "IIT Kanpur launches six-month online certificate course in AI, ML, and business analytics; admissions ope - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSWlpU1djRWUxNXV6U1hHcnU2QlZKRnozeG1jNExWdHVZeTI3R21VMkY0ZDBJcWRNZWlFblUzWGs2QXZ6bmpRbzhRcTMwZ3IzRVN6dGxsejR4UjZsTzdRSlpiZWxacTZQQjZEVHpOZ3FPZWxyY1ljSkJLTG5SaHBiSXFCRnNiNGw2SXItT1l0UHdjOUpvVUdwcWNRUUliRGowSmdPeTRIbkJlRHdqZkpyb2d2djhxU1FBcWhqcHZwajI5LXZnaGZ1WnpuOVpaX2F5dzhqWXd1VHFIVjgtZ0taLUs5cTB1LWNZeWVyXzlkeTNDVEtESE1XZHZST0Z1WnZXYW13OTV5OE5lQ19Z0gGSAkFVX3lxTE41enNfVm8xaVR3R3JTbjk1aWxPU0RUWDFMZUZmQUhSSC1kanJRVEVNR21xREFDQ2sxNEdZcXJMMGJ3bndrOEZlV0VFMDdtcXNTT2RkdkwxSmJSZXFZTFV3dWplYUZlN2VxcXF2N1h4SzgzYUg2UnRpb1RjQ0hUaXZzaDRtTHAtVUJkWEJUckRydXNVNF80UDFFcF9ud2xlU0xwUmc5Mzl1RUtsWE1LdUQyUzhpWDdNbzRUdDVIV1IxbEd3M3ZSVXFVSGE0clpXSDFNUnVVbmQ5bGhYX0dkX094TWw5eG1kRUNVaXBfbGR5dlQyZXlJY3htX1RLbU9zYThkRldyaTZhS0FCekEtUTVJM3c?oc=5",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "published": "2026-08-01T07:54:00+00:00",
-      "summary": "IIT Kanpur launches six-month online certificate course in AI, ML, and business analytics; admissions ope&nbsp;&nbsp;The Times of India",
+      "summary": "IIT Kanpur launches six-month online certificate course in AI, ML, and business analytics; admissions ope&nbsp;&nbsp;timesofindia.indiatimes.com",
       "key_points": [
-        "IIT Kanpur launches six-month online certificate course in AI, ML, and business analytics; admissions ope&nbsp;&nbsp;The Times of India"
+        "IIT Kanpur launches six-month online certificate course in AI, ML, and business analytics; admissions ope&nbsp;&nbsp;timesofindia.indiatimes.com"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1551,24 +1568,6 @@
       ]
     },
     {
-      "title": "2026 - Wits BCom Finance Earns CFA Institute Affiliation - Wits University",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGlIV3l4anJTSU1DOVhLd3BkZVRNcHJnYkVEWEZGX05oanJsajBmRUpWTFJxQTlJM3ZKTHlFd1pJaGozajUzYnBFdFVDOG53RkRZc0JUOVJXdHhFS3c3empyeEVlWnlzVGJmZjNKZFowdGdrTGpGQ0lvYjFKY0JVZnFhRklMUDNfaWZkZnhMVnJxT3hVUUVacEEwdUJQYzNhcTJhQUVMNA?oc=5",
-      "source": "Wits University",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "2026 - Wits BCom Finance Earns CFA Institute Affiliation&nbsp;&nbsp;Wits University",
-      "key_points": [
-        "2026 - Wits BCom Finance Earns CFA Institute Affiliation&nbsp;&nbsp;Wits University"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
       "title": "14 Best Excel Courses for Finance: Build Job-Ready Skills Faster - Corporate Finance Institute",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUpWZ2dfbnBVa0dWZG8yeHgzVjdaLTEyUl9CSXBKR2tuaURkbWg1XzJMcFRSa3Y4cDF3UUl2dm1YZDFNN2FxR1Y1ZXllUEMwUy1qSnlIazZxc3pITmNQMUxtaEZGZjZoaDZVMGdMZlAwTFhYcF9odTNJcjJjVmRiYmY1SUVoRkVsbExqa3dkTFNqWEVqSkRCenlrbGJPazl2bGFTeTZ3WQ?oc=5",
       "source": "Corporate Finance Institute",
@@ -1623,13 +1622,13 @@
       ]
     },
     {
-      "title": "Reforms start delivering results, says Bank Negara governor - NST Online",
+      "title": "Reforms start delivering results, says Bank Negara governor - nst.com.my",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDVBNURjVDFtV1Y0amIxQjNudTVHT3VNSG5rQWVQT2p6b0t0UUo5NHhNWk54X1hYdUVPUE5fdXpVQmRnWVdld3g1UGQ5d1FHLUJRTFgwMWdGMDl6UXNIUm9ucE1sTkIzMzJVbG8xbG9GNWF4WDRMcW1mVUVyS0liLUVqem00Vmp0NDh0Wl9tZVd4cElLaDlKWWhVS1N1Z3MxSWxYa1kzandjZk1fRHh4ZHRmdHbSAboBQVVfeXFMUDBTU2ZBdDdQaHZpN2k4M3RXWnFJTF9pS1BON083aXF4VHRWejdqVWRrV09qbENKWXJuc29uMVI0ZzZWWElzMXNhRmFYY0QtNVVHVzZSVFhxTW1yZmtvbURKclRIVVhMUm15MmtTMjJrWTlnNEUzTDFzaUN2QXZNN01yTDBHUU1VVTB3RmJaLUotX0FLNVlBb0R0YnhBcWpGUjNBblJIeTlQajlyZTEwak95LU5MUlJUM2JB?oc=5",
-      "source": "NST Online",
+      "source": "nst.com.my",
       "published": "2026-07-29T10:29:06+00:00",
-      "summary": "Reforms start delivering results, says Bank Negara governor&nbsp;&nbsp;NST Online",
+      "summary": "Reforms start delivering results, says Bank Negara governor&nbsp;&nbsp;nst.com.my",
       "key_points": [
-        "Reforms start delivering results, says Bank Negara governor&nbsp;&nbsp;NST Online"
+        "Reforms start delivering results, says Bank Negara governor&nbsp;&nbsp;nst.com.my"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
