@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:51:18.095433+00:00",
+  "generated_at": "2026-08-15T15:28:05.307230+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,17 +8,271 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend (Finance) | How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania - The Morning Call (Technology) | I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare (Finance) | Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due - Investor's Business Daily (Finance) | A decade of internal AI battles is finally catching up to Google (Finance)",
-  "count": 98,
+  "daily_brief": "Top stories right now: AI-driven stock portfolio beats S&P 500 with 48... - Pluang (Finance) | Nvidia, Intel, Google: Wall Street is partying like it’s 1999 (Finance) | John Vickrey letter: Two major concerns America should have - West Central Tribune (Technology) | Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know. - Yahoo Finance (Finance) | I have $10 million and pay two advisers for financial help, but still have questions (Finance)",
+  "count": 99,
   "items": [
     {
-      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-      "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-15T12:30:00+00:00",
-      "summary": "Ballerina shoes are back in style thanks in part to nostalgia — plus Gen Z shoppers who are even pairing them with running shorts.",
+      "title": "AI-driven stock portfolio beats S&P 500 with 48... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2xWYXBCRDN3bGJNZHZrSXlVUWJ3YnpRZ0pEd0hWSHFtOUg1T0FqTjFnaHNnTjNmdGhiSzN0SEhtSGQxSHVRbDAwRmhTRUVqNmRmUUVJZmU4Qk81dW56WEtnN0pnZGVlU0NWeDlHTS1ERXJxZ1Y0RFJUclNfRjZDb0UyS1daTDlO?oc=5",
+      "source": "Pluang",
+      "published": "2026-08-15T15:19:16+00:00",
+      "summary": "AI-driven stock portfolio beats S&P 500 with 48...&nbsp;&nbsp;Pluang",
       "key_points": [
-        "Ballerina shoes are back in style thanks in part to nostalgia — plus Gen Z shoppers who are even pairing them with running shorts."
+        "AI-driven stock portfolio beats S&P 500 with 48...&nbsp;&nbsp;Pluang"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Nvidia, Intel, Google: Wall Street is partying like it’s 1999",
+      "link": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T15:07:00+00:00",
+      "summary": "The signs are all around that Wall Street is back in that dangerous atmosphere of giddy euphoria that those with long memories will remember from the infamous dot-com bubble of the late 1990s.",
+      "key_points": [
+        "The signs are all around that Wall Street is back in that dangerous atmosphere of giddy euphoria that those with long memories will remember from the infamous dot-com bubble of the late 1990s."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "John Vickrey letter: Two major concerns America should have - West Central Tribune",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGlTdC15dVl0UE9HUnhfRmRTYVhjU1JEQ0d6dmN2QXh3X1hxM0sxUmtTYnZWaVlyaDlZN2l5VzlUWkF4SWpqbE9UQUd3X3hla2dJNTd1X1VNOGN5OENSbzM1WVByMG9Ia25mQUJvQTgzX0pWWnF6RmFRS3pqMFZQbGhnSlJfa2k0UlYxUkRvTTdtWGlFUE1rbUhXMURIdw?oc=5",
+      "source": "West Central Tribune",
+      "published": "2026-08-15T15:05:28+00:00",
+      "summary": "John Vickrey letter: Two major concerns America should have&nbsp;&nbsp;West Central Tribune",
+      "key_points": [
+        "John Vickrey letter: Two major concerns America should have&nbsp;&nbsp;West Central Tribune"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVndLc0dIQjVncm9jTEgtVVNEUnZHZnVWSUl0aDdZdUx5SlI5MnBCR1VSa25BY2ZCeEpGajFXTEVDeWhIdTRvbDRvUmtyZUExU0dCbkdkRVRwU29QeDF2ekZ2dDNfbGFfU1Utb3l6SENUakRuWWpFMEVQUWhPTVFCdHBlR2gtODFZRXJ6ZWFKLXZsZ3VGX0E?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-15T14:54:00+00:00",
+      "summary": "Reddit Joins the S&P 500 Tuesday. Here's What History Says Could Come Next -- and What Investors Should Know.&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Reddit Joins the S&P 500 Tuesday.",
+        "Here's What History Says Could Come Next -- and What Investors Should Know.&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I have $10 million and pay two advisers for financial help, but still have questions",
+      "link": "https://www.marketwatch.com/story/i-have-10-million-and-pay-two-advisers-for-financial-help-but-still-have-questions-7c29b83f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T14:34:00+00:00",
+      "summary": "If you don’t trust the money advice you’re getting from professionals, what are you paying for?",
+      "key_points": [
+        "If you don’t trust the money advice you’re getting from professionals, what are you paying for?"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+      "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T14:04:00+00:00",
+      "summary": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.",
+      "key_points": [
+        "Congress changed three charitable-deduction rules this year.",
+        "The most common way people give money to charities these days is now also probably the most expensive way."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Business Analytics Tools: TrackdIn Helps Creators Analyse LinkedIn Content To Improve… - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04b2stOUJ3czRUM3F5eUxKYzNRV216bDVxTEFwR1kyOXF3bEtzWFNoMUtRcEE0N3hCdlpUMDZFRUNpWEJGLWh0anFsVzVOMTBpM29zNmhR?oc=5",
+      "source": "Trend Hunter",
+      "published": "2026-08-15T14:01:04+00:00",
+      "summary": "Business Analytics Tools: TrackdIn Helps Creators Analyse LinkedIn Content To Improve…&nbsp;&nbsp;Trend Hunter",
+      "key_points": [
+        "Business Analytics Tools: TrackdIn Helps Creators Analyse LinkedIn Content To Improve…&nbsp;&nbsp;Trend Hunter"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
+    {
+      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T14:01:00+00:00",
+      "summary": "“I’m curious whether there’s a downside.”",
+      "key_points": [
+        "“I’m curious whether there’s a downside.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+      "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T14:00:00+00:00",
+      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+      "key_points": [
+        "“I would like to offer a piece of advice for women who are or have been married.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "5 expensive surprises new homeowners face — and how to avoid them",
+      "link": "https://www.marketwatch.com/story/5-expensive-surprises-new-homeowners-face-and-how-to-avoid-them-5bf2a8b0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T14:00:00+00:00",
+      "summary": "Buying a house is a serious undertaking, but the cost of owning one is a different ballgame.",
+      "key_points": [
+        "Buying a house is a serious undertaking, but the cost of owning one is a different ballgame."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state’s case.",
+      "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T13:51:00+00:00",
+      "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
+      "key_points": [
+        "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFp5R2RUeGlXblZURG5CNXpCTnNEN2c2LW1rSThRaGJzbkVCV0xVV1JGLUViSGM2dlo1NEVNc0RFUnREMHVjbktNWnU4ak1BM3htVHg0Tlh4WEQwYkVETXhyMVBvVHhwbkVQUE8zREFyNzNuczAwNjlWSEswSFV2UFdGT0dJYU1VUDV5MG42UUVNWXVO?oc=5",
+      "source": "fool.com",
+      "published": "2026-08-15T13:37:29+00:00",
+      "summary": "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street&nbsp;&nbsp;fool.com",
+      "key_points": [
+        "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street&nbsp;&nbsp;fool.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T13:30:00+00:00",
+      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "key_points": [
+        "“The landlord has not been here in months, so I assume it was a previous tenant.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T13:30:00+00:00",
+      "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+      "key_points": [
+        "“She has contacted the mortgage company, but they will not discuss the mortgage.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Here’s who could pay higher Social Security taxes under proposals to shore up the program",
+      "link": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-08-15T13:26:00+00:00",
+      "summary": "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances.",
+      "key_points": [
+        "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -86,104 +340,14 @@
       ]
     },
     {
-      "title": "A decade of internal AI battles is finally catching up to Google",
-      "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-15T12:00:00+00:00",
-      "summary": "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction.",
-      "key_points": [
-        "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-15T12:00:00+00:00",
-      "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
-      "key_points": [
-        "“We were advised to return the bonus and take out a home-equity loan.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-15T12:00:00+00:00",
-      "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
-      "key_points": [
-        "“I don’t expect my marginal tax rate to be materially different in the future.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
-      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-15T11:30:00+00:00",
-      "summary": "The “golden ratio” for portfolio construction — 60% stocks, 40% bonds — works again, but after a few tweaks,",
-      "key_points": [
-        "The “golden ratio” for portfolio construction — 60% stocks, 40% bonds — works again, but after a few tweaks,"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?",
-      "link": "https://www.marketwatch.com/story/the-hindenburg-omen-keeps-flashing-should-investors-worry-about-a-stock-market-crash-a4baf770?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-15T11:00:00+00:00",
-      "summary": "Among the more popular indicators monitored by Wall Street’s technical strategists, the “Hindenburg Omen” definitely has the coolest name — and is among the more controversial.",
-      "key_points": [
-        "Among the more popular indicators monitored by Wall Street’s technical strategists, the “Hindenburg Omen” definitely has the coolest name — and is among the more controversial."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Reddit Stock Soared on the News of Its Inclusion in the S&P 500. Here Are 3 Things Investors Need to Know About the Social Media Stock in 2026. - The Motley Fool",
+      "title": "Reddit Stock Soared on the News of Its Inclusion in the S&P 500. Here Are 3 Things Investors Need to Know About the Social Media Stock in 2026. - fool.com",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRGd4MnA2X01XU1FOMlZrQ2hRTHhBbnN0VWdYeXdBX25JdzBlOF80am5JSkNDSFJSbXpMd3YzeTVXc0VnX1ZEalgwbjRQREM2MzVqWXRjOXZCTmllQVVyYnc3d2Z1QnI1VnYzRU10R3RxN196Q0V3c0ljUlVfLXUtemNqTVJpdjhXVENKU25LelVpRVVWZUdQRzI0ZlpISVJaZDhvY1pkOHNMNUl3Z3JBX0ptbTNYQ2NBOW01RnI3U3Qyd3VSSDM5SzQwdVlpUHdrQzlidDRINTlSNHBya0hxTVBfNVE0cldjQXdZUE4yOFFqVmNmOEM0aUtqcjBTX0hTMG1FU3RVMkNMUHl1bUVyZk9LUEwzMDQ?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published": "2026-08-15T10:59:01+00:00",
-      "summary": "Reddit Stock Soared on the News of Its Inclusion in the S&P 500. Here Are 3 Things Investors Need to Know About the Social Media Stock in 2026.&nbsp;&nbsp;The Motley Fool",
+      "summary": "Reddit Stock Soared on the News of Its Inclusion in the S&P 500. Here Are 3 Things Investors Need to Know About the Social Media Stock in 2026.&nbsp;&nbsp;fool.com",
       "key_points": [
         "Reddit Stock Soared on the News of Its Inclusion in the S&P 500.",
-        "Here Are 3 Things Investors Need to Know About the Social Media Stock in 2026.&nbsp;&nbsp;The Motley Fool"
+        "Here Are 3 Things Investors Need to Know About the Social Media Stock in 2026.&nbsp;&nbsp;fool.com"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -195,13 +359,13 @@
       ]
     },
     {
-      "title": "Reddit stock is surging thanks to the S&P 500, but it hasn't solved its big dilemma - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMd283UzRqRVlWcVRDTUVIYjVjeFBfSE10SjZpTDRmNURZZExKMmZHTTlXdThHNUlrRHg3WHhUdlcxNUlqMEN5SEdUaHVKb05CYUVnQzI1MG5oUDdDa0lILTRIQktMQk0zMUhBQzVjTmVDQjM5Ry13c1JKRkk1dw?oc=5",
-      "source": "AOL.com",
-      "published": "2026-08-15T10:17:42+00:00",
-      "summary": "Reddit stock is surging thanks to the S&P 500, but it hasn't solved its big dilemma&nbsp;&nbsp;AOL.com",
+      "title": "Reddit stock is surging thanks to the S&P 500, but it hasn't solved its big dilemma - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGNSd2ZMSGUxdUNWdVhqeG0tb1kxYU9kWFV2VkIteXEyYlBURlpTMk9XdW10eTNtamxRZTVnOHZtdmhRd2lKZy1tdEhzY0R0UXNOT3lHU0hQcGVNMXVUcnYzSV80eFRLUDhYdHk4R1ctRUhpQ3diWXVXUmt1aFJqYXZFZUQzZzBIR0QzUUlGaHR0a0FsZ20wXzJnOTVJdF8xM2VxbzR4ekF2TDNZOG5Mek9xa2NiOFRnUmExMHUtd3AyZV9sM2c0UmxxbDAyb3JTbUJqZk1rRQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-15T09:58:00+00:00",
+      "summary": "Reddit stock is surging thanks to the S&P 500, but it hasn't solved its big dilemma&nbsp;&nbsp;Yahoo Finance",
       "key_points": [
-        "Reddit stock is surging thanks to the S&P 500, but it hasn't solved its big dilemma&nbsp;&nbsp;AOL.com"
+        "Reddit stock is surging thanks to the S&P 500, but it hasn't solved its big dilemma&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -251,6 +415,24 @@
       ]
     },
     {
+      "title": "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjVLTWNwdmVka0tHNk4xSWp4dW82RDdSMTBrNmRoX2NXY1RJczR6QU5Cc1E5d3pRVGtpdjFuWGRqZWhEa3d6MmxHamFONkFqYmNQSWdvN0oyOVBJYkdsdm50VW8wajNuZnhmSmw5YmNma25sSnM3UkQ1RURwdDZFRzYyY0wtN1RvTDAxaldqSENQTnVZdEJpcw?oc=5",
+      "source": "fool.com",
+      "published": "2026-08-15T09:06:00+00:00",
+      "summary": "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise&nbsp;&nbsp;fool.com",
+      "key_points": [
+        "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise&nbsp;&nbsp;fool.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Apple Inc. $AAPL Holdings Reduced by Union Heritage Capital LLC - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb25SanBXNV85N2ZiSHBGRGFsLVhlTjBDZE9IazRoRVNRZ1MxdlkyM3VXbUt3RUNiMExaWTR0blgzaVRCZTFNRFYwQXNUUVNhUl9ZMk9HUHY5S3phNUZCeHZlLTU2eS1FT2pOcDlFZDFIQ182RnEyb3dWOWRCc0JqdGtVTlRxLVlxOHlSOE85Qk1CSFJYN1JQLTBPZ2dtYTJ6RWFuQTQ4YzE3NkNoaldJRThEXzZ3V1dReHdBTTBBZw?oc=5",
       "source": "MarketBeat",
@@ -283,24 +465,6 @@
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjVLTWNwdmVka0tHNk4xSWp4dW82RDdSMTBrNmRoX2NXY1RJczR6QU5Cc1E5d3pRVGtpdjFuWGRqZWhEa3d6MmxHamFONkFqYmNQSWdvN0oyOVBJYkdsdm50VW8wajNuZnhmSmw5YmNma25sSnM3UkQ1RURwdDZFRzYyY0wtN1RvTDAxaldqSENQTnVZdEJpcw?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-08-15T08:38:10+00:00",
-      "summary": "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -458,13 +622,13 @@
       ]
     },
     {
-      "title": "Bursa Malaysia seen trading in narrow range next week but with upside bias - The Malaysian Reserve",
+      "title": "Bursa Malaysia seen trading in narrow range next week but with upside bias - themalaysianreserve.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDZISmx3Yy00eElRMWhZZ09Ba3l3Mnp3NWJvUUdXVi1NRWpidG1xYXlQS2pwNVJEYmM3MlAtX1RJRUFGVTBwOEtLRGtUUW12ME5sUUwtWTRXeDRkd2dtWXJyUUMwZUtGUHV2Q2xySXd2RzE1a0o0dk5LaExNMGVjSUJQNG1OcGV1b3VHMTJEUDlVak5hS2YtZ2NwMHF1dnF6MVFMN3NobWI3aV9hcHNGMHN4WmV0b1Ytbmc?oc=5",
-      "source": "The Malaysian Reserve",
+      "source": "themalaysianreserve.com",
       "published": "2026-08-15T03:37:31+00:00",
-      "summary": "Bursa Malaysia seen trading in narrow range next week but with upside bias&nbsp;&nbsp;The Malaysian Reserve",
+      "summary": "Bursa Malaysia seen trading in narrow range next week but with upside bias&nbsp;&nbsp;themalaysianreserve.com",
       "key_points": [
-        "Bursa Malaysia seen trading in narrow range next week but with upside bias&nbsp;&nbsp;The Malaysian Reserve"
+        "Bursa Malaysia seen trading in narrow range next week but with upside bias&nbsp;&nbsp;themalaysianreserve.com"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Medium",
@@ -476,13 +640,13 @@
       ]
     },
     {
-      "title": "Career & Finance Horoscope, August 15, 2026: A realization may change how you view your career roadmap | Astrology - hindustantimes.com",
+      "title": "Career & Finance Horoscope, August 15, 2026: A realization may change how you view your career roadmap | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYkc3WWdYZXlOdXBta05tT2Vmcll3YWJMcl9jLXFuMXV3LUt6ZDFyLXVkZHhNR2hzUHR6Zm1DVV9qSHBrNGI4NWxubE5fOXY1MXQwUXBmUjRNZzRRXzZYd0VFZ0ZJeTU3R1FHT0hPX3dYNmxrRGUzNEVQSEZJS2hISU5EZW4wMXV4Q2lMTkVOVmt4ODdzbFFhZ2VMXzk5OHg3YURqZXpsMTRaR01yNEo3WktZZEFaWUdiQ0pFVlhOVzN1Y3lKc1B5VHZ0SEhCek9Id1RDZ3V1OEtvT2ZjQXVsR3VzV1JFLWJkRkRPbGpJcm13TTZyVnZHVEh2cmE5Y3JHT0dJ0gGDAkFVX3lxTE1iRzdZZ1hleU51cG1rTm1PZWZyWXdhYkxyX2MtcW4xdXctS3pkMXItdWRkeE1HaHNQdHpmbUNVX2pIcGs0Yjg1bG5sTl85djUxdDBRcGZSNE1nNFFfNlh3RUVnRkl5NTdHUUdPSE9fd1g2bGtEZTM0RVBIRklLaEhJTkRlbjAxdXhDaUxORU5Wa3g4N3NsUWFnZUxfOTk4eDdhRGplemwxNFpHTXI0SjdaS1lkQVpZR2JDSkVWWE5XM3VjeUpzUHlUdnRISEJ6T0h3VENndXU4S29PZmNBdWxHdXNXUkUtYmRGRE9saklybXdNNnJWdkdUSHZyYTljckdPR0k?oc=5",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "published": "2026-08-15T03:00:05+00:00",
-      "summary": "Career & Finance Horoscope, August 15, 2026: A realization may change how you view your career roadmap | Astrology&nbsp;&nbsp;hindustantimes.com",
+      "summary": "Career & Finance Horoscope, August 15, 2026: A realization may change how you view your career roadmap | Astrology&nbsp;&nbsp;Hindustan Times",
       "key_points": [
-        "Career & Finance Horoscope, August 15, 2026: A realization may change how you view your career roadmap | Astrology&nbsp;&nbsp;hindustantimes.com"
+        "Career & Finance Horoscope, August 15, 2026: A realization may change how you view your career roadmap | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Medium",
@@ -513,13 +677,13 @@
       ]
     },
     {
-      "title": "US: S&P 500 ends lower as investors weigh data, Middle East tensions - The Business Times",
+      "title": "US: S&P 500 ends lower as investors weigh data, Middle East tensions - businesstimes.com.sg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaERpRGRlU1VqVUMzOUNLeUxyOUxWbGxqOXhjUWJwcmxFcGNJM0NQZHh5b1RSYmVZTy1fWHNlYlh4ZUtnNEk0RWdVZlFscTljVWtTV1RCTmVoMnVHc0p5X25vQmxiWl9WZ2ZPVmstanhJVTZDYU1SemlIZExRWnhNSFlQdkFhVHZTWUF6a3lKNWwzY1dMQnA0TWw2TTNWUWdKUWpQX3FpOTYzSGNXLUwzUkJQTQ?oc=5",
-      "source": "The Business Times",
+      "source": "businesstimes.com.sg",
       "published": "2026-08-15T00:31:00+00:00",
-      "summary": "US: S&P 500 ends lower as investors weigh data, Middle East tensions&nbsp;&nbsp;The Business Times",
+      "summary": "US: S&P 500 ends lower as investors weigh data, Middle East tensions&nbsp;&nbsp;businesstimes.com.sg",
       "key_points": [
-        "US: S&P 500 ends lower as investors weigh data, Middle East tensions&nbsp;&nbsp;The Business Times"
+        "US: S&P 500 ends lower as investors weigh data, Middle East tensions&nbsp;&nbsp;businesstimes.com.sg"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -585,24 +749,6 @@
       ]
     },
     {
-      "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEhXR0lpSVV6T19LcXRWTk1Lc2l4dDhDeTBoOThuNHQ5M2JjajdRamxsdnpRR1lqaHFwNTNFREtRdGgybE45a2lGTlVNeGgwYUtuTkwyZFlidzhEWmtMeDJtUkd2QXVFLVdhYVRBSmgtVGxVMjk5UDFLV3ZJa1hHMDdLVHZQZXBlSTFyang4bEdsaml0VGloQ2ZYd0lvVzRWNE4tNUxvQWF0S3RRNThiTVM0bXl4bkozVWkxcXFEbFI1eXhhSkhuODNQSVZSdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-14T22:39:43+00:00",
-      "summary": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings&nbsp;&nbsp;Reuters"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Florida governor calls for artificial-intelligence bill of rights - WKMG",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXlOUzZRUGkwdGZJMEhLNW5kaGFCN3MwcjFqWlN5ckFhMHFPVnoyWmNPWTdKcWNoMV9IVnhYYk5kQkFvT1R6XzNmcjNUZzJRSXZJVHV6bjBHY20xbkNSdnJoOVNKSU9GT3ZXaDZyeFdPWjhpMWFZeXF3UmF2NjhhcTdQejJmVnZfbjRnU0V3WmFoWHUxWXRpTi1NTkR2aVgwckkyM1BzLXZQWVJNa19iU1F0S2FmN08y?oc=5",
       "source": "WKMG",
@@ -621,19 +767,37 @@
       ]
     },
     {
-      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
-      "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-14T21:34:00+00:00",
-      "summary": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
+      "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEhXR0lpSVV6T19LcXRWTk1Lc2l4dDhDeTBoOThuNHQ5M2JjajdRamxsdnpRR1lqaHFwNTNFREtRdGgybE45a2lGTlVNeGgwYUtuTkwyZFlidzhEWmtMeDJtUkd2QXVFLVdhYVRBSmgtVGxVMjk5UDFLV3ZJa1hHMDdLVHZQZXBlSTFyang4bEdsaml0VGloQ2ZYd0lvVzRWNE4tNUxvQWF0S3RRNThiTVM0bXl4bkozVWkxcXFEbFI1eXhhSkhuODNQSVZSdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-14T21:54:00+00:00",
+      "summary": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings&nbsp;&nbsp;Reuters",
       "key_points": [
-        "Berkshire Hathaway has upped its bet on the U.S.",
-        "housing market, and also boosted its stakes in Alphabet and Delta Air Lines."
+        "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings&nbsp;&nbsp;Reuters"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6% - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeEY1NUlCS0tvempNUXh0Qlo3cnQ0NjUxMVBEZ1cxVmt3SjExZDIxREl2SWNCOUlTSFQzdFh4SGFZUk9FOFpVcDJRQkc1UU5haHZfaFNWbFVVVXllTDJfSkNmNDdFdC1hM0NVZ3h2TTRfalpHMUtFYm5zMmZqWkZLMG9YVnBfWTlndGFNdWRaWmZCY2xSZ3doeXlyZ09lZWZZYzZKT19EQnR4SnY5TGdGU2pPSEtkdXdaZU5fMUN5Q1pZSDM1eWdzaE9xNFZlSGRtcmVNQmEyc1NxQ1R1?oc=5",
+      "source": "fool.com",
+      "published": "2026-08-14T21:19:48+00:00",
+      "summary": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%&nbsp;&nbsp;fool.com",
+      "key_points": [
+        "Stock Market Today, Aug.",
+        "14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%&nbsp;&nbsp;fool.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -658,42 +822,6 @@
       ]
     },
     {
-      "title": "1 S&P 500 Stock on Our Buy List and 2 We Avoid - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFlDUHNjZDZsYkQ4Mm8wSll3M0FNLVlzQ2NOWS1qbEJ1cHBZUzJxc2ZKVFFfdU1BdnN2OHFpbExqU2s4QU03bERJeDdTSHpqMzZya2c1WFRDVnlPQ1E0NGRfekFOOVVQSjZzYkFxLTFWWGdvdFYyQmROZVBoLV8xVkQzQTRuSUd0MHc?oc=5",
-      "source": "finance.yahoo.com",
-      "published": "2026-08-14T21:01:00+00:00",
-      "summary": "1 S&P 500 Stock on Our Buy List and 2 We Avoid&nbsp;&nbsp;finance.yahoo.com",
-      "key_points": [
-        "1 S&P 500 Stock on Our Buy List and 2 We Avoid&nbsp;&nbsp;finance.yahoo.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500 Logs Third Consecutive Weekly Gain - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWJtRFljLWg0dlozUlNBaDlRaWFMZUFvRzJFeVowWFdzSG56R3luMFZTbU9pMzljTE54V0hKdGctUGcwZjl3cnBuRDJBZVZSSE85VVNTbVFPYVI4UnhURUhZUXVPVnVQRFc3MkVPcWFWOFlPT1lhWlZIeE9sVV9uU1pjcXBOMUsyd2tHNjJGTQ?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-14T20:44:00+00:00",
-      "summary": "S&P 500 Logs Third Consecutive Weekly Gain&nbsp;&nbsp;WSJ",
-      "key_points": [
-        "S&P 500 Logs Third Consecutive Weekly Gain&nbsp;&nbsp;WSJ"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Berkeley College MBA Program to Offer AI & Business Analytics Concentration - New Jersey Business & Industry Association",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR18wQ1I0RXp5TFNZaDBOTnplWHdPRUNobC10Si00b1F3MWJwcWg1ODl5bTN3aXh6Qy1rRlplcHh4bloxc1JxQkNHdG9wRmhpXzlXaG1FQXNyOE1LNjNwWGgyWWQ5VEtZdmkxRnJ0elBlaU9XVXlLbGNQako1T2t6dXdyQVl3Vm9PRjd6ZlpXUDVZOURLQ0Fn?oc=5",
       "source": "New Jersey Business & Industry Association",
@@ -712,61 +840,6 @@
       ]
     },
     {
-      "title": "Wall Street slips from its record following the latest weak update on the U.S. economy - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmphMUxQWHFjNGRsTnFrWVVLV09ueWk1d0hLWnBOdURTeFVWa2FXZmNxYmRPUmJkbUZwSTFPbEdhX05ZcHdVRXFCWlNEeV9meEdHN25fRFRZX0lpSU85dlFDaFhmeXJoLVBxSGYwdzlyRGg2eXZhbUhPZS1hVkdVbDZQVmp2bTUtVXFnUGwwa0lKdFNIMXdrQUllVVRlRVJPRG56UGhSZkx5bm9hbVlSVld0VW5vQ1VzVjJuZ1NIcHprZFgtSTg0Q1F3?oc=5",
-      "source": "BNN Bloomberg",
-      "published": "2026-08-14T20:25:53+00:00",
-      "summary": "Wall Street slips from its record following the latest weak update on the U.S. economy&nbsp;&nbsp;BNN Bloomberg",
-      "key_points": [
-        "Wall Street slips from its record following the latest weak update on the U.S.",
-        "economy&nbsp;&nbsp;BNN Bloomberg"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500, Nasdaq Extend Weekly Win Streaks: Stock Market Today - Kiplinger",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT25mLXRjSmFTQU1GY0ZtWUwyT3g1aVJtaF9lQmpGeXVCTkJYSEdWeERNNWliODZUTThFRGpzRGdtTDNfWTBIam1sZlZvUjJCdWdkUGo5MEFSaExQQkNYeHp1eWgyUkl2Z2Z5RlZSMUQxSzM4VnlwQndQbXV0cE5ySU5VSldhX0gycUh2VHZhV2hNSE1vaGJrMVdRUEZkeXFheGVlRWw3YUc4dw?oc=5",
-      "source": "Kiplinger",
-      "published": "2026-08-14T20:09:10+00:00",
-      "summary": "S&P 500, Nasdaq Extend Weekly Win Streaks: Stock Market Today&nbsp;&nbsp;Kiplinger",
-      "key_points": [
-        "S&P 500, Nasdaq Extend Weekly Win Streaks: Stock Market Today&nbsp;&nbsp;Kiplinger"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
-      "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-14T19:09:00+00:00",
-      "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
-      "key_points": [
-        "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "IMU launches Bachelor in Business Analytics - PressReader",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2p2NGMwQTBlaXd3UnJXc3c3QXhnd0YtVHc2Y1hGQzJUd1hHMzBVdWxmNFB4TUNrankwc0h2TWdEMkFNd3lCczBpZ19ZRGhBX1RFYjVKNVZZSFBHRXc5TDZ1bGUzeHMwWWdwb2J3N2pOLWNoRXMzek13WDhjajFrR2tXcw?oc=5",
       "source": "PressReader",
@@ -782,42 +855,6 @@
       ],
       "sections": [
         "Work"
-      ]
-    },
-    {
-      "title": "Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.",
-      "link": "https://www.marketwatch.com/story/parents-putting-money-in-trump-accounts-could-get-a-2-500-tax-break-heres-how-fb6fb2f7?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-14T18:51:00+00:00",
-      "summary": "A proposed rule could let families do a “discount Roth conversion.”",
-      "key_points": [
-        "A proposed rule could let families do a “discount Roth conversion.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
-      "link": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-08-14T18:47:00+00:00",
-      "summary": "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances.",
-      "key_points": [
-        "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -885,7 +922,7 @@
         "They are now at their highest level in over a year."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -903,7 +940,7 @@
         "Malaysia's economy grows 6% in Q2 2026, beating expectations&nbsp;&nbsp;Awani International"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Malaysia Finance"
       ],
@@ -921,7 +958,7 @@
         "Bank Negara: Malaysian economy to grow around 5% this year&nbsp;&nbsp;The Sun Malaysia"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Malaysia Finance"
       ],
@@ -1038,13 +1075,13 @@
       ]
     },
     {
-      "title": "Malaysia’s central bank upbeat as Q2 growth beats expectations - straitstimes.com",
+      "title": "Malaysia’s central bank upbeat as Q2 growth beats expectations - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEJrekg3dVBrQm5vd0ZsVE05OEdtNFhWdV8tYjI5NFJGb1NSZXFWNHdDdC1mUnlqV2tSMzloT09MSjN2RHNmRzVRMUxpdFl6aG1fQUo5czJFZHpUWTFQRHJGdUxkLVpjZ0g5RUxzcXBqNEpHUXg3R09MNlVRVTVmUjk4d2o3ZENCNkRWM2VodWEzeElqWW9lTjRVYzQ2Zk50RUhzcW93?oc=5",
-      "source": "straitstimes.com",
+      "source": "The Straits Times",
       "published": "2026-08-14T09:00:00+00:00",
-      "summary": "Malaysia’s central bank upbeat as Q2 growth beats expectations&nbsp;&nbsp;straitstimes.com",
+      "summary": "Malaysia’s central bank upbeat as Q2 growth beats expectations&nbsp;&nbsp;The Straits Times",
       "key_points": [
-        "Malaysia’s central bank upbeat as Q2 growth beats expectations&nbsp;&nbsp;straitstimes.com"
+        "Malaysia’s central bank upbeat as Q2 growth beats expectations&nbsp;&nbsp;The Straits Times"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1092,13 +1129,13 @@
       ]
     },
     {
-      "title": "Malaysia’s 2026 growth could top 5%, says BNM - The Malaysian Reserve",
+      "title": "Malaysia’s 2026 growth could top 5%, says BNM - themalaysianreserve.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHFKS09hX3lUdkJjX3BCTnpPb24zSWhTLUtINWtXSkpnOGpoazhFUHJCY0FnWV9IVFh6dzNxRDRaak1WcW9UazBYQmpUbkMyTTJGSEMtU2ZrdlVpemhoNkN4ek1ocnZVelZuZ1ZnZUJHbktYSFE3c09KMGJXdHVpZU1MY3pZczJCSGQzUjJFbw?oc=5",
-      "source": "The Malaysian Reserve",
+      "source": "themalaysianreserve.com",
       "published": "2026-08-14T06:56:15+00:00",
-      "summary": "Malaysia’s 2026 growth could top 5%, says BNM&nbsp;&nbsp;The Malaysian Reserve",
+      "summary": "Malaysia’s 2026 growth could top 5%, says BNM&nbsp;&nbsp;themalaysianreserve.com",
       "key_points": [
-        "Malaysia’s 2026 growth could top 5%, says BNM&nbsp;&nbsp;The Malaysian Reserve"
+        "Malaysia’s 2026 growth could top 5%, says BNM&nbsp;&nbsp;themalaysianreserve.com"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1146,13 +1183,13 @@
       ]
     },
     {
-      "title": "Career & Finance Horoscope, August 14, 2026: A career transition may create space for a more rewarding direction | Astrology - hindustantimes.com",
+      "title": "Career & Finance Horoscope, August 14, 2026: A career transition may create space for a more rewarding direction | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObGxqOXVsUUYzZHFYSU9Xb2dhU0pWVi1xWlg3SlJSeW43WndiRXB5NjBYRXVpUmtTeUQ0Y1lGUTRPSldnRFhJbHMxaTlFdEZ2Q2JCZU9CaDdkZzd3QnZZOWZJNjZkS1BENmVZd0FsSTQtNFZHSnFpQzJEY1RCUUtCdWt3bGlfNENNUnVDc0lNMjhhZGpMQTJEUEtKTVZsTGpfcGRId2FybFY0OEVPRHVsZms1VlNqV25BVUstdWdNUDc0Y0FvLUFXNXJPTENCUFUtbkt5U21tOE9tWm9tejVfV3V2LVRaMjlRVjRTMXU1R04yLUtuVjhpVjlSS19KNUNyRHkxWk1aNWdkdEHSAZACQVVfeXFMTkgtcGVfWDBrQklzSldLSzlVSzNYeGdYS2xBd0RtV2NOSW04Rmd0YVJBVkxHeHd5cTRzS2JmTzI5VmpnMXQ5R2dYZERlSVdQUkJuRnBfVklwNEhQM3U0SEFoeUVTbmFOVXJaZnRlWjJIZ0M5aUtlQnRUbUxTYzR4UWhOUWdiUWtJczU1VENubXFBRmJmWm1PUWxENEZhVGZzVjc4NmxtNjl4NXBrUkFLZVhDV3dGX3ZmWFZBV3lJMTZpeElMZTRremM1SGQ4RUlKMEYybVBOWS0yeklkaHREa1ZoVk40cENBb3hCLWVrVTMwU3hYLTV1VTREV0tpZDJTNnlPaUx0eEhwN0xxMTlzZ0w?oc=5",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "published": "2026-08-14T03:00:21+00:00",
-      "summary": "Career & Finance Horoscope, August 14, 2026: A career transition may create space for a more rewarding direction | Astrology&nbsp;&nbsp;hindustantimes.com",
+      "summary": "Career & Finance Horoscope, August 14, 2026: A career transition may create space for a more rewarding direction | Astrology&nbsp;&nbsp;Hindustan Times",
       "key_points": [
-        "Career & Finance Horoscope, August 14, 2026: A career transition may create space for a more rewarding direction | Astrology&nbsp;&nbsp;hindustantimes.com"
+        "Career & Finance Horoscope, August 14, 2026: A career transition may create space for a more rewarding direction | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1254,24 +1291,6 @@
       ]
     },
     {
-      "title": "Can artificial intelligence and blockchain really make a great complementary pair? - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHlUWmNXYnVsNjNVbl9MeDIyLXJwT1dWVUhtUVFCdC1YQkdxWHlWXzlDSml6M0JDdV9wYXA0U3l3V21FYW4ta2ZsZFpkRW1TMmxJQ0Q0Y3Z6cEpGRVc3SXBMVll0cGFJYWRqeHdOakVDVEhjYmZhYUdCczBKVHdxek1iRWV0VTFyZ1ZMUHZITVNtc1NlN2s4LW9BQTI1LWpmREpoQm9MQ1FsNnc?oc=5",
-      "source": "tech-insider.org",
-      "published": "2026-08-13T20:07:57+00:00",
-      "summary": "Can artificial intelligence and blockchain really make a great complementary pair?&nbsp;&nbsp;tech-insider.org",
-      "key_points": [
-        "Can artificial intelligence and blockchain really make a great complementary pair?&nbsp;&nbsp;tech-insider.org"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
       "link": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
       "source": "Business News",
@@ -1291,14 +1310,14 @@
       ]
     },
     {
-      "title": "CFI vs. Financial Edge Training: A Comparison Guide - corporatefinanceinstitute.com",
+      "title": "CFI vs. Financial Edge Training: A Comparison Guide - Corporate Finance Institute",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHVjVC1Pc1VZbFJWUGl4QVR4cS0ySXRxc1ZEVnk5VmZMOVRweFFHN05BTzNKOExmcmNnNW1UaEg4QmRNN2lZN3NZbUZGcWxFcFNGQ2VfVWxQTDRmRTNyRmtlRHozTEN2X0E1cXhUbG5QYnJ6TWpZdzVvTmNSR09Bd25ZSDBmV2l3czcwZDdLWQ?oc=5",
-      "source": "corporatefinanceinstitute.com",
+      "source": "Corporate Finance Institute",
       "published": "2026-08-13T16:38:30+00:00",
-      "summary": "CFI vs. Financial Edge Training: A Comparison Guide&nbsp;&nbsp;corporatefinanceinstitute.com",
+      "summary": "CFI vs. Financial Edge Training: A Comparison Guide&nbsp;&nbsp;Corporate Finance Institute",
       "key_points": [
         "CFI vs.",
-        "Financial Edge Training: A Comparison Guide&nbsp;&nbsp;corporatefinanceinstitute.com"
+        "Financial Edge Training: A Comparison Guide&nbsp;&nbsp;Corporate Finance Institute"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1385,7 +1404,7 @@
       "title": "MTN Engages Undergraduates on Career Pathways in Technology, Finance - THISDAYLIVE",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2diVzZQYnpPVzRRZU45cUJsY2xmbVBGWW5Ha3RhMnZXbkVWODVHLUFwbF9OMGs3YUhXZjdGRkJxdHZua0x3ZTAyaW53WGhKUmJLcGdJLU0zZTRmQmtNQklKUHdjUWNmNFpTV0Y1UGJvVHREWGRyaWZwU3k3MG1iekJndm1LMlhFNlNod3FZczVLNWJFa2RrVU8yVlkzbUtFV05zS2luUUtSUVU?oc=5",
       "source": "THISDAYLIVE",
-      "published": "2026-08-13T04:02:27+00:00",
+      "published": "2026-08-12T23:58:03+00:00",
       "summary": "MTN Engages Undergraduates on Career Pathways in Technology, Finance&nbsp;&nbsp;THISDAYLIVE",
       "key_points": [
         "MTN Engages Undergraduates on Career Pathways in Technology, Finance&nbsp;&nbsp;THISDAYLIVE"
@@ -1490,13 +1509,13 @@
       ]
     },
     {
-      "title": "Career & Finance Horoscope, August 12, 2026: Make decisions you can confidently stand behind later | Astrology - hindustantimes.com",
+      "title": "Career & Finance Horoscope, August 12, 2026: Make decisions you can confidently stand behind later | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRVctVXhkMTFxdXpmNlBXeVVrX2ZvNWZqV3ZrTkpMWmM1ZXBoNnNpU081NDZDbkFPY0JMeWZOQjVudGRoaDBmdU5LbkVXeHIzcjEyckNzbWlhdUVxY2FBOW13QmZ3MUNBbTc1RjBvZ09GRy1lSmUzYU9DNVowNzVtYlZacXRKV2JLX1ZnOExZNkswQzVoTGYzUGV3V01YRWdkZjNXVEJOQk1kaGM1bG05ZlBmMDFPLTFPS283MEl3SHFQS1ptbV9FM2E2RFdjUG5VTk53a3BNX2hmYm1CTXR2U1Nzd2lHeTRSWHZpV1FybmMtR2pMQ2Zrc9IB_gFBVV95cUxQZzdRQjgxRWpuYkcyR0pBems2MGp0SHJFcmVPYUhUXzZieGNkSlRndEtEd25TUlVHTklRaENRaFFCTTBvRzJuaDAxdFVUOUtqU0xmRFhWbldsVTJBdmNzMzRKOUJVZ2VPWE82aTNSUmtWRnJrNno0RHZ1Nkh5Z0tJTkdVQTRzZUJQckJlV3BIWERILS1xSEhlbmFnQm5DaC1qYmVBSklQUnVZdG9pVDV5YVJPNlJBbDVQaU5lZHB5WC1WMWFKVzBFMXZTbVhlT0N0ak9lREttVGZmWmhvcUxaT3RhQ2lVUmgtemFObHB3WlEwTXFBMWY1aW5zWC1LUQ?oc=5",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "published": "2026-08-12T04:19:00+00:00",
-      "summary": "Career & Finance Horoscope, August 12, 2026: Make decisions you can confidently stand behind later | Astrology&nbsp;&nbsp;hindustantimes.com",
+      "summary": "Career & Finance Horoscope, August 12, 2026: Make decisions you can confidently stand behind later | Astrology&nbsp;&nbsp;Hindustan Times",
       "key_points": [
-        "Career & Finance Horoscope, August 12, 2026: Make decisions you can confidently stand behind later | Astrology&nbsp;&nbsp;hindustantimes.com"
+        "Career & Finance Horoscope, August 12, 2026: Make decisions you can confidently stand behind later | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1545,14 +1564,14 @@
       ]
     },
     {
-      "title": "CFI vs. Coursera: Comparing Finance Training Platforms - corporatefinanceinstitute.com",
+      "title": "CFI vs. Coursera: Comparing Finance Training Platforms - Corporate Finance Institute",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LV1Ywb1MwSTgyS3NkYmZURkd2UVNRT2NXS3F6QmlHdTdsTk9KSS02ZF9pQmdBb055R2xBTlFiQzJKM2wwQVJrMGQzTDIwU0pzc0hhVGdmQTlabVh3TTNQYnNCOXRDZmhCTlUySVVycDZLUnFjZVg3MFdEOA?oc=5",
-      "source": "corporatefinanceinstitute.com",
+      "source": "Corporate Finance Institute",
       "published": "2026-08-11T12:05:29+00:00",
-      "summary": "CFI vs. Coursera: Comparing Finance Training Platforms&nbsp;&nbsp;corporatefinanceinstitute.com",
+      "summary": "CFI vs. Coursera: Comparing Finance Training Platforms&nbsp;&nbsp;Corporate Finance Institute",
       "key_points": [
         "CFI vs.",
-        "Coursera: Comparing Finance Training Platforms&nbsp;&nbsp;corporatefinanceinstitute.com"
+        "Coursera: Comparing Finance Training Platforms&nbsp;&nbsp;Corporate Finance Institute"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1690,13 +1709,13 @@
       ]
     },
     {
-      "title": "Prices For Building Material Appear Mixed In July With Selected Areas Rising, DOSM Report - businesstoday.com.my",
+      "title": "Prices For Building Material Appear Mixed In July With Selected Areas Rising, DOSM Report - BusinessToday Malaysia",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZW9aU2M0b2NPZjVMb0VjT0p6ZC1kREVTd2gtbTU3SERUVWlFaVMycUpNNkVhNGhzczZ2ZUVtdkVXajdzZDA1NHpzNEdzS1V4Umh5c0gxd3FZUUNNeDVqNUpDWXVPSDUzZE90Q1R5VlNabFpJRDNVS0lkUjRwQ09QYUQxblVDVGxsTkhWbk1RMXB1LW1LS0haaDNxVndKNDlVR0swdWYwT05kLS1pYk5UVkVVTFJxQmFQRnY5TGdVRUotN2I3bWxRTnZmTnAwUQ?oc=5",
-      "source": "businesstoday.com.my",
+      "source": "BusinessToday Malaysia",
       "published": "2026-08-10T04:19:40+00:00",
-      "summary": "Prices For Building Material Appear Mixed In July With Selected Areas Rising, DOSM Report&nbsp;&nbsp;businesstoday.com.my",
+      "summary": "Prices For Building Material Appear Mixed In July With Selected Areas Rising, DOSM Report&nbsp;&nbsp;BusinessToday Malaysia",
       "key_points": [
-        "Prices For Building Material Appear Mixed In July With Selected Areas Rising, DOSM Report&nbsp;&nbsp;businesstoday.com.my"
+        "Prices For Building Material Appear Mixed In July With Selected Areas Rising, DOSM Report&nbsp;&nbsp;BusinessToday Malaysia"
       ],
       "why_recommended": "Matched your \"Malaysia News\" topic.",
       "importance": "Low",
@@ -1726,13 +1745,13 @@
       ]
     },
     {
-      "title": "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills - finance.yahoo.com",
+      "title": "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjlENjFvbUJ5SEJpMFB6Si00bk93NGpKbnpSTm4wYkw1bXVwemlsUnNwTHJXX2k2ZHI2RGk0SkkzdUk4ZkNxLTJJVzBUYXhQSWNpc09rVDhfU3oyZXdjbThnNlA1Yk1YVVF2MGFCazBPV0R6dzVfR3ZuX1pWcTgxX3l3cHNYaGFlRzVTLTE0YzB0NF9hTTFvQ2RWRzBlZw?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published": "2026-08-08T12:13:00+00:00",
-      "summary": "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills&nbsp;&nbsp;finance.yahoo.com",
+      "summary": "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills&nbsp;&nbsp;Yahoo Finance",
       "key_points": [
-        "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills&nbsp;&nbsp;finance.yahoo.com"
+        "12 Value-Added Courses at Chandigarh University Uttar Pradesh, AI, Business Analytics & More to Boost Student Skills&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
