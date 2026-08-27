@@ -22,7 +22,7 @@ export default function Search() {
       <h1 className="text-3xl sm:text-4xl" style={{ fontFamily: 'var(--font-display)', color: 'var(--color-emerald-deep)' }}>
         Search the Archive
       </h1>
-      <p className="mt-2 max-w-2xl" style={{ color: 'var(--color-ink-soft)' }}>
+      <p className="mt-2 max-w-2xl" style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-prose)' }}>
         Matches card names and keywords, and the upright &amp; reversed meanings for every card.
       </p>
 
@@ -58,7 +58,7 @@ export default function Search() {
           <CardGrid cards={results} emptyMessage={`No cards match "${query}". Try a shorter word.`} />
         </>
       ) : (
-        <p className="py-16 text-center text-lg" style={{ color: 'var(--color-ink-soft)' }}>
+        <p className="py-16 text-center text-lg" style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-prose)' }}>
           Type a name, keyword, or a word from a card&rsquo;s meaning to begin.
         </p>
       )}

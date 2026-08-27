@@ -4,6 +4,12 @@
   --font-display: 'Cinzel Decorative', 'Cinzel', 'Cormorant Garamond', serif;
   --font-heading: 'Cinzel', 'Cormorant Garamond', serif;
   --font-body: 'Cormorant Garamond', 'Iowan Old Style', 'Palatino Linotype', serif;
+  /* Long-form reading (card meanings): EB Garamond reads better than
+     Cormorant Garamond across many paragraphs at body size. */
+  --font-prose: 'EB Garamond', 'Iowan Old Style', 'Palatino Linotype', serif;
+  /* Decorative accent only (e.g. a drop cap) — a full blackletter face is
+     too hard to read at length for anything longer than a letter or two. */
+  --font-blackletter: 'UnifrakturMaguntia', var(--font-display);
 
   --color-ivory: #f3ecdc;
   --color-ivory-deep: #e8dcc0;

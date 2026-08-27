@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import PageShell from '../components/layout/PageShell'
-import { Divider, OrnateFrame, StainedGlassArch, StarIcon } from '../components/decorative'
+import { Divider, OrnateFrame, StainedGlassArch } from '../components/decorative'
+import { IconCrystalBall, IconOpenBook, IconScrollUnfurled } from '../components/icons'
 
 const PREVIEW_SECTIONS = [
   {
@@ -9,18 +10,21 @@ const PREVIEW_SECTIONS = [
       'All 78 cards of the Glamouria deck — Major Arcana, the four Minor suits, and the court — with upright and reversed meanings drawn straight from the reference text.',
     to: '/library',
     status: 'live',
+    Icon: IconOpenBook,
   },
   {
     title: 'Structured Lessons',
     description:
       'A guided path from the Major Arcana overview through each suit, the court, spreads, and live reading practice, with progress saved on this device.',
     status: 'in the works',
+    Icon: IconScrollUnfurled,
   },
   {
     title: 'Daily Draw & Spreads',
     description:
       'A card of the day with a saved draw history, plus visual layouts for the classic spreads — Celtic Cross, the two-choice spread, and more.',
     status: 'in the works',
+    Icon: IconCrystalBall,
   },
 ]
 
@@ -43,7 +47,7 @@ export default function Home() {
           </h1>
           <p
             className="mt-5 max-w-xl text-lg leading-relaxed sm:text-xl"
-            style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-body)' }}
+            style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-prose)' }}
           >
             A reference library and a structured way to learn the Glamouria deck — an
             original 78-card tarot rendered in a dark, stained-glass Art&nbsp;Nouveau style.
@@ -95,14 +99,17 @@ export default function Home() {
           {PREVIEW_SECTIONS.map((section) => {
             const content = (
               <OrnateFrame innerClassName="h-full p-6 bg-[color-mix(in_srgb,var(--color-ivory-deep)_70%,transparent)]">
-                <StarIcon className="mb-3 h-4 w-4" style={{ color: 'var(--color-gold-deep)' }} />
+                <section.Icon aria-hidden="true" className="mb-3 h-6 w-6" style={{ color: 'var(--color-gold-deep)' }} />
                 <h3
                   className="mb-2 text-lg"
                   style={{ fontFamily: 'var(--font-heading)', color: 'var(--color-oxblood)' }}
                 >
                   {section.title}
                 </h3>
-                <p className="text-[0.95rem] leading-relaxed" style={{ color: 'var(--color-ink-soft)' }}>
+                <p
+                  className="text-[0.95rem] leading-relaxed"
+                  style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-prose)' }}
+                >
                   {section.description}
                 </p>
                 {section.status === 'in the works' && (

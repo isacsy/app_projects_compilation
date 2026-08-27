@@ -3,6 +3,7 @@ import PageShell from '../components/layout/PageShell'
 import CardImage from '../components/card/CardImage'
 import { Divider, OrnateFrame } from '../components/decorative'
 import { displayNameEn, getCardById, rankLabel, sortedCards, SUIT_LABELS } from '../lib/cardData'
+import { getCardIcon } from '../components/icons'
 
 function SectionTitle({ children }) {
   return (
@@ -17,9 +18,29 @@ function SectionTitle({ children }) {
 
 function Prose({ children }) {
   return (
-    <p className="whitespace-pre-line text-[1.05rem] leading-relaxed" style={{ color: 'var(--color-ink-soft)' }}>
+    <p
+      className="whitespace-pre-line text-[1.05rem] leading-relaxed"
+      style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-prose)' }}
+    >
       {children}
     </p>
+  )
+}
+
+/** Illuminated-manuscript-style drop cap on the card's English name. Only
+ * the first letter goes in the blackletter face — UnifrakturMaguntia is
+ * unreadable at paragraph length, and only has Latin glyphs anyway (the
+ * Chinese name/meanings below fall back past it to a system CJK face). */
+function CardTitle({ name }) {
+  const first = name.charAt(0)
+  const rest = name.slice(1)
+  return (
+    <h1 className="mt-2 text-4xl" style={{ fontFamily: 'var(--font-display)', color: 'var(--color-emerald-deep)' }}>
+      <span style={{ fontFamily: 'var(--font-blackletter)', fontSize: '1.5em', color: 'var(--color-oxblood)' }}>
+        {first}
+      </span>
+      {rest}
+    </h1>
   )
 }
 
@@ -34,6 +55,7 @@ export default function CardDetail() {
   const index = sortedCards.findIndex((c) => c.id === card.id)
   const prev = sortedCards[(index - 1 + sortedCards.length) % sortedCards.length]
   const next = sortedCards[(index + 1) % sortedCards.length]
+  const Icon = getCardIcon(card)
   const subtitle =
     card.arcana === 'major' ? `Major Arcana · No. ${card.number}` : `${SUIT_LABELS[card.suit]} · ${rankLabel(card)}`
 
@@ -56,17 +78,13 @@ export default function CardDetail() {
 
         <div>
           <p
-            className="text-xs uppercase tracking-[0.35em]"
+            className="flex items-center gap-2 text-xs uppercase tracking-[0.35em]"
             style={{ color: 'var(--color-gold-deep)', fontFamily: 'var(--font-heading)' }}
           >
+            <Icon aria-hidden="true" className="h-4 w-4 shrink-0" />
             {subtitle}
           </p>
-          <h1
-            className="mt-2 text-4xl"
-            style={{ fontFamily: 'var(--font-display)', color: 'var(--color-emerald-deep)' }}
-          >
-            {displayNameEn(card.nameEn)}
-          </h1>
+          <CardTitle name={displayNameEn(card.nameEn)} />
           <p className="mt-1 text-2xl" style={{ fontFamily: 'var(--font-heading)', color: 'var(--color-oxblood)' }}>
             {card.nameZh}
           </p>
@@ -92,7 +110,12 @@ export default function CardDetail() {
           {card.partial && (
             <p
               className="mt-5 max-w-lg border-l-2 pl-3 text-sm italic"
-              style={{ borderColor: 'var(--color-gold-deep)', color: 'var(--color-ink-soft)', opacity: 0.85 }}
+              style={{
+                borderColor: 'var(--color-gold-deep)',
+                color: 'var(--color-ink-soft)',
+                opacity: 0.85,
+                fontFamily: 'var(--font-prose)',
+              }}
             >
               The reference book itself marks this entry as abridged (「部分」) — some of what a fuller
               treatment might cover, including the reversed meaning for most court cards, isn&rsquo;t in
@@ -117,7 +140,10 @@ export default function CardDetail() {
             {card.reversedMeaning ? (
               <Prose>{card.reversedMeaning}</Prose>
             ) : (
-              <p className="text-sm italic" style={{ color: 'var(--color-ink-soft)', opacity: 0.75 }}>
+              <p
+                className="text-sm italic"
+                style={{ color: 'var(--color-ink-soft)', opacity: 0.75, fontFamily: 'var(--font-prose)' }}
+              >
                 Not covered in the source material for this card.
               </p>
             )}

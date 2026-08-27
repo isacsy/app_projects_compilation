@@ -3,7 +3,7 @@ import CardTile from './CardTile'
 export default function CardGrid({ cards, emptyMessage = 'No cards match these filters.' }) {
   if (cards.length === 0) {
     return (
-      <p className="py-16 text-center text-lg" style={{ color: 'var(--color-ink-soft)' }}>
+      <p className="py-16 text-center text-lg" style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-prose)' }}>
         {emptyMessage}
       </p>
     )

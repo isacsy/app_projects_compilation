@@ -3,6 +3,7 @@ import PageShell from '../components/layout/PageShell'
 import CardGrid from '../components/card/CardGrid'
 import { Divider } from '../components/decorative'
 import { sortedCards, SUITS, SUIT_LABELS } from '../lib/cardData'
+import { SUIT_ICONS } from '../components/icons'
 
 const MAJOR_RANKS = Array.from({ length: 22 }, (_, i) => String(i))
 const MINOR_RANKS = ['ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'page', 'knight', 'queen', 'king']
@@ -51,7 +52,7 @@ export default function CardLibrary() {
       >
         Card Library
       </h1>
-      <p className="mt-2 max-w-2xl" style={{ color: 'var(--color-ink-soft)' }}>
+      <p className="mt-2 max-w-2xl" style={{ color: 'var(--color-ink-soft)', fontFamily: 'var(--font-prose)' }}>
         All 78 cards of the Glamouria deck. Filter by arcana, suit, or rank, or use the search in the
         header to look up a card by name or keyword.
       </p>
@@ -85,17 +86,21 @@ export default function CardLibrary() {
             >
               All
             </button>
-            {SUITS.map((s) => (
-              <button
-                key={s}
-                type="button"
-                onClick={() => update({ suit: s, arcana: 'minor', rank: 'all' })}
-                className="rounded-sm border px-3 py-1 text-xs uppercase tracking-wider"
-                style={segButtonStyle(suit === s)}
-              >
-                {SUIT_LABELS[s]}
-              </button>
-            ))}
+            {SUITS.map((s) => {
+              const SuitIcon = SUIT_ICONS[s]
+              return (
+                <button
+                  key={s}
+                  type="button"
+                  onClick={() => update({ suit: s, arcana: 'minor', rank: 'all' })}
+                  className="flex items-center gap-1.5 rounded-sm border px-3 py-1 text-xs uppercase tracking-wider"
+                  style={segButtonStyle(suit === s)}
+                >
+                  <SuitIcon aria-hidden="true" className="h-3.5 w-3.5" />
+                  {SUIT_LABELS[s]}
+                </button>
+              )
+            })}
           </>
         )}
 
