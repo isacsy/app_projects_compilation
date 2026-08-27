@@ -34,12 +34,15 @@ npm run lint      # oxlint
 
 ## Card art
 
-Card art isn't illustrated yet, so every card shows a generic branded
-placeholder (`src/components/card/CardBackPlaceholder.jsx`). To drop in
-real art for a card, add `public/assets/cards/{id}.png` (see `id` values in
-`src/data/cards.json`, e.g. `major-00.png`, `wands-ace.png`,
-`cups-king.png`) — no code changes needed, `CardImage` picks it up
-automatically and falls back to the placeholder if the file is missing.
+Glamouria's own deck isn't illustrated yet, so every card currently shows
+the public-domain 1909 Rider-Waite-Smith deck as placeholder art —
+see `public/assets/cards/README.md` for the source and license. Any card
+missing its own image file falls back to a generic branded card-back
+(`src/components/card/CardBackPlaceholder.jsx`). To drop in real art for a
+card, replace `public/assets/cards/{id}.jpg` (or add `{id}.png`; see `id`
+values in `src/data/cards.json`, e.g. `major-00`, `wands-ace`,
+`cups-king`) — no code changes needed, `CardImage` picks it up
+automatically.
 
 ## Content data
 
