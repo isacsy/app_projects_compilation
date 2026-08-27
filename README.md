@@ -3,6 +3,15 @@ All apps and projects that I build to learn coding and UI designing while having
 
 ## Projects
 
+### [glamouria-tarot](glamouria-tarot/)
+A tarot learning companion for Glamouria Studio, my original 78-card tarot
+deck (illustrated in a dark, stained-glass Art Nouveau style): a browsable,
+searchable card reference library today, with a structured lesson/quiz
+system planned. React + Vite + Tailwind CSS + React Router, localStorage
+for progress (no backend). All 78 cards' meanings are parsed from a
+reference book into `src/data/cards.json` — see `glamouria-tarot/README.md`
+and `glamouria-tarot/src/data/README.md` for status and data-fidelity notes.
+
 ### [stock-tracker-dashboard](stock-tracker-dashboard/)
 A personal stock tracking dashboard: look up tickers, save a watchlist, and
 track a portfolio with profit/loss — built for real daily use. React + Vite +
