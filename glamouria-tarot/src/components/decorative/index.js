@@ -1,6 +1,0 @@
-export { default as OrnateFrame } from './OrnateFrame'
-export { default as CornerFloret } from './CornerFloret'
-export { default as Divider } from './Divider'
-export { default as MoonIcon } from './MoonIcon'
-export { default as StarIcon } from './StarIcon'
-export { default as StainedGlassArch } from './StainedGlassArch'
