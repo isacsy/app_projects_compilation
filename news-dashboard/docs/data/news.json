@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:07:14.153008+00:00",
+  "generated_at": "2026-09-03T11:02:37.345449+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,17 +8,17 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Wall Street rises as tech stocks climb and oil steadies - CommBank (Finance, Technology) | Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - BNN Bloomberg (Finance, Technology) | There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs (Finance) | Bursa Malaysia opens higher ahead of OPR decision - NST Online (Finance) | Bursa Malaysia opens higher as investors await Bank Negara OPR decision - KLSE Screener (Finance)",
-  "count": 89,
+  "daily_brief": "Top stories right now: The AI cloud math is broken, and it’s creating a power shift within Big Tech (Finance) | People under 21 can’t use most sportsbooks — so they’ve wagered over $5 billion on Kalshi instead (Finance) | Wall Street rises as tech stocks climb and oil prices, bond yields hold steady - post-gazette.com (Finance) | Clean sweep or split Congress, these are the trades to make on the midterms outcome, says JPMorgan (Finance) | Shares in Snowflake are surging. Here’s what Wall Street analysts are saying. (Finance)",
+  "count": 88,
   "items": [
     {
-      "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-      "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "title": "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
+      "link": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-03T04:01:00+00:00",
-      "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
+      "published": "2026-09-03T11:00:00+00:00",
+      "summary": "Buying AI hardware outright is becoming more economical than renting AI power through the cloud.",
       "key_points": [
-        "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday."
+        "Buying AI hardware outright is becoming more economical than renting AI power through the cloud."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -30,13 +30,590 @@
       ]
     },
     {
-      "title": "Bursa Malaysia opens higher ahead of OPR decision - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZG4wUzg4RFFfSTZlR3g0LWhIeWd3VWhKWUxRNVpZMnJnUzBGVGQ3bWt5TDhQZ2s3XzBqV2ZPTzV1VjQ0aDhMSDJDM2VIVHl6SEZMWkpFWFlOSl94ZHBkWW8wOWIzSDg0dC1NQTJDYm9kVXBCWkJxSElWbGh2ZmxYRzI5eE9YZy0xcnAzRUNmTDJSRG5QN3l6THR5QzZQVTRka2owNHlXVQ?oc=5",
-      "source": "NST Online",
-      "published": "2026-09-03T02:15:59+00:00",
-      "summary": "Bursa Malaysia opens higher ahead of OPR decision&nbsp;&nbsp;NST Online",
+      "title": "People under 21 can’t use most sportsbooks — so they’ve wagered over $5 billion on Kalshi instead",
+      "link": "https://www.marketwatch.com/story/people-under-21-cant-use-most-sportsbooks-so-theyve-wagered-over-5-billion-on-kalshi-instead-03730919?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T11:00:00+00:00",
+      "summary": "A new American Gaming Association analysis finds underage sports betting is flourishing on prediction markets.",
       "key_points": [
-        "Bursa Malaysia opens higher ahead of OPR decision&nbsp;&nbsp;NST Online"
+        "A new American Gaming Association analysis finds underage sports betting is flourishing on prediction markets."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold steady - post-gazette.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHZDR3RJejBOTkVZQUhSdTJsYlljQ1ZWcDBHSVJCVDMtTXdud3Y3Ty1LUjljU0p3OGRHdmJudTlGbjh3SDliTDF6WEhlZllTNWJlcXB3Y1FBNGxOeDVLQnJ5dkxtaHVnMXVlaklLcThhQ0NKM2wyOV83bnBXWjNaMHVBSFVsRjF0NGF0ODlIS053bmxmSDY3WWFwVWVQMVlwc2hoVlRGaDZzRGcxRWZKXw?oc=5",
+      "source": "post-gazette.com",
+      "published": "2026-09-03T10:46:11+00:00",
+      "summary": "Wall Street rises as tech stocks climb and oil prices, bond yields hold steady&nbsp;&nbsp;post-gazette.com",
+      "key_points": [
+        "Wall Street rises as tech stocks climb and oil prices, bond yields hold steady&nbsp;&nbsp;post-gazette.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Clean sweep or split Congress, these are the trades to make on the midterms outcome, says JPMorgan",
+      "link": "https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T10:46:00+00:00",
+      "summary": "Some stocks face a vey different environment depending on how America votes.",
+      "key_points": [
+        "Some stocks face a vey different environment depending on how America votes."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Shares in Snowflake are surging. Here’s what Wall Street analysts are saying.",
+      "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T10:37:00+00:00",
+      "summary": "Analysts see the software company continuing to benefit from the artificial-intelligence revolution.",
+      "key_points": [
+        "Analysts see the software company continuing to benefit from the artificial-intelligence revolution."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The 52-Week-High List: 18 S&P 500 Names On Wednesday - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3ZtaDlGZ3FHeTZTZ3kxZ3A5eVFGbWJpSzVYRGFvWkFrclpmemFLZXN3em93MGRLSGpCQW5oZzYxcGp1b29WYkxDX25lRjc3UmFTdzFMVW50eGZOTmVWbnF5OEFTeUliN1AwejFoN0lQZDhXVjFvbDZVMlpGYkF1SEpUeHIxaXJGckltYWRMeDlJS0xwWmVBSFFfeFR5MWdpZmhvWkNDMXZybXFTRnlN?oc=5",
+      "source": "Trefis",
+      "published": "2026-09-03T10:36:17+00:00",
+      "summary": "The 52-Week-High List: 18 S&P 500 Names On Wednesday&nbsp;&nbsp;Trefis",
+      "key_points": [
+        "The 52-Week-High List: 18 S&P 500 Names On Wednesday&nbsp;&nbsp;Trefis"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-09-03T10:32:52+00:00",
+      "summary": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents&nbsp;&nbsp;The Washington Post",
+      "key_points": [
+        "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents&nbsp;&nbsp;The Washington Post"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+      "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T10:15:00+00:00",
+      "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
+      "key_points": [
+        "“I’m desperately trying to plan ahead while I’m still able.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Malaysia Stocks Nudge Higher As BNM Holds Rates - Finimize",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1BucUJZMTNsYnk1Rm1YaFNLTUlwdW9vXzlWQ1dpZHhwTUlCUGlKd1gwX2dxcWZKSXNFSW9OVFNJX1dTbFRjU0JQcmRZUEFQOHdLZmJmUmp0TnpuRE1ENVlRQVBTLXRwZDZqNlJpT0xlRDMwcHNiVDNHdnpOVnR0N0pR?oc=5",
+      "source": "Finimize",
+      "published": "2026-09-03T10:02:39+00:00",
+      "summary": "Malaysia Stocks Nudge Higher As BNM Holds Rates&nbsp;&nbsp;Finimize",
+      "key_points": [
+        "Malaysia Stocks Nudge Higher As BNM Holds Rates&nbsp;&nbsp;Finimize"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
+      "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T09:59:00+00:00",
+      "summary": "There are more important things for investors to be worried about.",
+      "key_points": [
+        "There are more important things for investors to be worried about."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Tim Cook's Legacy at Apple Will Be Defined by This Nearly $879 Billion Investment, Not AI - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmtlS1djNlJyelY0eUVNcFF5UHNfQ3B0NjRIc3hidV8zc0ZQcDNrSlRoR3pEUUxfNWc4UkJFbzNWY3ZaRG5Wd1JFcUh2Ykx1azVzSS1NTHNKVDlHRXJabUw3SEI2TUFic3Z4TnJ1dGNsOHROWUNIbzIyWmxzeU1TbERuUlM4SkVPOEdOaG9vWFZFcnJmWmxscw?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-09-03T09:37:52+00:00",
+      "summary": "Tim Cook's Legacy at Apple Will Be Defined by This Nearly $879 Billion Investment, Not AI&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "Tim Cook's Legacy at Apple Will Be Defined by This Nearly $879 Billion Investment, Not AI&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bursa Malaysia closes higher as Bank Negara holds rates steady - The Star",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1Iwa0hoUUtlZUpnbGl0VFQwYmQ0X18xbE4tckllSGh5dUh4RFZWYUtPb0tkMWU5amRZU3haWDFEc3Z1N1B5UEpsQl9ZSTIxVktNcDN2djVvbi03azNJa0VKUC01TXJZSy1mSjBwbG1JX2c0ZlBZSG1oU24zeE1mOUczYmpCeTdvdG1MVnZhNWhlQlBaRGlSeFlLWGVEazdEelg3eGZnUVR1dWN4TVNTR2R2QlQ0aEpFcmJfUVFnUDI?oc=5",
+      "source": "The Star",
+      "published": "2026-09-03T09:23:00+00:00",
+      "summary": "Bursa Malaysia closes higher as Bank Negara holds rates steady&nbsp;&nbsp;The Star",
+      "key_points": [
+        "Bursa Malaysia closes higher as Bank Negara holds rates steady&nbsp;&nbsp;The Star"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+      "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T09:15:00+00:00",
+      "summary": "“She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her.”",
+      "key_points": [
+        "“She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Why alarming bond yields might drop sooner than investors think",
+      "link": "https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T09:13:00+00:00",
+      "summary": "The surge in government bond yields that has alarmed investors may reverse itself has cyclical forces overwhelm fears over the sustainability of debt, one strategist argues on Thursday.",
+      "key_points": [
+        "The surge in government bond yields that has alarmed investors may reverse itself has cyclical forces overwhelm fears over the sustainability of debt, one strategist argues on Thursday."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Here’s your chance to rent ‘haunted’ Hollywoodland house from Holly Madison",
+      "link": "https://www.marketwatch.com/story/heres-your-chance-to-rent-haunted-hollywoodland-house-from-holly-madison-1b92be34?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T09:02:00+00:00",
+      "summary": "“The Girls Next Door” alum Holly Madison has listed her historic—and allegedly “haunted”—home as a $9,500-a-month rental, after she opened up about why she feels unable to sell it.",
+      "key_points": [
+        "“The Girls Next Door” alum Holly Madison has listed her historic—and allegedly “haunted”—home as a $9,500-a-month rental, after she opened up about why she feels unable to sell it."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Wall Street ends higher as stocks reclaim some shine - Jefferson City News Tribune",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWVsQ1RDT3VVWjdQOHdpZXVZNEhzRUJNc2ZlclBqLXBPZkswSXM1NUdQSGJabWRNZGNkUlVGdC14M2VxbzFsS0NMTTF6V080eENpVFR3d3FZVEtaMVFvcEpONHBCTlc1NUk1dTROWGUyNHJrNE1lSHAtYTh6YldCZmY5d25aRU1ncEdJbl9uT0IwbEV5aDNJ?oc=5",
+      "source": "Jefferson City News Tribune",
+      "published": "2026-09-03T09:00:00+00:00",
+      "summary": "Wall Street ends higher as stocks reclaim some shine&nbsp;&nbsp;Jefferson City News Tribune",
+      "key_points": [
+        "Wall Street ends higher as stocks reclaim some shine&nbsp;&nbsp;Jefferson City News Tribune"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Broadcom’s stock falls as investors weigh guidance. Here’s what Wall Street analysts are saying.",
+      "link": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-03T09:00:00+00:00",
+      "summary": "JPMorgan said that while guidance for revenue for the current quarter was in-line with analysts’ expectations, it was likely below that of investors.",
+      "key_points": [
+        "JPMorgan said that while guidance for revenue for the current quarter was in-line with analysts’ expectations, it was likely below that of investors."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Dip As Bond Yields And Inflation Worries Rise - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2piX1JxM01yMUs3ekNFUXA5VkhoX2xoUnV6MmxEWnRqeExaOVBwV3VoZVRqTFE4YVoyZWhyVFFzeEZQSTI4eThxRXBKYjkyNnJNNkpkZnFLdFFhbTFhbEVMcktWSTNoeTJQdEEzdkpkQ3pYMDJOMnJaem8wMklfM3R4QVVNZGtkME5CMUhXd2FCQVFVYXVCd3ZvdGlDWW1PcW05dDAwbVRWMVM5aFFUN1k4Zi1XdWp5YzJ5Tkh4X2xRT09Cc0prX2RjaEdQdmotNXfSAdcBQVVfeXFMT0RVWGNZNVJjNU5MS2JNQUVtckxmZW1JUmhNMUU1QU5VdVpZekU5WVJZMlkyZi1IZGFqMFlWY2h1Ukk1am53VjhseVJZazlHMmZoaThrOTB0b0lDRUVvZmRZZF9ES2p1TjZOZ0s5WFkwZzVsOVA0U0wwOW9ZREo0dTVJSFlrNHhCd0ltQ2NqTEZrZHlLUENBMHVuMTN3OFFSTFUzdkxrcFZPeEFHT2RkeXFjTUUtOUN5ZUFoS2hXVXRpOGlZWGt2d002alQwaGdwUU5uUWxoYWs?oc=5",
+      "source": "simplywall.st",
+      "published": "2026-09-03T08:38:44+00:00",
+      "summary": "US Stock Market Today: S&P 500 Futures Dip As Bond Yields And Inflation Worries Rise&nbsp;&nbsp;simplywall.st",
+      "key_points": [
+        "US Stock Market Today: S&P 500 Futures Dip As Bond Yields And Inflation Worries Rise&nbsp;&nbsp;simplywall.st"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGhrbGtGWVU2YnlzQTV4S0F0eXBDR0VsbEhQVTFBWFVKUUJqOWdZbXRQUGZ3ZjVuVXNMSVJpbjVDTmxwb3ctT0dONHlHV1phYXk1QUE3Z01DbEVwQy1FbGQ5Q0c3enQ1SU91QXdwSkphd0I2RHlfS2FYTGJhb0tSdGZpVTF4LXhxVlpoZXBZTmk4SnM?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-03T08:38:35+00:00",
+      "summary": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Why Are Nasdaq, S&P 500 Futures Rising Premarket?",
+        "TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Investors Eye Jobs Data - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnpkMTJTaThSVmZ6bWYtVmN6Sy13bGRXRFBCQlhoMFBKVHNabjVuNWIwa1NPejd0Q01sai1EUnJDNDZoelJlUUVxSFcwXzlzQ3ctUXVfX1A0eFRXVzNMTmtsb0hkX25DVkpuYWlNakxBVTlfQmlpZ2NORVlJbTYzbkFoNzdQYlFiSjNmTGVPTHUzUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-03T08:17:07+00:00",
+      "summary": "US Stock Market Today: S&P 500 Futures Edge Lower As Investors Eye Jobs Data&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "US Stock Market Today: S&P 500 Futures Edge Lower As Investors Eye Jobs Data&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Exclusive | ByteDance to expand massive AI data centre cluster in Inner Mongolia: source - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQV9SbXQ1UWN0LUxfekRjYkxfc2t6aWM5ZWI0RmdfRzdFMi1yZGx3TFcwb0FhdU92SDFJczBXS25PYzh2MU9YcEtzWTVhVWJqOHYtR3dVd1FZRnNiS3hCczFJWFZ2WUtMR2lhTGdlNHNGSnpZWC12Q3JEc0dSZFEtX0lGZm1GbnJhamtVTlBMZXAwQm9hbTVMSDZCNmJTWXpWb0kxamRFWnEtazFKbUdXZ2N5WEt4WHE4Rk5vOVE1SDZEREHSAcMBQVVfeXFMT1BzMlktMWlLbHIySXFNeTZtUF9uZ2dvV2t3NUNCeFo0WnR1T3VpRUoxMDQtcThCWDZ5aXhfcGhvXzNHbGpRdnQ4VzUtQnZiU3EwaW9kb0hha3drenppcU5MYnk2U01nMl84QTRQNkk0X0FPUGF3WUdLNkdWOTRVMGRTaDJtdW5zWVI5MHloTkd5R056UHdMNVJDU3FMdTJaaC1FNUI1N1pGa19pSHlxQUVPRHRheWZsa0tiaFFUNS0yREhB?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-09-03T08:12:31+00:00",
+      "summary": "Exclusive | ByteDance to expand massive AI data centre cluster in Inner Mongolia: source&nbsp;&nbsp;South China Morning Post",
+      "key_points": [
+        "Exclusive | ByteDance to expand massive AI data centre cluster in Inner Mongolia: source&nbsp;&nbsp;South China Morning Post"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "US tech chiefs Huang, Musk warn against AI curbs amid race with China - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXNFSGNWeDRfWktNdndsOTZuX3puSDdTZkQ3dHU5bzR2XzEybzNsbXJnakV0alNyeXRwMlhxUWNrNWdGLWNpWnNfM2ZjVTF4UnFtR1YzcDJBdnBFOF9SdE1YRUpnRk9OWnd3S2VEVkU4TURuWkJacFRnUndyeWUteVc4TlI1eXdqSGpaQmYxT2pFUXZKYi1JRFpob25OcF9WaUJFNjhIQ1JFSnVYQmFqUjBNbXVBSkdpQi0yVlZ3UWNlVS1Sa09NZzg1NjVUY0EyTUHSAdIBQVVfeXFMTmRJUEVXejlBVWdLbmx3SWozdGE2V3hKNkxEOUpIZ01KVVNRdlFWbGhJWmxLdjhaRmNjVS1CVlVCS3Zxb2NyaTdHdl9nVzhMLVlJZ0hfWFBxczg0MzlmT2NYMy01VXlRNk85OE1GdjhnN0FJa3BobG9URUVTVW8zMC1zaEhTYk9QRjFlWjc2cnZadHJyU250N3g4Q0FFWm8xWnhTWlI0TXJDc2tIbEhQQWY3MTVRZDd2MTRTdkJhN18xd1BOUGhnS1c2ODVtYTRwN01R?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-09-03T08:00:26+00:00",
+      "summary": "US tech chiefs Huang, Musk warn against AI curbs amid race with China&nbsp;&nbsp;South China Morning Post",
+      "key_points": [
+        "US tech chiefs Huang, Musk warn against AI curbs amid race with China&nbsp;&nbsp;South China Morning Post"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Bank Negara Malaysia keeps overnight policy rate unchanged - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3R21rN2VJdFJnUGhqeFlEeXRoZjhDZ1lYVFcwSnJLUkpjODBGRDBZdktVaU02YkloYlotRmpDVEpFWHY4TEl4Q3hGVXJraV9B?oc=5",
+      "source": "The Edge Malaysia",
+      "published": "2026-09-03T07:09:01+00:00",
+      "summary": "Bank Negara Malaysia keeps overnight policy rate unchanged&nbsp;&nbsp;The Edge Malaysia",
+      "key_points": [
+        "Bank Negara Malaysia keeps overnight policy rate unchanged&nbsp;&nbsp;The Edge Malaysia"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckFfWEFza2xDOFIxTnRnc19oTFRhemh1M2tzcU1BejZFOGFMN20zeDF4WGtNbHF5NldpeTY4U0FOd3Z0WjRnZDFuWVJvMXJnRHNqYU90VzlNTjVKd2t4VGVXTWJ6YmR5eHk2TXQ4NzlHSjVQZ3FGMWpnblZ1R0N0d2pTQkh4cjBLMTRQUHNHbU94MS1QY3VfeFQzMkMzbVBTU2hIVjBlY0RFQQ?oc=5",
+      "source": "TradingView",
+      "published": "2026-09-03T06:04:00+00:00",
+      "summary": "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;TradingView",
+      "key_points": [
+        "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;TradingView"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bursa Malaysia Extends Gains At Midday Ahead Of BNM Rate Decision - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1ctcGtjTVN6TXZjWWlHVXhEd1BOZThoS1ZKZk5aTnBDTDVoNTdlR29zbFBBQmJCS245ZHJiUzYyTi1lX2l2OVE0Y3VZSWVVVUZPM1NWcVIzeUlWanhLcVF0QUFRMVhjS2JGa2RLUExTN25iSldNdm14Y0xNSDhXdnQwbTRreTBRQ3dtNDdIZU8zdU5Sd3g2T1pCSWtWcXZ4WW9CZkVsMjNnODdSOXpR?oc=5",
+      "source": "BusinessToday Malaysia",
+      "published": "2026-09-03T04:55:30+00:00",
+      "summary": "Bursa Malaysia Extends Gains At Midday Ahead Of BNM Rate Decision&nbsp;&nbsp;BusinessToday Malaysia",
+      "key_points": [
+        "Bursa Malaysia Extends Gains At Midday Ahead Of BNM Rate Decision&nbsp;&nbsp;BusinessToday Malaysia"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+      "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+      "source": "Business News",
+      "published": "2026-09-03T04:52:41+00:00",
+      "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
+      "key_points": [
+        "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "FBM KLCI extends gains as investors await Bank Negara rate decision - The Star",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjNkMzZQQkUwMTlub3JWWVRhSWE0NjZNOHN5N2JBb2IwWlhHT3RLWEIyM3A1UWE0WUdkaGhuZm4xam5wYTgxUnJGTEFCTFVnd0Vod2ZDOWJyckI1V00zMXQyRG04VXY0LWx2Wi1mQ3hfNGtWa05sR3NYY0h2NlpRUmZWR2d3S2VaWV9yRk1yREk4Wkh1RHB1Q1c1ODlhR0VPeE1TV0lyZTJEcXQ4dDJyczBvcjVPdDBWcVE4NVMyQzJZYVVDRUJn?oc=5",
+      "source": "The Star",
+      "published": "2026-09-03T04:46:00+00:00",
+      "summary": "FBM KLCI extends gains as investors await Bank Negara rate decision&nbsp;&nbsp;The Star",
+      "key_points": [
+        "FBM KLCI extends gains as investors await Bank Negara rate decision&nbsp;&nbsp;The Star"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains - News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3p2SEVualM0R2tGd0kyZG9GRHZnUlZzYzBFYUpPbXNMR3RXNFhSNmM5TVAwWHNXOERuOU14azV0QjF2LWpTT2htdkcwRVliaUw3VzdHbUVlSmI0NWtEblVka2hENG83eWhhaWMwMHhnNXcwNDdJSEt2OXo5em1zenl6WHM5U3J3OW9BVldnSFFXZDV2OHdid2dDVFJhbVNmb0VDaU1udmE1aUFOSkN2UjVCOHprWjNzclE?oc=5",
+      "source": "News4JAX",
+      "published": "2026-09-03T04:45:09+00:00",
+      "summary": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains&nbsp;&nbsp;News4JAX",
+      "key_points": [
+        "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains&nbsp;&nbsp;News4JAX"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Trump Says the 'Stock Market Will Go Up,' But Here's What the Prediction Markets Are Betting on - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzFrMkROVHJaOFhvRnlYTWZLVW9RWFBYMUFwcEx1cXhkRTVacVo4dmFhcFJ5cnkxRnlDeHlTVTJORGJ4WFNrQ2lSdHdYQllvT0dndDE5Ylh5UDFVR0MwZTlURTV6WXJyTExYU1J1bklLaU9wSFdrb0IxaVpWNzJaWVowZDY1V2VFLXU5ZDVLUDhSX3AtdWRxaGFfTTJVQnRINmtNSzRKeFExYl9RZ1dqdXNsVUVkRkdoVG1QQTkwYkQ?oc=5",
+      "source": "Benzinga",
+      "published": "2026-09-03T04:03:31+00:00",
+      "summary": "Trump Says the 'Stock Market Will Go Up,' But Here's What the Prediction Markets Are Betting on&nbsp;&nbsp;Benzinga",
+      "key_points": [
+        "Trump Says the 'Stock Market Will Go Up,' But Here's What the Prediction Markets Are Betting on&nbsp;&nbsp;Benzinga"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOTg4MWdxWmtUTDVzYW9LQlpOVHlJZ1o2ZzhOQnhvTnpoX3pfYmVBSXc4ZmdVVGZrQlduOHFxa0lDZEpSSnZnckk5MS1qVVFWUGRUcGMzallCd1EyWlYtT1cybUFWQUdSQi1oa0d0eW42b18yYTFaYVF4aTNxRWFndGdZemlIUmY4TjlfTzI3dG1jeFBOclRWT202dlA2RXhoT0d5LXNibDhpRTU0eWxMWTM5SG52SDB6ZTczRnBaaUdBME1mQW1wZV8zeUFNR3NfT2FKVU9kUHc2dXBOSkZtR0MzbzBKZE9odzBTN2o3TmtPbGc1Mm1lcElnRE4tSVhGS08zdjB1dlpjeDd2LTlTdnBXamdkV3ZQ?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-09-03T03:57:36+00:00",
+      "summary": "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus&nbsp;&nbsp;Stocktwits",
+      "key_points": [
+        "Dow, S&P 500, Nasdaq Futures Rise As Investors Look Past Iran Tensions, Focus On Earnings: AVGO, SNOW, DELL, HPE Stocks In Focus&nbsp;&nbsp;Stocktwits"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bursa Malaysia opens higher on financial, plantation and utilities gains ahead of OPR call - malaymail.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdVBHV2hXSVJybTZWOWRycW1VNVBXTzU3eHY3WkJRQ0VhbnFHTnI2bHdqWnpfbnFVYzFrSnZPa2t4bFIwbW44d0pWbWphREE5clBJX3FWRmdGb01kZmo3ZkR3T1hGMmpzQ1J5bDV4NTAxM01HSEIxRDY4N2E1bHF3M2Rrd3VRUmxzaWhOOXdWOXJaNGNNZmNROXJXRkpKaEFSSUhhd2lWeHd2QUdPVHNJaWhaeFZUVGhRSEo5MWtTTkJ4bk9LUnFsblA5cjVSMDN1ajE3OWJXSnpVZjM00gHiAUFVX3lxTE9BS2VQd2tueGEzcDltU3pFZldhR1cxbWMwWUZuZXNPaUJoUFllRGdvRkVZNzlTZi1DUTdid3JTMjMyVDl4ZUxoTEl4WlBheGxzaEJaRW4yYXZ6X2xoWll0VjE5cGR2N1JXNGVIMkNJYW1aV0o4SmNieWExWkUxT3J6dTdTZF9tcWVub3BhM2xQLVJSSmtUZFc1djJVaUhSZ1J4LW9NV0ExdHF3QmJPaGp6MGY4YThuQ3NNWWF1aXNuRE1FcUt3blNJamdJV3NDZ2xDaHV4aWZPcy1vS2dMcG1rMGc?oc=5",
+      "source": "malaymail.com",
+      "published": "2026-09-03T02:23:40+00:00",
+      "summary": "Bursa Malaysia opens higher on financial, plantation and utilities gains ahead of OPR call&nbsp;&nbsp;malaymail.com",
+      "key_points": [
+        "Bursa Malaysia opens higher on financial, plantation and utilities gains ahead of OPR call&nbsp;&nbsp;malaymail.com"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Tech pilgrims flock to China as global innovation race heats up - The Standard (HK)",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXlqMHFCdmhuRjJjcnREdWYyeVpUdS12blhhaWFRbXJMaDNfTXdzeXJIWVpFUEJXNThFdlpjWldDZDNkZldYWVJTU25vemZFT1NVQXhhS3RSSkE2TTBDZk5INkVlTF8yQ3ByWXQ2QmprMjlNbXZCaUtLSTl0dk5fX2lxZEY5bG1uLWZ1SW5KQ0dza3ZQLXA5T0JtaUlrcWxmaWhpckI3c2phX3gwMktVYTY2T3RmVi1fVXJlaA?oc=5",
+      "source": "The Standard (HK)",
+      "published": "2026-09-03T02:13:42+00:00",
+      "summary": "Tech pilgrims flock to China as global innovation race heats up&nbsp;&nbsp;The Standard (HK)",
+      "key_points": [
+        "Tech pilgrims flock to China as global innovation race heats up&nbsp;&nbsp;The Standard (HK)"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Wall Street rises as tech stocks climb and oil prices, bond yields steady - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JRUpidTFySTNmbVFkWWhtc0ZQVnpPS2Y1ZktMN2t1UFcyUXNlZGhpNGxpV3Ftd3ZWVy16WUdwU1E4MU1oc0pKaGpGaHdaZGNSZXZZblNR?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-09-03T02:05:00+00:00",
+      "summary": "Wall Street rises as tech stocks climb and oil prices, bond yields steady&nbsp;&nbsp;朝日新聞",
+      "key_points": [
+        "Wall Street rises as tech stocks climb and oil prices, bond yields steady&nbsp;&nbsp;朝日新聞"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "What to expect on Bursa Malaysia this Thursday - Focus Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRm9wd0tBY053OWNjZUhheU1NQTRtdm1uYUY5dUF1TDIxMXdCeVJZU2lfTEw2Zk9idVBwcmZnVkNqZUh3aG5tWUZ3UGdNQU10N2Zya0JDT2F2NEpES054RW9ZeXJ5V19SZ0JHWnZqTjhXUDVrNHN6a3lDWjVmUzBpRjVn?oc=5",
+      "source": "Focus Malaysia",
+      "published": "2026-09-03T01:45:25+00:00",
+      "summary": "What to expect on Bursa Malaysia this Thursday&nbsp;&nbsp;Focus Malaysia",
+      "key_points": [
+        "What to expect on Bursa Malaysia this Thursday&nbsp;&nbsp;Focus Malaysia"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Medium",
@@ -66,13 +643,13 @@
       ]
     },
     {
-      "title": "Bursa advances on financial, plantation and utilities gains - Free Malaysia Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEFrTTBXT3lUeHF2ZDdLaFdmUmtKYXZrMjVwT0s4UWhyRE5mVlNaTVZJa09RaDZncVd0bUtpaDljd3ZOQllyV1loV2pBSE5Xelpld0RsdUdXYlQ0VHFUMU4xaHgyeWVFVTdLWEQwNUZ2VUdKNmxweS03OS1Kb25IUWQ3ckRRdnhacEYwV2p0SXpHYTlRSG81Ykt6Qzk5M0gyTDlpLXJrWWNlSldDU0x0TFZwOUZmQUlaRGJLbVF3?oc=5",
-      "source": "Free Malaysia Today",
-      "published": "2026-09-03T01:21:56+00:00",
-      "summary": "Bursa advances on financial, plantation and utilities gains&nbsp;&nbsp;Free Malaysia Today",
+      "title": "Bursa Malaysia opens higher as investors await Bank Negara OPR decision - The Star",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0NEc01HZTBaY0Q0U1RRcnhIUVQ0X19nM3pmX0Jvc1RjVlRCb056bDJOOFhNay1iZFNTdTlvMENDZFcwQnM2aVhsMzdjQno2eEJlcWxGYVZVSFNZWVNPZmRnOG5sMGRVQzl4eWQtWnBZZXF4LXl5SEZJZ2tyWXVLMHI0ZVpWbHBrNk40QUp1VzN4T3QyWW5GaG0zNjljVTBVM3UtdWdUNjRXYlo0UlNUY2tRdEhoWWNiNko4UFRReUsxRDV4c0c2UjFDUzk?oc=5",
+      "source": "The Star",
+      "published": "2026-09-03T01:23:00+00:00",
+      "summary": "Bursa Malaysia opens higher as investors await Bank Negara OPR decision&nbsp;&nbsp;The Star",
       "key_points": [
-        "Bursa advances on financial, plantation and utilities gains&nbsp;&nbsp;Free Malaysia Today"
+        "Bursa Malaysia opens higher as investors await Bank Negara OPR decision&nbsp;&nbsp;The Star"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Medium",
@@ -84,75 +661,21 @@
       ]
     },
     {
-      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
-      "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-03T00:25:00+00:00",
-      "summary": "Broadcom topped expectations with its latest quarterly financial results, but that wasn’t enough to send its stock higher.",
+      "title": "Google’s advertising tech monopoly doesn’t need to be broken up, judge says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXBRcVg4ck9jWm16anA3dS1hVzRJc1BHTm5wZHhMZGRtYWl4Um93MWlzUjlubEFIb01idUpnRmNsR0V5aXBGbjJXNFVTSUo2cUwyWkZCRTY3WkRmelB5VHkydjEzN0w1cjZkbm5aTjRKcWpqSUZicWhoZ3hFVlhfRkxfbEFmQmpLOWdyeFZZcmdMa0c2QndWdGdVekNuMGZOUE9hVXA5dWdxQk9xSS1wTU5HY01YWEhBck9QV1NrdEg?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-09-03T00:30:32+00:00",
+      "summary": "Google’s advertising tech monopoly doesn’t need to be broken up, judge says&nbsp;&nbsp;The Washington Post",
       "key_points": [
-        "Broadcom topped expectations with its latest quarterly financial results, but that wasn’t enough to send its stock higher."
+        "Google’s advertising tech monopoly doesn’t need to be broken up, judge says&nbsp;&nbsp;The Washington Post"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Tech Industry"
       ],
       "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
-      "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-03T00:23:00+00:00",
-      "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
-      "key_points": [
-        "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
-      "link": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-03T00:22:00+00:00",
-      "summary": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile.",
-      "key_points": [
-        "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies — MSFT, DELL, UBER, ASTS, AVGO In Focus - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTTQzYzFWSWV6MmNYSVNKTXYtM0E1VkZPWTVzenV1R25vaFB5ZWF3aWhhRldRcGVieS13YWE0OVBvekV3dkRIdjZ0YXBKVlVROThXQ2MtOE5ScmNrRjROMzk0X3FXRXFOZjNWOUR2Tk5Xb0hvV0U3Wlp5a085QjQ3aVhmUnRfVkljckpzVm01bk5HYms2VmZlSm9VbzNWcTEyMjI1MEoxb0ZuM3N3Rk9UalVGUkJMOTEwRzVONEp6XzVPaktLamFidUJDRlBRdWxhZ1Q4Y1lvWDJTWTFONmtzVDExSHk2ZW95Z29yczNyTzQ5RmhjdFlRel9nQ3JiSDRMWVhlMlVLSXpnalpqNEk0bWZpQWMwVDlwR0R1aw?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-09-03T00:12:00+00:00",
-      "summary": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies — MSFT, DELL, UBER, ASTS, AVGO In Focus&nbsp;&nbsp;Stocktwits",
-      "key_points": [
-        "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies — MSFT, DELL, UBER, ASTS, AVGO In Focus&nbsp;&nbsp;Stocktwits"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
+        "Technology"
       ]
     },
     {
@@ -192,24 +715,6 @@
       ]
     },
     {
-      "title": "New York Stock Market Rebounds After Four-Day Decline - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3hNMHN4S2NTREVoZTh5MmM3YVg1Q2s5X2twMTEwRngyUFpvQVdzQzlQeHpiNmJPblJISjBORmUtRHFxTW14TW9KcTNLREVEWE9MVWVFNWw3OFBfVGw3ZWIyWENVNlNIRnhmN083Z0VtazR5b1AwVk10MWdtM2tRY2FEeml0ZHJmQ3BXcUpR?oc=5",
-      "source": "조선일보",
-      "published": "2026-09-02T23:28:52+00:00",
-      "summary": "New York Stock Market Rebounds After Four-Day Decline&nbsp;&nbsp;조선일보",
-      "key_points": [
-        "New York Stock Market Rebounds After Four-Day Decline&nbsp;&nbsp;조선일보"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Bursa Malaysia ends higher on bargain hunting - KLSE Screener",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWQ4MjRMTk0xZnhyYnE5SktDSnNKdUQtZTgzeHJnTjR6clF4NU9WakQ0b1JGV3VPMUV5RWQtY3ZSdlFYRThlMTEwS0FYLUxMQ1B0Uk1BZ3JrYTZEelJnX0VneERNLVpjanNFM2FPSGNEVzZwS3E0SnVmcGNXZE5ZcjBmbzQwREhrS1dCTGFaSmI1T3hDR3dKU3Nvdw?oc=5",
       "source": "KLSE Screener",
@@ -225,26 +730,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street rises as tech stocks climb and oil steadies - CommBank",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2x6bWYwTXdCS1FtTC1WTFI2MkdtWThHaWtPbGliSjlOZ3p1QUZBWkRubzFXRUlsaHo1OW5sY2FqRkRUbmJweFEyQ0R2VzVOZ3IyZnY5MENzMEptSEJ4YzZub2lnckEwdmV6ZlRFbEk4S0puYnNVdVg5UGptTTJ1T0NLVHI2OHliaUpvWmp3UWlCMHBHU2VpRkE1cmg3RUJtNmhEdUpjM0tabWNLZXRUclljRnA?oc=5",
-      "source": "CommBank",
-      "published": "2026-09-02T22:21:36+00:00",
-      "summary": "Wall Street rises as tech stocks climb and oil steadies&nbsp;&nbsp;CommBank",
-      "key_points": [
-        "Wall Street rises as tech stocks climb and oil steadies&nbsp;&nbsp;CommBank"
-      ],
-      "why_recommended": "Matched multiple topics you follow: \"Stock Market\", \"Tech Industry\".",
-      "importance": "High",
-      "topics": [
-        "Stock Market",
-        "Tech Industry"
-      ],
-      "sections": [
-        "Finance",
-        "Technology"
       ]
     },
     {
@@ -266,294 +751,21 @@
       ]
     },
     {
-      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-      "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-      "source": "Business News",
-      "published": "2026-09-02T22:17:19+00:00",
-      "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
+      "title": "Hundreds protest outside Chapel Hill's G20 Innovation Ministerial, criticizing artificial intelligence - wunc.org",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSldacDFKdVVjaFFDajd3VWpGS3lybmZwLTZ1MGs2S0xWZjBXT0NEQkxKY2FzUlF6VTJ0YmxlVFRWQVJsSXFudm1vOXBtMGRKaG5ackhqdnpldFVtVjJXdmQ1MTdpZ1VocVZObjdpSVV0bm94Z2FYYmpIdG5qLXZ4bDdZSHpnRXVPVFdsTFFWbmQ3aGpnQU9TU1ItWHdwVzc0Q3hZY05yUUJQd1FISTlyN292VXRqTnBzSTdqdm42bU5aVHNIbWZvaEVnOGZfZkZhWFE?oc=5",
+      "source": "wunc.org",
+      "published": "2026-09-02T18:44:00+00:00",
+      "summary": "Hundreds protest outside Chapel Hill's G20 Innovation Ministerial, criticizing artificial intelligence&nbsp;&nbsp;wunc.org",
       "key_points": [
-        "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029."
+        "Hundreds protest outside Chapel Hill's G20 Innovation Ministerial, criticizing artificial intelligence&nbsp;&nbsp;wunc.org"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-02T21:45:00+00:00",
-      "summary": "“Roth assets would provide our children with tax-free distributions.”",
-      "key_points": [
-        "“Roth assets would provide our children with tax-free distributions.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Nvidia’s stock is climbing as investors get more confidence in an expanding base of AI customers",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-02T21:38:00+00:00",
-      "summary": "Dell’s earnings showed that demand for AI hardware extends beyond major cloud providers.",
-      "key_points": [
-        "Dell’s earnings showed that demand for AI hardware extends beyond major cloud providers."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
-      "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-02T21:31:00+00:00",
-      "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
-      "key_points": [
-        "“I’m desperately trying to plan ahead while I’m still able.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
-      "link": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-02T21:12:00+00:00",
-      "summary": "After a strong postearnings rally in August, Palantir’s rich valuation multiple is under pressure once again.",
-      "key_points": [
-        "After a strong postearnings rally in August, Palantir’s rich valuation multiple is under pressure once again."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
-      "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-02T21:11:00+00:00",
-      "summary": "Oracle could be “nearing the end” of its need to raise cash, a Bernstein analyst says.",
-      "key_points": [
-        "Oracle could be “nearing the end” of its need to raise cash, a Bernstein analyst says."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate — DELL, PANW, FRVO, AAPL, TTWO In Focus - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTUZ6N3NFWUdsdWpkRU1YTkdBWFVKNmlqZGhMZG9jUlNpdnVxUmgzajRxLXlvNEczSlNUZFk2X3BHN3lXXzVkSjdweWJ0aHFGX3hfdjdWb3JYMkNYNmdkNGVHTzhqcWl4ODNXVUhZRV9Ka3VSRzgwaTdKM2RhOU5naTJpbVRITV9nLVBueXJHdVBKZUZ5Rmk3eUJhSVpmZGtK?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-09-02T21:08:47+00:00",
-      "summary": "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate — DELL, PANW, FRVO, AAPL, TTWO In Focus&nbsp;&nbsp;Stocktwits",
-      "key_points": [
-        "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate — DELL, PANW, FRVO, AAPL, TTWO In Focus&nbsp;&nbsp;Stocktwits"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "How GoPro went from viral camera sensation to a victim of smartphone ubiquity",
-      "link": "https://www.marketwatch.com/story/how-gopro-went-from-viral-camera-sensation-to-a-victim-of-smartphone-ubiquity-ad704150?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-02T20:57:00+00:00",
-      "summary": "Advancements in smartphone technology have made GoPro cameras irrelevant to “anyone beyond hardcore sports enthusiasts or professional creators,” one analyst says.",
-      "key_points": [
-        "Advancements in smartphone technology have made GoPro cameras irrelevant to “anyone beyond hardcore sports enthusiasts or professional creators,” one analyst says."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Reddit Stock Soars As S&P 500 Inclusion Ignites Demand - timothysykes.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oaU4yNWN5dVo1ZnBCOVZmSUdwOHdYSHQxeGx3Q1U3VWRLcEh6NlNmRHhQdERnbTh5SW5YWVpkU056R3NDQmtqTElWNEQ0ZzNlMkg0WUNMc0dlRWtJdkRMb2tWZS16OTEtWEF2dkdNNTU3a2s1Z0g4?oc=5",
-      "source": "timothysykes.com",
-      "published": "2026-09-02T20:47:00+00:00",
-      "summary": "Reddit Stock Soars As S&P 500 Inclusion Ignites Demand&nbsp;&nbsp;timothysykes.com",
-      "key_points": [
-        "Reddit Stock Soars As S&P 500 Inclusion Ignites Demand&nbsp;&nbsp;timothysykes.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Reddit RDDT Stock Jumps As S&P 500 Inclusion Fuels Momentum - StocksToTrade",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sLWJmc2xER1NjMWplWVR0cjhUek9RN1VLRktJM01jX3FpSVBQYlluQVl1eS1ZZUtWcWdmc1RUaE9nNlptYUhydEM5T08taUxsZjIwUmJTYnl2QmNoUFo5UzA4VmJjakNCUEdfQkZSeDRkTU0?oc=5",
-      "source": "StocksToTrade",
-      "published": "2026-09-02T20:47:00+00:00",
-      "summary": "Reddit RDDT Stock Jumps As S&P 500 Inclusion Fuels Momentum&nbsp;&nbsp;StocksToTrade",
-      "key_points": [
-        "Reddit RDDT Stock Jumps As S&P 500 Inclusion Fuels Momentum&nbsp;&nbsp;StocksToTrade"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnJ6NkFxSHJOMU02ZVd3b0o3NDFLdDJqNHlWdTZOT19GbldySy1TTGFJaFBabDB0UWgtQWhScy1GRDJaRjZhVFo0TGVUVEdSU1lqZmZQYlpVeWpCOWdieWRUbnB1S2dOblhnWVZLNGxrVUhmYjZBZFoxQ1d0Uno0RXZWVlg2bjIyY01laTRjdjFnSmVJU1ZtX1VqNXNvN0l3T3BLX0hxUUJSZi1sbFhaUEtZbHRvR0tlX0V1ZU5PdXYyQ1VaLU9MeFg5NmlURVhQMGc?oc=5",
-      "source": "BNN Bloomberg",
-      "published": "2026-09-02T20:38:04+00:00",
-      "summary": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady&nbsp;&nbsp;BNN Bloomberg",
-      "key_points": [
-        "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady&nbsp;&nbsp;BNN Bloomberg"
-      ],
-      "why_recommended": "Matched multiple topics you follow: \"Stock Market\", \"Tech Industry\".",
-      "importance": "High",
-      "topics": [
-        "Stock Market",
         "Tech Industry"
       ],
       "sections": [
-        "Finance",
         "Technology"
-      ]
-    },
-    {
-      "title": "Reddit Is One of Today’s Top S&P 500 Stocks. It Has a Lot to Do With Its Google Data Deal. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlV3BsSVVPeW10d0x4Mkhya1JDLXlfT2dCZEg2VTh1ZUQtdkRmOXJfMFVUNndXQ1l1RkhudzExcERXaXlqQVhZRUs2c0REQ0t0MWxVRmItUHJsQ29qbnhjTW11dmlXTWJPS0g1WEZYTHA0ekNKUG1LcQ?oc=5",
-      "source": "Barron's",
-      "published": "2026-09-02T20:38:00+00:00",
-      "summary": "Reddit Is One of Today’s Top S&P 500 Stocks. It Has a Lot to Do With Its Google Data Deal.&nbsp;&nbsp;Barron's",
-      "key_points": [
-        "Reddit Is One of Today’s Top S&P 500 Stocks.",
-        "It Has a Lot to Do With Its Google Data Deal.&nbsp;&nbsp;Barron's"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall St ends higher as stocks reclaim some shine - detroitnews.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWtwRTJwYkRIaEMyblQ4QnBnYXpOc280a0k0ejRnZkw1MUtFWXdjU2hqd2k4cm9wT2lxTW81ZDRITURTM0l0emo3MmVZaU9zUVFiamRTVmRCRzhleUM1VEQxY2VhVkFmQnhZZk1kOHhGdkl0bGNpQkFqTDdfSnhZelZvZy16ZTZlSkhmdzdkc3FJQTBjZ3NTUzdqOENUbkN1dHRyd2M3NU1YeFE5bWpqWlR6WHlXZEdJNXJKUg?oc=5",
-      "source": "detroitnews.com",
-      "published": "2026-09-02T20:09:00+00:00",
-      "summary": "Wall St ends higher as stocks reclaim some shine&nbsp;&nbsp;detroitnews.com",
-      "key_points": [
-        "Wall St ends higher as stocks reclaim some shine&nbsp;&nbsp;detroitnews.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "RDDT Stock Surges As S&P 500 Inclusion Fuels Momentum - timothysykes.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15S01WTEx2XzczSUhfYkVJRnRpZUNaWW9Qcy1aNUExRzAwS09GNUM4bHVTZmhPQUU3clhWMG9nMUcxR0ZfbWZpQk9LOGNuUDZWRkxSMGlCb0poTk92OHRRTTVIM3BUQTU0ZVJOTXAyYTBIQQ?oc=5",
-      "source": "timothysykes.com",
-      "published": "2026-09-02T19:02:00+00:00",
-      "summary": "RDDT Stock Surges As S&P 500 Inclusion Fuels Momentum&nbsp;&nbsp;timothysykes.com",
-      "key_points": [
-        "RDDT Stock Surges As S&P 500 Inclusion Fuels Momentum&nbsp;&nbsp;timothysykes.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "10 Best Business Analytics Software for Enterprises in 2026 - ET CIO",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG9hdnkwYnNKLUZaVTNzR0NLZTBQZlpTSXVaSzI1WDJ3R0ZpbTE2MWFVdl9hU3NYLVV1ZWxWTnY5bWs1ZU1WVUo0bXFvZzh3RHJESVd5dzVSOGl6U3dqaDM0WnR5MEFJQjV0NUFRV2ZSY2hoZ3JpZ1BCa3RYeTFnbHVwbEVnM20wMW9vMXVIMHVXb0Z3NHpiWDVaelFYR3daeFo3VDg1djM0a1Rw0gGyAUFVX3lxTFBuNEdBSkJSRi1tVUk1Zl9TZ3Y3MTJXZ1RyQ2h2OTJNXzdVam1GeXNMdDE5eGhva2RLVjAyTWRwcncwLTdEZVhvTmlORkdZTjRoSHFGOHJYOHRjUjVPdGNqbFNPUy1RNXRuaXhueXFNek4tWDZRMFRTZldxRElYODFDYlhLZHZKZHY3Q054azhvY3hhdlNXY3Uza1N4RUZPcU9JNE9MS1dHVmtPb19LZzc1QlE?oc=5",
-      "source": "ET CIO",
-      "published": "2026-09-02T18:25:28+00:00",
-      "summary": "10 Best Business Analytics Software for Enterprises in 2026&nbsp;&nbsp;ET CIO",
-      "key_points": [
-        "10 Best Business Analytics Software for Enterprises in 2026&nbsp;&nbsp;ET CIO"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
-      "title": "Apple's Foldable iPhone May Contribute $14 Billion to December Quarter Revenue, Morgan Stanley Says - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDJKWVhaeG5fUEJRVmJtaFg2ZmVWTlpCb0JhNWVHUXpyX1ZuN1owUmU1LWFQcFVxalNtTVUxbms3THppRC1ONlV6N3B2bHNwNHZKU3JCZjJvMDhkT3ZIeEJMNGNLYjhzX1VRT0h4Y052TjZfY2l2OS0zVHlKSzVJTlNGXzIxazFEUG1CTXBCdXUwZzJFd18yNE1uaw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-02T18:09:09+00:00",
-      "summary": "Apple's Foldable iPhone May Contribute $14 Billion to December Quarter Revenue, Morgan Stanley Says&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Apple's Foldable iPhone May Contribute $14 Billion to December Quarter Revenue, Morgan Stanley Says&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -594,13 +806,13 @@
       ]
     },
     {
-      "title": "Apple (AAPL) Q3 2024 Earnings: Results, Market Reaction & History - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wUDZGTDZRVWFFWHo2VlhOMFE0UGpzOW8tc3gya1NsTmJuZVJReWdFcEtYTTJxVFlKcEdlTy1mdFlUMllTMVpYV1huUUtvd24ta2F3c1pWUmJySmpFTTdGcEV5S2s?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-02T16:21:09+00:00",
-      "summary": "Apple (AAPL) Q3 2024 Earnings: Results, Market Reaction & History&nbsp;&nbsp;24/7 Wall St.",
+      "title": "This Apple Trade Captures Profit In Either Direction The iPhone Maker's Stock Flies - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUl0NlBZdHVHeF8zRTZXRDctckZubkpGd1F3NGc4bF9WME9WMjVXdlZ4cGZnUVNGbG5TN0EzbGpuSFNmcndrVUVYeF9wX0x5eUlKU1ZDWnRPM2tYYnczb2pER0NkUDk3VXJLRGktbUtqbUl4OVdwMlR5aWVLQ3o1RXpXOEQxMllISmpzcjVLV2NnX2Vzc2Q2QkxLS2Y3UThlbC1nVFc5UmlqcVBrTlRwenRjSWRRSzk4Q1JkUU9CUjlocXNK?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-09-02T15:34:00+00:00",
+      "summary": "This Apple Trade Captures Profit In Either Direction The iPhone Maker's Stock Flies&nbsp;&nbsp;Investor's Business Daily",
       "key_points": [
-        "Apple (AAPL) Q3 2024 Earnings: Results, Market Reaction & History&nbsp;&nbsp;24/7 Wall St."
+        "This Apple Trade Captures Profit In Either Direction The iPhone Maker's Stock Flies&nbsp;&nbsp;Investor's Business Daily"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
@@ -612,13 +824,13 @@
       ]
     },
     {
-      "title": "US and Big Tech Advocate Looser AI Rules at G20 Gathering - pymnts.com",
+      "title": "US and Big Tech Advocate Looser AI Rules at G20 Gathering - PYMNTS.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3MxaGVuTWtkWTRiNDZzeG1uSHNmRlZ1YWVyTlo4a0ozeWRhQUQwVjc3S0FBMU9SamNJWFhJa2ZWSlpCVkdNa01FQ2ZGQmNHejRnb2Q5ZHdMYkI0dVJCVGFSYi1VZUV6VC00N1hFSy1aOTByaWhvLXdNZlBaUnFFbFV1bmVvajBISmZZZTJxeUQ0RGttMF9kUmJ0a015eDZhT1lFRm04eC13WDdMZ09Zc0pJMUJfeWxKRmJLQ0tB?oc=5",
-      "source": "pymnts.com",
+      "source": "PYMNTS.com",
       "published": "2026-09-02T15:25:20+00:00",
-      "summary": "US and Big Tech Advocate Looser AI Rules at G20 Gathering&nbsp;&nbsp;pymnts.com",
+      "summary": "US and Big Tech Advocate Looser AI Rules at G20 Gathering&nbsp;&nbsp;PYMNTS.com",
       "key_points": [
-        "US and Big Tech Advocate Looser AI Rules at G20 Gathering&nbsp;&nbsp;pymnts.com"
+        "US and Big Tech Advocate Looser AI Rules at G20 Gathering&nbsp;&nbsp;PYMNTS.com"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
@@ -627,6 +839,42 @@
       ],
       "sections": [
         "Technology"
+      ]
+    },
+    {
+      "title": "Bursa Malaysia ends higher on bargain hunting ahead of Bank Negara’s rate decision - Focus Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmw4d3dsYU9XallsN3Vmd0t5Wl9pa3Q1X0JTNVhsSmRnSkxTWmRFZU9OTE5KQXEyckYzQUVnT1ZZWUFZWm9MbUQ5bFEyNkdNSzlMTEt1QkRUZlZlUDlseE5OalZ2c2ZUbVlIeXFIVWk2aWFOd2dYOVhKS0JyLTRqRlJxV3FXUFoxYm9xR3RVdUt0b0lvcUx5Q1V3b1Vvck1qVjRUU0RsYjZNVHc?oc=5",
+      "source": "Focus Malaysia",
+      "published": "2026-09-02T15:16:27+00:00",
+      "summary": "Bursa Malaysia ends higher on bargain hunting ahead of Bank Negara’s rate decision&nbsp;&nbsp;Focus Malaysia",
+      "key_points": [
+        "Bursa Malaysia ends higher on bargain hunting ahead of Bank Negara’s rate decision&nbsp;&nbsp;Focus Malaysia"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple (AAPL) Q1 2026 Earnings: Results, Market Reaction & History - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80MGpNUE9kRjJqd0hzMTJKeENuSlhGMzJtczA5NGFzd3RvYlVDMlNIdEc3QVdBcGZwQzlBakRSVjZ0UUVOREpKcU9UTmlxMVRKUl91SU9HVEt1dW5HdWRBOXNpUl8?oc=5",
+      "source": "247wallst.com",
+      "published": "2026-09-02T14:38:22+00:00",
+      "summary": "Apple (AAPL) Q1 2026 Earnings: Results, Market Reaction & History&nbsp;&nbsp;247wallst.com",
+      "key_points": [
+        "Apple (AAPL) Q1 2026 Earnings: Results, Market Reaction & History&nbsp;&nbsp;247wallst.com"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
       ]
     },
     {
@@ -684,6 +932,60 @@
       ]
     },
     {
+      "title": "Apple’s New CEO Has 8 Days to Answer the AI Question That Could Redefine Computing - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1Noc1BtekpsYk5mLW9oYy1LTVpkcURYLUZXeXFTb3EtZV94bHhybWpXd3NsN3dOaDhoWUc4NGFDRnN4VDllR0lHQ3doaU85a0JKY2U4MUZlNFZmeGNEckVvT2tNTGhnaGpON3ZRLXk4SEpTTnNWWkNSWjE5SnYycHhpRm5pb3ZwSGVpTTc1emxPRFhQeFpvZnpFbTFPdGJVd1Z3UUF0b0lISDVNTlpvdldkYWhMalI2QS1rSGJZeC1kcms?oc=5",
+      "source": "247wallst.com",
+      "published": "2026-09-02T13:25:00+00:00",
+      "summary": "Apple’s New CEO Has 8 Days to Answer the AI Question That Could Redefine Computing&nbsp;&nbsp;247wallst.com",
+      "key_points": [
+        "Apple’s New CEO Has 8 Days to Answer the AI Question That Could Redefine Computing&nbsp;&nbsp;247wallst.com"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Tech Bytes: Schools are expelling artificial intelligence - WDIO.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlMwbUlCQkxpaDU1STU5cDFrUWdjSjEybVNwT1FvRUp4Zm91M3ZwQ1hkUlVQZWU3Ui1BckVzUUVCbDZla2ZlWlV4X3o5YVowWVRtSlRNMXFUTVAzTHRTaGdVN0ljdVZKU3J4YWFnaGpuMTZ0V0xJTG5sR01BR0dlcXdBUHlrQmc3UEwwYmRWQnFYd2ZBRE92emlfMThTakNTd1M0?oc=5",
+      "source": "WDIO.com",
+      "published": "2026-09-02T13:21:40+00:00",
+      "summary": "Tech Bytes: Schools are expelling artificial intelligence&nbsp;&nbsp;WDIO.com",
+      "key_points": [
+        "Tech Bytes: Schools are expelling artificial intelligence&nbsp;&nbsp;WDIO.com"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Cambridge turns to AI-tech to boost new home construction - kitchener.citynews.ca",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1QzLXVVd25TX0JnN3ItUzZaUXB0Q2UtclBLX2ZPWDFFZHVucXJwVzI5R19KaXdNT2FkV2R0MUp1QkNyWDFwbXNGVWtyaFhpWVNpaU1YWTlSMVR6WDNEb3NKaEh2V0NFTUY3M0QxUEpleURpVE1VbV9hZnhybEI2c0RsbGNMcngtRUotYmtFZWJGOVRYc1k1M2JFZEdQM1lS?oc=5",
+      "source": "kitchener.citynews.ca",
+      "published": "2026-09-02T12:34:34+00:00",
+      "summary": "Cambridge turns to AI-tech to boost new home construction&nbsp;&nbsp;kitchener.citynews.ca",
+      "key_points": [
+        "Cambridge turns to AI-tech to boost new home construction&nbsp;&nbsp;kitchener.citynews.ca"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "Apple's Shares Rise 2.6% as John Ternus Takes Over as CEO - TradingView",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlFnY1lUZlhPc01vQWo1TzRvUHZ5UUM1YVFTbnQ1MDFIWFQxaHBGb0UxaDdHc21HQUdpSU5aaGhNcVNxN1ExY1QwZldsMi1aZVhvczBGRXJLd200V0stRVN5X0c0MENjNVc2N0d5VWNnbTZvM29PNmJWWnZ6VjBkZGJhRzVoSDhaeWtEMkJ0Z00xdzlkaUNQaW4waFUtRGdXSWh6RDg4amVDRDJmcWxTaDFB?oc=5",
       "source": "TradingView",
@@ -738,122 +1040,13 @@
       ]
     },
     {
-      "title": "Bursa Malaysia ends higher on bargain hunting ahead of Bank Negara rate decision - Malay Mail",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmF2UEJYTHMwekpwQUU2STdkWFFQY0s2eE9udkhxNmVyaUxMT2o0WkNHNVY2cVdBU20tanJ3NDFacWRUTG4xYkhwRmNFT3BwaENnRkE4TmdpejBRdFE1bUQ3eFYzZkZQMm5hMHIzbFVMWXBMR0xFOXB2ZVdyM2FCM2VJTGtkb0NWSFlwYmtwbVNvUl85dlpoSUVpVWN0ektxUHVLcDhMNG1qZGJzQTBQNHFMRWtDODJWX0ZrZUxFbFo0TFpDSUZvMGdzeHJyN0xZ0gHWAUFVX3lxTE0zZEV6WExCMGFNRkhHNTY1N0Y2ckcxWXJYODVxalJ5Z1NTWC1SX05mMTY3aHM4YXRsQTZMTFBxcXZCbUFScDJBT2ZBb3NlWmRUSFRpTmR4OWw3bzVpZWI5TVFXQ0R6c1lQOVpXX1dReDlMU3lLVHNXaWNrRVJ5NUp0V25sYm1TWlFqMDRsQzFicHZoczhENFdpZlVCRml5QzNnVjBfZ016X1Y2dWhrZi1zQlA4Z0FOcUd4SEthUGNpSGJGSC1MOUhwRnJYdy1KakJoZm83LUE?oc=5",
-      "source": "Malay Mail",
-      "published": "2026-09-02T11:21:37+00:00",
-      "summary": "Bursa Malaysia ends higher on bargain hunting ahead of Bank Negara rate decision&nbsp;&nbsp;Malay Mail",
+      "title": "Bursa Malaysia ends higher on bargain hunting ahead of BNM rate decision - The Malaysian Reserve",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTFfSkwyakoxcE9LVFhHUzVqcExKZnhsVmxuXzhkMGg5UGZnVjkyRzBsclBJLUlOeDJ4MzdtLXRobmVEdG5oNS0yMmdDTS1JdXhuSDNURTJVWk9HaGs0MmdfSXVQU2hIa2xVTG0wVnFYRjEtVHBSVzZoTEtpc0prOEM1b281aGF1emNpZVJ5a0dBV3BvV19fa1REYkMwanRsYloyNkphSl9nOXZJM1QwQkZWNTR3bU1kTDl4NQ?oc=5",
+      "source": "The Malaysian Reserve",
+      "published": "2026-09-02T11:12:22+00:00",
+      "summary": "Bursa Malaysia ends higher on bargain hunting ahead of BNM rate decision&nbsp;&nbsp;The Malaysian Reserve",
       "key_points": [
-        "Bursa Malaysia ends higher on bargain hunting ahead of Bank Negara rate decision&nbsp;&nbsp;Malay Mail"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHF4RERoa0g1TUhPRUtTWmowUUFrMnY0NmI4c0RISVltNEpQYWoyT0l5TGVPRGFjSkdsXzB6dldEbTZpMXNMa1JmZUZSZkNsWlRpSTZ2ZXEyOFNZTDBCSkdHNlhWb2JmX1VDb3pocHdSOGN0RktrYlpxVjNkT1k4Z2pvNzBCUVpDTmt0U3Jqb1g1SkU1ZWc5RA?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-09-02T11:15:00+00:00",
-      "summary": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Bursa Malaysia ends higher on bargain-hunting ahead of Bank Negara rate decision - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXJKaUdDYWl3Q2NKbDdwZUJLbDdKUDMyMjNBbXVpSVhPNUhwMnhNUldkUDhiNFhnMFQtblpGR1BPcHdmRlZ2ZklfM0diYWQ2MkhUdWhmbWxQU1ViSF9zRUpmWVprLUpOUzJXUU5NZlVhck9aTGtaWHRvUTVrRVdMOFJIdjdDbDFGR3pzemVLaHU0dWJhcTZuR3JFZTZZRXl6d1JQTjU5NFpiTkJPYnVwWnNlc05RaHVvY3NSQkVDQWZEbmg5MHFKbzVB?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-09-02T10:11:53+00:00",
-      "summary": "Bursa Malaysia ends higher on bargain-hunting ahead of Bank Negara rate decision&nbsp;&nbsp;KLSE Screener",
-      "key_points": [
-        "Bursa Malaysia ends higher on bargain-hunting ahead of Bank Negara rate decision&nbsp;&nbsp;KLSE Screener"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "[Stock Price Up 2,275%] Does history repeat itself? Apple sees first leadership change in 15 years! New product launch imminent! Is it a good time to buy Apple stock? Which supplier stocks will benefit? - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVF1XzZTRWZ2V1Z4VEZPWGFtcFBUNkxMS0E0cW5pV05rSmNOWXRudW0zcERsWm4xS1lmdnM3a2tVZXVyeENZcWZqblF6dTY5TkQ2dWxheVJhcC1qVEhUNmJRczZUV2RwdzVfSEdOMmlIeWtVVmk2eW9xbTU1eUprVWhpd19LdktESHdFclpDQ1hwbGtSUUdnSG4tQTdoMUhILWVZNmYxSTJjTm8?oc=5",
-      "source": "Moomoo",
-      "published": "2026-09-02T06:29:26+00:00",
-      "summary": "[Stock Price Up 2,275%] Does history repeat itself? Apple sees first leadership change in 15 years! New product launch imminent! Is it a good time to buy Apple stock? Which supplier stocks will benefit?&nbsp;&nbsp;Moomoo",
-      "key_points": [
-        "[Stock Price Up 2,275%] Does history repeat itself?",
-        "Apple sees first leadership change in 15 years!"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple: Cook Avoided The AI Trap, Ternus Should Too (NASDAQ:AAPL) - seekingalpha.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUENuNU1ZSjZIa2x2SGhuRjEzVUFkV3FldnA1LW5tN0k5alR5ZnJ0cUs2Z1kxZnVCaDdaQXJFeTh5RXJGazh1WlpXNUVJNXZSU2ZveUZkZU04NURiaU81WFBrWmRQS3pUVExFVHE1Yl9COVlMbVUxOTY4cTR2YnFHbDNvWEwwdGEwRmdEclp2X19pUVU?oc=5",
-      "source": "seekingalpha.com",
-      "published": "2026-09-02T05:21:25+00:00",
-      "summary": "Apple: Cook Avoided The AI Trap, Ternus Should Too (NASDAQ:AAPL)&nbsp;&nbsp;seekingalpha.com",
-      "key_points": [
-        "Apple: Cook Avoided The AI Trap, Ternus Should Too (NASDAQ:AAPL)&nbsp;&nbsp;seekingalpha.com"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Bursa Malaysia extends gains at midday ahead of Bank Negara rate decision - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjkzYm1ETGJXMkVHTXcwSFN2R0ktUk13RG1GMWE3SXFqaHRwVW9iY3BQUmZ2TFRBa0tlRG9VQktTaXUtN3FBSXNzY3dYeERESDQwbEN5aVBSSFdRZG9OWGlVTk14WXVDSUxtYnR5MDMySmFUMTV5dk5XV1JTb1lITG9NZ3lTb1lHQnhWbXhtZXRJeE9KeERRT1E4djgzcXdRckZYZ014UGc0ckVJeTl4WkJLcXNfbGtiNUJRMzNPQVc?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-09-02T05:20:39+00:00",
-      "summary": "Bursa Malaysia extends gains at midday ahead of Bank Negara rate decision&nbsp;&nbsp;KLSE Screener",
-      "key_points": [
-        "Bursa Malaysia extends gains at midday ahead of Bank Negara rate decision&nbsp;&nbsp;KLSE Screener"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Bursa Malaysia extends gains at midday ahead of Bank Negara rate decision - The Star",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZXdFR05pb01CektnUHlXS0Q4TGRIb3MwbHVxVVNPdlU0V1JIT1hKVzlYUVgtVHhVclBPZG0xbkloaG4tX3FZNktsRUJfbVFDVjZySnRpeGFMRlhHOV9uOTZzU1ZZV01nMGZHWHQxc2dqeWlVUklpVUxxMkhPUmk0YkNIQnNYYlgydm5nc3pkQ3JSWEdLWEppWHRJdk1waER6U0NZcmZmTmQ5QXlFY0JxYnJqVkZoWU5Ud19Ec3BDdk05bU1tTHFhQ29qYjlWM0E?oc=5",
-      "source": "The Star",
-      "published": "2026-09-02T05:02:00+00:00",
-      "summary": "Bursa Malaysia extends gains at midday ahead of Bank Negara rate decision&nbsp;&nbsp;The Star",
-      "key_points": [
-        "Bursa Malaysia extends gains at midday ahead of Bank Negara rate decision&nbsp;&nbsp;The Star"
+        "Bursa Malaysia ends higher on bargain hunting ahead of BNM rate decision&nbsp;&nbsp;The Malaysian Reserve"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Medium",
@@ -883,60 +1076,6 @@
       ]
     },
     {
-      "title": "Career & Finance Horoscope, September 2, 2026: A demanding professional situation may test your patience today | Astrology - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQT19rWkE2aTFkMFkzSmhoWlpYRnFOYXRpeEJJX3B6dDI5Tmw3bFFCSWpRMWhLRDBhQmdGb1RWSmV6Zk91bTZFWWVGUEg2RVRkdTRrVGVzVFUybGM5MVljNEZqVW1UNmxsaU5wSVlLZ3JqbXVGZ1EybVRSZFIyOEF6YjBKWUxmdDgwVnRGcnR0LW1QaHdPSVhqRDFtZ3NadlYzckJOSTNCRERZdjdvWldFaXpKWFFCbFhJRGR5SGFhUk1PRURyQVhJXy05WnFvV2V6LUpRNEZOcy1GRENxMlpmRDFkVkhHQU9CQU1tSkNJNlktcTAwdC0wTTlCb0gtSl9ndEVYWHZGUkvSAY4CQVVfeXFMUEl6SUpfWmVtaXJ2UWN0SWdOdTZfWWlVdHQxeEVuZVFSRTZ0QkJzLUh5NXU1M3FQRmg1RzdjdDZNSVprWUVQdzZ5WHJLMHA1NTJvNE9zcDhqZmtuME1sek1Bcy1CTkg5Q3pjSWpYckhDQjVGUldobmVwdnNhOXlFZzQ4RXR3c29wejJlZ0g2cUN0STU3ZmpRdnhLYjJDa2p0b3RDU19pam02eE5PSkMxMEcyTmRQckY1VU9PcGNESTBvZnozSkFvOTBIcEJDaDQ5SWEtd19IdW55ODlZb3lVOGRiTnAwTlpJX2pvZ292Njd6ZFJHTHFuaTFNVVpWRkd2ZFlNa2xXR0stZHN2S0Zn?oc=5",
-      "source": "Hindustan Times",
-      "published": "2026-09-02T02:59:49+00:00",
-      "summary": "Career & Finance Horoscope, September 2, 2026: A demanding professional situation may test your patience today | Astrology&nbsp;&nbsp;Hindustan Times",
-      "key_points": [
-        "Career & Finance Horoscope, September 2, 2026: A demanding professional situation may test your patience today | Astrology&nbsp;&nbsp;Hindustan Times"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Bursa Malaysia pares early gains on Wall Street weakness - The Malaysian Reserve",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWp0ZHI0amhsLVdDNGpzcVhNVmw0WU1qZ3hudW1YdG1nVzE1V1g2czdFdDlhd0NmUU1USDQ4NUZtTy1tSGxWd2pLNk15dk1LZlg2a2o1Q3RXOGR6SmFaTWRkYnhsQmdFX2V5YVRSWHBBaWJ4MlEzaEt0Tm8wVGg5Y21UM1o2NmtpVDFYXzEybzVicE4tUTlRaW9hVmpCYUpnS3JDc0NmUQ?oc=5",
-      "source": "The Malaysian Reserve",
-      "published": "2026-09-02T01:36:44+00:00",
-      "summary": "Bursa Malaysia pares early gains on Wall Street weakness&nbsp;&nbsp;The Malaysian Reserve",
-      "key_points": [
-        "Bursa Malaysia pares early gains on Wall Street weakness&nbsp;&nbsp;The Malaysian Reserve"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Chinese internet giants set to reap AI profits in 2 to 3 years, UBS says - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRm9uWmtBOUZodjhER2Fzd0dlQ012dWZLQXEwNF9tOFA2SkNFREdWNmVyYlRNRHFHR0ROQk5xNG1TNzVHNVFyYkJqRi0yX3diMkpHUllQY2xBc2hzMF9YZ29nZEJoT3R4Tl9wemttbkM0WF9zalIxV0VMSkNpaEVvRkdWZGtvckRGOUYzZWQyWmdlRFpiSXNzenRjTExiTGRfRlVuZWotOVNRUEFjQnZuTkNraTJ4Q29PNjJsRjdhQzEybktrbzZYUNIByAFBVV95cUxOZ1JTM3NQalBpVkhvNUxxcWpjQktPUVRzVlR5Nk5kQ0pwUFlYOUxOalhreVR2Zjd5Sl9VNVYxTVVFcU4tZkkwOFBYWC1ZWG9zdWpZT3IzTjNpUzBBRXA5WUtwNE1OLTlITmw1SndZMzI1bmV4YjZ1Y0NPZ0NOWno1ZmxxbnlEVXB0dklhTHdiOEcwUnlvR2RwVU52MUZfdWQ0RDUwSXJQdkhlVXpObGo5S1NVbVlEOG9sa3lEMkVDcVEtRlJJRkFQQQ?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-09-02T01:30:10+00:00",
-      "summary": "Chinese internet giants set to reap AI profits in 2 to 3 years, UBS says&nbsp;&nbsp;South China Morning Post",
-      "key_points": [
-        "Chinese internet giants set to reap AI profits in 2 to 3 years, UBS says&nbsp;&nbsp;South China Morning Post"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Cancer Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUU9DT25JZXZONnU0NVBkczBtY1ZiZG5nZmhaOHc5dGZZaTVVM0pfeE1JcVg5RE41ajNieUZzVDdtYzdpbG5SS1pPUVFmYmRRVkJDbTFXUzdfTzRsSktBU0hucmFEYTdSU3NIa3JaYWQyV2tjTEVab0FhVUNVeU8xUHFFcjdjSWJQbG95S2cyblFkbE9MQUZGbktOdk5FLVNFTXlTaDR3S2ZhVXdubWM5OGRfZmZyMkN5WHlVcE9GZm9STWVCMThhYjI3a05qUE1mR0ZtRV9JS0NPMWdyOUd2SlY2aUlodGZl0gHvAUFVX3lxTE9yRjNKc0hERnE2TXgyU3k1b2g1UGZnNGxIZWxnV192MnQtX2tXRXVUWWpQaUdoRlJLT3BJX1BXUXdOZW1LOEFnbkg1YXEtbGl2SEZFTDM1Mi16T2l5S2QyUEtrNF9YSGJsWlJEWnNOdk9tRWsteTBiVTl6aHZhS0VDTWhnNEVTQzVoOVZVaC1fS3pVQU83djczRk9NTkZMV09HWm9aUmhzMllRV2RHZ1J5UGpjZjBBTFY1Qm16a1UwOGdvN2N5WGYzM1dROTZhelFzTml2Y3NOeEt3OF9YbUYyNjcyY1o5TUZfdEZnYlhJ?oc=5",
       "source": "The Indian Express",
@@ -952,24 +1091,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "Commentary: Big Tech is incapable of solving its Frankenstein problem - CNA",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGdqa1RVZGxCdm5aUmo1c2FXOWJvXzc4cWFva19PUG1rN2dGUVZqRlFMTTl4dlFiSEt0RGQ0Z3kyTTZKenRwVERWWXB4ZUcwTVZvai1QN2w3dlBzYUllV2Rtbllwc1J4WlpRRnhqOWZVbFVjNURTY0F4SDU5SEcyenN5Q2IwYnhwQUNCaXowSE5fYjdzbEZ4Vzh1TQ?oc=5",
-      "source": "CNA",
-      "published": "2026-09-01T21:58:00+00:00",
-      "summary": "Commentary: Big Tech is incapable of solving its Frankenstein problem&nbsp;&nbsp;CNA",
-      "key_points": [
-        "Commentary: Big Tech is incapable of solving its Frankenstein problem&nbsp;&nbsp;CNA"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1027,8 +1148,26 @@
       ]
     },
     {
+      "title": "Apple (NASDAQ:AAPL) Stock Jumps 3% on John Ternus’s First Day as CEO While Big Tech Falls - Stocks Down Under",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56OVRHU0lJVmxkR0RjUG1UVWQzSF9ncmhhYVg3M2RsMXp2QW1MT2NET2FuVGNJZ25NcmQ3MldMZnhaWVpxVUtubWY4UEZseVFqMGpFa2E1Z3JUVFNYaUZhX2pzcHl4cVQ0cG9abGJ3TnhMbGtwUFhvbEpHOGs?oc=5",
+      "source": "Stocks Down Under",
+      "published": "2026-09-01T20:52:27+00:00",
+      "summary": "Apple (NASDAQ:AAPL) Stock Jumps 3% on John Ternus’s First Day as CEO While Big Tech Falls&nbsp;&nbsp;Stocks Down Under",
+      "key_points": [
+        "Apple (NASDAQ:AAPL) Stock Jumps 3% on John Ternus’s First Day as CEO While Big Tech Falls&nbsp;&nbsp;Stocks Down Under"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Data-driven decision-making in the desert - Golf Course Management magazine",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzZhQjVzc2JLMGZaMjUwNXBtRlhaWVlvRjJqWnJmREFQS2Y5eGpEZTE3aWtGMThYRmZGeGpwX05OblJhS0dFZWlOXzNYd0xxZmlfUzNNS3ZXWmpiRWhzLVFMeG9fZGZSRHN1UUl5M3pldllVem0xU0JqaFF3NzhySjIwWXYwZU53VUt5OGt0RGI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEswcWEyTWZZUm93SU5fekNmWkRIcVo1U1U5TE5KQ0Vnc3BDXzNoMVU2R1BDTG1qbXRMblJ5MVkxbkxxeXNrcmZIakxUSG5yNW9FSi1RbTZQVzZrSDJ4dEVBOURqY2poRW00WWpJUkxhb2V6UmhhODRhS2M1Tzg2ZklTbEhTS21xdHR2OUE0ZXpqT0Jxc0JUellfcDM?oc=5",
       "source": "Golf Course Management magazine",
       "published": "2026-09-01T19:01:06+00:00",
       "summary": "Data-driven decision-making in the desert&nbsp;&nbsp;Golf Course Management magazine",
@@ -1042,42 +1181,6 @@
       ],
       "sections": [
         "Work"
-      ]
-    },
-    {
-      "title": "Best AI Chatbots of 2026 - CNET",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtdkwtSzM2UnNoX3NpajRMUFZPOV9UZFkxTUZnLV81YzlzMVlacU9yTkNLSm02aGJNSmhtWFJ6RUl0eVZpaEFsbThlQV9RRmxrcEExYnhJcmdlYVcyNnJrNW5obzZEZGM5ZzNGTlJLbUViRjVFNlE?oc=5",
-      "source": "CNET",
-      "published": "2026-09-01T17:26:00+00:00",
-      "summary": "Best AI Chatbots of 2026&nbsp;&nbsp;CNET",
-      "key_points": [
-        "Best AI Chatbots of 2026&nbsp;&nbsp;CNET"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Reining in Big Tech: How California lawmakers plan to regulate AI and social media - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbnNSUzVhWkd6QlR5bkNucThyWWlqRXFxckJlb2kyVkEtcDJ1UHB1TlBQZmZDcW40VUpCS0xnYXpmR3NLR1Y2MkFuYlVCMEdBd3pvazlnTkVJMUhKU05fQXJnTXEwZGZsNmhEdjBNUlZib2QxQi1EeW5velBsNFdCLXEtMnNDa25icGVJRWd3dFN6NXlGczRVV0cwcG5YamNSbGNGNm0tMHRpVjk4UFZXTkFDeGZsbFlUR043ODBIVy04MkpUMFhv?oc=5",
-      "source": "Los Angeles Times",
-      "published": "2026-09-01T17:22:00+00:00",
-      "summary": "Reining in Big Tech: How California lawmakers plan to regulate AI and social media&nbsp;&nbsp;Los Angeles Times",
-      "key_points": [
-        "Reining in Big Tech: How California lawmakers plan to regulate AI and social media&nbsp;&nbsp;Los Angeles Times"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1099,13 +1202,13 @@
       ]
     },
     {
-      "title": "Bisk Partners with Michigan State University to Launch New AI & Business Analytics Certificate Series for Professionals - EIN Presswire",
+      "title": "Bisk Partners with Michigan State University to Launch New AI & Business Analytics Certificate Series for Professionals - einpresswire.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZUg0eFUteS1GdXJEQlRQV1UtejlTX2FJV0hvckRocjVOWGZDb2U2UDc2Y05QSS1VaVRTVjBBMTlHNWxfX2V2RllGMkRYUkczSmMwRlhnQzR0eHFJUTNTOVQwSEJlbEhySTdmYmhHNjNpU196emlGX2Y4U2RfZnhydzNhOWFJLXItM2JVTEdrS2FsQ2duaTBObVFyMi1ZM3hUc2t6VUsyZ2R2RFdBTzJMN1MxRmQzQ08zUVZJcDczVzJrTkhWakg5cjh4anpMbXFwaWZNVkw1dmN0OVMwZkFnTFFSVU40UWkyQWwtdUFqaEVaeUxXQ3J3?oc=5",
-      "source": "EIN Presswire",
+      "source": "einpresswire.com",
       "published": "2026-09-01T16:35:00+00:00",
-      "summary": "Bisk Partners with Michigan State University to Launch New AI & Business Analytics Certificate Series for Professionals&nbsp;&nbsp;EIN Presswire",
+      "summary": "Bisk Partners with Michigan State University to Launch New AI & Business Analytics Certificate Series for Professionals&nbsp;&nbsp;einpresswire.com",
       "key_points": [
-        "Bisk Partners with Michigan State University to Launch New AI & Business Analytics Certificate Series for Professionals&nbsp;&nbsp;EIN Presswire"
+        "Bisk Partners with Michigan State University to Launch New AI & Business Analytics Certificate Series for Professionals&nbsp;&nbsp;einpresswire.com"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1132,24 +1235,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZnZjZEFtSTNKWlcwdVl1M2VVRjBySURTSlFmaUFlbkVHRGgwZHBOcXBpUDYxTVRrLXBlb2s0WUdNSFFNc3pPOWVWSDEyNWNaMDdiYlNWWFFvb2FHZEltUE1SYW8yajFLeFB1Mm5kYThrRV96U2Zlem96NXZIN0owTzdPeFJoNmV4OGxmeTQ1T0drQnVDRGIwZUxzbHNYLWRPOTV2dVlyTzhuMWhuWFd1ZUNVOUtxck1JLTJpYW1QOWxhd1dpeTh3clo2MjFESG1RNVB4M1BvZkRadE9PY29GcVVzSzI5SkloMDVkU1VmajFFaEVPTUp6ZTY2YUY5MllWX2c?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-09-01T14:42:22+00:00",
-      "summary": "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators&nbsp;&nbsp;Tom's Hardware",
-      "key_points": [
-        "Nvidia pours $3.5 billion into MediaTek — company will adopt NVLink Fusion for its custom AI accelerators&nbsp;&nbsp;Tom's Hardware"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1244,57 +1329,21 @@
       ]
     },
     {
-      "title": "Why tech needs a new kind of English major - InfoWorld",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXlLNzVsYjdlTTRrajREbTlZMjFneFFrNUtDXzBxNlBDY3pwbmlwUTVrTXZIWXY1RjNPb0JuTDZhX3lidnZ4WnotbURYUWpQVVFLMzRHZ2JRbGxfaGVDMmQ5SUYzNWxRMXlwUkZiUG9mODdUNkNzak5QTWFpOVJkR3dkcTJEc1lzUVd5b3NhUXVwSXc?oc=5",
-      "source": "InfoWorld",
-      "published": "2026-09-01T09:02:40+00:00",
-      "summary": "Why tech needs a new kind of English major&nbsp;&nbsp;InfoWorld",
+      "title": "Finance Ministry announces 3-month paid internship - 1TV.GE",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbjd0UEFOYndPaDYzMk0tV3ZnWm9GSHNiTUVWdmhiZGQxdkdtQzB3UEVGRU9GRzNkZ3pZalQ3X3JSdk15M0ZsWUhvMW5JYkptM1l1VWVPR3JtTkdTaHRtV2Z0ZklULWhmcVM0VkFPTEszTXBCTlZtVi1rNVNiX2ppRnlwVkRzdw?oc=5",
+      "source": "1TV.GE",
+      "published": "2026-09-01T06:55:00+00:00",
+      "summary": "Finance Ministry announces 3-month paid internship&nbsp;&nbsp;1TV.GE",
       "key_points": [
-        "Why tech needs a new kind of English major&nbsp;&nbsp;InfoWorld"
+        "Finance Ministry announces 3-month paid internship&nbsp;&nbsp;1TV.GE"
       ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
       "topics": [
-        "Tech Industry"
+        "Finance Degrees & Careers"
       ],
       "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "MARC: Malaysia’s resilience tested as regional risks and higher yields cloud outlook - The Malaysian Reserve",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNelJyMkxGM1dMdkpCeDdiQ0Z5ZWxuUkp5UzJHWXJvM1cyQlhvT2ZKSTFqQWhudjdtcWdDdU9xVWhpeWpyd2RaZlRtME5pX2FsbFBtWHdrV3VfNHBid0otSnRaaHowX0ZPNHFGdHFKN3hSbnBTTU1SQmlRTUI1UFZTSTNvb29IX3NGejdoOFB0UUg5aUR4MnpGeXhkOHJMb2dFX3ZIaDVWS3VPSXFZWEJwOEsxSlJ2MFZ2Q3FiMFJacHh4eHlq?oc=5",
-      "source": "The Malaysian Reserve",
-      "published": "2026-09-01T08:32:57+00:00",
-      "summary": "MARC: Malaysia’s resilience tested as regional risks and higher yields cloud outlook&nbsp;&nbsp;The Malaysian Reserve",
-      "key_points": [
-        "MARC: Malaysia’s resilience tested as regional risks and higher yields cloud outlook&nbsp;&nbsp;The Malaysian Reserve"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Bill Gates and Silicon Valley congressman latest to endorse pope's AI encyclical - National Catholic Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1QzQ09xVFJtNzJlR3JWR0ZHU1U3dzJJcE1Ia3RWQl9YcEZLS3J0ZWhYb3FuYWlkOHNvMVRRZHVfZjJJNVN4RWZOb0ZzTk5YSEUtb05FVE43YzVyb0ZaWFJ4bktlaG5fYXBUZm42UmJqY2twSVhtRzZxMHJBMmpfaHhUMnNOV3JxMEdEejNGTFhTODItMWVhLTFGMEVJOG5yRDF2ZnJNZ19QZG1xNVVMcWFWWVNMV3ZBLWdheWdTMTM?oc=5",
-      "source": "National Catholic Reporter",
-      "published": "2026-09-01T08:07:20+00:00",
-      "summary": "Bill Gates and Silicon Valley congressman latest to endorse pope's AI encyclical&nbsp;&nbsp;National Catholic Reporter",
-      "key_points": [
-        "Bill Gates and Silicon Valley congressman latest to endorse pope's AI encyclical&nbsp;&nbsp;National Catholic Reporter"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
+        "Education"
       ]
     },
     {
@@ -1334,24 +1383,6 @@
       ]
     },
     {
-      "title": "Aquarius Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVUp0dXp3SWtYcTZ2RXFRNDFMdkxwd0ZoZ0NaNGhqZS04MUdVNndWVjRFQkZzcU1teEJTQUo2YnU4dnZXcTlvQ3U1RFFoakJXYjE5cl9qeHRJN3dscVRQSG9ROS1FWklrb0NhQk84TzduRGdTVXp1TU1lVmxoR1p4ejEzRk8yN0YzTk54ajJXZmpFbUtZNFYzcEwtekZiZWZKRUxvSnVPRHM2OXBwTXBqMk16V2k0bEM4Z1d5NUlMUDNBUHEtUmhMb0I2aDdOcEpkY01fdld5MFo4eDBBTHlPQlhqUTJFSXNzNE5TTHN30gH0AUFVX3lxTE9rRUJGSGNNZTBZMnR5UnVOSWdHQjU0SGNMTEtFc1JOYUMzcmpsTFp4XzMtTjM3MVh1d2VhTXU0SGxNVDA1Qkl6bXE5NUpUMUE1MVUzNmJxTEczT0MzcVZEcWo0Vm1mc3Rjb1dUYjlwTzFWd09DNTNGM3VNaTRNU2Q3bDdhY0l4c1M1NnBGSzdIRXNOcGNxd00ySWZiS05WdnR1V2dRYi1zbmd3WDhsYmMtZm1LVEc3R2hfNzFYdkIwQlFvVGVSZ2JFTlJ4UjZ4YlY2aWpmUUdnZkdNZks2ZENnN0JieE1HX01BM1o2UzBwYUdoYXQ?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-09-01T01:00:20+00:00",
-      "summary": "Aquarius Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Aquarius Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
       "title": "Taurus Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTXhtSk0zWG1SNUZhaHJTVHVzXy1TYnduMlZEbnZORDNQQTVaQ21OdFd0bkpvc0l3X3ZfWmVCbEZfTUNITGF6a25jbk1mTXdObU9mNUx6Q21yWUhBLUR3MTlhSWd4cEdZeEdEZE9BSlgxdVo3RFR2b05VR0lZRlF0R1hvMkJhRldWTUdwWGlKeXN1VjRlXzJsTzF5UWRodlFuYm1KSnF6dzZxNEhlLWRjb2Z1YzdNWFVaZlJrSXZ1VDJtd0RSd0dDTFVmbnIzb0FTYTlDQjZQZjdKd2RsS0VKRVdleDJpSTVp0gHvAUFVX3lxTE9vWjRyZXdzcmVWdHB5M1lUWjYyTWdWVnU4ZUlvV2R2LTVPOEpvaFpEOXM0bGQ1RTAzQ0c1djJxanJ1ejN1SmFKRVJPUGY0QlF4bFZYYldGU2NUVURJT0twOURWWmthaGU5Nl9RYjU5eElQcWhYcHVXZzB2d3JkRXRNT3J4V1NWLTVQS2x4TEpzaEJOR1dkdlNEVVprT1ZoTENEQVRTNjJwcGh6R1kzdFdwRHlwWmYyZmY0MTc5Y3J2YVlWdERobV9ENkVuZHJGOG1wMVgyNzhXZzJ3eHUyVzRoYktaX252eVFXLU9LZzhJ?oc=5",
       "source": "The Indian Express",
@@ -1359,42 +1390,6 @@
       "summary": "Taurus Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
       "key_points": [
         "Taurus Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Virgo Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOU1YdElHS0lQWXJ0VERBMWxleVV3Q3FJbGRXR0JvOVJHUjRJUFVLQWx3bWZuMTBnMGRJMGFXdWdsODZKRF9Bc1JhdUR5cUlOZkJuR3FEZVh3VERPT01ZeW5hSTJKczRGRE5CbjRiZy1kZUFhbnZ1aTlkSHFuckUtd29zR2dYbU5YcnpnOHhYZ0lqcnJuRU5ENVhicWx3aEVQcmp2dmpGWTgxV3VsOHp4Rmd2UlVvc3E2SThFSnBmbkZHNVpZbE1IeTQxSC1iZEUzYmo0VjlSOW5vUUxlV0dBdEhaX0wwZ9IB7AFBVV95cUxOdVdqajhNTW9NOUdhLWJfQWJ1aEJtV2xPRmtXMlRnbUxvdHhQTHhzbXJPaW9YS09YVVFFN1FrSHNYMmRlaEtkMlFFOWdrYS1nOGxWdldiVllaR2dFVTZPYTdCTkg4MERjZXFYVHp3ZDRfdDNTcFVYeXR0RjBLZVQ4QjBHU3NsYXNqTG1uWVVPbFBqTXlVUDFOcHZwQzNucXNlZXVXRU9sa0JMaTViVG54bTVXWm54cTJfN2lEdTFZRVk3YTZ3M1dyalZiSGFBMVUtb2szY3laM2NJbXY5QlhKcDNvWXRVQzEzcjZiNQ?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-09-01T01:00:15+00:00",
-      "summary": "Virgo Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Virgo Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Sagittarius Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeURxbUVzQUlNYkl3MF9UZVYyWFNXVWxOc2tvaTJOd2NIb01wVFMzSGJRWnBJLXZNOWU0MG5BNzBsT3lNU1hVQ3dSa0ktWmhZWWVHOXhSYjlhT3VHYWZjb1pfT0x0UmlnQjhPcmlxbUxrb2k5a21TdUlidy1DQjVWb1VRSGVtTWp0Y1YzT0tzTF9COE9hSzk5UTYzTEo5RWU5ejVYVk1vS1A5akZ6X3RZVVlLVGtQZy1BTEVDTFJDWEFpSXRmcjh0V0N3MFV5SFJNMU8weEh4eEVVUjM5VE5VOEFFd0p5cGR5a25CVXVxR01JTUlyLXfSAfwBQVVfeXFMUEQ3MnhEaXdhb1BPMEZFVzZTbjlaVGxKMEktVmZPQWVoYWRIdy1KZm5hcDE0V0NSYlYtRDE3STRfcnBFYkZ6bjdwZU9WczZuRUFVY2czSXpLZkdWazFnOFphTlhNaEhzYzZUTHYwN3FzbV81NFh4UWNMel9TcExXYkRzZlBldVF3SGtYdmpaRFhxb2F5dE1zNHdzRVZ4dm15TTk5TVJZM1lWNERRamVBaVIyR1RNY3ZSWTJvRTFQc2MzdVNxVWpwcDV2anQwM2JEeGF3Z0Eta0pnUFFsMWl6aWFOYVd5SnhOVVBnQTY2XzZNNUlIOUdHazlsQ0Zq?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-09-01T01:00:14+00:00",
-      "summary": "Sagittarius Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Sagittarius Monthly Horoscope September-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1421,24 +1416,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "Bank Negara seen holding OPR on Thursday as global rate pressures build - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEtlR0VwY2hHX1ljTDFMNVFGSTRnN01qYWQyUGNVaTIxRTNSWHZqNVV0aHZuYWh5LW1fSVJFRFB1ZG5wV0RLNUpLanI0emR2RmhWa1NVMDFPZ0V2NmNZSUxhMjRON2xWSWFFVk82YXFqWXdNb2dxTzMtS0RYMWxnVy0zZ3VleV9HeElTcFRVWWxUTjhnWDV0LXNUYnJ6djRCdnNPVjJLVDBraktTMUk4VGpSNExfY1BwY01ab3JB?oc=5",
-      "source": "NST Online",
-      "published": "2026-09-01T00:02:53+00:00",
-      "summary": "Bank Negara seen holding OPR on Thursday as global rate pressures build&nbsp;&nbsp;NST Online",
-      "key_points": [
-        "Bank Negara seen holding OPR on Thursday as global rate pressures build&nbsp;&nbsp;NST Online"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -1532,6 +1509,24 @@
       ]
     },
     {
+      "title": "Finance official moves into pole position to become Shanghai’s next mayor - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTV9OX1JMZHpxX1NiU3lmMjhtUUl3S2JzUFh0NzNNelRnS084WGprdjNvUDBsd0pHVXZfT2dGeHVpdHFNbmt1SDFxZFM1ZWFRWlhaclJ3UDQzOUk3NEh6dl9jT3ZTRzJQanUzRU1XNDVuaFo1MGtHODZ4c1B0ak54MklnQ3BjRGIxZ3hSUlM4RzUzbzczXzJ5ZTV3RlozWUtoZWdxVVlMYTBpZW5yZ1lvUDhOQk5fMWQzRXhlTDVPcXl0aUlhcGlv0gHHAUFVX3lxTE9FN2FXb0lueHJxOEVHMjRRX0VjSG1OUzNJcUdQOWNNRmZFZWRoQmZlQUZnMlNnemRMMVJiYnc0eklydEk2UFpKQ0FVRkRzNFUyU1VLY1F2ZThNdmo5Wm9wTzl3SnhNS0I2NkxEQWpMem8xN0czR0ZZNDlOWlczc28zRHhZZEt6dlN4aFVFNHpINExUS3VnNE1RZWxyU0t1SzdpX3Q0RmtrcEgtSHJ5aU1TLUpDU1RzUy10SXAwQVh2MGRxXzEyTW8?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-08-30T11:00:13+00:00",
+      "summary": "Finance official moves into pole position to become Shanghai’s next mayor&nbsp;&nbsp;South China Morning Post",
+      "key_points": [
+        "Finance official moves into pole position to become Shanghai’s next mayor&nbsp;&nbsp;South China Morning Post"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
       "title": "Root out hidden data debt to improve AI decision-making - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2hlWkVZbVRKaF9TZ0xXNFFrMUMwb2drSXB5N0pVX29nS0MtRkJuTFFYR19FVjFYVE03OGtTMC0yX29wdldKVHBXaXp4bWtpNkE3S2JuWTFpdTdGeHlDNlI0Vno5dnJUODdkSFBpOW1nTmdvWHQydmpzTzZ2VUw1U1R3WmdJY3ZLandWOFlZWXV6VWFFUWtHRXdCWWFaVm1jTGJUUlJIRnItYkNB?oc=5",
       "source": "TechTarget",
@@ -1550,13 +1545,13 @@
       ]
     },
     {
-      "title": "Brian Ferdinand On Data-Driven Decision-Making As EverForward Trading Advances Its Proprietary Trading Approach - Grit Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzR3RDFiRFN2WmNNQV90SmNOM0ZwRDZWOHBXa2VhR3YtdzRzbjd2SzZrbDJ0SUs1MkdaT21ITlZiWmxfdkQzR25xMTFkMkdKaGp1eTJLVVpFMGU3NkdLVTJqNkhJY0V5QXVhWWE5N2d6S24yY3dXZC1ndFRZOF9nVUdXWk1EelJOeDE2dEtqLWJjRHBfaWpoZ0xlY3hGQ1M4dnhnMGFfdkNSM2paRTAzazF5cHBnNl9wbWVVOUhLWmlkSHZuLTdtT1lvRUpoTk5pVUtRRGxyT3RsRjFNdjF6TnV3?oc=5",
-      "source": "Grit Daily News",
-      "published": "2026-08-28T01:28:48+00:00",
-      "summary": "Brian Ferdinand On Data-Driven Decision-Making As EverForward Trading Advances Its Proprietary Trading Approach&nbsp;&nbsp;Grit Daily News",
+      "title": "Brian Ferdinand on Data-Driven Decision-Making as EverForward Trading Advances Its Proprietary Trading Approach - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR1U5V3c4cV96czdEaHliVzc0XzRuVldqLVhXNVRKako0R3JaNFFLRnJuQW9nN2FzaUF0MnBPb2t2ZkRJTmRMV1pxaWlKd1lKUFRhdFRIaUhxOWtZam1xMElIZGJvUzhIRWJjNkxkOUh3cEhxWk9KSWJ6NXR5RE5YUXByVGtNb1pxcnBLM296TklsQllteFJYcUhUek1Ic2R0UDRoYWhxVnllR1NmeDBHUU9GWUpoOWlSRF9RdWd5dnhaZlNaU29icXVpTjhPRGo0Um5kWFJqeFpJWVY2VFdQal9BRWtoUEk3OE44?oc=5",
+      "source": "Barchart.com",
+      "published": "2026-08-27T19:29:00+00:00",
+      "summary": "Brian Ferdinand on Data-Driven Decision-Making as EverForward Trading Advances Its Proprietary Trading Approach&nbsp;&nbsp;Barchart.com",
       "key_points": [
-        "Brian Ferdinand On Data-Driven Decision-Making As EverForward Trading Advances Its Proprietary Trading Approach&nbsp;&nbsp;Grit Daily News"
+        "Brian Ferdinand on Data-Driven Decision-Making as EverForward Trading Advances Its Proprietary Trading Approach&nbsp;&nbsp;Barchart.com"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1568,57 +1563,39 @@
       ]
     },
     {
-      "title": "Hot weather alert issued for 17 areas including Perak and Sabah - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMXRxMVZrOC1tX09OU2JqZHhRcG9kdzN2QVhDYVNDSk9oN18yMEZtTk5KWU9tS1VuMk0wSG1jbU1PUkNKaUZ5UGp0WVBfNld3R3VURHo1SFVhWHg3eUhzeWN3aHcyTmd2dC00Z09XLTM3WGtjUGhGTGEtMlNOY1hjSkhwdnhzX1MtMi1oR05NMEthNXlSWkp1RGVBRy1EVGRpN3JzZ2JhcHM1Y1NGRU1B0gG0AUFVX3lxTFBrOUVVV2ZmQ3BXVXhUQ0ExTDZuRWVyNmtkSmRSQjFHc1pTYzZQQ1dzLVpYNnFEYTlLeEtLeU9aVUNIa0lhZ3FEQnJsTDdOVThDZkhqQXFmaXA3NHdHdVdHT1ZPbmNBMHlQaU1lVmlOOFZpaXdYUDh0YzJSNUZrbERvMGwxQS1iQVE2SjJOclc3VUtqV3J3VVlsLVdGOWtCMlo3WktoTHNpOWtWQnZZZkRHWWYtcw?oc=5",
-      "source": "NST Online",
-      "published": "2026-08-25T01:34:25+00:00",
-      "summary": "Hot weather alert issued for 17 areas including Perak and Sabah&nbsp;&nbsp;NST Online",
+      "title": "Does a finance degree and MBA guarantee a high salary? - Study International",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ycmVZYzROYVFTQk1LN0ZXNkdiUjRWajdhcnI0RUMtSkotSU1uOElTT2tsMjRpQkVkM1B5QmJ0dnM5NkF1NzJJa2dBMTJJYjZsRmQ5Nm1ZQW1VcDRWblUyQmpnVTFWZVBmcHZORXBVb3BxMDNhdmVWajFLNjI?oc=5",
+      "source": "Study International",
+      "published": "2026-08-27T02:50:45+00:00",
+      "summary": "Does a finance degree and MBA guarantee a high salary?&nbsp;&nbsp;Study International",
       "key_points": [
-        "Hot weather alert issued for 17 areas including Perak and Sabah&nbsp;&nbsp;NST Online"
+        "Does a finance degree and MBA guarantee a high salary?&nbsp;&nbsp;Study International"
       ],
-      "why_recommended": "Matched your \"Malaysia News\" topic.",
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
       "topics": [
-        "Malaysia News"
+        "Finance Degrees & Careers"
       ],
       "sections": [
-        "Personal Interests"
+        "Education"
       ]
     },
     {
-      "title": "The State of the Nation: Bank Negara ready but 5.7% 1H2026 GDP growth may not warrant OPR hike - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcVhiZTltc0VSTkRBcG03T1czeHRXQXM4RU9mMXV0d0pjUmYzWFd3eU13elFra2N5cksteGZKZXhsOFB4SzlnbU83WEMyVEVCbmRvNndHSGdlMFhwTmJuRFBmUldaNTRRRnJHdWJmUEVwT2xSQW43WW91TkZUNXpVNWVVd044VHhBUEtMMlJISnNRdVV2MG80UEk2RHdsWGYtV2dNanMwb3BVRXFMNXNYc2Zkb0hDdC1CeFBMM0pLUWRVa2pQdEtqa0ZqbVNuVzh2WnVja19JODhsZw?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-08-24T08:00:00+00:00",
-      "summary": "The State of the Nation: Bank Negara ready but 5.7% 1H2026 GDP growth may not warrant OPR hike&nbsp;&nbsp;KLSE Screener",
+      "title": "Alumni Spotlight: How Columbia's MPA-ESP Prepared Me for a Career in Development Finance at the IFC - Columbia SIPA | School of International and Public Affairs",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3RQbl9ka1I1aGJQZnFfY2kxOGFQWG1obGpxRXhmczJoaFd4MGpXeGdqcWZ1clNVRG4yX01aYXRVb1hyZU1NZUtsZHJnWktzdWFZc1RiZlk0aVhIdWFfZVdpTUJVRmg5QUEyVnNUUlh2WkI2S0xXSXhacEJKY2Q2Y2tiX3o0WjNITW5yb1U4bkxFTUpsMkJLMTQ0bks3azNhM2VkR21CaUxUUEpGVUJFWHpITEY5QQ?oc=5",
+      "source": "Columbia SIPA | School of International and Public Affairs",
+      "published": "2026-08-26T02:49:47+00:00",
+      "summary": "Alumni Spotlight: How Columbia's MPA-ESP Prepared Me for a Career in Development Finance at the IFC&nbsp;&nbsp;Columbia SIPA | School of International and Public Affairs",
       "key_points": [
-        "The State of the Nation: Bank Negara ready but 5.7% 1H2026 GDP growth may not warrant OPR hike&nbsp;&nbsp;KLSE Screener"
+        "Alumni Spotlight: How Columbia's MPA-ESP Prepared Me for a Career in Development Finance at the IFC&nbsp;&nbsp;Columbia SIPA | School of International and Public Affairs"
       ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
       "topics": [
-        "Malaysia Finance"
+        "Finance Degrees & Careers"
       ],
       "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "data-driven-decision-making-for-covid-19-–-dharm-navaratnam - The Independent Singapore News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONENwSHY0cmlGSG9NX29YYWNmU2JMU21lUUdWSS1xSktyTzN6bTl3Q2FONUlQUWNqY0RTWnBuZHZTMkJyc0hpRDUxaHpickNCNXo1R0RiWGtlLXBjdXdtRGl1cEh6M0hhdnpEQjBqdlkxNkRRNldzN0dsc1NjNF85VGJLQW1yczZLdnNlbw?oc=5",
-      "source": "The Independent Singapore News",
-      "published": "2026-08-24T05:57:01+00:00",
-      "summary": "data-driven-decision-making-for-covid-19-–-dharm-navaratnam&nbsp;&nbsp;The Independent Singapore News",
-      "key_points": [
-        "data-driven-decision-making-for-covid-19-–-dharm-navaratnam&nbsp;&nbsp;The Independent Singapore News"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
+        "Education"
       ]
     }
   ]
