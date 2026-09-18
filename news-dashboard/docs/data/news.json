@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:47:03.164151+00:00",
+  "generated_at": "2026-09-18T23:10:28.138640+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,14 +8,104 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas - Investor's Business Daily (Finance) | Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand - Yahoo Finance (Finance) | Most of what you know about data centers is wrong (Finance) | My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC? (Finance) | Nike parts ways with Kylian Mbappé; soccer superstar signs with On (Finance)",
+  "daily_brief": "Top stories right now: ‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help? (Finance) | ‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all? (Finance) | Why investors shouldn’t be spooked by fears of an October stock-market crash (Finance) | Wake Tech weaving AI into the classroom as students search for jobs - ABC11 News (Technology) | Trade Desk Stock Falls 2.4% Before S&P 500 Exit as Option Repricing Heads to Vote - TechStock² (Finance)",
   "count": 87,
   "items": [
+    {
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T23:00:00+00:00",
+      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+      "key_points": [
+        "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T22:45:00+00:00",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "key_points": [
+        "“I invested on the recommendation of an executive vice president of a major New York investment bank.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T22:41:00+00:00",
+      "summary": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
+      "key_points": [
+        "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Wake Tech weaving AI into the classroom as students search for jobs - ABC11 News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3Y3dUtCbnRHcHhCVGRmTGZpVVZvcHJFN2h6dFQzc3RTdlA2cWM2YTl2TzBvclRPR01NUGpxLXN0T1NBNXg4SjlCcGR5WmdScXdkaE5sdVZjUFN0d0Y5dW1kRmhSTG5WY3lPNlJ4Q0FLbE84YzdlZmxFZ0ZaeEMxeFZNRldoLXExU2R4T9IBkgFBVV95cUxPd0pQTnpIdExwUXlHc3MzaS1kWUo3RmJubXFMQ19wTnUtLWtIeUZ4N0hRelktUE52eVVoS2YtQ01JX2dMZnNiek04RzRMSjFOc1pTa2tXNmdjaFNZRkhISTFEVWFMbTRnTDhiUlB6UE10QTd3ZE15clMyNTBTMk9GSFdoT1FrQWJiekJPam5FWTIwdw?oc=5",
+      "source": "ABC11 News",
+      "published": "2026-09-18T22:32:58+00:00",
+      "summary": "Wake Tech weaving AI into the classroom as students search for jobs&nbsp;&nbsp;ABC11 News",
+      "key_points": [
+        "Wake Tech weaving AI into the classroom as students search for jobs&nbsp;&nbsp;ABC11 News"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Trade Desk Stock Falls 2.4% Before S&P 500 Exit as Option Repricing Heads to Vote - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU05ZaXRmdWRoRXhsNnVLNFZ5ZEJKVmVVOEtHbS1SNHlXSVVHUW55RDNEVnF6WjEwNkFPeGtWMjBSbmozQnU2Uk56N2VuYWhNV29GZ3lhcDExM3M5WmZsYmF5aFFMZmVlLVVBU3czNUtHTm10YXFvUWlzNWpydW5BeEluVk5RQlVFX2NKNzlFZ2hkRTRMTmc4d3ItRWVpTXNQTmc?oc=5",
+      "source": "TechStock²",
+      "published": "2026-09-18T22:23:00+00:00",
+      "summary": "Trade Desk Stock Falls 2.4% Before S&P 500 Exit as Option Repricing Heads to Vote&nbsp;&nbsp;TechStock²",
+      "key_points": [
+        "Trade Desk Stock Falls 2.4% Before S&P 500 Exit as Option Repricing Heads to Vote&nbsp;&nbsp;TechStock²"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHhyVHV3V2FxU2pSSGVlenYwaWhzRTdFZE8xNENUdkNGaXVaUDFnWm5VdUJjS2owYnpUYzNnX0RfRTl3dDdCRkVTcl9ZX0tqQi1QLXU5RXk1bEVDUVFkTTZsR2ttN3A2d0labl9BSXhxbFhZbXl1MEhHRXBZN2tEeXc1S29BZllFUmcySEpTVVJGRWtmaDEtWlcxdlItNTREMGd6NVF0X1c0YmdmRUF0LXM1eTJZY3BrSXNoRmw5bw?oc=5",
       "source": "Investor's Business Daily",
-      "published": "2026-09-18T20:42:00+00:00",
+      "published": "2026-09-18T21:39:00+00:00",
       "summary": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas&nbsp;&nbsp;Investor's Business Daily",
       "key_points": [
         "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas&nbsp;&nbsp;Investor's Business Daily"
@@ -24,6 +114,60 @@
       "importance": "Medium",
       "topics": [
         "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T21:16:00+00:00",
+      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "key_points": [
+        "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T21:14:00+00:00",
+      "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+      "key_points": [
+        "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-18T20:48:00+00:00",
+      "summary": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
+      "key_points": [
+        "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
       ],
       "sections": [
         "Finance"
@@ -42,6 +186,24 @@
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-18T20:21:11+00:00",
+      "summary": "S&P 500, Nasdaq advance, turning the page on a tumultuous week&nbsp;&nbsp;Reuters",
+      "key_points": [
+        "S&P 500, Nasdaq advance, turning the page on a tumultuous week&nbsp;&nbsp;Reuters"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -138,60 +300,6 @@
       ]
     },
     {
-      "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T19:11:00+00:00",
-      "summary": "Selling a condo has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
-      "key_points": [
-        "Selling a condo has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T19:00:00+00:00",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "key_points": [
-        "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T18:46:00+00:00",
-      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-      "key_points": [
-        "“I invested on the recommendation of an executive vice president of a major New York investment bank.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds. - Barron's",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
       "source": "Barron's",
@@ -200,24 +308,6 @@
       "key_points": [
         "Bitcoin, Strategy Stock, Coinbase Surge.",
         "Why Cryptos Are Rallying Against All Odds.&nbsp;&nbsp;Barron's"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-18T18:30:31+00:00",
-      "summary": "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause&nbsp;&nbsp;Reuters"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -247,24 +337,6 @@
       ]
     },
     {
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T18:26:00+00:00",
-      "summary": "“They had been married for over 30 years when she passed.”",
-      "key_points": [
-        "“They had been married for over 30 years when she passed.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
       "link": "https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html",
       "source": "Business News",
@@ -283,18 +355,18 @@
       ]
     },
     {
-      "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
-      "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T17:41:00+00:00",
-      "summary": "Shocking to say, but Berkshire Hathaway’s stock has actually not outperformed the S&P 500 in about 30 years.",
+      "title": "Why Sandisk Stock Rallied Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4S1ZiUk9HU2JVZk1LNDdiSGQ1YUFiVjBvcFRva09FQmtMbER4el93WlpDbkpNSEwyTGs2UWNfWjRKZUo1S0ZrU2dzZElvQUhpb09oR1pTNlRKcFY1MW5ZZ3lyRU80NFNmSlRLVmJDNDlUUWYwWG43emVKZVEzQmM?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-09-18T17:36:00+00:00",
+      "summary": "Why Sandisk Stock Rallied Today&nbsp;&nbsp;The Motley Fool",
       "key_points": [
-        "Shocking to say, but Berkshire Hathaway’s stock has actually not outperformed the S&P 500 in about 30 years."
+        "Why Sandisk Stock Rallied Today&nbsp;&nbsp;The Motley Fool"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -319,6 +391,24 @@
       ]
     },
     {
+      "title": "Wall Street drifts lower as bond yields rise and oil prices swing - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3pQYlRuSXJ3SmV0cnJPM3pBaWVxYTFkenlXVEhkQVVwX2lfeE1KX0lpdWhtZ0puQ2RmSzZfcmVUQ3pFMGJtT292dlhyYm5rNWVmNUtVajg0OXBlU19KZFBSUmE3aHd5N1BQRWRDUTVITXgyWkNjX1pMUk1PbXF4ZWtVZ1h3d1hEMko2OXBpWS1rS0xCLW0tTnN2ZDVPVWhnMmt4cTBKOA?oc=5",
+      "source": "WRAL",
+      "published": "2026-09-18T17:11:03+00:00",
+      "summary": "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;WRAL",
+      "key_points": [
+        "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;WRAL"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Bitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today - Longbridge",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wTEVwcmFQTW80WjNKYUJwQXVISUpCeEpYWlc5R3VaX3NqX2MyNk13NGJvaUtRWFRvbXhmU0xScEEtcUtKQjhaaGVzU05MVVY1RlE?oc=5",
       "source": "Longbridge",
@@ -331,24 +421,6 @@
       "importance": "Medium",
       "topics": [
         "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Two signs investors don’t have to fear an AI slowdown",
-      "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T17:02:00+00:00",
-      "summary": "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips.",
-      "key_points": [
-        "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
       ],
       "sections": [
         "Finance"
@@ -373,6 +445,24 @@
       ]
     },
     {
+      "title": "Apple iPhone 18 Seeing 'Muted' Initial Wait Times in Key Markets, UBS Says - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM09CNENWX2RmVXpndGpiZXV3ZEFiLWtBV2JOaGVVazZqQjk3R1pMdnBDV0N2Q0hrZjdoY2dQbGg3TnV2bmlkOWRPVldLWTBuZ3d3VkxLQWdaS2duYUFvZHd6R01xWENSNjAybmVUOUJkZlROWGNVQlJ1SVJ4M291UFJ0bmJ3MU5GT3NIcWZmM1M5QUVud3Q0?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-18T16:53:43+00:00",
+      "summary": "Apple iPhone 18 Seeing 'Muted' Initial Wait Times in Key Markets, UBS Says&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Apple iPhone 18 Seeing 'Muted' Initial Wait Times in Key Markets, UBS Says&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Apple TV's Emmy Sweep Adds Momentum to AAPL's Services Business - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUGFHc2JqTERwVFZxLVBJODh3M1ExQWNKTzlnMkJmVk9Zb2RHazVLcG1TN0t3T3NjTzd6Q1kzRTFsZVhJRVpsTmdlbER0aDNjcG9qOFVsTFJiQUYyOUt0RF91Y3BjTldkV2JYTUJPN0ZMMjJONks0WVd4WGhETmFCZGJCSkZfVTBjcWpEVjdtN2RRWU1OVG9keWxEMkNBVnpvSG9WeFM3aGdtQ19mOXV4VUM4VGZuSC1lQjVB?oc=5",
       "source": "TradingView",
@@ -385,24 +475,6 @@
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street drifts lower as bond yields rise and oil prices swing - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0s4MVJTU3MwNXcwMlJPM1ExMlRrZEk0eWZMSC1PbjNPX1pSWmFPd0hlbDBob1MyWUJVQVo5aFJwZmNKZHA3T0tYT3EyazhiTG5YNEJSeFY0cU9JZmYyMzJiTHl3Nk5sN3F6eFRkZTIwOHpmQWdTQTdqLU9Ua3ZNQkVxQ3lSTE15NzQwa0RFalVEQXdGN3lRaWlQVzlWUWFMSU5VTjdDeG40cG8?oc=5",
-      "source": "BNN Bloomberg",
-      "published": "2026-09-18T16:19:54+00:00",
-      "summary": "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;BNN Bloomberg",
-      "key_points": [
-        "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;BNN Bloomberg"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -446,13 +518,13 @@
       ]
     },
     {
-      "title": "Wall Street drifts lower as bond yields rise and oil prices swing - toledoblade.com",
+      "title": "Wall Street drifts lower as bond yields rise and oil prices swing - Toledo Blade",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmgtNEFTLXkwWXhiUU5iYjk1aHJIdUlrMGtmT09icjRxZGNkQlZZNC1UcmJQZGdaOEU0UHlnN09Kdkl1RlMyNDBvR2YwM0dJcUgtY1FYZ0ZJYWk2ZXRZVVVxdlBRTl84ejlOS1doMk95dHVtN3hfMFV5eGRKR1d1U3d3Ul9ZYWwyMzhBdi02RTlnU1JIMnVKMUVWM25GTWptZDI2TV9KaC1vTklOVGM2VmY1WERmRzZpRC15dGlNLS1NV1VkR0xhb0xTZTVCTElrV2Jrb3dB?oc=5",
-      "source": "toledoblade.com",
+      "source": "Toledo Blade",
       "published": "2026-09-18T16:07:11+00:00",
-      "summary": "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;toledoblade.com",
+      "summary": "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;Toledo Blade",
       "key_points": [
-        "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;toledoblade.com"
+        "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;Toledo Blade"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -572,49 +644,13 @@
       ]
     },
     {
-      "title": "Is Omnicom Stock Underperforming the S&P 500? - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3BWY1poQmlwREZwN3ZLdmdhelBnYlVuQ1dqTUVPLVd6Y0FDVVppdnpEa1JWbmZBbldYQVQ3WkRkLTJRNGNhZzZqSXA5NVZrNkVieHpnQzZXenhLTHJPVG5IQVAzLWI1b1ltMnUzb3BlRjE0OEE2SlNyaXE4dkQ0Mm0yXzA0QU9FYkpjUEQxMTgwdw?oc=5",
-      "source": "Barchart.com",
-      "published": "2026-09-18T14:59:12+00:00",
-      "summary": "Is Omnicom Stock Underperforming the S&P 500?&nbsp;&nbsp;Barchart.com",
-      "key_points": [
-        "Is Omnicom Stock Underperforming the S&P 500?&nbsp;&nbsp;Barchart.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Why Nucor Is Today’s Worst Stock in the S&P 500 - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3U4NUI2dEVMa0ZZTTNScl9JUmJEUlFfdVUxUkt4V0tSY1FFZ2tMWkc1aUJMMXBMTHJ4cXlJc1NVaGtxckJ3eWpGZmtYTGZibXFnRjZQcWVkaEg1dk96V0FtVnBSX1FLd3dYZkxRSTNyVjE5dEFTMXZFMHZaamRNRmtDLWUwY1pKSldMdkVuTQ?oc=5",
-      "source": "Barron's",
-      "published": "2026-09-18T14:58:00+00:00",
-      "summary": "Why Nucor Is Today’s Worst Stock in the S&P 500&nbsp;&nbsp;Barron's",
-      "key_points": [
-        "Why Nucor Is Today’s Worst Stock in the S&P 500&nbsp;&nbsp;Barron's"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Internal Documents Show Tech Executives Worried Artificial Intelligence Training Threatens Publishing - Northeast Times",
+      "title": "Internal Documents Show Tech Executives Worried Artificial Intelligence Training Threatens Publishing - northeasttimes.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3pBamZqalptVlZEV2FHU0wxaElvLTZ2dUxsdThDcEpIS1hzQTUwaC1icFJmM3Z4bU5qM2FTcXpJWmhBX21ueTNVRHEyRWlMTGJVU0dLY2xEaURTYmZ4UzlCSUVnZUY4VnM2emJBNk9wVkZkcVdaTkxHY3pTNHI1QVhlMlVrTy0xWjdSQ3BQLWVjWlZlX00yRVZYVW56ZTNKR2locXg3aS1BeUd2Y25Eb2ROZUZGeUZTQVpZ?oc=5",
-      "source": "Northeast Times",
+      "source": "northeasttimes.com",
       "published": "2026-09-18T13:48:24+00:00",
-      "summary": "Internal Documents Show Tech Executives Worried Artificial Intelligence Training Threatens Publishing&nbsp;&nbsp;Northeast Times",
+      "summary": "Internal Documents Show Tech Executives Worried Artificial Intelligence Training Threatens Publishing&nbsp;&nbsp;northeasttimes.com",
       "key_points": [
-        "Internal Documents Show Tech Executives Worried Artificial Intelligence Training Threatens Publishing&nbsp;&nbsp;Northeast Times"
+        "Internal Documents Show Tech Executives Worried Artificial Intelligence Training Threatens Publishing&nbsp;&nbsp;northeasttimes.com"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
@@ -770,25 +806,6 @@
       ]
     },
     {
-      "title": "AI tech titans: Stop us before we let our products go rogue. Again. - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVhTRzUwN3dDQnRiMVlQMlZaclRWZEJuajc2NDdpVWdwS1ZJblU1eFllcldMME55TnU4SU9xUUUzYTFkVW5aeVZfUTBCLTB6QWNkamFNQkNRb0kzb2hmYXZ1VGRRZlVnb0pZN2JzaHhiLTF6WkwzOGhVWVRIVWk0SVc3UXRqeW9ZeTNiZFk4cHRXU00?oc=5",
-      "source": "The Boston Globe",
-      "published": "2026-09-18T10:06:21+00:00",
-      "summary": "AI tech titans: Stop us before we let our products go rogue. Again.&nbsp;&nbsp;The Boston Globe",
-      "key_points": [
-        "AI tech titans: Stop us before we let our products go rogue.",
-        "Again.&nbsp;&nbsp;The Boston Globe"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "What Congress Actually Needs to Do About AI: Staff Up - The American Prospect",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGxoWEltRUktNlBBQjRzU3h5dGljNGpOczVsX3FQODZucmFVb2dGbVlCZmlGb0h6S2FDOWV1bk4wbnQ5RVJlT3djMHE2RGxIR1FNTkVGZ0d3d1FGMUxsb2VVYWVYM3I4VU85REtGZjNEaTJ3a3kwWnBobmF6QVNJTE91QlF4SWhqbVk3NVhGbTdwVEhHWVRObw?oc=5",
       "source": "The American Prospect",
@@ -898,26 +915,8 @@
       ]
     },
     {
-      "title": "Apple(AAPL) Stock Options Chain | Quotes & News - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxORlVvQzAtYzF1LTBoa3RfUnF4eEo1dkkyWVBFR0g3THFpN3NrZXFjVk83a1RXYXo1ellDbVhmcEdGUnNZaTRHUHVFQjFWUWxUSjE5S19md2lOVkNNYUZQZElCU3JsMWlOQUZ0Nm5PZUdLVkxORHd4bzVZM29PZXBpS0dZLWdUelBWRktYblVXSUhPX2pXMGpUc0NNNlRIdld6TFRZU0xYX0g1VW96d1VKeHVqbDJURmV3UnI0cWRMUmM1UU9ZMVdJZlNmLWM5ZDd2SUdGaUw0TmQ4MnQ3STZCQUV2eHB4eWFJNDRjQVp5eUlDYVVtazFUZEVjVW5sZlcyeENJOWZBOUZ0MUhWTUYwblB0eFB1QmVvR3kwTkNycFYzSFVZMWpJeFJnWU1CS1VyWkZzb2xZbEs4R2RrSFFUQ0pqRFAxNjY0M3Iw?oc=5",
-      "source": "Moomoo",
-      "published": "2026-09-18T03:57:16+00:00",
-      "summary": "Apple(AAPL) Stock Options Chain | Quotes & News&nbsp;&nbsp;Moomoo",
-      "key_points": [
-        "Apple(AAPL) Stock Options Chain | Quotes & News&nbsp;&nbsp;Moomoo"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Career & Finance Horoscope, September 18, 2026: Don't let an old disappointment drive your next career move today | Astrology - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZTBHa1I2NF9jVHE5ODhsOWw4V001YXJyTmdsRTJ0ZmF4dkFJb3g1Znl2RkxRbGxvZXpjUzBrQ0lWNVRSclFvNUV2UE9DQ01CZGo2NERSRHpyLVdRTmxSYjh0VUY2YUw0WDZjYzZLNVd5OW5WcWU0QXFVSW1uMVBzbVVWUzNDa0d2LVhBTTZ1QnBheFVsbUNrUVp2ZHZOQzY0VDJpZXJ3ODc0eENjQ05jT2JaT2FKc2ctVlVsS0FtcW1MOFBuZ0pXZkgwTkJGY2tNTGdnaXFIRWlIZ2NzbWNobDVrMnY4cFBPY29JanZ5eHZwMlRUcDZhMmt4T2Nqa2hWMk1lWnBITndCTDDSAZACQVVfeXFMT3RCVFJBNEZVOGJnZXc0VkhxTWVKMlVQWWwtSkNTZWxsRFZKSkhXeTlqUFpfVDd3OGFDTGlGM3BWY2Y1MmRRemFvazVXMmF3SVlCcVVnN3lKUWxYTjh5STJ3OHgzMzgtY0V0eFVyUlBVWXJNZ254aXVJeGJsLW9xdlExZzMtWnM3YnVUN0NCR3U3enBPcm5NSUhLaE9RbmlyazBCU2VzdG9mRndxd3U1ZFpYMUZPNG1BeVJFNHV3YjlVMHBGRFVla0R4UkhoRTAwOXZyYl9qSmV3Wl85NHZDZkgwbmdGR0t1ZmF1T1RsajY4NlJnbm9CLUpfVXNPUmZ6ZmRablZVeXU2YklwREs4QVA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdEJUUkE0RlU4YmdldzRWSHFNZUoyVVBZbC1KQ1NlbGxEVkpKSFd5OWpQWl9UN3c4YUNMaUYzcFZjZjUyZFF6YW9rNVcyYXdJWUJxVWc3eUpRbFhOOHlJMnc4eDMzOC1jRXR4VXJSUFVZck1nbnhpdUl4Ymwtb3F2UTFnMy1aczdidVQ3Q0JHdTd6cE9ybk1JSEtoT1FuaXJrMEJTZXN0b2ZGd3F3dTVkWlgxRk80bUF5UkU0dXdiOVUwcEZEVWVrRHhSSGhFMDA5dnJiX2pKZXdaXzk0dkNmSDBuZ0ZHS3VmYXVPVGxqNjg2Umdub0ItSl9Vc09SZnpmZFpuVlV5dTZiSXBESzhBUNIBkAJBVV95cUxPdEJUUkE0RlU4YmdldzRWSHFNZUoyVVBZbC1KQ1NlbGxEVkpKSFd5OWpQWl9UN3c4YUNMaUYzcFZjZjUyZFF6YW9rNVcyYXdJWUJxVWc3eUpRbFhOOHlJMnc4eDMzOC1jRXR4VXJSUFVZck1nbnhpdUl4Ymwtb3F2UTFnMy1aczdidVQ3Q0JHdTd6cE9ybk1JSEtoT1FuaXJrMEJTZXN0b2ZGd3F3dTVkWlgxRk80bUF5UkU0dXdiOVUwcEZEVWVrRHhSSGhFMDA5dnJiX2pKZXdaXzk0dkNmSDBuZ0ZHS3VmYXVPVGxqNjg2Umdub0ItSl9Vc09SZnpmZFpuVlV5dTZiSXBESzhBUA?oc=5",
       "source": "Hindustan Times",
       "published": "2026-09-18T03:00:14+00:00",
       "summary": "Career & Finance Horoscope, September 18, 2026: Don't let an old disappointment drive your next career move today | Astrology&nbsp;&nbsp;Hindustan Times",
@@ -979,7 +978,7 @@
         "Apple (NASDAQ: AAPL) exec’s stock sale comes with 180K units still to vest&nbsp;&nbsp;Stock Titan"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Apple / AAPL"
       ],
@@ -997,7 +996,7 @@
         "Elon professor explores how AI may lower barriers for indie game developers&nbsp;&nbsp;Elon University"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Business & Financial Analytics"
       ],
@@ -1039,24 +1038,6 @@
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings - Malay Mail",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXVkOFdzaHFWWmNPTkxfY0w0UER3ZE5kMEFKMzJ4OVJVZEE0Y0JpWlI5T1ZKS1IxRzhzMERZRHkwUS1ubGstdlZqQURJLTM4bU8zNXZpR3Q0dW83TkpqWkFvUElsNFVMTVA1elBfY0psUVp5YThoMFdHcVJ4Z1RWSXlIVVVrZkxUT3JCcXN4anB5WWdfWVpBMl93Qy1YVU1TeFVGWGNKellsZWgyMGZsN29LNWhpcFB3ektpQzBqaDFSWU1fUVc3WGhxNU1CMXZ1R01UR2xyb0fSAd4BQVVfeXFMT3hjek1KVW4wanJfSllEQ3gxSkJoUWZXU1FyNGlTZ19sZHN1MzZydGk2YWtmVUlXbV9yQU5oVXV0dk1RQkVuQ3BHZkFfNk9VY3V4REhmSkNSVDB0SnNQdjBTcHRRbWRKVkJXZnJ6dGtlcXA5ZXQ5aVN1MDU0VzBqLWNJbkJFNkdHMndXcnpEbnBNa1FSNVVoeDdzX0tnZGVrRGRhdW1uaThfaGRhSDNQbGNyNjg0TklFYTQxX1NWcmNLSzRZOUZ4U1lqbEJIVEc5RzZLR2dYaGNIaWI5R3l3?oc=5",
-      "source": "Malay Mail",
-      "published": "2026-09-17T19:01:26+00:00",
-      "summary": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;Malay Mail",
-      "key_points": [
-        "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;Malay Mail"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -1222,6 +1203,24 @@
       ]
     },
     {
+      "title": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Gd2Vwa3kwNzlkMEhNLXBCTkw3UUFOX2JBZkRBdjhLUkg2Y1RKaEd6Sy1IVUlSeE51S3ZKOXM0eUhlX0Exb0VCNC1rc04zcTR3YnhMbGUwR25Pd1hybDZVeHRSei1Mc0N2NTVXUzJBQm9ELU1DNm1aelpnNW8?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-16T23:00:00+00:00",
+      "summary": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;Yahoo",
+      "key_points": [
+        "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;Yahoo"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
       "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
       "source": "Business News",
@@ -1349,13 +1348,13 @@
       ]
     },
     {
-      "title": "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar - The Malaysian Reserve",
+      "title": "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar - themalaysianreserve.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmNOMEpkQlN1NWlNOHViOGlLd1Roa1k4d2tFVnVRdkh0c3JHM0ZfckRUT0xTWFRId1NVa3oxQXdnU2sxWVhUT3RHQjJGZ0pPYl9hZTFTQkR6LXdwcVh3aDMxdGNEX0NscHpQNmJqYnZiRTNHb21NLWtmNFZ3MVBNRE8zTi1pQjRlbEhiSE1iM0tDbXlWSFI4Qk1GOHdWVUs0NnZiTlpELTAtMlZsUVNGbmQ0U3BKQ0d1X0JqSXQtUDZxNUUtUmc?oc=5",
-      "source": "The Malaysian Reserve",
+      "source": "themalaysianreserve.com",
       "published": "2026-09-15T11:15:00+00:00",
-      "summary": "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar&nbsp;&nbsp;The Malaysian Reserve",
+      "summary": "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar&nbsp;&nbsp;themalaysianreserve.com",
       "key_points": [
-        "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar&nbsp;&nbsp;The Malaysian Reserve"
+        "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar&nbsp;&nbsp;themalaysianreserve.com"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1421,13 +1420,13 @@
       ]
     },
     {
-      "title": "How The Health Care Management Program Can Help You In Your Business Of Health Journey - poetsandquants.com",
+      "title": "How The Health Care Management Program Can Help You In Your Business Of Health Journey - Poets&Quants",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPakZIWmZnV182SjNVQlRSakFSRHVYSEZSa3RoaXhvN0tocW9NbU5rMW1KYkkwWnBnMW9HMlBlY2dmMVFKRjI0aW45OXZMN0VhMHBDaFRuNExiX1ZOaFNMdkR4bWNXRFdxNU9lQ0NUMUdrQjNCQUhkX0wwV0NsbXZkV0c4T1Q4MzFFZFBIVHBVM0NWVTg5TnVxcE8yWFZDd0Q5MFFjVFRXR0w3bGdiRUZkTlEtUXRHWUh6b1ZXRnBhZGdrWHYzLU9ObGdMS2dJQ3pOQTNVS1hFNGt3R2c2cGdQVEJTTFJQcXVXRzRRZENCd1dPVHpuVDhNRHo3SVpYYW85QzZIcUx5ajVreENyb3dHQ0c3R0pISHpzRG5Wcg?oc=5",
-      "source": "poetsandquants.com",
+      "source": "Poets&Quants",
       "published": "2026-09-14T14:36:38+00:00",
-      "summary": "How The Health Care Management Program Can Help You In Your Business Of Health Journey&nbsp;&nbsp;poetsandquants.com",
+      "summary": "How The Health Care Management Program Can Help You In Your Business Of Health Journey&nbsp;&nbsp;Poets&Quants",
       "key_points": [
-        "How The Health Care Management Program Can Help You In Your Business Of Health Journey&nbsp;&nbsp;poetsandquants.com"
+        "How The Health Care Management Program Can Help You In Your Business Of Health Journey&nbsp;&nbsp;Poets&Quants"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1454,6 +1453,25 @@
       ],
       "sections": [
         "Work"
+      ]
+    },
+    {
+      "title": "Malaysia’s Economy Projected To Grow Despite Global Crisis. Here’s What It Means For Malaysians - says.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxbTFaZ0lvMUJsbjFpZ05LcGJTVlk5QURWbGpQMVJ4NXQtOWtlQ1pBcjZwMnhCMzMwdDNBdi1oWXFhWW15akF3bWZLQUFUZUV2WWY1VHV3VUp5OXpJcGdZX194Q0s0UkNCaElZag?oc=5",
+      "source": "says.com",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "Malaysia’s Economy Projected To Grow Despite Global Crisis. Here’s What It Means For Malaysians&nbsp;&nbsp;says.com",
+      "key_points": [
+        "Malaysia’s Economy Projected To Grow Despite Global Crisis.",
+        "Here’s What It Means For Malaysians&nbsp;&nbsp;says.com"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
       ]
     },
     {
@@ -1511,14 +1529,14 @@
       ]
     },
     {
-      "title": "M.Sc. Business Analytics: Colleges, Careers and Salary - College Mentor",
+      "title": "M.Sc. Business Analytics: Colleges, Careers and Salary - collegementor.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UVnRWZEtaY0ZOQm8wZ1dwSC1YRWtvVzZuVmhsSUE1aGZtN3VHbThUYS1VNGtMS0wtanRrSjJFUko2bzFXZ2tFeHNNVV9kY0JGZHJPclRsQU14cDNHV3NPVnB6VllnUFQ2SEE?oc=5",
-      "source": "College Mentor",
+      "source": "collegementor.com",
       "published": "2026-09-10T10:30:17+00:00",
-      "summary": "M.Sc. Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;College Mentor",
+      "summary": "M.Sc. Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;collegementor.com",
       "key_points": [
         "M.Sc.",
-        "Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;College Mentor"
+        "Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;collegementor.com"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1530,13 +1548,13 @@
       ]
     },
     {
-      "title": "DOSM: Building Cost Index falls in Peninsular Malaysia, rises in Sabah and Sarawak in August - The Malaysian Reserve",
+      "title": "DOSM: Building Cost Index falls in Peninsular Malaysia, rises in Sabah and Sarawak in August - themalaysianreserve.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbXJOUXhpLWRMaHVDMUFTQjhvYlFPMjBVd1hmcC1fZVhqXzR5WlU5UUR4Unlya082Mk1xNVNZTl9qelRIZzVKRVZSZ3ZqQmpTVXFFNWtVbkwxcnhQX3p0Y0NJYzNGVm5QNktiZzRSS0FaMEc2NkJIMkVNMm9YcGJoODVfT0U4ZFhUY3FSMnpqckFGekhtQ0xQa1VPV3VyLWZlb2xRZFptYzNXbmMxUlRidWxkeEpoRmF1YlItOVBnMWFLX1NkQlpiamVBT3JEMDg?oc=5",
-      "source": "The Malaysian Reserve",
+      "source": "themalaysianreserve.com",
       "published": "2026-09-10T06:15:43+00:00",
-      "summary": "DOSM: Building Cost Index falls in Peninsular Malaysia, rises in Sabah and Sarawak in August&nbsp;&nbsp;The Malaysian Reserve",
+      "summary": "DOSM: Building Cost Index falls in Peninsular Malaysia, rises in Sabah and Sarawak in August&nbsp;&nbsp;themalaysianreserve.com",
       "key_points": [
-        "DOSM: Building Cost Index falls in Peninsular Malaysia, rises in Sabah and Sarawak in August&nbsp;&nbsp;The Malaysian Reserve"
+        "DOSM: Building Cost Index falls in Peninsular Malaysia, rises in Sabah and Sarawak in August&nbsp;&nbsp;themalaysianreserve.com"
       ],
       "why_recommended": "Matched your \"Malaysia News\" topic.",
       "importance": "Low",
@@ -1555,24 +1573,6 @@
       "summary": "How to verify the value of AI-powered business analytics&nbsp;&nbsp;TechTarget",
       "key_points": [
         "How to verify the value of AI-powered business analytics&nbsp;&nbsp;TechTarget"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
-      "title": "Business Analytics Market to Reach USD 149.47 Billion by 2031 Driven by Cloud Adoption, AI Integration, and Real-Time Decision Demand - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd2xyTzdmMlJDRkVnNl8yNlYwdUJWdm9tVVgwd2Y5a3EwSTA5MUZNNlVWUW9MeTVQak5XZjhoRHlzWFRFZDk4cHVnTXJFci01VzhWVnAyUVhjNjU1TWxFckRVY0xIVXlrUVlfSVJKVm1POXpnSmF1dmtfQ2xlaVpUU3JIN2NRTXNlSWlLMkJNOTY5LUNPNnJJM2Z5WThlZ29ESlRTaFRVLTZRcEd3dlBETFZrbnVSQjdfdEEyM2xFUkM3bWlPcGFiZFp3WUpza0RBSjdaWHVmTm02OW5kdkg3amVBSExOVTA4dlFWd0FuMm9DRWgzSnYycHhpYUxtTFQ5RG1lcnVzcjE?oc=5",
-      "source": "Barchart.com",
-      "published": "2026-09-08T21:54:10+00:00",
-      "summary": "Business Analytics Market to Reach USD 149.47 Billion by 2031 Driven by Cloud Adoption, AI Integration, and Real-Time Decision Demand&nbsp;&nbsp;Barchart.com",
-      "key_points": [
-        "Business Analytics Market to Reach USD 149.47 Billion by 2031 Driven by Cloud Adoption, AI Integration, and Real-Time Decision Demand&nbsp;&nbsp;Barchart.com"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
