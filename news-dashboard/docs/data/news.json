@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:44:26.275656+00:00",
+  "generated_at": "2026-09-19T15:46:13.189162+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,17 +8,454 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: The AI capex boom masks an uncomfortable truth about S&P 500 earnings - Business Insider (Finance) | Key facts: Apple (AAPL) target $380; iPhone 18 Pro pricier; Duo soon - TradingView (Finance) | Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents - The Washington Post (Technology) | Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas - Investor's Business Daily (Finance) | Career & Finance Horoscope, September 19, 2026: Patience may bring steady progress in career and money matters | Astrology - Hindustan Times (Education)",
-  "count": 87,
+  "daily_brief": "Top stories right now: What S&P 500 Gains of 9.5% in the First Half Signal for the Rest of the Year - Yahoo Finance (Finance) | Want to land more job interviews? Stop letting AI write your résumé. (Finance) | ‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all? (Finance) | How to create a ‘forever paycheck’ without paying for an annuity (Finance) | Coinbase Files For AAPL And TSLA Perpetual Futures: Report - Stocktwits (Finance)",
+  "count": 84,
   "items": [
     {
-      "title": "The AI capex boom masks an uncomfortable truth about S&P 500 earnings - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTndsOGNFc2NtVmRKNUVpSGFYV09FcERGMVcwcXBoUUVyRmlzb3RmV3hUNEFzXy1kaVB3R21WWm5nQ3doS3VnbE9yLU95UUtiN3F2aGxKRUVvb19BcDNOXzdUZndLQVlQck90M08xUHdwdUlLbjZlRXpFSUJiWFp1cTZhc0YybVphNEl1blpSR3U5aUpuQ2haNkRIOEgxYTdVY2c?oc=5",
-      "source": "Business Insider",
-      "published": "2026-09-19T09:30:27+00:00",
-      "summary": "The AI capex boom masks an uncomfortable truth about S&P 500 earnings&nbsp;&nbsp;Business Insider",
+      "title": "What S&P 500 Gains of 9.5% in the First Half Signal for the Rest of the Year - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVBkOU5pMXQ4VWJvWlJyb0xJNlNaRm1NZHpITFR0VTJveTN1Q1QzeWhZTVVOWk84OVBtVTE0eUpIdW1Lc0pFalNWMDJ1ZERwMFF6aE1ndmdnMmlxaVd4XzZpRzBmbnZxWlllTFpDWHJaRS1kWi1EWjd2QnZXRXcwSFdmM1RsSTA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T15:35:00+00:00",
+      "summary": "What S&P 500 Gains of 9.5% in the First Half Signal for the Rest of the Year&nbsp;&nbsp;Yahoo Finance",
       "key_points": [
-        "The AI capex boom masks an uncomfortable truth about S&P 500 earnings&nbsp;&nbsp;Business Insider"
+        "What S&P 500 Gains of 9.5% in the First Half Signal for the Rest of the Year&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Want to land more job interviews? Stop letting AI write your résumé.",
+      "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T15:20:00+00:00",
+      "summary": "Research shows job seekers could get an edge in this labor market by actually writing their own resumes.",
+      "key_points": [
+        "Research shows job seekers could get an edge in this labor market by actually writing their own resumes."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T15:15:00+00:00",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "key_points": [
+        "“I invested on the recommendation of an executive vice president of a major New York investment bank.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+      "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T15:14:00+00:00",
+      "summary": "Jean Chatzky’s new book lays out several strategies for creating steady retirement income.",
+      "key_points": [
+        "Jean Chatzky’s new book lays out several strategies for creating steady retirement income."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Coinbase Files For AAPL And TSLA Perpetual Futures: Report - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1BONEU3X1pMMzJoVE45U2g4VGI0dHRjT05VM28wSUlGdTk3ZVlDLTVXZE1GSi16TjdZXzZkNnNIamFhTHF0UWhYTkdJQ0FrT0dFcTN2NmhmT21CSk9aSWNOQWc1ZTRyTGFfTlhrQk95MHF6WWgwbHpEcER0OEFQUmVwc2Rvb3ZSMm52Z0R4YTQ3LUdLVTNnN2tUTzJxTDBCRzZUSHE4VFVzRy16dzNMRkhZcFVvZHh2?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-09-19T15:13:12+00:00",
+      "summary": "Coinbase Files For AAPL And TSLA Perpetual Futures: Report&nbsp;&nbsp;Stocktwits",
+      "key_points": [
+        "Coinbase Files For AAPL And TSLA Perpetual Futures: Report&nbsp;&nbsp;Stocktwits"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEtBNzlJOVNmRThyTFJmZHV5QWVYTjAtZGZRMjhUYmVBSnVuVTN1c3VVOWxBblBydUxDbzB2bUpFT2E5LWZJQWVvQ1JkemtVbHNhWXhBSTJWQXZHOUlaWXl5aWF1bExoQTJBaXVuNUxCcU5zU2hpSURYOGdDaDdwNHZJN0NLWDFtb0RHSXhKdkRVOW9RSjZ5c3pZZzVhbnZKRWh4VjZR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T15:05:00+00:00",
+      "summary": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "The Stock Market's Biggest Companies Are Losing Their Grip.",
+        "Here's the ETF I'd Buy If History Repeats.&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500 - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmlQR0I4VlF4b3ZlWGpESU1NTmtjRDhfMlE1NGlaYXpMVVZ1RWo1RGtVdXhiTnh1WDRCY2o0TzY5Y0dYUHFGMFd0TTZnTklZb1ExRGREWU1wY1dMOElzWXFiUjQzZU9sS2x4NUZ5NHZLb1hWTktzWFJ6bXgxWGFtMFVqOTIta3UzYkxGMTBMN1NOU2ppU2lwMGJJMWZVaVpwNmo5aVB5VVFwTFBtSWcyS0dJaGRaQ2I3WksxRjRQNlVtZXQ5?oc=5",
+      "source": "MarketWatch",
+      "published": "2026-09-19T14:57:00+00:00",
+      "summary": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500&nbsp;&nbsp;MarketWatch",
+      "key_points": [
+        "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500&nbsp;&nbsp;MarketWatch"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
+      "link": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T14:57:00+00:00",
+      "summary": "There is a correlation between increasing dividends and strong investment performance — even if a stock has a low dividend yield when you buy.",
+      "key_points": [
+        "There is a correlation between increasing dividends and strong investment performance — even if a stock has a low dividend yield when you buy."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T14:46:00+00:00",
+      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+      "key_points": [
+        "“By the time my mother died, the insurance company had paid out almost $600,000.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T14:40:00+00:00",
+      "summary": "Access to healthcare, recreation, and low taxes lure retirees, new research says",
+      "key_points": [
+        "Access to healthcare, recreation, and low taxes lure retirees, new research says"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T14:31:00+00:00",
+      "summary": "Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy.",
+      "key_points": [
+        "Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamdkZDlrMXhpR2RCWDN1YmQtdmZiQUNVNllTTGxvQmZMNDF4Ym1fLWVxQlM5Y1NKSVFQb3IxdTB2dFI4QjAydTBXZDJwSWpsRnZRS3l5UzZOajVaLUZ3M1dZR2tweVV2UTBuazIyQnVJRDFUcU8wc1hSSmNXQ2ZvTUVtWklGZ2xG?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-09-19T14:27:11+00:00",
+      "summary": "Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "Anthropic's IPO Is Coming.",
+        "Here's What That Means for S&P 500 Investors.&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
+      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T14:23:00+00:00",
+      "summary": "A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.",
+      "key_points": [
+        "A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
+      "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T14:14:00+00:00",
+      "summary": "Workers used to want higher salaries and flexibility, but now they’re chasing a sense of safety",
+      "key_points": [
+        "Workers used to want higher salaries and flexibility, but now they’re chasing a sense of safety"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bank of America Sets 12-Month S&P 500 Target at 7,800, Sees 2% Upside - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3JQSi1lYnBOV1p0M0FZQXBsc1N3aV9GSHVTTk50Q3FLWExpOU83ZjNQQ0dYek83VlRRMXg0S3RDeVdSSlYzVnE4QUpJMk9mT1F3dlZEYkdHR2lWQ2NIWTl6WnBfSXFvc2FvaG1qQ2hkS0J3Q29nUDMwUlFOR2lZZ1VHT3JGY1A0RjlRMzBaWnUtSW53U2c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T13:42:00+00:00",
+      "summary": "Bank of America Sets 12-Month S&P 500 Target at 7,800, Sees 2% Upside&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Bank of America Sets 12-Month S&P 500 Target at 7,800, Sees 2% Upside&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "BofA Raises S&P 500 Year-End Target to 7,400, Projects 33% Earnings Growth in 2026 - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tMXMtUEJjWnNqNkJQN2prX2VxWWZPWWtaNTk5QlJDT0d3TFd0RW5sOTIycTZYMjR5blFmTFVCa0c5NzN6ZTV4Rmo0Y1Jfb2pvWS1KdmhnYXA3RmpZeHdiSE1BYnNOYi1VR25aLTh4NGZLTGpOZGcwZ1hR?oc=5",
+      "source": "Yahoo Finance UK",
+      "published": "2026-09-19T13:41:00+00:00",
+      "summary": "BofA Raises S&P 500 Year-End Target to 7,400, Projects 33% Earnings Growth in 2026&nbsp;&nbsp;Yahoo Finance UK",
+      "key_points": [
+        "BofA Raises S&P 500 Year-End Target to 7,400, Projects 33% Earnings Growth in 2026&nbsp;&nbsp;Yahoo Finance UK"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
+      "link": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-09-19T13:00:00+00:00",
+      "summary": "After more than five years of failing to do so, Federal Reserve leaders think they can shrink the rate of inflation to 2% by 2029 with just slightly higher U.S. interest rates. Are they serious?",
+      "key_points": [
+        "After more than five years of failing to do so, Federal Reserve leaders think they can shrink the rate of inflation to 2% by 2029 with just slightly higher U.S.",
+        "interest rates."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWS1uelpCZUtTMFRMZnlfdUswOFBlRjFWRnVJalNEQnhzd3ZYT3VaTGlLY3NLdDJxQjYtdnFzSVR5ZFJJblVpdm5Cai13YlgtWEZybDdiZjRNRmtZY3lnOUJmSXlyaVQxSjAwdTRkM2d3b0VGaWtzeklzLXRKQkRLdkJpdEZRSGRFc05LZXh0QlZrajZhU29FZlJVSk5MUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T12:50:00+00:00",
+      "summary": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut.",
+        "Is Apple Stock a Buy?&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "What History Reveals About Investing Through a Stock Market Crash - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZXVGdTBNUEV4VWJVblpKS0pzWnpxMGJTZXZ4RDNTWXNBclk4MDluRm4yVUFBckk3NEtPXzNXN0tCMWNPUFh6LTFPVHk1emJwLW15R2xZVW1IY0RIZHBVdEJ2em1HZkRidEJubWxORjUtQ0VEX2Q5em1uV1hUWnB4R2lJRVBENnA0RVJWRml2bUoydHphZ01YNQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-09-19T12:36:30+00:00",
+      "summary": "What History Reveals About Investing Through a Stock Market Crash&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "What History Reveals About Investing Through a Stock Market Crash&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "What History Reveals About Investing Through a Stock Market Crash - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeTNNNEh5T01Qd0xIUm9IbUQ4YTdnbEhDNU1URmRkTmxUQ2hqd0ZNazJld1piMHVuWTYxQ0FoS3B3N2Zxb2w4MnZNb1dDNjVQYk9FajZ0ZEJKMFVZcmdDdzhXbk83bnVXTVo1MVRZcy1ROURBUTFfb0lLRmZ5dWFxYm9fNS1JVjIzdHNMRUFsUTZYY0oyTFhNelNvUEl0WmEyYkVuQ3Rn?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T12:35:00+00:00",
+      "summary": "What History Reveals About Investing Through a Stock Market Crash&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "What History Reveals About Investing Through a Stock Market Crash&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHhyVHV3V2FxU2pSSGVlenYwaWhzRTdFZE8xNENUdkNGaXVaUDFnWm5VdUJjS2owYnpUYzNnX0RfRTl3dDdCRkVTcl9ZX0tqQi1QLXU5RXk1bEVDUVFkTTZsR2ttN3A2d0labl9BSXhxbFhZbXl1MEhHRXBZN2tEeXc1S29BZllFUmcySEpTVVJGRWtmaDEtWlcxdlItNTREMGd6NVF0X1c0YmdmRUF0LXM1eTJZY3BrSXNoRmw5bw?oc=5",
+      "source": "Investor's Business Daily",
+      "published": "2026-09-19T12:08:00+00:00",
+      "summary": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas&nbsp;&nbsp;Investor's Business Daily",
+      "key_points": [
+        "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas&nbsp;&nbsp;Investor's Business Daily"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "History Says You Should Know These 3 Things Before Buying Apple Stock (AAPL) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNk5haHFmb2ZDUWZoUzVodDBGLUZGQld5dV9VcklFdGl0XzQyY0VPbzVSYVFYa0V3dUt5QVRrVDlDYk5EckZmbVNkLXd0WGY3RFhiNG5uVll3Q0tOZjRwM1BBMGJPQUZMY3U1X0dlQlRVaXZuc0lEd3NjOWxSSklkNDZQUXR3eS12MzJ3a1hnQjVTVnAtR2c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T11:22:00+00:00",
+      "summary": "History Says You Should Know These 3 Things Before Buying Apple Stock (AAPL)&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "History Says You Should Know These 3 Things Before Buying Apple Stock (AAPL)&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The AI capex boom masks an uncomfortable truth about S&P 500 earnings - businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTndsOGNFc2NtVmRKNUVpSGFYV09FcERGMVcwcXBoUUVyRmlzb3RmV3hUNEFzXy1kaVB3R21WWm5nQ3doS3VnbE9yLU95UUtiN3F2aGxKRUVvb19BcDNOXzdUZndLQVlQck90M08xUHdwdUlLbjZlRXpFSUJiWFp1cTZhc0YybVphNEl1blpSR3U5aUpuQ2haNkRIOEgxYTdVY2c?oc=5",
+      "source": "businessinsider.com",
+      "published": "2026-09-19T09:30:00+00:00",
+      "summary": "The AI capex boom masks an uncomfortable truth about S&P 500 earnings&nbsp;&nbsp;businessinsider.com",
+      "key_points": [
+        "The AI capex boom masks an uncomfortable truth about S&P 500 earnings&nbsp;&nbsp;businessinsider.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU9pc085eThWUzQxeVgxSG0tZV91TS1ZYlNmUy1HUHdreEpnbEdhVlZWT1BmRnU2bHd0bkF1VmhEVW1oVEF4SmczcjYyclBabUhxVzZaTDlMeEV1MUZpYndkbFhoa2pBSzFGUDJmaUcwNkNmRDdYOWg1REtoa1BuaEdadEl5ZlZZSF9NQ29iU3ZKd1hVa3c?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-09-19T09:00:00+00:00",
+      "summary": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "The S&P 500 Has Returned About 11% Annually Since 1958.",
+        "Here's the ETF I'd Trust for the Next 30 Years.&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock market today: S&P 500 edges up to 7,650.50, Nasdaq gains - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YNVoxRms4TUk0ZzhXTUJFWTZCY0N5SFZrMVdTblpzNVVHX0F6N01rM1lCYVFBUjMwUFRkR3BNRzJkRm1RM2ZsVVl0QTRIR1pKalZ2Unlhei1HdXhS?oc=5",
+      "source": "eciks.org",
+      "published": "2026-09-19T08:44:17+00:00",
+      "summary": "Stock market today: S&P 500 edges up to 7,650.50, Nasdaq gains&nbsp;&nbsp;eciks.org",
+      "key_points": [
+        "Stock market today: S&P 500 edges up to 7,650.50, Nasdaq gains&nbsp;&nbsp;eciks.org"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -48,6 +485,25 @@
       ]
     },
     {
+      "title": "Apple Shares Are Trading Near Record Highs. Can They Climb Further? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVctWXBNbW5qV0ZQSVFqZ0FUY0k1TGszMkhrOW1vMEpnU1otXzV1ek40cU9pbWotLTRtS010dDF5anRnVjZ1YS1sUDRYdGpoRm14REpRekFlM1NqNTRkdmhkc2p6am4xdWUzZUt1blVQVTVPUmJBc1VNM2FfOFlIZlViODRESnR6YVR2Zmc2OFFYRXdsdnRURkhWQ1JnbUJPNWdiMjdrb0VZYmN3Zmc?oc=5",
+      "source": "Morningstar",
+      "published": "2026-09-19T05:19:42+00:00",
+      "summary": "Apple Shares Are Trading Near Record Highs. Can They Climb Further?&nbsp;&nbsp;Morningstar",
+      "key_points": [
+        "Apple Shares Are Trading Near Record Highs.",
+        "Can They Climb Further?&nbsp;&nbsp;Morningstar"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDczME9pUnhHR24xcnk3RFM4VnpQcENlT0FPWHlsdElISG1wNWU2R3JYZHU0anN0b0YtNUFzazBfWmVRNXlST0txdTRwbnB0RXNpdE5HUU9PUU5tNnFnVVdIRy1RaUNObnROU281al9hM3IwOUpVVTU5MHZJTzFheWNsM003cHZ2SzhpWmlWN18wSl9yNVR3OHNHWlFHZTJzbHFocXdEXzdQMG5tdmtpUWlpamlrOGFBS3pId1pkSQ?oc=5",
       "source": "The Washington Post",
@@ -63,24 +519,6 @@
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHhyVHV3V2FxU2pSSGVlenYwaWhzRTdFZE8xNENUdkNGaXVaUDFnWm5VdUJjS2owYnpUYzNnX0RfRTl3dDdCRkVTcl9ZX0tqQi1QLXU5RXk1bEVDUVFkTTZsR2ttN3A2d0labl9BSXhxbFhZbXl1MEhHRXBZN2tEeXc1S29BZllFUmcySEpTVVJGRWtmaDEtWlcxdlItNTREMGd6NVF0X1c0YmdmRUF0LXM1eTJZY3BrSXNoRmw5bw?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-09-19T03:05:00+00:00",
-      "summary": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas&nbsp;&nbsp;Investor's Business Daily",
-      "key_points": [
-        "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas&nbsp;&nbsp;Investor's Business Daily"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -156,13 +594,13 @@
       ]
     },
     {
-      "title": "America Has The Brain, China Has The Body: The Next US–China Tech War – Analysis - eurasiareview.com",
+      "title": "America Has The Brain, China Has The Body: The Next US–China Tech War – Analysis - Eurasia Review",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZW02cUhPbFBMblJoQjdWcGFISERBM0Q2djVmdHdwcXo5cG9fNjVwOTNvSDlSMEVoZjJPVklBLVpVZVhGOWtKVW1lRzlXa0wyOUpsZVRKZDJCT1paenB0M0N6RHBYLTZQN0RpTDc2ME53ZENYZHZKcUt1MlVrcjZCS2VxUEcyZHVBeGhrTlhJOEhiM08zTnE3VkdtalIySEUwcnVQUnZWc2xLRi1ZV25sTEJldTV0V2s?oc=5",
-      "source": "eurasiareview.com",
+      "source": "Eurasia Review",
       "published": "2026-09-18T23:56:14+00:00",
-      "summary": "America Has The Brain, China Has The Body: The Next US–China Tech War – Analysis&nbsp;&nbsp;eurasiareview.com",
+      "summary": "America Has The Brain, China Has The Body: The Next US–China Tech War – Analysis&nbsp;&nbsp;Eurasia Review",
       "key_points": [
-        "America Has The Brain, China Has The Body: The Next US–China Tech War – Analysis&nbsp;&nbsp;eurasiareview.com"
+        "America Has The Brain, China Has The Body: The Next US–China Tech War – Analysis&nbsp;&nbsp;Eurasia Review"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
@@ -171,43 +609,6 @@
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "SPMO Owns the S&P 500’s 100 Fastest-Rising Stocks. Its Momentum Screen Has Beaten the Index by 67-Points Over the Last Five Years - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbThTNlNNVmZSZnp2QVNiMzZad3lEVHJJODZmQWFaTHJKTVFhUDdYY3VCcmhZNk0tWW9KQUQ3UDZOcThJbjZ6bWZQZU9JQXcwazZEUVliR1JUcFZ4dWh4TV9JTEY3Z3FmdWRCQlZPbzBER3UtRTR1a0RBWjhXYTBYTXBaeVdKSnAyRmdOWg?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-18T23:52:05+00:00",
-      "summary": "SPMO Owns the S&P 500’s 100 Fastest-Rising Stocks. Its Momentum Screen Has Beaten the Index by 67-Points Over the Last Five Years&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "SPMO Owns the S&P 500’s 100 Fastest-Rising Stocks.",
-        "Its Momentum Screen Has Beaten the Index by 67-Points Over the Last Five Years&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T23:30:00+00:00",
-      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
-      "key_points": [
-        "“By the time my mother died, the insurance company had paid out almost $600,000.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -229,78 +630,6 @@
       ]
     },
     {
-      "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-18T23:10:24+00:00",
-      "summary": "S&P 500, Nasdaq advance, turning the page on a tumultuous week&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "S&P 500, Nasdaq advance, turning the page on a tumultuous week&nbsp;&nbsp;Reuters"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T23:00:00+00:00",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "key_points": [
-        "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T22:45:00+00:00",
-      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-      "key_points": [
-        "“I invested on the recommendation of an executive vice president of a major New York investment bank.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
-      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T22:41:00+00:00",
-      "summary": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
-      "key_points": [
-        "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Wake Tech weaving AI into the classroom as students search for jobs - ABC11 News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3Y3dUtCbnRHcHhCVGRmTGZpVVZvcHJFN2h6dFQzc3RTdlA2cWM2YTl2TzBvclRPR01NUGpxLXN0T1NBNXg4SjlCcGR5WmdScXdkaE5sdVZjUFN0d0Y5dW1kRmhSTG5WY3lPNlJ4Q0FLbE84YzdlZmxFZ0ZaeEMxeFZNRldoLXExU2R4T9IBkgFBVV95cUxPd0pQTnpIdExwUXlHc3MzaS1kWUo3RmJubXFMQ19wTnUtLWtIeUZ4N0hRelktUE52eVVoS2YtQ01JX2dMZnNiek04RzRMSjFOc1pTa2tXNmdjaFNZRkhISTFEVWFMbTRnTDhiUlB6UE10QTd3ZE15clMyNTBTMk9GSFdoT1FrQWJiekJPam5FWTIwdw?oc=5",
       "source": "ABC11 News",
@@ -319,13 +648,13 @@
       ]
     },
     {
-      "title": "Trump breaks with many Republican midterm candidates, voters on key tech issues - abcnews.com",
+      "title": "Trump breaks with many Republican midterm candidates, voters on key tech issues - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2RYTWcxVHdHY2Qzb181RXJxWFlGaEx2QldxZ1pVVXE1R01DcXlOclJReXcyWDhvNHhqSFZuRmk2MXo5MG1kRUs3cng3R1BVTkhUT05zcUJpZXljNkFHYUJNRDdJdlBpNjZBVVprRVBZb0pkRTlMLXFxMnRBMlB0bzEzVVpxUHFsaHpzMzE5b1lPdnFHT2VuMF9sMXR2UllhRkFOQXptZmVCUdIBrwFBVV95cUxPZ29sdmhGOHRUaGR1VGU2ZWxPMUREbWF3bnNIel9vRzJvaGkyRWw3UldWcTg2SUtyMXh2YVdzN3NsUVNGekRsTUlqS1FhVFI5Unhsb0MyYWZ5dGdvYjNRbmQxVF9ZOHlCMXltazdFN3YxMzRZYzNKeDY0bm41OHoyaTZpdTdHYS1BTlRWdTFsQUlsVUhvcGVoZE94YVBFZTBGbXZkR1BJa0RoYVdpMDVZ?oc=5",
-      "source": "abcnews.com",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-18T22:10:34+00:00",
-      "summary": "Trump breaks with many Republican midterm candidates, voters on key tech issues&nbsp;&nbsp;abcnews.com",
+      "summary": "Trump breaks with many Republican midterm candidates, voters on key tech issues&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "key_points": [
-        "Trump breaks with many Republican midterm candidates, voters on key tech issues&nbsp;&nbsp;abcnews.com"
+        "Trump breaks with many Republican midterm candidates, voters on key tech issues&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
@@ -337,144 +666,18 @@
       ]
     },
     {
-      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T21:16:00+00:00",
-      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "title": "AAPL Stock Heads For 5th Straight Weekly Gain: Evercore Sees Better-Than-Expected iPhone Refresh Cycle - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGtUb2RhZFB4SkhINWhqQVJpaGJqa251X3l6RTk3Wnk2eGgxUk5WX2xwdkhlRk5GTTlwMlowOExualdZbUwwaTFjV2JVMmJoaXAtdFNZUUs0a1lUYkpFSkJ5ZktBeGdaeWhVSGlLWGp5MjFYdVdwMmdWT3VLX3RwY3BQSGxVOGlVa1V4eVI3NkxiVmVGTDJjVVlTa3VldV82OG5OUmd5dFQxMkY3ejhZeWVKQjY3SXBjdXBIRWk2eGJaYTNIaldpcA?oc=5",
+      "source": "Stocktwits",
+      "published": "2026-09-18T21:08:55+00:00",
+      "summary": "AAPL Stock Heads For 5th Straight Weekly Gain: Evercore Sees Better-Than-Expected iPhone Refresh Cycle&nbsp;&nbsp;Stocktwits",
       "key_points": [
-        "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T21:14:00+00:00",
-      "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
-      "key_points": [
-        "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXdsbXlHdF9Xa0d3UFhXbk9jd1lRYV8xTzZMSUxtQVhWM1RybVpzbjFFclFFdHYzTTlrM1Q3V3pJMmFJNzliRmY0X3dIdXEtaldDNlpia1ppZUk1aC1FU0pHZW9uQm9NY0JWNHFYM2dMWWJLUjNYbWtERTh6LXFjZXQxbXpqc2YzOF9KM1dPMTUzUlVSY0FFc3podnk3MmNQMnBIQTUzMld3T1J2cFBFMFVTNkRvZTFR?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "2026-09-18T20:57:00+00:00",
-      "summary": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally&nbsp;&nbsp;Investor's Business Daily",
-      "key_points": [
-        "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally&nbsp;&nbsp;Investor's Business Daily"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
-      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T20:48:00+00:00",
-      "summary": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
-      "key_points": [
-        "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street drifts lower as bond yields rise and oil prices swing - Chattanooga Times Free Press",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmFjbXI4a1Z5RXM3NW4wR0JJSW92YkVoRndsUGdFX3ZfUzdENENpdFJvdWhBMlBIZlZYMEczSGNGaC1RcTB6X0lDdmlFN3hOelNSYTRYb0JfSThnbWlhNE9ISGx3VXp5UnZJbWZwWWhJSmc0dFBsQnFJZy1Qbm5iMkVHUlNoS2k1VjBSbjBtYVFWMXN6?oc=5",
-      "source": "Chattanooga Times Free Press",
-      "published": "2026-09-18T20:30:00+00:00",
-      "summary": "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;Chattanooga Times Free Press",
-      "key_points": [
-        "Wall Street drifts lower as bond yields rise and oil prices swing&nbsp;&nbsp;Chattanooga Times Free Press"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1lnb25idV9oX0dQUzlaUlNmSnh6QWEzM05nRFhIZWo3NnZ1SnlHRXlYTHBOVHFpYXQ4VHREbXVzVmJRYTZRZEtrZVR0X1pIRlhLd0swcWZXbnBwZ0JWS1RLcEZGb2txci16TmZFRVh5RGxZaGo3ZjcxbTNGd21HaElpT2E0elIyOTZsVklDMHdtU0ZpMmN0eGp1UlQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-18T20:21:20+00:00",
-      "summary": "Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand&nbsp;&nbsp;Yahoo Finance"
+        "AAPL Stock Heads For 5th Straight Weekly Gain: Evercore Sees Better-Than-Expected iPhone Refresh Cycle&nbsp;&nbsp;Stocktwits"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Most of what you know about data centers is wrong",
-      "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T20:15:00+00:00",
-      "summary": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
-      "key_points": [
-        "As AI hysteria reaches a fever pitch, it’s time to look at the evidence."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T20:01:00+00:00",
-      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
-      "key_points": [
-        "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
       ],
       "sections": [
         "Finance"
@@ -499,24 +702,6 @@
       ]
     },
     {
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-09-18T19:30:00+00:00",
-      "summary": "“I racked up this debt to cover my living expenses for two years without an income stream.”",
-      "key_points": [
-        "“I racked up this debt to cover my living expenses for two years without an income stream.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Where AAPL Stock’s $510 Billion Of Shareholder Cash Came From - Trefis",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmhSZ1JMSHJRNEZNaW5uNU1IR3g0cGhGdmRfZUxxMGpqMTV6Ump5UGI1NEIwdFc5TFRsT0FQaHBxQThZRWlDQWdPNDY3VTJPcWhXdW1mOEZnRTU0V3UtVGtib1hMMFl4SGF2NVdpOElXNGtuRW1TbElvV0xBTWtBLWxkOUp5a3FNbVlELWd5Z3ZpRW1sZ0htMmlMMU93NjBpZDltY0xWSEdUeDhsY1E1eWZkeEhsMDktT2NPcQ?oc=5",
       "source": "Trefis",
@@ -529,43 +714,6 @@
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Angle Health snags $600M in equity financing to grow small-business healthcare benefits - Fierce Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmxCRDc0MnlNOUM1Mnp6LXdjTF9LcWF4Y0hlaTJyb2hpQ1VlV3Vkc3BJUGdkeWkyRXRnUGg2ZGhOa3UyWDFmQVZWb0RKdE9VRnpySWMyQUZrZ1gtMk52WDk4anFMZUJkVXFxZGNBYXgzdjQzZG9VenpYVXlHMkZkX3l6T0ZaNkVwbExtdXd5MlJnN1dHYzBLSldDa3ZkRGhMcUNTVkkyZTNzLXE2YnRGbElqZTRNUVVrV053cFBqa0dLZDV0?oc=5",
-      "source": "Fierce Healthcare",
-      "published": "2026-09-18T19:00:00+00:00",
-      "summary": "Angle Health snags $600M in equity financing to grow small-business healthcare benefits&nbsp;&nbsp;Fierce Healthcare",
-      "key_points": [
-        "Angle Health snags $600M in equity financing to grow small-business healthcare benefits&nbsp;&nbsp;Fierce Healthcare"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
-      "title": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
-      "source": "Barron's",
-      "published": "2026-09-18T18:32:00+00:00",
-      "summary": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.&nbsp;&nbsp;Barron's",
-      "key_points": [
-        "Bitcoin, Strategy Stock, Coinbase Surge.",
-        "Why Cryptos Are Rallying Against All Odds.&nbsp;&nbsp;Barron's"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -608,24 +756,6 @@
       ]
     },
     {
-      "title": "Why Sandisk Stock Rallied Today - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4S1ZiUk9HU2JVZk1LNDdiSGQ1YUFiVjBvcFRva09FQmtMbER4el93WlpDbkpNSEwyTGs2UWNfWjRKZUo1S0ZrU2dzZElvQUhpb09oR1pTNlRKcFY1MW5ZZ3lyRU80NFNmSlRLVmJDNDlUUWYwWG43emVKZVEzQmM?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-09-18T17:36:00+00:00",
-      "summary": "Why Sandisk Stock Rallied Today&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "Why Sandisk Stock Rallied Today&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
       "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
       "source": "Business News",
@@ -644,24 +774,6 @@
       ]
     },
     {
-      "title": "Bitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today - Longbridge",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wTEVwcmFQTW80WjNKYUJwQXVISUpCeEpYWlc5R3VaX3NqX2MyNk13NGJvaUtRWFRvbXhmU0xScEEtcUtKQjhaaGVzU05MVVY1RlE?oc=5",
-      "source": "Longbridge",
-      "published": "2026-09-18T17:10:19+00:00",
-      "summary": "Bitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today&nbsp;&nbsp;Longbridge",
-      "key_points": [
-        "Bitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today&nbsp;&nbsp;Longbridge"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Apple iPhone 18 Seeing 'Muted' Initial Wait Times in Key Markets, UBS Says - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM09CNENWX2RmVXpndGpiZXV3ZEFiLWtBV2JOaGVVazZqQjk3R1pMdnBDV0N2Q0hrZjdoY2dQbGg3TnV2bmlkOWRPVldLWTBuZ3d3VkxLQWdaS2duYUFvZHd6R01xWENSNjAybmVUOUJkZlROWGNVQlJ1SVJ4M291UFJ0bmJ3MU5GT3NIcWZmM1M5QUVud3Q0?oc=5",
       "source": "Yahoo Finance",
@@ -674,24 +786,6 @@
       "importance": "Medium",
       "topics": [
         "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Wall Street thinks the stock market can handle a few hikes - Axios",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSkFfeEZ6REdycVozNXB1Vnl6UmZHbkNqZ3BCbVpMU2hyTXM5bVlkT0UxRnVXdm9sM0dhYmNmYTVtb3V5WWxhdi14U29IMUFOSUlGNnRocG0yalJjYkVKdTk2ajRhOGpnWGFzYQ?oc=5",
-      "source": "Axios",
-      "published": "2026-09-18T16:21:06+00:00",
-      "summary": "Wall Street thinks the stock market can handle a few hikes&nbsp;&nbsp;Axios",
-      "key_points": [
-        "Wall Street thinks the stock market can handle a few hikes&nbsp;&nbsp;Axios"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -771,42 +865,6 @@
       ]
     },
     {
-      "title": "Is Coherent Stock Outperforming the S&P 500? - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGhyMmo0cXAwNlRfRERYTjU4RWFGTzF5Q1NRS0x6MHUtUDJaenh6Y0V4UVNpS3lpMFV2cjVYdDNqMTNPckVUT1ZVSHZ1MXBEYVpSUWZsOUJPRTlLMDk2UHN1RE96dHlmcTZrSUY2RmszRTBRSndvdkdRY2lzb3ZSeVNHbUpLV05UXy1HaUtxcTA?oc=5",
-      "source": "Barchart.com",
-      "published": "2026-09-18T15:51:23+00:00",
-      "summary": "Is Coherent Stock Outperforming the S&P 500?&nbsp;&nbsp;Barchart.com",
-      "key_points": [
-        "Is Coherent Stock Outperforming the S&P 500?&nbsp;&nbsp;Barchart.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbG1iY1ctbkhTS2tDOHZWcTJ3TEh6UE5tY2xOaWpMUGR6aTByN0VRZ0lFeDJGWnFYXy0xbkdoZG5NVjk4clV4dDdqRU43N3B2TEZLeE5iX1dGRXlEQ1NRUkxudmRsNUFtZUduVEUybkxBcXR2NVh0YldOcVdtRVk5Z3RYbExHRkpZR3dQZGpxcVJncWdRLVVQZGxKZDNNa3N4eS0zWURuaElKazRlRDc0QXptblRxQ29nczdBby1IV2U1NmVleHp5NUlYTUdBMDdlckN1NmVR?oc=5",
-      "source": "24/7 Wall St.",
-      "published": "2026-09-18T15:51:00+00:00",
-      "summary": "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up&nbsp;&nbsp;24/7 Wall St.",
-      "key_points": [
-        "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up&nbsp;&nbsp;24/7 Wall St."
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
       "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
       "source": "Business News",
@@ -816,7 +874,7 @@
         "As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -834,48 +892,12 @@
         "Internal Documents Show Tech Executives Worried Artificial Intelligence Training Threatens Publishing&nbsp;&nbsp;Northeast Times"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Evercore raises AAPL price target to $380 on new iPhone demand - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXplWlcwaU9JbzduY0ZoaU9FZExMNDREYU5lTDZGLXBQVzJaWFAxNi1tc09NYTljUDFTeGZiRGR4cWJTcC1FbFNqak5JYTZTM0VQZzBmZ05kamJwUGQ3RkZKV1ZQMHNDeUFJVldNS3U5QlFXNHc0VllnVktqLXh5SG9TOGtkZm9KdU11VFlGRi1UUXlSQW1ZMDBwbmVaWU5kREZLN3BnUQ?oc=5",
-      "source": "AppleInsider",
-      "published": "2026-09-18T13:41:00+00:00",
-      "summary": "Evercore raises AAPL price target to $380 on new iPhone demand&nbsp;&nbsp;AppleInsider",
-      "key_points": [
-        "Evercore raises AAPL price target to $380 on new iPhone demand&nbsp;&nbsp;AppleInsider"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple: The $1,999 iPhone Hides A Bigger Problem - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWREd3Y0eWpNNHVBTmdHYWFhc0dUZEpUUnI0Zk1DNEF5SHVpenJSd1Q0ZjJ5b3I1N3R4dDE2VGxULUFlOWMyTE5uRmR1S1RSNlFUUFBxVkY5VUlnNmZQQTU3V0J3UXVjOFhBWVB0ZEhTbmlmTVhaOUZQR01VME9TaHdNZ0ZXR1pnclF3?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-09-18T13:30:00+00:00",
-      "summary": "Apple: The $1,999 iPhone Hides A Bigger Problem&nbsp;&nbsp;Seeking Alpha",
-      "key_points": [
-        "Apple: The $1,999 iPhone Hides A Bigger Problem&nbsp;&nbsp;Seeking Alpha"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -888,66 +910,12 @@
         "Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit&nbsp;&nbsp;Tom's Hardware"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Edinburgh climate-tech platform secures £96,000 to track long-term habitat recovery - The Herald",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0k5djFOWXFjVHU3OVhSWHVhZUphN3lQZ0FCVXdpdk4wWmpheDhZSm1LZFVMREZhQ0ZYNHdUOXNfZWtmWXdfU3JIMUdELWNYanVDdzBGZnRYdGVPdlJLamFRSkFRZXhKcU1ZMUhVaDFSNzN0RkFpMTIxN0F4ZEp6aDctclF0ZmR4T0xabUdHajZUeUhTbTVUeG53TTRyMzBWVzhURXNjU3hPYy1iSlE0eDBB?oc=5",
-      "source": "The Herald",
-      "published": "2026-09-18T12:35:36+00:00",
-      "summary": "Edinburgh climate-tech platform secures £96,000 to track long-term habitat recovery&nbsp;&nbsp;The Herald",
-      "key_points": [
-        "Edinburgh climate-tech platform secures £96,000 to track long-term habitat recovery&nbsp;&nbsp;The Herald"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Joel Berry's new game plan - thecharlotteledger.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yWTU5b2h4cG9EdHg5RVY2OHpDcm55QWtOXzV3eE9DZkpVR0FWai04OGs3WVJkRGxERVEwRUN5aFBQT245V1ZORTVURnRHejJFM0FuYVE1cnlFb2lIWVJIallYZXNiX3pfNmpsLVZJMEZzZjBvelFN?oc=5",
-      "source": "thecharlotteledger.com",
-      "published": "2026-09-18T12:26:51+00:00",
-      "summary": "Joel Berry's new game plan&nbsp;&nbsp;thecharlotteledger.com",
-      "key_points": [
-        "Joel Berry's new game plan&nbsp;&nbsp;thecharlotteledger.com"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Apple iPhone Refresh Cycle Better-Than-Expected, Says Evercore As AAPL Stock Heads For 5th Straight Weekly Gain - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkZwZ0xFc2doRTZER2lGdzRadEZRU0x6eHdRWEZFUndLNEdiZG5KYm9IMVA4M19IaEg5TVBQbnhweXAtMHMyUEJ1aWVlc1dGNEM4UUFod0d2d0FOdmwxZHdKb2IzWHFNcWR3cms2bzhHNWowdjdXZDVzQV8tY1NhSjJKRWctVVJkRXFadGhEdDlOSmo3dHFIRmIyRWM5VFU?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-18T12:14:23+00:00",
-      "summary": "Apple iPhone Refresh Cycle Better-Than-Expected, Says Evercore As AAPL Stock Heads For 5th Straight Weekly Gain&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Apple iPhone Refresh Cycle Better-Than-Expected, Says Evercore As AAPL Stock Heads For 5th Straight Weekly Gain&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -960,49 +928,12 @@
         "AT&T CFO Pascal Desroches reflects on a nearly 40-year finance career before retiring&nbsp;&nbsp;Fortune"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Finance Degrees & Careers"
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "Apple Just Announced a Groundbreaking iPhone, but It Has Alienated a Key Market - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlRCVERkaEZhMnBTaG55cHQwcHN4YUtXZzNtQXBVRnpKMWozUWJHQURmMWtCV3J4SU40NU9RbVdyS1l5OHFpWkxNQ3ZzUmNUNHpBbnRsRkZ3V1BKc0VkakJTUDB6Nm9yTnJBb1hLUkpwRkN5cnRoTlNINnF0TWRJdHpaZGljaXFvTktja2hIaWxOcTRwRzAtWDZSVnYtQmxEOXlaMEN0THpKTjZpZzJpM1FGVjRZaGdqOEF3d25n?oc=5",
-      "source": "The Motley Fool",
-      "published": "2026-09-18T10:52:00+00:00",
-      "summary": "Apple Just Announced a Groundbreaking iPhone, but It Has Alienated a Key Market&nbsp;&nbsp;The Motley Fool",
-      "key_points": [
-        "Apple Just Announced a Groundbreaking iPhone, but It Has Alienated a Key Market&nbsp;&nbsp;The Motley Fool"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Feeling overwhelmed by the AI doom loop? Here’s the essential reading list to make sense of it all - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WRkRaUHBzNkZySm56VHRpdVFOR0pvTWh6eERWRjBWU042V0s4eTVXcm1xUzIwanh1X2xEdUViaGljdzhfQlB0NWtzVlV4ZXl4QXlJeGlJLW5HSFotTmFNakZOQk04S2Zqd0k4bjVtU0dSWTA3ZFRXTDJoRW8?oc=5",
-      "source": "theguardian.com",
-      "published": "2026-09-18T10:50:00+00:00",
-      "summary": "Feeling overwhelmed by the AI doom loop? Here’s the essential reading list to make sense of it all&nbsp;&nbsp;theguardian.com",
-      "key_points": [
-        "Feeling overwhelmed by the AI doom loop?",
-        "Here’s the essential reading list to make sense of it all&nbsp;&nbsp;theguardian.com"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1042,6 +973,43 @@
       ]
     },
     {
+      "title": "AI tech titans: Stop us before we let our products go rogue. Again. - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVhTRzUwN3dDQnRiMVlQMlZaclRWZEJuajc2NDdpVWdwS1ZJblU1eFllcldMME55TnU4SU9xUUUzYTFkVW5aeVZfUTBCLTB6QWNkamFNQkNRb0kzb2hmYXZ1VGRRZlVnb0pZN2JzaHhiLTF6WkwzOGhVWVRIVWk0SVc3UXRqeW9ZeTNiZFk4cHRXU00?oc=5",
+      "source": "The Boston Globe",
+      "published": "2026-09-18T05:30:00+00:00",
+      "summary": "AI tech titans: Stop us before we let our products go rogue. Again.&nbsp;&nbsp;The Boston Globe",
+      "key_points": [
+        "AI tech titans: Stop us before we let our products go rogue.",
+        "Again.&nbsp;&nbsp;The Boston Globe"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Joel Berry's new game plan - thecharlotteledger.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00X0tienhtR2w2XzFONVZ5bXMyRkpnVTdzVm03VzRWN1dRdGl5eXhoVi1Yd1RZdTVEeTgxV0hkOW1mY01ENk53SlRwOUt3cnF2QkE1TGtVV19Lazh1b19RQzU1VHJsbXViTVdYWjZBNHRTV1pZUXo3T3R3?oc=5",
+      "source": "thecharlotteledger.com",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "Joel Berry's new game plan&nbsp;&nbsp;thecharlotteledger.com",
+      "key_points": [
+        "Joel Berry's new game plan&nbsp;&nbsp;thecharlotteledger.com"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
       "title": "Career & Finance Horoscope, September 18, 2026: Don't let an old disappointment drive your next career move today | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZTBHa1I2NF9jVHE5ODhsOWw4V001YXJyTmdsRTJ0ZmF4dkFJb3g1Znl2RkxRbGxvZXpjUzBrQ0lWNVRSclFvNUV2UE9DQ01CZGo2NERSRHpyLVdRTmxSYjh0VUY2YUw0WDZjYzZLNVd5OW5WcWU0QXFVSW1uMVBzbVVWUzNDa0d2LVhBTTZ1QnBheFVsbUNrUVp2ZHZOQzY0VDJpZXJ3ODc0eENjQ05jT2JaT2FKc2ctVlVsS0FtcW1MOFBuZ0pXZkgwTkJGY2tNTGdnaXFIRWlIZ2NzbWNobDVrMnY4cFBPY29JanZ5eHZwMlRUcDZhMmt4T2Nqa2hWMk1lWnBITndCTDDSAZACQVVfeXFMT3RCVFJBNEZVOGJnZXc0VkhxTWVKMlVQWWwtSkNTZWxsRFZKSkhXeTlqUFpfVDd3OGFDTGlGM3BWY2Y1MmRRemFvazVXMmF3SVlCcVVnN3lKUWxYTjh5STJ3OHgzMzgtY0V0eFVyUlBVWXJNZ254aXVJeGJsLW9xdlExZzMtWnM3YnVUN0NCR3U3enBPcm5NSUhLaE9RbmlyazBCU2VzdG9mRndxd3U1ZFpYMUZPNG1BeVJFNHV3YjlVMHBGRFVla0R4UkhoRTAwOXZyYl9qSmV3Wl85NHZDZkgwbmdGR0t1ZmF1T1RsajY4NlJnbm9CLUpfVXNPUmZ6ZmRablZVeXU2YklwREs4QVA?oc=5",
       "source": "Hindustan Times",
@@ -1060,6 +1028,24 @@
       ]
     },
     {
+      "title": "Staffers at tech giants knew AI tools posed ‘existential threat’ to news publishers: court docs - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXhRa0NjMFdiUHZOczZYOXE0U2dqckp2TXlvN1VqVGgzdHZWTzlfYmlScWdWVzVpVEJvVjhaMVlCNGdjR0dBLUkxdFNVdTV3LXpsOHppc1pZY180eVhYX0t2bDB6NzRySVFMdlpIazhXSDJtQm5wVFdteWc2SVQ4bGhhY0lTcDl4cE5Zd1ZYWlgwSjZ2M3hqZkVHc2kyUFU0YXhwQ2JZeV8?oc=5",
+      "source": "New York Post",
+      "published": "2026-09-18T01:25:00+00:00",
+      "summary": "Staffers at tech giants knew AI tools posed ‘existential threat’ to news publishers: court docs&nbsp;&nbsp;New York Post",
+      "key_points": [
+        "Staffers at tech giants knew AI tools posed ‘existential threat’ to news publishers: court docs&nbsp;&nbsp;New York Post"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "Elon professor explores how AI may lower barriers for indie game developers - Elon University",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaU1jNnhSbE1JUDZ1TjczTFJqMmlQamIwd1hqT2tnUHVwVWh5SkljNmtwNXhadkE1aVBaZ1dydUZVZTkwaGtXNU9CZzJrLU9MRkF3Y2ZQRmZPQl92WUR0Rlg3UjhhUFB2VjdkMllpYUlDNF8wOVNfUUNRVTE1REU2a196aUlocmJQcS1TMkxtdmEzSmdDWExTSGdfa2Y2bUhLdlAzd0VXd01CTGJFUlR0WUhwak5oZw?oc=5",
       "source": "Elon University",
@@ -1075,6 +1061,24 @@
       ],
       "sections": [
         "Work"
+      ]
+    },
+    {
+      "title": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings - malaymail.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXVkOFdzaHFWWmNPTkxfY0w0UER3ZE5kMEFKMzJ4OVJVZEE0Y0JpWlI5T1ZKS1IxRzhzMERZRHkwUS1ubGstdlZqQURJLTM4bU8zNXZpR3Q0dW83TkpqWkFvUElsNFVMTVA1elBfY0psUVp5YThoMFdHcVJ4Z1RWSXlIVVVrZkxUT3JCcXN4anB5WWdfWVpBMl93Qy1YVU1TeFVGWGNKellsZWgyMGZsN29LNWhpcFB3ektpQzBqaDFSWU1fUVc3WGhxNU1CMXZ1R01UR2xyb0fSAd4BQVVfeXFMT3hjek1KVW4wanJfSllEQ3gxSkJoUWZXU1FyNGlTZ19sZHN1MzZydGk2YWtmVUlXbV9yQU5oVXV0dk1RQkVuQ3BHZkFfNk9VY3V4REhmSkNSVDB0SnNQdjBTcHRRbWRKVkJXZnJ6dGtlcXA5ZXQ5aVN1MDU0VzBqLWNJbkJFNkdHMndXcnpEbnBNa1FSNVVoeDdzX0tnZGVrRGRhdW1uaThfaGRhSDNQbGNyNjg0TklFYTQxX1NWcmNLSzRZOUZ4U1lqbEJIVEc5RzZLR2dYaGNIaWI5R3l3?oc=5",
+      "source": "malaymail.com",
+      "published": "2026-09-17T19:01:26+00:00",
+      "summary": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;malaymail.com",
+      "key_points": [
+        "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;malaymail.com"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
       ]
     },
     {
@@ -1129,24 +1133,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "Strategic Growth in Competitive Markets: Evaluating the Impact of Advanced Business Analytics - PC Tech Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMTY0NnhzU2hPOVVBajhlT2pieW5YSS1TczFsMUhmTk5pdTJwN1c1eWpiZUxnQm56azhJYjNNc25SY1BwUUhtSXRQWkVxenFQVWxyQVRDRmt6MEd3SzlrM2IwZHU5aEs1U294Tm1Rc2NPcFlyWDNUWmlRWEtNM0J1VUUtN2t6V1VPWThIM1VoSnVPUTh3RFowSHZHbThoeXFrd2JqU09zMTBuZURKTXU1Tl9YOGZaSDdpMXlrVVpNVkg?oc=5",
-      "source": "PC Tech Magazine",
-      "published": "2026-09-17T14:19:18+00:00",
-      "summary": "Strategic Growth in Competitive Markets: Evaluating the Impact of Advanced Business Analytics&nbsp;&nbsp;PC Tech Magazine",
-      "key_points": [
-        "Strategic Growth in Competitive Markets: Evaluating the Impact of Advanced Business Analytics&nbsp;&nbsp;PC Tech Magazine"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
       ]
     },
     {
@@ -1222,24 +1208,6 @@
       ]
     },
     {
-      "title": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Gd2Vwa3kwNzlkMEhNLXBCTkw3UUFOX2JBZkRBdjhLUkg2Y1RKaEd6Sy1IVUlSeE51S3ZKOXM0eUhlX0Exb0VCNC1rc04zcTR3YnhMbGUwR25Pd1hybDZVeHRSei1Mc0N2NTVXUzJBQm9ELU1DNm1aelpnNW8?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-16T23:00:00+00:00",
-      "summary": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;Yahoo",
-      "key_points": [
-        "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings&nbsp;&nbsp;Yahoo"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
       "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
       "source": "Business News",
@@ -1295,42 +1263,6 @@
       ]
     },
     {
-      "title": "Ghana Insurance University College: Launch You Career In Insurance, Finance & Data Analytics - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jVVZsUVBJcnNaaVR1NFdFeEY4dXhLNEw3SGJDamhEcllGUTM5dFZFVlZmVGV2QTNLb0cxdVROLTItMDFfaFVVY2JFT21PWTlJd0t4M1RiQTFuSWMxQlBsak9Ed3HSAVxBVV95cUxQb1VoRUc2cVkzWDV1NUJaRGdfQTFnOG9vekdXQUM1bDlEWm1Za2xyYUgwY2NZVVI0aEJRdWxpVmhJWGlMc2dNM0dTNkRpUFM4dUdxRzBJbGJfS3Izcg?oc=5",
-      "source": "Modern Ghana",
-      "published": "2026-09-16T10:36:55+00:00",
-      "summary": "Ghana Insurance University College: Launch You Career In Insurance, Finance & Data Analytics&nbsp;&nbsp;Modern Ghana",
-      "key_points": [
-        "Ghana Insurance University College: Launch You Career In Insurance, Finance & Data Analytics&nbsp;&nbsp;Modern Ghana"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Ministry strengthens Data-Driven decision making - fbcnews.com.fj",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1pJTzhFMVlYSXBLclZfVVQzYmk2RGUxLW9MTmNCRGRUVzA3d1J5NGxPaktaWGRrZ2JqSlQzZVc2TEtxVC1hS3V4LThTMVhyQ2pxeXZjUVpzT09fQ0ZvM2tnaTZ3Zk1tRnRrQk5zNXlLQ05EdTBLcmRGMjhWaVpBX0Z0NkVCMUo0?oc=5",
-      "source": "fbcnews.com.fj",
-      "published": "2026-09-16T10:19:23+00:00",
-      "summary": "Ministry strengthens Data-Driven decision making&nbsp;&nbsp;fbcnews.com.fj",
-      "key_points": [
-        "Ministry strengthens Data-Driven decision making&nbsp;&nbsp;fbcnews.com.fj"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
       "title": "Career & Finance Horoscope, September 16, 2026: Partnership or collaboration could also become more important today | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMXhSdm9ZOVFyUkxCUXFZQzE4UTYwLVhHdjlETDBNNUc3WFFqaTdZN3V2TkY3a2hGVFJBN1hiRU4za2RmOC05WmplOUMwZFNjS2RDT2FUc3lTTHpnMlVtVHlhWGphRF9uYndWSDdFVWFtNk1rTVB1VlNrSDRuY0cxMVpBVWpFZHFlN09pRGNiTEQtc0dtMU5LZmRndFBvTjBDYTRUTXVtTnU5SW1qZ1MyR1BDY1V1S0JpWG15ekRCMHBWTUVOa3ZfcHhhNU44dnpDTTFOUzV4WTB3VVZhcTJmUlFGT1NjZEY2OVlEbGJZQU5oSWg5ME5NR2NCSkV5NEJfY1hMMW1tcDBKQTFqSjVV0gGUAkFVX3lxTE9EMmhrVGIzRVdLb1NBelVQZm5aMFJNdjVhOUtBSWFjaFN6YUhlcFhzRXZoWjQ1RmdORjFLNTdlV2RUN0tEQ0NqS1VYcE4ycE9EVGRFNGtLSmdVY3FYRV9tbEJDd2pHYUtjV25rejBWSllqTG1rUkhQV1FJRFJMbl9BTmYxMWhOS0NaVy00MWc5Y2xfazNFZEhnYmlKd1hyTUdqN3o1a2VkUE9rS3hGQUNmNExCMTFuQmZ2M3RlV2lIejNRVlhaNkl5bTF2cGdYRkxQOTFUaDd6VGM1Yk9fTjgxUVJ3NzdwazVETEVqSHloZy04Qnc0SDVXdG9QcGJ5V1hWN0EtX1BEYnRiLUxGbHd1cWFTaQ?oc=5",
       "source": "Hindustan Times",
@@ -1346,24 +1278,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "How Queueing Science Could Fix Hub Staffing Guesswork - Pharmaceutical Commerce",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3dCLVk5WC00UHhLeXlmOGZsS3dFUnlTT0xQUk1kMkZwemdYaDZMNmJWSDUxU2RTVmowYWJ6UU1CWGVzWTNrWUtfYkJKY3N5ZXZ4Z0UyQVRqcUFISzNjMEpDOXZ2ZFhWZXYyX3N6Ry0zMXhXeTR1TzIzYVdtUEFJMHdhMENfdkIzaHczWHpKMEtLR3ZjZWxBV01GUy1BZw?oc=5",
-      "source": "Pharmaceutical Commerce",
-      "published": "2026-09-15T16:01:46+00:00",
-      "summary": "How Queueing Science Could Fix Hub Staffing Guesswork&nbsp;&nbsp;Pharmaceutical Commerce",
-      "key_points": [
-        "How Queueing Science Could Fix Hub Staffing Guesswork&nbsp;&nbsp;Pharmaceutical Commerce"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
       ]
     },
     {
@@ -1388,7 +1302,7 @@
       "title": "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar - The Malaysian Reserve",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmNOMEpkQlN1NWlNOHViOGlLd1Roa1k4d2tFVnVRdkh0c3JHM0ZfckRUT0xTWFRId1NVa3oxQXdnU2sxWVhUT3RHQjJGZ0pPYl9hZTFTQkR6LXdwcVh3aDMxdGNEX0NscHpQNmJqYnZiRTNHb21NLWtmNFZ3MVBNRE8zTi1pQjRlbEhiSE1iM0tDbXlWSFI4Qk1GOHdWVUs0NnZiTlpELTAtMlZsUVNGbmQ0U3BKQ0d1X0JqSXQtUDZxNUUtUmc?oc=5",
       "source": "The Malaysian Reserve",
-      "published": "2026-09-15T11:15:00+00:00",
+      "published": "2026-09-15T11:15:55+00:00",
       "summary": "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar&nbsp;&nbsp;The Malaysian Reserve",
       "key_points": [
         "Malaysia agrees in principle to support Maldives’ US$100m facility request, says Anwar&nbsp;&nbsp;The Malaysian Reserve"
@@ -1418,6 +1332,24 @@
       ],
       "sections": [
         "Education"
+      ]
+    },
+    {
+      "title": "Top Master’s In Management Programs In 2026 - Poets&Quants",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREV6VzBoOFBvREU2V3FERmhDZzE4ZDhhWmp0SHlFVWhxcDBNWlFEempzaC0yaExNaURuNFdtTzB6c29JWVJNN3FXYXVfaE1well1c2RsbHMzZ2tfV2FTUGVJUFF2d2UtQXl4dEU0eHQ4WjhHM0FrUFA1WU51ZVJVR3VEZldod0I5?oc=5",
+      "source": "Poets&Quants",
+      "published": "2026-09-15T06:24:43+00:00",
+      "summary": "Top Master’s In Management Programs In 2026&nbsp;&nbsp;Poets&Quants",
+      "key_points": [
+        "Top Master’s In Management Programs In 2026&nbsp;&nbsp;Poets&Quants"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
       ]
     },
     {
@@ -1457,21 +1389,21 @@
       ]
     },
     {
-      "title": "How The Health Care Management Program Can Help You In Your Business Of Health Journey - Poets&Quants",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPakZIWmZnV182SjNVQlRSakFSRHVYSEZSa3RoaXhvN0tocW9NbU5rMW1KYkkwWnBnMW9HMlBlY2dmMVFKRjI0aW45OXZMN0VhMHBDaFRuNExiX1ZOaFNMdkR4bWNXRFdxNU9lQ0NUMUdrQjNCQUhkX0wwV0NsbXZkV0c4T1Q4MzFFZFBIVHBVM0NWVTg5TnVxcE8yWFZDd0Q5MFFjVFRXR0w3bGdiRUZkTlEtUXRHWUh6b1ZXRnBhZGdrWHYzLU9ObGdMS2dJQ3pOQTNVS1hFNGt3R2c2cGdQVEJTTFJQcXVXRzRRZENCd1dPVHpuVDhNRHo3SVpYYW85QzZIcUx5ajVreENyb3dHQ0c3R0pISHpzRG5Wcg?oc=5",
-      "source": "Poets&Quants",
-      "published": "2026-09-14T14:36:38+00:00",
-      "summary": "How The Health Care Management Program Can Help You In Your Business Of Health Journey&nbsp;&nbsp;Poets&Quants",
+      "title": "Career & Finance Horoscope, September 14, 2026: Clarity may shape your career and money decisions today | Astrology - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS25uZk0xNlU4dFZQT1A5akQ1cUEyRkxCMGFJWHJtUzhrUWdiVGJRNkhENWdjNVh3V2hjNDZZX1B3Vlk4MFEwam54aDV3aTVrYjZaeFVucm5rejNWanU3QnlUQkU5RVlqUUpucWJpeUV6WS1jMzdaWkFRX0VZS2Q3eHplTktTQ0NjOEVrbWQ4bHVJdUc4V0NibEtTZ2g2NDVaQmZuaG9NWXYzRURZaTBaZEdiOXcxbzh2TDhYNDdDZ3RRQmp2b1FpMHcxUEp6VUQ1djJUTTVReTc2NzI2eEZicFZkUnVPWl93QlFRNnVIWnphZmNrUTFXMzZ4LVpCWlHSAYQCQVVfeXFMTXYzUE84NkREMVF1OEJWMTRlcVBlYkVVU2hDWFlrc2RDd2pPbHRYUXR3Q3BaaFhLcXhvbzRmWWlxMFZYZno3NzRBNGhlcTNxRXdDZUpkeGNEN1doU2ZsNjNZTlRXWmFmZ3hyQ2lIREU2ektENjBlZzJKTlJCbS10d3JaUEh2dUhkRDF1LTlSYlNBNElPc3N3YUEtZ0U3R3Jva1NZWklvUzV1eE55VnVoTVo2dmRfbzdFVUNwTFZwMGtfU19fWW9RclRmZ1dDLXRYSlZlbTRaM2JGa3pRWThfcXd2NEp3czB5WjZ2cHF3R1NhUE5DY1d5UDBSWTV4MktCR2ExaFU?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-09-14T03:01:39+00:00",
+      "summary": "Career & Finance Horoscope, September 14, 2026: Clarity may shape your career and money decisions today | Astrology&nbsp;&nbsp;Hindustan Times",
       "key_points": [
-        "How The Health Care Management Program Can Help You In Your Business Of Health Journey&nbsp;&nbsp;Poets&Quants"
+        "Career & Finance Horoscope, September 14, 2026: Clarity may shape your career and money decisions today | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
       "topics": [
-        "Business & Financial Analytics"
+        "Finance Degrees & Careers"
       ],
       "sections": [
-        "Work"
+        "Education"
       ]
     },
     {
@@ -1493,13 +1425,50 @@
       ]
     },
     {
-      "title": "Healthcare Meets Technology: The Rise of AI and Data-Driven Decision Making in Clinics - cxotoday.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTJRTGk0RU1rQ2R4VDhjaksxY2lxbmdFbkNZZ3l3Z1ZxdDVyNWxMMDhvZUU3eGNLbDlmanh1RHhjYkl2QWhoY2VrdE9nZGRrNU9SNDltU3V1S2UzbUJnNGRFNl90MzZhYWNqbm5hcUJOS2xPWUxNdUFMWE1JbXg4djZvUXFYYnFsUUtXRW5fMWxrUkVqV1JsaWFiWmUwVGJGbkdBZE9pb0JWNlNMWGZubnFTeXVrbXlzZWVTYWpoaw?oc=5",
-      "source": "cxotoday.com",
-      "published": "2026-09-10T21:45:31+00:00",
-      "summary": "Healthcare Meets Technology: The Rise of AI and Data-Driven Decision Making in Clinics&nbsp;&nbsp;cxotoday.com",
+      "title": "Malaysia’s Economy Projected To Grow Despite Global Crisis. Here’s What It Means For Malaysians - says.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxbTFaZ0lvMUJsbjFpZ05LcGJTVlk5QURWbGpQMVJ4NXQtOWtlQ1pBcjZwMnhCMzMwdDNBdi1oWXFhWW15akF3bWZLQUFUZUV2WWY1VHV3VUp5OXpJcGdZX194Q0s0UkNCaElZag?oc=5",
+      "source": "says.com",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "Malaysia’s Economy Projected To Grow Despite Global Crisis. Here’s What It Means For Malaysians&nbsp;&nbsp;says.com",
       "key_points": [
-        "Healthcare Meets Technology: The Rise of AI and Data-Driven Decision Making in Clinics&nbsp;&nbsp;cxotoday.com"
+        "Malaysia’s Economy Projected To Grow Despite Global Crisis.",
+        "Here’s What It Means For Malaysians&nbsp;&nbsp;says.com"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Healthcare Meets Technology: The Rise of AI and Data-Driven Decision Making in Clinics - CXOToday.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTJRTGk0RU1rQ2R4VDhjaksxY2lxbmdFbkNZZ3l3Z1ZxdDVyNWxMMDhvZUU3eGNLbDlmanh1RHhjYkl2QWhoY2VrdE9nZGRrNU9SNDltU3V1S2UzbUJnNGRFNl90MzZhYWNqbm5hcUJOS2xPWUxNdUFMWE1JbXg4djZvUXFYYnFsUUtXRW5fMWxrUkVqV1JsaWFiWmUwVGJGbkdBZE9pb0JWNlNMWGZubnFTeXVrbXlzZWVTYWpoaw?oc=5",
+      "source": "CXOToday.com",
+      "published": "2026-09-10T21:45:31+00:00",
+      "summary": "Healthcare Meets Technology: The Rise of AI and Data-Driven Decision Making in Clinics&nbsp;&nbsp;CXOToday.com",
+      "key_points": [
+        "Healthcare Meets Technology: The Rise of AI and Data-Driven Decision Making in Clinics&nbsp;&nbsp;CXOToday.com"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
+    {
+      "title": "OpenAI launches Data agent for business analytics in ChatGPT Work By Investing.com - Investing.com Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFBfcDdPSHNwQlprNVEtZEVsUzlBaldTNVNfbWZKVlNRSEdXa0pwenE1Q0t0clNaTWZkNnZ6dmpHNkJBbWdlb25yamRYUjlPX3lOVS10ZjV6Y2lqZFEyQVMtOUZQWnU4OWotRk16TzlKc1dRU0k1OGE4d29uUWk1LUpkeU11ZGZmQjJnVFdwMTdYSWRCWnpZZV9mUkxXbWJWSzZOV2V5My1qWG5JalVWRncxbGdaTHd2dWpHaGF4MWF5Z3Nq?oc=5",
+      "source": "Investing.com Nigeria",
+      "published": "2026-09-10T17:58:53+00:00",
+      "summary": "OpenAI launches Data agent for business analytics in ChatGPT Work By Investing.com&nbsp;&nbsp;Investing.com Nigeria",
+      "key_points": [
+        "OpenAI launches Data agent for business analytics in ChatGPT Work By Investing.com&nbsp;&nbsp;Investing.com Nigeria"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1529,32 +1498,14 @@
       ]
     },
     {
-      "title": "OpenAI launches Data agent for business analytics in ChatGPT Work By Investing.com - Investing.com South Africa",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYW1sNU5yb0RHbmd5Xy13YWIzV21nSFdQRVZGRkpLZ3hPOGlkQXBrTGFLR0FJVGdTSHRMZjl2U0pKTXA4RWdnclNpNm9jUnlZR3FTdXlqR2FQbEp6ZjRlWXN4ZHpHS2M1bUJobXp0enF4anFGQ3BLSTZYWHljMTY2c0pNc2JrVzJyb2phZ0NfeHJTRkF0TzB1RW1SbHJGSnlnYm5ia0xvMGRZVXFTVWdpVjVPWU45Yk1UZl9JaXhNdGU4NGJS?oc=5",
-      "source": "Investing.com South Africa",
-      "published": "2026-09-10T15:43:47+00:00",
-      "summary": "OpenAI launches Data agent for business analytics in ChatGPT Work By Investing.com&nbsp;&nbsp;Investing.com South Africa",
-      "key_points": [
-        "OpenAI launches Data agent for business analytics in ChatGPT Work By Investing.com&nbsp;&nbsp;Investing.com South Africa"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
-      "title": "M.Sc. Business Analytics: Colleges, Careers and Salary - collegementor.com",
+      "title": "M.Sc. Business Analytics: Colleges, Careers and Salary - College Mentor",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UVnRWZEtaY0ZOQm8wZ1dwSC1YRWtvVzZuVmhsSUE1aGZtN3VHbThUYS1VNGtMS0wtanRrSjJFUko2bzFXZ2tFeHNNVV9kY0JGZHJPclRsQU14cDNHV3NPVnB6VllnUFQ2SEE?oc=5",
-      "source": "collegementor.com",
+      "source": "College Mentor",
       "published": "2026-09-10T10:30:17+00:00",
-      "summary": "M.Sc. Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;collegementor.com",
+      "summary": "M.Sc. Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;College Mentor",
       "key_points": [
         "M.Sc.",
-        "Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;collegementor.com"
+        "Business Analytics: Colleges, Careers and Salary&nbsp;&nbsp;College Mentor"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
