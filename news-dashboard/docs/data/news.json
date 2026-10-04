@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:10:56.991071+00:00",
+  "generated_at": "2026-10-04T18:36:18.188773+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,82 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad (Finance) | Why brands like E.l.f., Wendy's and Gap are branching out into original music (Finance) | Fed minutes coming this week could give markets important clues about future rate hikes (Finance) | Zero-fee ETF BKLC outperforms Vanguard's S&P 50... - Pluang (Finance) | In the AI clamour everyone has a personal agenda to push - The Australian (Technology)",
-  "count": 84,
+  "daily_brief": "Top stories right now: I have news for Big Tech. We don't want AI to do everything | Opinion - USA Today (Technology) | Trump names new AI leader as he continues campaign to rename tech 'super intelligence' - The Independent (Technology) | Corporate America has never been this upbeat about future profits (Finance) | October can be a scary month for stocks. Here’s what investors need to watch this year. (Finance) | Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad (Finance)",
+  "count": 85,
   "items": [
+    {
+      "title": "I have news for Big Tech. We don't want AI to do everything | Opinion - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHZhQ3lyN1o3ekVwaVRwZDZGWlVvOW5qRGRCMWpoVkd0N252cHU5UTdJSzh0ZHU2bVhHN1Rack0tM1dna0JJZDNLeTZlSkV5Sl9mUjZDMU94YXI0N3djZ2pfVTN4aG11eER4Q3RVUkUtWjRhZ2RSVFcweGh5V2RfRWlEdHJ5ajFoMWU2YkJIVFpVdjFOQlplQWtqY1pnVEkzSjZvdVNIckxDdW1kSlNDelVfcXBXSTg2R1U0b0ZPNHA?oc=5",
+      "source": "USA Today",
+      "published": "2026-10-04T15:45:00+00:00",
+      "summary": "I have news for Big Tech. We don't want AI to do everything | Opinion&nbsp;&nbsp;USA Today",
+      "key_points": [
+        "I have news for Big Tech.",
+        "We don't want AI to do everything | Opinion&nbsp;&nbsp;USA Today"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Trump names new AI leader as he continues campaign to rename tech 'super intelligence' - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2hfZUZuVDk4TXg4bzJJSnA1YkFkNTIza01pRjN0bjdFclhQSkdXS0ZWTk8zWS15QXl6R0xBa3plcXBLRlZvTkhZZVcwaWNWaVk3S2JPTTRGWVhHTTJJdzk3NXpHQUttTDJEb19NbWFLamNSdFhwaUd5d29RMlpNRzgybFhEODd5MUU1TnlmYXFMMFp0Zzk5cHZFZVQxREphSlhJ?oc=5",
+      "source": "The Independent",
+      "published": "2026-10-04T14:31:00+00:00",
+      "summary": "Trump names new AI leader as he continues campaign to rename tech 'super intelligence'&nbsp;&nbsp;The Independent",
+      "key_points": [
+        "Trump names new AI leader as he continues campaign to rename tech 'super intelligence'&nbsp;&nbsp;The Independent"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Corporate America has never been this upbeat about future profits",
+      "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-04T14:00:00+00:00",
+      "summary": "As third-quarter earnings kick off this week, more companies than ever have expressed optimism about their bottom lines.",
+      "key_points": [
+        "As third-quarter earnings kick off this week, more companies than ever have expressed optimism about their bottom lines."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+      "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-04T13:00:00+00:00",
+      "summary": "If stocks see another big swoon this year, investors already know why.",
+      "key_points": [
+        "If stocks see another big swoon this year, investors already know why."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
     {
       "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
       "link": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
@@ -67,6 +140,61 @@
       ]
     },
     {
+      "title": "We're Witnessing the Stock Market Do Something for Only the 6th Time in 98 Years, and History Couldn't Be Clearer What's Next for Stocks - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazJmQThveVpDWmhZMVBNc3FmWVhEdDRYQjJZb2dMT0hDUWE5alV1cXdray1GbVBvNTRKVnBKV1J4NW83NTJ5eUhiQnpWZWZZS19LRHlBcXNrRDllU1FKWUFrMWRyZnJqbi0zZ21sbGN6MkRCdlA0Rmd3UnRWZXBmZ0VYZUVwZnl5R2hxUW1jenBVTC1pOTh5YkpjeGk3TEJCNHVDakJxV0EyUFBUZ3RWR2UzNnhwdDhQMlFiQTBDMzU2Q2dvMmlfVmhlemZLbk9w?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-10-04T11:36:00+00:00",
+      "summary": "We're Witnessing the Stock Market Do Something for Only the 6th Time in 98 Years, and History Couldn't Be Clearer What's Next for Stocks&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "We're Witnessing the Stock Market Do Something for Only the 6th Time in 98 Years, and History Couldn't Be Clearer What's Next for Stocks&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Weekly Roundup: AI Privacy, iPhone Demand, Wearables And Restructuring - Apple (NASDAQ:AAPL) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2s3ZWgzUm43Q052QVh1UnNfYWkxM1hHQUJaS2ZxRkVrNGJrNXFxdGQ1VmFfVl9RUWdSQ3VKWnJIMUdTU2dWY3dFTXl1dTcwc1A0cHJGdjZoRENHN2x2aUVIRjVHd0xpdXdLOTlhak0zcTFTdTFTM0FWQ05UTUdwRlFGa0lhWmRKWUxtam1JMmZpTXFJ?oc=5",
+      "source": "Benzinga",
+      "published": "2026-10-04T11:00:23+00:00",
+      "summary": "Apple Weekly Roundup: AI Privacy, iPhone Demand, Wearables And Restructuring - Apple (NASDAQ:AAPL)&nbsp;&nbsp;Benzinga",
+      "key_points": [
+        "Apple Weekly Roundup: AI Privacy, iPhone Demand, Wearables And Restructuring - Apple (NASDAQ:AAPL)&nbsp;&nbsp;Benzinga"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The S&P 500 Hasn't Looked This Cheap Based on a Popular Metric in Decades. Should You Buy Stocks Now? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWhYMFpfQlBoQXFFRWdhUHRHcXhnakpJc19PSjBSNk5SeFo1T3M4dFZiYmY5T2xXSlNZMlBOYTR6YVA4U1dPTE92aVhMczh4TXBLeGtRQ3g0UkpGbGxkLV9vTWdoamZWNnU0Wk52bXR1UFZmWUY2dW5kbUxfNTkwWGZfNWJnRk5tMlBoSGRKR3VMWUNHVFBxbA?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-10-04T10:21:00+00:00",
+      "summary": "The S&P 500 Hasn't Looked This Cheap Based on a Popular Metric in Decades. Should You Buy Stocks Now?&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "The S&P 500 Hasn't Looked This Cheap Based on a Popular Metric in Decades.",
+        "Should You Buy Stocks Now?&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Zero-fee ETF BKLC outperforms Vanguard's S&P 50... - Pluang",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDRJVGJxelBpM3VBTTdudks1XzFCeEZZb0FPZ2pnc2xBTXgxeFhyNUpualhtVGJVX0dzLTA4SGcxdFBHRERxSWJtWlY1V2tSTXpJdGNZVy1ZTGRjaG40YmNVTTRrUFlnbnhuS3JoV2VCOXhOMk4xb3k4SkJMVU1RdDJhdklSWElLVXk4ckowV1g3Yml5dFRySzJKUnRZdUxXNDhyUg?oc=5",
       "source": "Pluang",
@@ -88,7 +216,7 @@
       "title": "In the AI clamour everyone has a personal agenda to push - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcEZxM29rWmtIUTNvTk1sRW9zZzNySzBGeGstWFNBOHRjdWlFWU1lb1NuOE5DQkhnUWV3SjVmdmk5cFNXck1PR3NCN0dtQUVyczBPT0dpNTltS01ZVkdZakZ5aWczbjVaX0Zob0ZmVHhsd0I2dFNsbklPZTVjUFY2X255c0R0ZjZ1QXRSUW00SmEzU1RLM2hSQjh3WFoyMlNLbU80b0t1YUZQaG93dDdWelMtQ2pSN29jdHpMNGtFS2poUkpwNVJ0WW1iVXlnTW81VnM3Tnd4UXRXcllMUUt2Zkt5Wm1ObWNGWklhUk9sbTRic3MzV01QUHdR?oc=5",
       "source": "The Australian",
-      "published": "2026-10-04T10:01:32+00:00",
+      "published": "2026-10-04T09:25:01+00:00",
       "summary": "In the AI clamour everyone has a personal agenda to push&nbsp;&nbsp;The Australian",
       "key_points": [
         "In the AI clamour everyone has a personal agenda to push&nbsp;&nbsp;The Australian"
@@ -106,7 +234,7 @@
       "title": "Artificial intelligence fastest-growing farm tech - Country Guide",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd09pQVQ3emNxX25GektYUmx1YXRJWnhGaTBBQjBWS2Z4bWpxVGRHRElESk1GeVBnVXU5VGJsSmRBbXJtSGl0MnFYaGlVTjRXLUNHLVZVSmVpMnNmUFZESHFsRzhMWGZjcEkxVW9qVFFUcWp2RDhJMGtfNVJNc2VxODdCYzJwNElHS1pWS2JB?oc=5",
       "source": "Country Guide",
-      "published": "2026-10-04T09:02:26+00:00",
+      "published": "2026-10-04T09:07:00+00:00",
       "summary": "Artificial intelligence fastest-growing farm tech&nbsp;&nbsp;Country Guide",
       "key_points": [
         "Artificial intelligence fastest-growing farm tech&nbsp;&nbsp;Country Guide"
@@ -311,13 +439,13 @@
       ]
     },
     {
-      "title": "US MARKET CALL: Stocks Ignoring Bonds, For Now - yardeniquicktakes.com",
+      "title": "US MARKET CALL: Stocks Ignoring Bonds, For Now - Yardeni QuickTakes",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYU1rZGp6N0hrNENReTlFODdReExsNGFmUWpqMlcwaWdHSVdCN1RZVVV0MnF6Q3V5bURkX2hoNEdqY0UzeEdIb0FYbENnTWxTTGhTTkxFeXJrRTZuVEtqMHpQSVlWdURROXNrU3dzWW1wTDhsYWxUTGdlcnRDZTYyQThPVk9Vdw?oc=5",
-      "source": "yardeniquicktakes.com",
+      "source": "Yardeni QuickTakes",
       "published": "2026-10-04T04:10:35+00:00",
-      "summary": "US MARKET CALL: Stocks Ignoring Bonds, For Now&nbsp;&nbsp;yardeniquicktakes.com",
+      "summary": "US MARKET CALL: Stocks Ignoring Bonds, For Now&nbsp;&nbsp;Yardeni QuickTakes",
       "key_points": [
-        "US MARKET CALL: Stocks Ignoring Bonds, For Now&nbsp;&nbsp;yardeniquicktakes.com"
+        "US MARKET CALL: Stocks Ignoring Bonds, For Now&nbsp;&nbsp;Yardeni QuickTakes"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -347,13 +475,13 @@
       ]
     },
     {
-      "title": "Weekly Career & Finance Horoscope, October 4 to 11, 2026: Stay consistent and choose strategic growth | Astrology - hindustantimes.com",
+      "title": "Weekly Career & Finance Horoscope, October 4 to 11, 2026: Stay consistent and choose strategic growth | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNek9WekpIZ2JlbjM4WENNT2pBQjQ0SVlOVUZhNkpfWXp4VnBKb0xCSVFhMFVrdkU0R1dpbFdHdExGZW9Iak5GNjkzX2xYN1hsdGdMb2ZPQnZKamF3VnlLaUg2elJWSFpuUXY2SW9GWG11OGRYX1RPQ1REMTZrWW9XM1ZLMVNvUnRVbFo3U19Mbl81UkxJMTdUX0NIdm9vZUVVXzU0RG85RFE4U0JkZUp2TE42ZUNVQzF2dEdlWkJkR3ByeXdVU2xWdHNzREI2TFZvVzN3U25kYnlVTF8zX1BuSlZQeG5JaWtzU05pRE5lUUpNLU5uWTh5WFo2RFXSAYICQVVfeXFMT212RmVOdWhXREl5cnQwS2FTMVhlUEMyaGhLQjFuczhlZHRoQ1dLTFpaSVkyWHA2T1lpQTkzZENCRm9GOF9HWkdSaTljRGxpeUtDZl95UHdoLUVWSUw4ZkxCOHJuUHYyaTJoTUNBRi12alVCcVlmX3ExWVdqc3dNTjhDaFR4UzhpYk1Oa3hKeTR2UU9kN0FzUG5JS05IcjR3TWRxNjhGR2lNMXFEWm5vcU93RmRyb1c2b3dHMFNqWjNzM2o5eWZvWXI5NnU1VlNNZEdKX1d1QVMtbEEyd2czaHkyNmZySGhZdzVydllnQ2U1SGhCT1E0NFZwRVhhaXZOMEZR?oc=5",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "published": "2026-10-04T03:00:11+00:00",
-      "summary": "Weekly Career & Finance Horoscope, October 4 to 11, 2026: Stay consistent and choose strategic growth | Astrology&nbsp;&nbsp;hindustantimes.com",
+      "summary": "Weekly Career & Finance Horoscope, October 4 to 11, 2026: Stay consistent and choose strategic growth | Astrology&nbsp;&nbsp;Hindustan Times",
       "key_points": [
-        "Weekly Career & Finance Horoscope, October 4 to 11, 2026: Stay consistent and choose strategic growth | Astrology&nbsp;&nbsp;hindustantimes.com"
+        "Weekly Career & Finance Horoscope, October 4 to 11, 2026: Stay consistent and choose strategic growth | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Medium",
@@ -539,7 +667,7 @@
         "“The only debts were utility and credit-card bills, which we will pay off.”"
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -557,25 +685,7 @@
         "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors&nbsp;&nbsp;The Motley Fool"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Michael Saylor Says Strategy's STRC Is Now Steadier Than The S&P 500's Biggest Tracker: ‘A Milestone For Digital Credit’ - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjZGa3RialVlamxyNU1tblIyb3c2WEhVNkF2ZTdYQlQ3T3QwTjJ6bXVmRWJsc212empma0VvdmZ1c0x4ZW5IOVd4ek5YVjZEOS14V1lXMERRV3dDX1FBTW04MFR5UV9WSGs1aERuRmE0TlNVcGVONWdabnotb2FtSDB2THlwNXFfdVprRkM4OXVraFd1S00xT0dVNzhtblZ6ZlJrQVpOMzRCNFZNMVlVbG9mYXUwVDFDa0pKQzdfUmgtYXM?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-10-03T17:47:00+00:00",
-      "summary": "Michael Saylor Says Strategy's STRC Is Now Steadier Than The S&P 500's Biggest Tracker: ‘A Milestone For Digital Credit’&nbsp;&nbsp;Stocktwits",
-      "key_points": [
-        "Michael Saylor Says Strategy's STRC Is Now Steadier Than The S&P 500's Biggest Tracker: ‘A Milestone For Digital Credit’&nbsp;&nbsp;Stocktwits"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Stock Market"
       ],
@@ -593,7 +703,7 @@
         "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Stock Market"
       ],
@@ -611,25 +721,7 @@
         "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Switching jobs to get higher pay works best in these industries",
-      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-03T16:42:00+00:00",
-      "summary": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
-      "key_points": [
-        "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -647,7 +739,7 @@
         "Apple Stock Forecast: Can Apple Intelligence Spark the Next iPhone Supercycle?&nbsp;&nbsp;TradingKey"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Apple / AAPL"
       ],
@@ -656,75 +748,21 @@
       ]
     },
     {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-03T16:00:00+00:00",
-      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-      "key_points": [
-        "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Morgan Stanley Expects S&P 500 and Market Breadth Gap to Narrow - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaG5QRTdnUG02amR2dndVVGJWYnJxOGwxX3d5aDFRWUVjTzY5NUtjNl9fSVYyLXBMNHkteXBwRUVZeXRrRWtENEJNdURRNGZRMUZhMGhrdmVFd1B0bDg2VXJCWVdDbkhxSlRwRVNmNVk2aURmSi1qY3ZjTmhKWlFBTDBOeURDck1kRFlmSDZWVzRCWjdkX2VrZw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-03T14:43:56+00:00",
-      "summary": "Morgan Stanley Expects S&P 500 and Market Breadth Gap to Narrow&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Morgan Stanley Expects S&P 500 and Market Breadth Gap to Narrow&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Sabah FA - Perak FA, 11/07/1998 - Malaysia Super League - Match sheet - transfermarkt.com",
+      "title": "Sabah FA - Perak FA, 11/07/1998 - Malaysia Super League - Match sheet - Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tRWxZby1xYkN5LUNYamZzMGJ3Ylpvd1AyZzFiekw4YXMwVWVWSDZLeWlvbkdNXzduTHlaUXdrTkRwQThaUTFYcEpxZUpnNmVwbHlURTI5VHVjeFNUT09jbnI1Ymc1S0NWWWVWT1JYbWF6VkdHRXhmSA?oc=5",
-      "source": "transfermarkt.com",
+      "source": "Transfermarkt",
       "published": "2026-10-03T14:43:39+00:00",
-      "summary": "Sabah FA - Perak FA, 11/07/1998 - Malaysia Super League - Match sheet&nbsp;&nbsp;transfermarkt.com",
+      "summary": "Sabah FA - Perak FA, 11/07/1998 - Malaysia Super League - Match sheet&nbsp;&nbsp;Transfermarkt",
       "key_points": [
-        "Sabah FA - Perak FA, 11/07/1998 - Malaysia Super League - Match sheet&nbsp;&nbsp;transfermarkt.com"
+        "Sabah FA - Perak FA, 11/07/1998 - Malaysia Super League - Match sheet&nbsp;&nbsp;Transfermarkt"
       ],
       "why_recommended": "Matched your \"Malaysia News\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Malaysia News"
       ],
       "sections": [
         "Personal Interests"
-      ]
-    },
-    {
-      "title": "Bond Volatility Could Determine How S&P 500 Breadth Gap Closes, Morgan Stanley Says - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWpZMG85SWFoSHQ3R1ctVV91RjZpbnZwVXZrUkF0R1duWWJKZkFMNWZlNkpCMTBuS2FNTzdHRDdaUldZSXJjNWtEbzdJbDN5YmtNZG15OFhHZGI1TEtPc0JGOHpmUnlINE14b3pGUjAwX2pSVXI0b1pYcWZjc085NXlVd2g3aXJaMUE?oc=5",
-      "source": "Yahoo Finance UK",
-      "published": "2026-10-03T14:43:34+00:00",
-      "summary": "Bond Volatility Could Determine How S&P 500 Breadth Gap Closes, Morgan Stanley Says&nbsp;&nbsp;Yahoo Finance UK",
-      "key_points": [
-        "Bond Volatility Could Determine How S&P 500 Breadth Gap Closes, Morgan Stanley Says&nbsp;&nbsp;Yahoo Finance UK"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -737,30 +775,12 @@
         "From a career in finance to the pro-life front lines in Japan&nbsp;&nbsp;liveaction.org"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Finance Degrees & Careers"
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "Apple to replace iPhone 18 Pro Max facing AT&T glitch (AAPL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXY5MlNkUEZONXRkMzQ1ZVgwbDB4S1JfM1lJdG1IdHdJdGY1UXNYQzJKZDk4YlVkMW8wMkd6TmJKalJSQk51OUcwQk5WYlREZGlpQmM2ZlZ4bnhObkZScUhPUVRFM3BxcXYyRnZCSm9PVHd5NmJ2cFNpemdMLWt1SllaaC0zVHlfazVSQ0pQdWFRWGpx?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-10-03T13:29:18+00:00",
-      "summary": "Apple to replace iPhone 18 Pro Max facing AT&T glitch (AAPL)&nbsp;&nbsp;Seeking Alpha",
-      "key_points": [
-        "Apple to replace iPhone 18 Pro Max facing AT&T glitch (AAPL)&nbsp;&nbsp;Seeking Alpha"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -773,30 +793,12 @@
         "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x — agents are mostly rereading what they've already seen, skyrocketing KV cache demand threatens already-worsening RAM shortages&nbsp;&nbsp;Tom's Hardware"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
       "sections": [
         "Technology"
-      ]
-    },
-    {
-      "title": "Wall Street Expects S&P 500 Profit Growth to Collapse From 35% to 15% in 2027 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPblVqZkl3Vm9HQ2RHT1RHZFNjRWdla1B2dV9WVUFjZnlBSGpKREFIaU1lRXN4LWVXNW1LVmRTNVBaTWpXX25PSlcxZDE5YndROENMYjBuZks3Ri0wdk9NZDFmZ0h4M0lMcDVVTWVNbXhWSHBOaVltSjlPR3RveWRCcTVwQUFFM05pYVFFOEwxTEZRZjFG?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-03T13:08:44+00:00",
-      "summary": "Wall Street Expects S&P 500 Profit Growth to Collapse From 35% to 15% in 2027&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Wall Street Expects S&P 500 Profit Growth to Collapse From 35% to 15% in 2027&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -809,7 +811,26 @@
         "Global tech policymakers agree to embrace AI in science&nbsp;&nbsp;NBC News"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code. It's Electricity, and He Says Elon Musk Just Found a Way Around It. - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNVk5qQXNsYnlreHN5OE41UW9Cbm0tY1YteUV2QmFzZXh5ZjdqR0ZKZ3NGRVlSUXRXbDl4dHdPZDgxSXBySXBodWdwcXF6VHV3NFBmR0xuQWdWVTRuckZyMUVTMXNNc2tpUV9hSDZZWXNxUU9lZ3NnVWpkR0stWDlneUwyTHZFeXhPVExTUS1uY1FmM1NHdHlMTURSQjBIOGl1cXhyWlBSTHpMWXJpQzJNWTBlamNTVk9PX3oyVFJkamlPSEdVeFBueXprUU5fZXZDbEFsalBSVGxMNWQ2UEk2QUIwWkdQdVVnQ05DVHFicGVDcUgweEJSbnpKTXhkcjc4Z01kNTYtNE5iV0J4d0t1UVhGUGFjRUV6LXRzUXljTUxFQnNkNmVfVFhzMlNiQS1pWFA3N0xSTnUyLXRn0gHCAkFVX3lxTE9WdVpEV0NOb0h3V2ItemhOMXozNVUybGRQY2VNTHREWGM5cWhkbkw2Tm5zeElJWlFKb0hZQVNFeFB6bWJoazVmNUQtLWFLS1VHZE9qcUgxUzBGYXlKZXpKVm4ydXFIMTFPTVkzUDlxaFdDbHd4WnhMNjhhWjU3MGtZc1ZxYjRVc2FSZm5IZWF1YzVMNEI0YVpjb0xXdkpxcDRDakRWWTFoYmlmdERZR0ZPYnRTQUlPczBGU01OQkxLTlV1TFAzdFJVSmhyZWZQWlBMTDdNTU56UUJ4VjBMMjNoNlJXaWZoTlZYLWV3Qjd2cjU3VVNCTXpZbC1WZ0xxQjZWSDdwelJpRjVjTFQ3V1VKb3FOZE1OYjViZGxGX1lHQzVYWi1ZaGwzTmMxR2RxdGNPNnVsNXlqV1lZMGpJcG1kT2c?oc=5",
+      "source": "The Manila Times",
+      "published": "2026-10-03T12:12:48+00:00",
+      "summary": "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code. It's Electricity, and He Says Elon Musk Just Found a Way Around It.&nbsp;&nbsp;The Manila Times",
+      "key_points": [
+        "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code.",
+        "It's Electricity, and He Says Elon Musk Just Found a Way Around It.&nbsp;&nbsp;The Manila Times"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -854,25 +875,6 @@
       ]
     },
     {
-      "title": "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code. It's Electricity, and He Says Elon Musk Just Found a Way Around It. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXl1b3U0N1pyRGNUaTdublpRUE5DdzJ4LTN6T2cya29ZbU9vNWJVNjZQNGViQkh5d2otZTNDcDQ0aFBBMlFmNnhqTDVpUVZ6QUNEc1dPbTBpRm5HZ1NBdldscmE0TUNaakFCTFdGOXRNLWx1M2x0cVZfb1M1bHBEVldMb01mS1VoMGVEV0JmXzR5RlpjeDBORGIzMUswQjczaHBlQg?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-03T12:00:00+00:00",
-      "summary": "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code. It's Electricity, and He Says Elon Musk Just Found a Way Around It.&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "James Altucher: The Real Ceiling on Artificial Intelligence Isn't Chips or Code.",
-        "It's Electricity, and He Says Elon Musk Just Found a Way Around It.&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop submissions — product flaw submissions halted until 2027 as maintainers drown in hallucinations - Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOdl9WdlplbUl6TW9SVDV2T0czajVvN3hDVXB1emROaW5FVEs3MTI2MXAzYndQRGxyY3hwdXR1OTRwNTBYcm1pQ1FKMjVVS3ZLemlDeXVWSUtlVGVJendrNEY2eVprRk92OS1nY3haWXVOWmU0dnMzVVpxSWRPVTY3N0txMGp6SjU5TEY2V1UyNzhyU01TbWprUFl3ZVJjT3lxUlE1c2JQTzdmVUNQT05hcUZ2Ym5McURvcFc2c1lYNTgzZmVmSTdjNVltNUpqSlh4S19SWlRsTDlCdGdJb1I1OUpOT3BGWlpoa2I1OHFXdjkxTTBIUHBYVXV0czlmbHZkR2dNT2hKVUg1dHdlVkVuVmVrSjVwOHduQkdyRkdRbS05RlJGanJhMHhPSTNTcnZKb3FyeVBzOEF5Zw?oc=5",
       "source": "Tom's Hardware",
@@ -909,6 +911,24 @@
       ]
     },
     {
+      "title": "Bond market zig zags threaten S&P 500's smooth ride - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1pSU3RsYk9QZzdoU0t4UlY1S1QtRUFtOTBFTEp0TkdxY2stLVhFckw5bHdNUUxRVGdUdHhnVmFQRmhhcVRnZE9FV0NxbmdFVnY3dWgtbDBkX1BDRDBEZ0lKTHZ0Z1Y0SWNYaDY2ZEhuMldyUDdZLTFIY21TVENBdjdidjZVNld5alE?oc=5",
+      "source": "Axios",
+      "published": "2026-10-03T11:06:04+00:00",
+      "summary": "Bond market zig zags threaten S&P 500's smooth ride&nbsp;&nbsp;Axios",
+      "key_points": [
+        "Bond market zig zags threaten S&P 500's smooth ride&nbsp;&nbsp;Axios"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
       "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
       "source": "Business News",
@@ -927,13 +947,32 @@
       ]
     },
     {
-      "title": "Career & Finance Horoscope, October 3, 2026: The right connection may bring an unexpected career opportunity | Astrology - hindustantimes.com",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWHZQUk1UaENDQ0hEc2VRdnFlTVE1ZkNzZDhySzltQnRTbG9NUElLRENxQnVIUEVzMmViS2xNQ1BOLVJoMm0tX1hDZklwbDFfWU4yUld3blBJVGZPaVhmeVEzTDNlalNTTmlfREcyNlllZy10dExDYVdLZ0M3N3ptcnJWLUNPbjZ6UFY0VmZlRndzdlhrMWM2TThndXVaUzFXaDNfMnd3RUNKQmVnX3U3OE5KUWhEYkdJb1BYOVVSYTZyRDJfaDlCMmJBcjllUVVoak1heGhEUTJLRXRTOXkzS2p1SEVGRnFIY1JVRnFwQ0VlZlJ2eFJVM1BfdkcwbnkzNHc2YzhB0gGLAkFVX3lxTFBvN09TWDhVekViMlZhaXFVQWVUakxBSnpKRU5wSnRMMG5IZjZzclh6WFF0RFBDQjg2WElESzBwcDA0UVIwNWF1ZmhpQlIxSlQ2STQyWFRwS3kzZDJjY1hRaTRKeVRFU0VFY1VNRzZOUHdMYzF0LXI2YW9oY1hmWGREdlU4UXVxSWYwQlJ1REg4U3ZNSk9ZTHpGaVczWDA5QTZLTnlHdnhfNnZjUEVSTjNPYmozaEdrUDZLRUlYdzFCYzNDQ3ZqYzVsMUk0TTFRMmpqMUZ5TkZldnNGMWNLY0poRDEtV0c0VmV2N1VjRHdOZFZPa0FJbjBUdlFHNjJfUlBoVVg2TkZNdmVmaw?oc=5",
-      "source": "hindustantimes.com",
-      "published": "2026-10-03T03:00:06+00:00",
-      "summary": "Career & Finance Horoscope, October 3, 2026: The right connection may bring an unexpected career opportunity | Astrology&nbsp;&nbsp;hindustantimes.com",
+      "title": "The Stock Market Just Flashed a Warning Signal Seen Only Twice in 155 Years. Here Are 3 Stocks That Can Weather What History Says Comes Next. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOVlqMFVRNm1sX2RJZ2htNlcxM1QyM0V1anloV3FTQllEZVNKWFZydm9VQmNRQlBLNGRoanNJSWxHZUVzOUJxT2VZaU1JU2t1N0V6N0FvUlY3QXREaEFvN0hsSzFNZlp3NFgxckhfMXVJWFpZTG1iVGw1VlE0bDExbzRMRENTMEF1YlFDNDZ3cUhsRzNWNV9uNU53X0RYMXVyandtU19kMUVURXdxbVUtYUFhWXFOeXpScXppaDlab2ZzendoRVd4Y25TU29HU0JNOU44SjFHWXQ5VDZ0dmt5cUZTWXdWRzVJdWdSTGY5NWFTY3RreDlZSVh0OGNWRzlwbGxKbHd3d3dBeFRVNmNZ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-10-03T09:25:00+00:00",
+      "summary": "The Stock Market Just Flashed a Warning Signal Seen Only Twice in 155 Years. Here Are 3 Stocks That Can Weather What History Says Comes Next.&nbsp;&nbsp;The Motley Fool",
       "key_points": [
-        "Career & Finance Horoscope, October 3, 2026: The right connection may bring an unexpected career opportunity | Astrology&nbsp;&nbsp;hindustantimes.com"
+        "The Stock Market Just Flashed a Warning Signal Seen Only Twice in 155 Years.",
+        "Here Are 3 Stocks That Can Weather What History Says Comes Next.&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Career & Finance Horoscope, October 3, 2026: The right connection may bring an unexpected career opportunity | Astrology - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWHZQUk1UaENDQ0hEc2VRdnFlTVE1ZkNzZDhySzltQnRTbG9NUElLRENxQnVIUEVzMmViS2xNQ1BOLVJoMm0tX1hDZklwbDFfWU4yUld3blBJVGZPaVhmeVEzTDNlalNTTmlfREcyNlllZy10dExDYVdLZ0M3N3ptcnJWLUNPbjZ6UFY0VmZlRndzdlhrMWM2TThndXVaUzFXaDNfMnd3RUNKQmVnX3U3OE5KUWhEYkdJb1BYOVVSYTZyRDJfaDlCMmJBcjllUVVoak1heGhEUTJLRXRTOXkzS2p1SEVGRnFIY1JVRnFwQ0VlZlJ2eFJVM1BfdkcwbnkzNHc2YzhB0gGLAkFVX3lxTFBvN09TWDhVekViMlZhaXFVQWVUakxBSnpKRU5wSnRMMG5IZjZzclh6WFF0RFBDQjg2WElESzBwcDA0UVIwNWF1ZmhpQlIxSlQ2STQyWFRwS3kzZDJjY1hRaTRKeVRFU0VFY1VNRzZOUHdMYzF0LXI2YW9oY1hmWGREdlU4UXVxSWYwQlJ1REg4U3ZNSk9ZTHpGaVczWDA5QTZLTnlHdnhfNnZjUEVSTjNPYmozaEdrUDZLRUlYdzFCYzNDQ3ZqYzVsMUk0TTFRMmpqMUZ5TkZldnNGMWNLY0poRDEtV0c0VmV2N1VjRHdOZFZPa0FJbjBUdlFHNjJfUlBoVVg2TkZNdmVmaw?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-10-03T03:00:06+00:00",
+      "summary": "Career & Finance Horoscope, October 3, 2026: The right connection may bring an unexpected career opportunity | Astrology&nbsp;&nbsp;Hindustan Times",
+      "key_points": [
+        "Career & Finance Horoscope, October 3, 2026: The right connection may bring an unexpected career opportunity | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -970,42 +1009,6 @@
       "summary": "The AI Doomsday Smoke Screen: How Big Tech and Politicians Are Blending Panic for Profit&nbsp;&nbsp;Android Headlines",
       "key_points": [
         "The AI Doomsday Smoke Screen: How Big Tech and Politicians Are Blending Panic for Profit&nbsp;&nbsp;Android Headlines"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Who will regulate artificial intelligence? - en.yenisafak.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVllHM3B3YV9Da2hNOVdsYTFYSHAtcXVVQkVjVm90ZW1QMWctSEhDWU1ZbThPS1BhcmQ1THZabGZ6a3A5RHJCZGlQOHlTUFRISHljbEg3Zkk5NXJBUzVtT1p1Ni1sQmdiMWJ1S3ZBSG5kN1hUYjZBNGVWcGh4RWZCSExoeWthSGhOeTc1M0JTVFYtWURtY3Y1YUxR?oc=5",
-      "source": "en.yenisafak.com",
-      "published": "2026-10-02T20:22:31+00:00",
-      "summary": "Who will regulate artificial intelligence?&nbsp;&nbsp;en.yenisafak.com",
-      "key_points": [
-        "Who will regulate artificial intelligence?&nbsp;&nbsp;en.yenisafak.com"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Google Accused of Illegally Killing a Massive Forest for Its New Data Center Project - Futurism",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXVKV2lkNkJZa0hVaUVVOEJGRnFuLWxyY2M4Z2VoR01iLVpxbW1WZXVua1Z4d1ZRV3F6YnZXLWtjX3d2YXQwbUdVenY4SVY2Mm94REJtQ0dIcFpoWDFIVTN6V3NDZ1M2YlBsOE9VSmxmQzFXUEV2NVZZbzhSQXJfVDZqUXg5Q2F2NWtzWU5wNGh1QXJ5ODJzcEZvclk?oc=5",
-      "source": "Futurism",
-      "published": "2026-10-02T19:50:42+00:00",
-      "summary": "Google Accused of Illegally Killing a Massive Forest for Its New Data Center Project&nbsp;&nbsp;Futurism",
-      "key_points": [
-        "Google Accused of Illegally Killing a Massive Forest for Its New Data Center Project&nbsp;&nbsp;Futurism"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1162,13 +1165,13 @@
       ]
     },
     {
-      "title": "Wüest Partner and MSCI join forces to support data-driven decision-making - assetphysics.com",
+      "title": "Wüest Partner and MSCI join forces to support data-driven decision-making - ASSETPHYSICS",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2xGd0dYM2puVjE2Q0taal9qLTg0b2hOeWlsZHVVMEZEWVl5Y25LQlJmMTdNRG1VX3JVeHZTcy1EUXUyY1g1TDNSM1Z3MExDdVFLRDJEUWFpaFdzXzZ4LVVvTllPcUxOc0hSbmdRdTFQVG95S3RkNFRXUVBnbmstMFp3SkZkMUVlVFUyZTM5MWlzWklTRU5wNjF0VGVWMUk?oc=5",
-      "source": "assetphysics.com",
+      "source": "ASSETPHYSICS",
       "published": "2026-10-02T13:41:20+00:00",
-      "summary": "Wüest Partner and MSCI join forces to support data-driven decision-making&nbsp;&nbsp;assetphysics.com",
+      "summary": "Wüest Partner and MSCI join forces to support data-driven decision-making&nbsp;&nbsp;ASSETPHYSICS",
       "key_points": [
-        "Wüest Partner and MSCI join forces to support data-driven decision-making&nbsp;&nbsp;assetphysics.com"
+        "Wüest Partner and MSCI join forces to support data-driven decision-making&nbsp;&nbsp;ASSETPHYSICS"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1180,14 +1183,14 @@
       ]
     },
     {
-      "title": "Career & Finance Horoscope, October 2, 2026: Are you risking too much? Choose reliability over uncertainty in your financial decisions | Astrology - hindustantimes.com",
+      "title": "Career & Finance Horoscope, October 2, 2026: Are you risking too much? Choose reliability over uncertainty in your financial decisions | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdE1rTTNsYmVZZ3d6cGwyRk52WVRLOE0tanFVZXZ6X0x0U0JLT2NNS0hGMWR1Y1p3TzlOX19uTkZodjFjXzdKbUp2OEI4RTZpVThoUlRDNWxvV1FxR2tmSlhqaGhkWjRKbDVYNEpVOEpIRGFsUjBpaC1HRFRmUjc1SFZwbXhPMldmQ1FLOEhBTDdBSzNqaEJsWXUybTM4QmtDUDJSOTRxb3VkcDJVR2lzLUhUMktlZms5YkdjQUxaWWRQbHBxbDBWaFBBUXI1Zkd6TExfTWZlOWRRWjN0STNNWEtNbUxPRmk5X2M5S0pBWElEQllVTVdjTmE3Rjg5Tmp5UFFoclBCU3dYREloVTFuS1BwcWMwQW1JM1FyN09DNWJCYkpMVi0w0gGsAkFVX3lxTE5oMFVkRlFtcTM3elNUb3VzQTZQdmM3a05MLWQ0ajJmRExSZFVSNnBRejk0U0FGQXJHQ2dKLXFTanhtTHdjT2pzYllMeVBmXzN6QnBrcmg4YkFnWUF4U2RPQ2pDMHFkNVNFZWFsUlh6Z0FZRll1YjlzbnhtLXVnODJHUVpLNXFtd3pkeFJsdjJjNm9wa0dMR3BodGZWcVV5V1hfU0hnOVl0clhfbDdQZ1NRWmdKcHhPM3I1aVhrYVdZbTJHMEdGdXIwNUR4UnExTUoxZFhoNXNMSDN0azROM0lEVjE2UWx2cEktaWRDNTlFNEJwMHdXcjJVMktpX1VnNXNKVEN0bVotSFBhUEktblVvc1RmOEtqa2NXdHBLZ3VXOTNvVDBoSnJnXzJMQw?oc=5",
-      "source": "hindustantimes.com",
+      "source": "Hindustan Times",
       "published": "2026-10-02T03:02:56+00:00",
-      "summary": "Career & Finance Horoscope, October 2, 2026: Are you risking too much? Choose reliability over uncertainty in your financial decisions | Astrology&nbsp;&nbsp;hindustantimes.com",
+      "summary": "Career & Finance Horoscope, October 2, 2026: Are you risking too much? Choose reliability over uncertainty in your financial decisions | Astrology&nbsp;&nbsp;Hindustan Times",
       "key_points": [
         "Career & Finance Horoscope, October 2, 2026: Are you risking too much?",
-        "Choose reliability over uncertainty in your financial decisions | Astrology&nbsp;&nbsp;hindustantimes.com"
+        "Choose reliability over uncertainty in your financial decisions | Astrology&nbsp;&nbsp;Hindustan Times"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1199,121 +1202,13 @@
       ]
     },
     {
-      "title": "Taurus Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHdIS1FoNEZmaVltT2NyYWo2dHoySFRLUkxjRzlUaTJTX3Jvb0lsV1A0VzJBbVZLMjNGNGctVGRfVmZQV1BuY3lDMWNTdkQ4RXR4b3dFY2Y2bmpkai1NR05ENUtwdlEwcS00SUVXeHJaZGxpX1lhMzAyMndydE9LNjYydjF3cVNwNTdKb2JHTWRDTFRTbG5QdXdkNlpQWEFVeGdsWWU5VHVtTzhVY3E0RUc5TFd2R2NSbFF5azJONmY2c0hZaHNxSlNzbzhCQk10TEpLYlRhTzdkTXBWeUFhUVY1dEUyd9IB7AFBVV95cUxORFNQSXBUcHNJZG5mNXFseGpUUmpOc0ppT0Zob3VtdFU3UFJNUVhzVldvbjQ1NDBHU24wR3FZMEM3bFFyYzFhN2tSVVFEbWVIbzgyS1FickFxbEU1NVRNdTRUbTdFbkI4dkxncnFFSG9JYW9yNnZReG9PTGdtU2R2SG5US2J1Yk51N2hRc25JdzViQ0lkM1NkVnJOUGxEdWRtVUNjQ3ByQ3haQUNVLUF5bHFSeDBEN05DVnlRTkVOcjF2M0dIWEJtNEoxd0FYck5xQWFqdUZtb1VqZEEzRzAxLUJrb3l1YmVEay03ag?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-10-02T00:30:00+00:00",
-      "summary": "Taurus Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
+      "title": "Junior Finance Major Builds on National Internship Success - aamu.edu",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOF84UjJRM1BONk9yWWhiS3dZWFc5RGhjRzNTS2pfQUM2b0x2bjNRdTdXWnlKUFJMOVc1bkNJLXdsamY0SWM2WW1vT1FIYWttYWlPbEVZV2RrWGZKcGZfUGVqay0yNjhRYnBnVXQ1UWd0NDRHRjFUbzdfZmJabEJ5MzJmaUM3Qi04dGRMWld4aGNyVUkwTFFkVkE1NnE3TGEtaVZ3OGVhWlU3WGs?oc=5",
+      "source": "aamu.edu",
+      "published": "2026-10-01T11:45:42+00:00",
+      "summary": "Junior Finance Major Builds on National Internship Success&nbsp;&nbsp;aamu.edu",
       "key_points": [
-        "Taurus Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Aries Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRXVqQ2NoTWVQeDU4RkxMVVdUVEdOckx6TWdrUHc2Z1l1QVpxa1NkUDZIcFEzRUZ6NmFGQ3QtbUVBTUlQVHBHVW91enFzal9Va25iY203c3ZwY3BHSGp6dkpENmd0dWswd1Z4WmVXUGRVNWw2ZUlSS3ZJRnZ5b2lsMHlYSlZwNW5WeUVnR1VfS3J0ZTZwTHE4VEdtVFZpemtJdWpPUmZiMDlvUW1HVlF1dEs2NkZJa293ejYwaXVNVFhDRjl4TXR3YXdsMVlnY1pVb0gzclU3STByRGZoUm5SSHhRZ9IB6gFBVV95cUxNMzRHRk8xMGxhY3V1dUVORnEtdV9lNkcxMl9ya2tjSWZ3X3NQZG50RENqU2FBQ3BjcTJqYlhOWGJobjluMnkyd2tkRU1PR2VCVXBOSXUtaXVRLTlLOVNURHE1bFNjSnVNc1lRUEM2Ukt4dVpCSER6cWxjVlRfalJpLTZzTU50d3h4cFFFck4tZV8wXzN6d3V0ekJHc0xvRkk4bDFZVFJLaVBvY2s5eFpSdllDeGxkUFJwNUY1TGxuempGZU9qX1FXWDlCbW9uX0xuLXVjMmJwUFBLYzE5MHEzSlBVU1dKcHJ6OHc?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-10-02T00:30:00+00:00",
-      "summary": "Aries Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Aries Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Pisces Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMEJvb29VSDFreEtGSnIyXzFWaW0tVEpIRUduMVVaOXFWSUFOS1I2MFR3VGIwQ2NCdWJLSWU2anFNSy0taXN2YjB1WUZPdmNqZnU0TXViQUpHVVBsalU1M3dKT2tZMDk5U2pnQXZnWTYteTZzc0k5TjVDbmRDRnkyYnBsaEIxUnhJc2pJQlYwOHVENERTd3NXdlUyMXhKYmh0aWJLY2R0VjJYbDZpX0x3RUEzQ0dPX1AzZWNiQlFfV2N5b3Y2YjNmMFNXc3NzZWRfMWlqSVVmWWNwWGxRTmJMeTBLWTV4QdIB7AFBVV95cUxOM2VlOXl6OU9RbW1zUW54RjNtMGd1cjl1LVRyeWVOT1VzdU9nVUFmNkRTWXFJeWlWLVlITFBBLWdzN1NPQUxkajFwRkphd3hfMDBsNGVuaHBWVk5BSk5nUFNOR2IxX2NYa2wxeF9PeTVZU1dQNENhVXlHVTEyZDRGWGNkdkd2ZUxGMWNkNVlqa3p4c1lFdGRZMGJZQmpUZVBodC1LbVJvRFBaN09rR0NzOTRXUzV5ZklxMzg4LVo1dktCQXpWaHJPelF2cW1YUWg0dk5KUEw1WHF5NTNpYWZSdjRZcllLNk9PbUY0NA?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-10-02T00:30:00+00:00",
-      "summary": "Pisces Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Pisces Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Libra Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX1BqSUNkX1ZoanZBRUNybEI2dFJwNGRJMU1IQnZoOEVQMnIyZDZhTjFTV0lKZ243UXE3UG16OUpQd1FqeWpfbzJLYzZkOVVYLVBERWlLWU9Vd1gta2NKSm5sU1lyUEJ5eVdGUUNhYWZoN0NjRUJVcjZ6Z2FxLUgxYTd2UllsREw5ZEdHTWEwRlE5WXNtMEM5TTB3NVEwUmRmaTVQUWJZd2lOUnlXdXV4TEVsbWNfejcxQU5xTlpNZEU1aXprTjhfQm5BX2VPWldMQ21ZeUt5ZzJuUWZlTUl4cFVlRdIB6gFBVV95cUxQSGlqTTdxVDd4cmctNnhvcEFMTjF1QVo5SElnZ05zM0tZZjk0TlpUOHVVeXFmZGhIdDBOd2ZHSDlvYkpDRWRXV1Z0a0dLdEJrSEZuWEx6RjdGakFzdGQ2Q0ZpWk1zcXhabUtTMXZMZXVFS0ROWUZwYjY1aHdhRDNjbFl6Wm9YLUdnLXhlUjgwVHBKT29xdi1yQS1wRlZIUk9UVDU4cjVkU3BoME9PdF9aM1FpYndiaG1VY0UxXzlZenRIdTR1RjNQd0g1OUlrUGFMdDR5TURWenFuWHBBNDVzek16YmJvNXB2R2c?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-10-02T00:30:00+00:00",
-      "summary": "Libra Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Libra Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Cancer Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQklIRE5ZcERiRXlmMjZfRjVzd0V6NXFQOUNDMGtKUEg2QXVEeTdncXpiRFhEdHhqd2RSaU5WRUpxX3U4SU45WjJJZW43Yi1XX21rYWhXcEVkRGhZY0FRbEZ4LWFybVlNRnlRV1h2T3RlME52RWVJY1NjRFpPTXlMSjlsV0toZ3dpNjZyNU5heXpmampxdDZQZDkwZ2VBZ0FYcTRPZlNraFhQeU5FVWw1Rm1SU0hsbjNSODhGX2VpM2pGMmRURkg5bjFScm15cEhvYkxkRHBfSEFJMjVNcFJZT2FPNnoyUdIB7AFBVV95cUxPUzZnNk01VUg0VE14SW5VV2FCb2puMENTMTZURGxlY3N1RC1XRVNLaXNSaGhOcndRTlJYeUVsWjJTYXJRX0RwcndCcTNZekhuUlJOak55eDBQUnpOa2k1U3pLc3RzeFczSk5manc1eFpCV3BZbWJjalRlbGJaMXAzb1E2WkxFcnpTcFpqeGdDWXVvNWlQRHFHWFJUdnJOUV9USUI5Zm53N0tDZHJlb05JYkRrRzJfc2tjMXZSWEFtSTZjcEd5SjBvbV9fM3FiZEZGSlFYN2NJQlZ2bFkzNWhsRWdOb2ZxSGFNZ1ppag?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-10-02T00:30:00+00:00",
-      "summary": "Cancer Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Cancer Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Sagittarius Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzhLYWM5YVhGTUt3cUsxSGFfRWRWWmNyR0gwN1pTZF82V3ZnMUFtR1JDeXZmSGtvekUzekYzSlROc2VuMmxac05XQmxyYWtBb1Fzc0VIaTZKdUZVZjd2SGUtN3lPVmtBMzc3eUYyeHIyVGl0Q0dYLXBOYWVUV3J2c3YzSThHZG1NRUQ4Q1FzNWlZT3A4QUdTcVBvSHRhaVZCYTJLX20xWDdPdnRBa2FSZUlfcmxUMGo3RmlYTnJFTjhiQ2xUWWxDNzJCWXM4U3pObm83Z3RVVFh6YWIyd29ncXNoUzQyV2pYeUFFSHBacnZpTW_SAfoBQVVfeXFMTThYNmVaWFBLMGVqejl6Tl9YSzhhdnFBUjVEbjhiVWR5aW1rRzM1eWNsNUpWNDhLeE91Tzc1cER5NXNmXzlZMUItd3NjdjZuNXVuZnE2UU1MWkNET0NvTHZWWG9JWFhKT1Nicmg3UGtXbHR1UHkxNUprT3daTmFKWWlDRTU5TDJuWURLc3h3TFRsOTN1YTJjQ3dKMnZmd3YteFdvR1BPbmlKZEREREtmNkxKR1N2M25fYWIzbmFsWDFra1JWeEktelFLeHBudEVLcURWRE9icnVlRXRabDBvbEpkTUZtMG42dVhLam5DZm9OQlNTcW5QVnZ3dw?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-10-02T00:30:00+00:00",
-      "summary": "Sagittarius Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Sagittarius Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
-      ]
-    },
-    {
-      "title": "Virgo Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNckR3RWgxXy1PaGhDTV9IYk1yN1NWVVpELUgtUU9ZcllFT0JVN3VPbXhWSHpMMDdzejZLNUxlUEpqeHZyR1hDY3RFcVFaTjhHSENGa2p4WHFZVHRyc2RqMktocnd0YW5xblJ3all5M0tRWlQ5UHlRMmltSFlxRmROX2pRclhzNzhXWFJoY1IwRDR1aUNnZUUyYWNmVkh4VnFLTUFxVFA1MHRmelJzVjhoMEpBdGgzRHdFNzBBenJXd1Vob2JLU3pHc29WUEJEaUgtM1pmN2hjcFZORmljWHlOVTlId9IB6gFBVV95cUxNaG5BckRiNGw1RXd6VkpkTmNUSUkzZm56Qjc4ZEdiZ1ltMXVrSnVyeENneFZ0ZWI1U3h0bWlFV21GaTJqY2NUSERnRUJNVDlMRXBTcG9lVm5PZUgxbVpmMkRQVmY5eFZvSW9fZ1RhX0RiWl83WWYtbHVsZUc0dGMzRFI1WXhtVE9EZngwTjJfNEFsemdVRjlCaUxFdDl2SHo1YnltYzBFM2F2Qzd6czVxaVROMzJwc3FrWTlKN0RTQlJEeE83YXBJYVZiWG1ZclJZbHM3M0NnOGVmR1lBcDkxOHBiWFhJc0RtQ2c?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-10-02T00:30:00+00:00",
-      "summary": "Virgo Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express",
-      "key_points": [
-        "Virgo Monthly Horoscope October-2026: Here is what astrological predictions tell about love, career and money&nbsp;&nbsp;The Indian Express"
+        "Junior Finance Major Builds on National Internship Success&nbsp;&nbsp;aamu.edu"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1340,6 +1235,42 @@
       ],
       "sections": [
         "Work"
+      ]
+    },
+    {
+      "title": "From finance to world-class events: How Rishi Patel, BS’07, MBA’08, built a global creative career - News at IU",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHlkeWR6RFNzNDJ6SE1GZjI5V29VUG1GVTlqUzRLb1NOWHljalg4NTFoVHRHOVBFZmdYX2xQelFmN28xZlFVTnh2Rko4MzVxQ056Q0tSWXJwdFlGU1NWRnBHd2IxdXpLcDZsRDY0d3NjMXFrbWtmYlV5dzBBUlI3SHFURXRpYnhCUW52MFh2Q3BTbnZGR3BzeQ?oc=5",
+      "source": "News at IU",
+      "published": "2026-09-30T22:09:32+00:00",
+      "summary": "From finance to world-class events: How Rishi Patel, BS’07, MBA’08, built a global creative career&nbsp;&nbsp;News at IU",
+      "key_points": [
+        "From finance to world-class events: How Rishi Patel, BS’07, MBA’08, built a global creative career&nbsp;&nbsp;News at IU"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "University lecturer's study seeks early-career professionals on ethics - Hampshire Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjA4ajBSbUVCRmtwVV9EVnNnZy1hbW9HNTBLWW5SWEFmOEtjOFN0ZGQyOUVLMjd3UXpqckw0WmxmV0hlS0pFTDlpVnotTGxmLXZTcm5CS2VnaXZwVFlOTjBHR1dKZDFXQklJa3hDdFVIdTFKWnJBNmJkZDdrSlVLNHZsaTJuQ1dObm5qdEd6ZVQwa1RKOUJNaWFwOG93Z09FQVpWc01qRG8?oc=5",
+      "source": "Hampshire Chronicle",
+      "published": "2026-09-30T20:00:00+00:00",
+      "summary": "University lecturer's study seeks early-career professionals on ethics&nbsp;&nbsp;Hampshire Chronicle",
+      "key_points": [
+        "University lecturer's study seeks early-career professionals on ethics&nbsp;&nbsp;Hampshire Chronicle"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
       ]
     },
     {
@@ -1380,13 +1311,49 @@
       ]
     },
     {
-      "title": "Would Bank Negara Make The \"Move\" - businesstoday.com.my",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXg0cVVYMFJXcC1KYk9OVzJFMnNYaE44eUUwQ1lWSkFjT2dwd2JPYi1GdFprQ2prUGNxOE9ocFFwXzRYa193Y29kTFY3YUlGSUs0S0dDbFFSOEliR3RpcWNFVFV3b3RjcFNPVnpFZnRyREtvWnlHbFVwMEFCbjhyWERn?oc=5",
-      "source": "businesstoday.com.my",
-      "published": "2026-09-30T03:29:47+00:00",
-      "summary": "Would Bank Negara Make The \"Move\"&nbsp;&nbsp;businesstoday.com.my",
+      "title": "ABC finance guru’s huge career call - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVJ6a1J6VXVNdGwxc2hOUkJrLUlkUmZ5R0pnNVEzYTJDWGlSUVFsMF9nMjJua0hnbTcxLUpKTDNsaTdLaFNjTVViSWVGbmZPNW8xV2N1a21GeUFqOWphMDZCX0JCc1ZoR1ppR1BheWh5bVprQXdwZ2FtNWN3TGdmX2ZKMA?oc=5",
+      "source": "Yahoo Finance Australia",
+      "published": "2026-09-30T06:07:45+00:00",
+      "summary": "ABC finance guru’s huge career call&nbsp;&nbsp;Yahoo Finance Australia",
       "key_points": [
-        "Would Bank Negara Make The \"Move\"&nbsp;&nbsp;businesstoday.com.my"
+        "ABC finance guru’s huge career call&nbsp;&nbsp;Yahoo Finance Australia"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "ABC finance guru and TV mainstay Alan Kohler to sign off - The New Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnJjWU5TSHpPU19KRHNILVlQMzlaTmRMSGpuVURmbkRnOWRQQWJkWDdXeGFTc3RiQ2EtWGhrcjUzbVQ5UHRCNDlqLVBjOXpNUUdTMkU4LWJjLTRMMXcxUUVCMzVTQlhTLXcwNFc4ZENTZWJSbExNY3p3TEdoUmw4WDhBTGMxdTA5?oc=5",
+      "source": "The New Daily",
+      "published": "2026-09-30T06:04:23+00:00",
+      "summary": "ABC finance guru and TV mainstay Alan Kohler to sign off&nbsp;&nbsp;The New Daily",
+      "key_points": [
+        "ABC finance guru and TV mainstay Alan Kohler to sign off&nbsp;&nbsp;The New Daily"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "Would Bank Negara Make The \"Move\" - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXg0cVVYMFJXcC1KYk9OVzJFMnNYaE44eUUwQ1lWSkFjT2dwd2JPYi1GdFprQ2prUGNxOE9ocFFwXzRYa193Y29kTFY3YUlGSUs0S0dDbFFSOEliR3RpcWNFVFV3b3RjcFNPVnpFZnRyREtvWnlHbFVwMEFCbjhyWERn?oc=5",
+      "source": "BusinessToday Malaysia",
+      "published": "2026-09-30T03:29:47+00:00",
+      "summary": "Would Bank Negara Make The \"Move\"&nbsp;&nbsp;BusinessToday Malaysia",
+      "key_points": [
+        "Would Bank Negara Make The \"Move\"&nbsp;&nbsp;BusinessToday Malaysia"
       ],
       "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
@@ -1395,6 +1362,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Career & Finance Horoscope, September 30, 2026: Steady efforts and smart choices may strengthen your career | Astrology - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSXNSNk9IRnRHOXRQdGNwaUFyQWpsTmlMWUp0OTFXZGRuUXVTMEJVZHpEQmZOcXRhT0d3Ti1mUnUyY3pVMFdxNDBsaEJVelE1TGViSWtQcV91NktnbXhEOW9MUnVrM3BXcHpIYmJMNXlsLVFZdlhVNjVLdkpESW1VQU16aVdtMkpDcEdRcUlkRmNNTzEtSEJQcFFnVjdUcVViYkdZMGc1RlNrN0U3M2YzdjhydFR6bjY3dXRnYkxCLXJrRS0zbFp6Wkk0TF9OX1duRTVOVm5RdEdFTDZnVGtMT2JrR0ZETjBjVU9EZ2VlbnJTSGpLc2Y1V0RBU1dEV1JWZ2swQ9IBigJBVV95cUxQX3lWR19BQklHbzliSjZnNEFTYXp1SHBxbG1pTXE2X202QTZldEx4SHJCamZQXzUxVFJpZFg5UUFLYmcxX0pkeTlUTVFrV1JxWXpqVGZ2UllpNGZ5OHRkMGVJbVdjQjNCMWJiYUZ2TUt3aTZ4Y21nb1I3clp3QUpBV2t0WTNMSXVXcGRJV3JDSUZMUVBWR3NiMjZiZjdkVjdSMEV3MDlOQ0R4Q1dnLVlZTzRxU3NjaU9obktXbDhMeTJrQ1ZUQjJ3MzVVWUYyM3hLNG9wQjhHS0RSWEY1UHVXeFZKbl8xRlZkUXdMS2ppQ2stWW9DLXQzOXdsU2NETEc3d2g2QjhuVllNQQ?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-09-30T03:08:57+00:00",
+      "summary": "Career & Finance Horoscope, September 30, 2026: Steady efforts and smart choices may strengthen your career | Astrology&nbsp;&nbsp;Hindustan Times",
+      "key_points": [
+        "Career & Finance Horoscope, September 30, 2026: Steady efforts and smart choices may strengthen your career | Astrology&nbsp;&nbsp;Hindustan Times"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
       ]
     },
     {
@@ -1413,6 +1398,42 @@
       ],
       "sections": [
         "Work"
+      ]
+    },
+    {
+      "title": "Bank Negara explores possibility for banks to take higher risks in RE financing - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2t6Z2h0aVAweXg5S0xBTHFrYk1mcTFFOFRsT0M4V29OeUhMOFkzS0dVRkNPQ2hFX2pxMXNoOHVlR1RyWkd4ekhXekd0T1Zlb2tDT04zTkk3WHhXV1REa3NoakdkQlNJRV9Mam9ic2QxMGFuaXVUbkNNNkExZzEyZDNvMVY3ZTFxTVhycjVCRjZTblZsN0NTd1gyZUY5ZjNyTFBUUS1BbWE3OHFLZUVVdndnMmVTODF3?oc=5",
+      "source": "NST Online",
+      "published": "2026-09-29T07:30:20+00:00",
+      "summary": "Bank Negara explores possibility for banks to take higher risks in RE financing&nbsp;&nbsp;NST Online",
+      "key_points": [
+        "Bank Negara explores possibility for banks to take higher risks in RE financing&nbsp;&nbsp;NST Online"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Career & Finance Horoscope, September 29, 2026: A past professional regret may still affect your confidence today | Astrology - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT01EWE5ydjZhZUE5TDJHSEp0dnFuQlI3T3Yzdy1OVEpKZzZFZXAwSHNjd1dtMlhIV19jY3NIX1d1cXc5Ql9QbmFhTE52MHlOX1ZjeGVpenFsRzd0U3dPRDVQZXpqVFlzVi1neHlleGhaS0h5VDMza3RPU0RhWkdwMUphTG5qLVdLUVlXTVFlQVNCMktVWHYxbGtIYjYzY3lhcHJZcy13UlJsZUJYNnUxdVJwNzN1ZEdmMko4VlFEemMwaFN1ZWNWdHFQckl4TlJab0xJVFpNa19TNXdRejlhWTFJc2NCaU5XUmZ5dW5YeGZvRUVBUnJNaXF1bW5jV3UtNTRfUWx1dmVTbk1RTWRF0gGUAkFVX3lxTE1JTHA0X1pwdlpnQnlITkNUMnZWTjFxVExNZFVwMnlwaGJhc0xjTTYxbG42MUMwWWpidzJYZjZ0cmJHRnZwR3h4V2NVdkdkUzlBb0RjNXBPY3FPUXp5MXF1QlZNekEzOGx3X0Ztb3lPQTQ4SFhNYm53MjBYSFliOGM2SWEySEgyYlM5LVQ4U0QwYkljVklXS1NoQjlqOFJ1RXpRNDlqZlItMGNadnFpTGJSeTdHcWJXOW15aFkwRDJFYUtkbDRoN1NIWUtjeElxMmJOdFI3eWFyaFpTbVREOUdsZWdsbHUxSHR2VXc5NDU5R1dEVVZ2X0xBRWVaV0VsVVhhODV1S2R3MW4tYnc4Q3dnZFdxVA?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-09-29T03:18:13+00:00",
+      "summary": "Career & Finance Horoscope, September 29, 2026: A past professional regret may still affect your confidence today | Astrology&nbsp;&nbsp;Hindustan Times",
+      "key_points": [
+        "Career & Finance Horoscope, September 29, 2026: A past professional regret may still affect your confidence today | Astrology&nbsp;&nbsp;Hindustan Times"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
       ]
     },
     {
