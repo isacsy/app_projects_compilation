@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:35:32.476587+00:00",
+  "generated_at": "2026-10-14T11:37:29.496014+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,9 +8,813 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Career & Finance Horoscope, October 14, 2026: One professional connection could change your direction, but should you trust the opportunity? | Astrology - Hindustan Times (Education) | Why Did AAPL, BMBL, BP Stocks Rise To 52-Week Highs Today? - TradingView (Finance) | Apple Welcome Home Product Roundup: HomeView Expands Into Smart Home, What's Next for AAPL Stock After Record High? - TradingKey (Finance) | Dow, S&P 500, Nasdaq Futures Mixed Amid Rising Oil Prices Ahead Of CPI Data: BAC, RIVN, SLS, GME Stocks In Focus - Yahoo Finance (Finance) | S&P 500 closes near flat after big banks post earnings and memory chip stocks decline - CNBC (Finance)",
-  "count": 80,
+  "daily_brief": "Top stories right now: What analysts are watching with key semiconductor maker TSMC set to report results (Finance) | Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million (Finance) | Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline (Finance) | Bank of America adds a profit miss to the misery of a $1.2 billion government fine (Finance) | Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations (Finance)",
+  "count": 87,
   "items": [
+    {
+      "title": "What analysts are watching with key semiconductor maker TSMC set to report results",
+      "link": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T11:36:00+00:00",
+      "summary": "Analysts at JPMorgan and Citigroup see further revenue growth for the semiconductor foundry, even after already posting a record-breaking figure for the third quarter.",
+      "key_points": [
+        "Analysts at JPMorgan and Citigroup see further revenue growth for the semiconductor foundry, even after already posting a record-breaking figure for the third quarter."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
+      "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "source": "Business News",
+      "published": "2026-10-14T11:35:17+00:00",
+      "summary": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
+      "key_points": [
+        "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
+      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "source": "Business News",
+      "published": "2026-10-14T11:28:19+00:00",
+      "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+      "key_points": [
+        "The U.S.",
+        "Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T11:28:00+00:00",
+      "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+      "key_points": [
+        "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
+      "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T11:18:00+00:00",
+      "summary": "Goldman Sachs economists have calculated how much the AI boom has contributed to inflation.",
+      "key_points": [
+        "Goldman Sachs economists have calculated how much the AI boom has contributed to inflation."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T11:16:00+00:00",
+      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+      "key_points": [
+        "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "From Charles Schwab to DoorDash: Why these bargain stocks could lead the market higher",
+      "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T11:16:00+00:00",
+      "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+      "key_points": [
+        "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up?",
+        "HSBC envisages a stock market finally broadening out."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+      "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
+      "source": "Business News",
+      "published": "2026-10-14T11:00:01+00:00",
+      "summary": "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.",
+      "key_points": [
+        "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "IIM Ahmedabad launches blended MBA in Business Analytics and AI, check eligibility criteria - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0NhaTl5M3BtcDU2MnE4RFVYaVhSeFBDa1lQQWpEOUpVUEItSXBkSDM1NGI2WklnZkQtVXgxMjUxelNCbFV5VmgwOW5pYzRHV3FtZmdaSm8xOENQVlh3c3VrNm93NXVGOTRucW5yLXZTTndRZWllV0V1UDlmZ2NWOHozUnpseC1BWjV4cUkwQjhPSy1lTFNTd3JlbnJuZkl5TF9ITGpzNi1DajRsSFJITElFbEFvQ1YxcjFXR1lSVEtOZVJYTkJXNXQ4b1lvS3JSVHhzZXBuRG5wYk0?oc=5",
+      "source": "India Today",
+      "published": "2026-10-14T10:58:21+00:00",
+      "summary": "IIM Ahmedabad launches blended MBA in Business Analytics and AI, check eligibility criteria&nbsp;&nbsp;India Today",
+      "key_points": [
+        "IIM Ahmedabad launches blended MBA in Business Analytics and AI, check eligibility criteria&nbsp;&nbsp;India Today"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
+    {
+      "title": "IIMA's Blended MBA Programme Bridges AI And Management Gap - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1ZYNktBTVJ6TlpqeHRBc2s2cHpyTnd5M2NNemkzbU5rQ3k1bXlaaWJ5MVB4RW5vb3NtSlN1T2QwMU93VHYwY1pfMFVFTVdhaWZTbm1RcUF3TVpxeVgyYUw1YzRYUGpXNnROWUdGVnoxWlRJaWdVSmtIakxBbDdhekpvMV9IQ2JkZF9DZjEySy04QXBrV3puM1Nsd1czOGwydEU2LUNid0E2N21vS24wdnctalo?oc=5",
+      "source": "Rediff",
+      "published": "2026-10-14T10:42:39+00:00",
+      "summary": "IIMA's Blended MBA Programme Bridges AI And Management Gap&nbsp;&nbsp;Rediff",
+      "key_points": [
+        "IIMA's Blended MBA Programme Bridges AI And Management Gap&nbsp;&nbsp;Rediff"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
+    {
+      "title": "BlackRock’s assets equal half the size of the U.S. economy after 15% growth",
+      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T10:41:00+00:00",
+      "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
+      "key_points": [
+        "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHdDaFdBYkNUTnZyWmVjeGFsUXRyWVVpanIxV1V3OWxKTlo0M3U2QmlFXzk2SWozYi1oNDRtV3UxdGhFMzRERzhCd1lDR1RoYkFDdThva3NVT2pMQXNGWjRYa0JYRVpVa1VNc0g0bzFjV0tISUxWTU9EbWV1Um9yOHZMWmxibTExLW10S2RLRWJKSXM4TmJoSVBiRERaRkk?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-14T10:28:03+00:00",
+      "summary": "Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "IIM Ahmedabad announces two-year blended MBA in Business Analytics and AI; check eligibility criteria - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbmNJZUMxY2trdTFZNEt1QmsxQ0h2ak1uSTl2dmc2MFpWOTdMOGcyUF80S2hubzg0TUVucEtZMGhfMWRSa01LWENGQi1GR19iNnVUY29RZDFHWEI1WDA3NkxOOG12bk1vMWk0WHJTdGZSLUpvUlh3UVhxY2hMNUk3RnYtMnlpYXh1dVk1Wll3YjUyeWkya3FqYzBKWHpoaC1HTEM2SkhzUThQSGVEckVaWWV2WU9pNnExQS14Z0RxQmJMLUR4RkFmOVpQYUVxTnl2bDkwa2FYU2ltUHZXSnBDNFl3RHBXS3dxLVFDOVo3U0hNMVlSc0lCLXlBNFVzakE3djRBRC1yMnrSAY4CQVVfeXFMT2ZCOUd5NjQzVDQzVUx2VFFPN1ZvRW54WDZfN0RFVkdlUDFQR2M0ZzNuZkEyTldmQmZGV1lKTFFFM281UHhhcFR4XzVGTGJCR2VrVVBpVkNXQ0NybHRtbW1DajJrQ0JlMWZMS3otMDF1Y0F0dXRmbG55OXBCUk5qRUdMYmJpZGt6QU1lcjVuUXBZbThpdVQxSTR3R21GUFlrQmVpZ3ZnY1gyVVY1Yzl0eEhMQTB1Sjg3d0ZsbGNvZ1hYZjJJeTkyLVZ6SVA3N0JUNFNOdzhRTGxRQ2lqWEVDbWlJRXVHTlF0eGZvREpxVkJGamhudnJIbzllWnJhMXpwSWlzMDZoZHo1cWVlVlln?oc=5",
+      "source": "The Times of India",
+      "published": "2026-10-14T10:25:00+00:00",
+      "summary": "IIM Ahmedabad announces two-year blended MBA in Business Analytics and AI; check eligibility criteria&nbsp;&nbsp;The Times of India",
+      "key_points": [
+        "IIM Ahmedabad announces two-year blended MBA in Business Analytics and AI; check eligibility criteria&nbsp;&nbsp;The Times of India"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
+    {
+      "title": "S&P 500 futures edge higher ahead of CPI data, more bank earnings - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWpIOXdfUFJGd0ZrRThTTXNXdDBrSDBhWHJGcE0zTm1YMEZNWGZLSmVyZzNHU0dXX01TTUxNOUlUczBjOUlJSV9ucG1vZ3pkY0NGUktuUkd4cEc0TWpKT0plU1phYlJySXdkWWJENGJhZ1Q3azVDMERKMGtPTmpFVGtPS0tIRWI2WURLOGRQYzRGazJuNHZfNk5ZQ1ZZS2dyLUVMcUJZVUhsVV9HM2g1U1JqdGt2UHJnQzJIYVRFSkQxd2E4cWY2LWk1SQ?oc=5",
+      "source": "Investing.com",
+      "published": "2026-10-14T10:20:14+00:00",
+      "summary": "S&P 500 futures edge higher ahead of CPI data, more bank earnings&nbsp;&nbsp;Investing.com",
+      "key_points": [
+        "S&P 500 futures edge higher ahead of CPI data, more bank earnings&nbsp;&nbsp;Investing.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "My wife says we can’t afford to retire, so I vetoed her $8,000 trip to Italy. We have $4 million saved. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T10:16:00+00:00",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "key_points": [
+        "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "S&P 500, Dow futures rise ahead of big bank results, CPI data - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-14T10:05:04+00:00",
+      "summary": "S&P 500, Dow futures rise ahead of big bank results, CPI data&nbsp;&nbsp;Reuters",
+      "key_points": [
+        "S&P 500, Dow futures rise ahead of big bank results, CPI data&nbsp;&nbsp;Reuters"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The truth about being a landlord in retirement",
+      "link": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T10:00:00+00:00",
+      "summary": "Investing in rental property isn’t easy or ‘passive’",
+      "key_points": [
+        "Investing in rental property isn’t easy or ‘passive’"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Investors have made big bets on tech stocks. Here’s why one strategist just downgraded the sector.",
+      "link": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T10:00:00+00:00",
+      "summary": "Slowing flows into tech stocks as valuations deteriorate has one strategist lowering the firm’s rating on tech stocks.",
+      "key_points": [
+        "Slowing flows into tech stocks as valuations deteriorate has one strategist lowering the firm’s rating on tech stocks."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Stock Market Today: S&P 500, Dow Jones Futures Gain as Investors Await September Inflation Report— ASML - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHJnMVBfOFNXZEdvdmlxVlBjbXQyVU93SGdwendQWGpRNWlxRGNQeWpER1huQW5ndHpoc0JEbmszQlcydVlMdktKX3R4LUxjY2Z3NWliUUlZV01aYVVYLVY0UldqQ0VEMmZ1S3pqVkhpTDBKdzA4ZjJQNmlRalVqM0dYVE5BTGp4al9ZZkFQYkJ5aS1Rc1lSSmxkSGNSeW5pSThicTB2SjlxVThBNUxmSTRxMVFZNm0tM3RKOTI3TzRDaFd2OXB5dUpPNk9POHZKdW5zSnozOGIwSThTdlFvNzVoVUR3ckVJMDFKSUVjazJlNmpzS1VWNFZ0YVZGb1JjMy0w?oc=5",
+      "source": "Benzinga",
+      "published": "2026-10-14T09:56:20+00:00",
+      "summary": "Stock Market Today: S&P 500, Dow Jones Futures Gain as Investors Await September Inflation Report— ASML&nbsp;&nbsp;Benzinga",
+      "key_points": [
+        "Stock Market Today: S&P 500, Dow Jones Futures Gain as Investors Await September Inflation Report— ASML&nbsp;&nbsp;Benzinga"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Wall Street just can't stop selling leverage - Opening Bell Daily",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGdwWHVoVFR0b3RGa2JhMnFLTVR0dFRmVkx2bklnaHRUVS0wNHZ2ZHo2QVdTX3BfNDZyOXBHTFZWeTBoUEhvUlNmQWhvR0xRT1BkWWhzdkNucnB2OEtCZFJuUTVPM2U2V1NFdW5rT1F2U2lvajNHV2NoemRGem00NUM4NTdnVVQzN09ndUhDaHlPUDJWVUlVUm42UFl5OWU1d2xfNTR3?oc=5",
+      "source": "Opening Bell Daily",
+      "published": "2026-10-14T09:55:37+00:00",
+      "summary": "Wall Street just can't stop selling leverage&nbsp;&nbsp;Opening Bell Daily",
+      "key_points": [
+        "Wall Street just can't stop selling leverage&nbsp;&nbsp;Opening Bell Daily"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "1 S&P 500 Stock with Competitive Advantages and 2 We Brush Off - StockStory",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkEzQmZnZTBYM0pVWFhqXzF5cy1tNDlSRGpyb3pNM1VVSUliZmpIMmZCYlJhMjVuZl91V2xXcEthdlRyQm42ZW04MFBLYlU3UmF5WW51dnVzeWYwM2hsMEdLR0JtYlRLZGhUSVRYWlRxeGw0c1Q2REdRbmk4UkdoakR3b0tsZjl1NjNWMERtdHM0aGU3YTZpREt5clRHc09ROVB2N1YtQXMwNmNzR09TdVRlaEkyR0lINVNJMWpPckdvVWJu?oc=5",
+      "source": "StockStory",
+      "published": "2026-10-14T09:32:27+00:00",
+      "summary": "1 S&P 500 Stock with Competitive Advantages and 2 We Brush Off&nbsp;&nbsp;StockStory",
+      "key_points": [
+        "1 S&P 500 Stock with Competitive Advantages and 2 We Brush Off&nbsp;&nbsp;StockStory"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-14T09:15:00+00:00",
+      "summary": "“I lost my job and eventually my home — and it’s still hard.”",
+      "key_points": [
+        "“I lost my job and eventually my home — and it’s still hard.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "1 S&P 500 Stock with Solid Fundamentals and 2 We Avoid - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDljTXJURTBCZTFaWXNreUJFWlpZSmZyb3dZeW5OSlkzNnJTVDl1dS1YZ2drNGdJaUFuZVJENlh0RmhDMzlOTkhGOXJndkd1UThueDlGZlppTkxhRXk1SFlrVU42RmZsTjNJb1dwNHJ6bTdPSmxQR1JqUUo1aDlENHpJc19ibk41Y0JOQg?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-14T09:14:47+00:00",
+      "summary": "1 S&P 500 Stock with Solid Fundamentals and 2 We Avoid&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "1 S&P 500 Stock with Solid Fundamentals and 2 We Avoid&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Wall Street Just Can’t Stop Selling Leverage - Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmhjZW9HQjAtZ09kU01lVmU2Zk5oOC1Pc0dGTFcwRTJOczNXdW15eEZCRC1Bd3BuUmpNTFBWeWh2RUY2aXR2aERVVHVwLW56RWlndFFRVHNRb3gyWHdRNHJlV0RJQ2xLUnRoaUx4TWk1bU9INEdneU80dWkyUTViMWxDTEFsQ3N6Y1J0ZEVraE42VjBlRWctVHBmN2k4eS14?oc=5",
+      "source": "Inc.com",
+      "published": "2026-10-14T09:10:40+00:00",
+      "summary": "Wall Street Just Can’t Stop Selling Leverage&nbsp;&nbsp;Inc.com",
+      "key_points": [
+        "Wall Street Just Can’t Stop Selling Leverage&nbsp;&nbsp;Inc.com"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Flat As Inflation Expectations Cloud CPI Test - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUxpOHVPX3l2VWw2WkNidFR1Yzd3VzE2bWhqOEEyZ25VWG0xSGM2ZFFzYk5lblRFVGdSd3FpMGZCLU1NcVcyMjNrRUNuUEJ0SkVabm11T0JRZW9BRzZEVGxRN1lqVjZ3RmtsNkFvTXc2dWExbG5qT1JYVUVBMDM5aVFjY0NLN3pVUkFGU2Joc3o1WXZBNjhnWVFwaGJmQ2NWRURsRGxHdXd4TlcwS0R4d2ZZS1lKb3I4aDJFaHJJTWtfa1VaeGfSAcsBQVVfeXFMTWJlZ05RZF82TXBBTkhudDJEcVZDYU41YnNGcGxrWHM3ZzBTLTN5QVNab3h5Vkg4M3RzcVhBeFBWdzVFcDYzdXdFeVZ6TV9Nc2Y2cFVKTnBZZU9idldQeWFid09BX24zSXREV1NLdmRkeFltYW5mWU43Tl9aYTd1TVdCU1BNbkVLNGdIQVkxaVl5RWlfU1FBbzhHLWk1SUhIbmRqU3pEbjJSQ2FUeXBQd1dwaTI5R0tkaWhZblZXU1I0VVh5eXZRRXBxbkk?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-14T08:39:42+00:00",
+      "summary": "US Stock Market Today: S&P 500 Futures Flat As Inflation Expectations Cloud CPI Test&nbsp;&nbsp;Simply Wall Street",
+      "key_points": [
+        "US Stock Market Today: S&P 500 Futures Flat As Inflation Expectations Cloud CPI Test&nbsp;&nbsp;Simply Wall Street"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple (AAPL) Debuts Apple Home Collection And HomeView - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHhCbUtXLXB0bDhrOS1HVVNrSHI2eDBIdXNXZGdNSGlkS21QUDF1Q2NfUGtIblQwZE12RFJrRXR3dW16d05ZY2M5U0lBVzM0Z1F6LXdZNGltMUFmZ2ZvWlVRT1ZpaXFYeXpLNDItNENUdXNsNW1adXliVXoxY1NsdTRsdHFRLVd3VExmQ0E1Mk5Kai0xS0d4bS1YTXhzSXVTLWpURE9HNDBCY0tPSmVvbEtR0gG3AUFVX3lxTE9BLVRva0JvcGxhTE9wRGVLSXU5d055NndsaXVWSURoRzBfZDlTUU1teWFuNExlZDJDMkJOWmFud2l2SVJDMEExUlhCcjhySGpLeFhIZDYtaElMT0lSNlFtNmRJd0dNLXlITHRzMlpxZnkwYUpoVF8wLWFWZUxZMGdKRm5SMnl4RXF4a1dEQUJ2VXVQaEg5OFNhcTQzeE55MVVEMDFidnUtRW1OdHlQUktMM256c1JxZw?oc=5",
+      "source": "Simply Wall Street",
+      "published": "2026-10-14T08:39:41+00:00",
+      "summary": "Apple (AAPL) Debuts Apple Home Collection And HomeView&nbsp;&nbsp;Simply Wall Street",
+      "key_points": [
+        "Apple (AAPL) Debuts Apple Home Collection And HomeView&nbsp;&nbsp;Simply Wall Street"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Three Weeks Before The Midterms, Donald Trump Has A Stock Market Problem Hiding In Plain Sight. The Stealth Bear Market Is Already Here - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdXR1RmJLRXd6TDJGQWNMYngydWE0c2NNVDRiVWdWd1BTWmtrcHBFRElmamVSSnFNU3JSZy1lUU1qX3hKWTJrbktGbHh1djdjUlI0bG5LLVdlVll2U1dyZTFvR0RCM3VrbVRzb0xRZ1k0WmxBVkFDZXBHQzFjVzhNOWprajZBMUlHZHFaNk5DYWFtSzFxT1gxMkRWMEV3aUNoOWNsMUtXQTJKQ2Z4SGdTeWhPYmh5WUgwaDhrZ2tWVEhCczFfdlFfQS1sbjQ5aVg1QW43TkliRUFlTVZFbEgyVzc2WGZabTlWT2NEYXZQU0hiaURWUGVRWVFQY21GaHBFcTlCN3ZhUUg?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-10-14T08:38:00+00:00",
+      "summary": "Three Weeks Before The Midterms, Donald Trump Has A Stock Market Problem Hiding In Plain Sight. The Stealth Bear Market Is Already Here&nbsp;&nbsp;24/7 Wall St.",
+      "key_points": [
+        "Three Weeks Before The Midterms, Donald Trump Has A Stock Market Problem Hiding In Plain Sight.",
+        "The Stealth Bear Market Is Already Here&nbsp;&nbsp;24/7 Wall St."
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Unveils New HomeView Smart Home Hub Powered By Apple Intelligence And Facial Recognition - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tRHZrMFlyczRWMG1hQlEwcXZkYjgzQ3N5cWhUZVRFNE00S1Z0dzR1a09NeTBWbVpiZktkRnpsN0dnb0s0S0VDZG1HX1dod2hCUGRlZVZUNnhTbkw2cS1TbF9sOHNiYzNIalRIa0VfX25zYWw3?oc=5",
+      "source": "TIKR.com",
+      "published": "2026-10-14T08:31:30+00:00",
+      "summary": "Apple Unveils New HomeView Smart Home Hub Powered By Apple Intelligence And Facial Recognition&nbsp;&nbsp;TIKR.com",
+      "key_points": [
+        "Apple Unveils New HomeView Smart Home Hub Powered By Apple Intelligence And Facial Recognition&nbsp;&nbsp;TIKR.com"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Is Apple Stock a Buy During the Holiday Quarter? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3VydEdteGRIa2xlcGw4MUVhbzEwQ3FSU1NhS2prVl91bFpLcVZjTDdtUm55ZnRuWVlhUE93QkQ4R0tIaXRfaWUyUVBwV05aRWlKQXh3b3Y0cUEyejFodHE5NzJlLUFrVUY5QTJMWVBSYzVTaktBNndKY19GU0tJTmxiaGJFaGJNNUlZQzBNRG0ydmN5?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-10-14T08:17:43+00:00",
+      "summary": "Is Apple Stock a Buy During the Holiday Quarter?&nbsp;&nbsp;The Motley Fool",
+      "key_points": [
+        "Is Apple Stock a Buy During the Holiday Quarter?&nbsp;&nbsp;The Motley Fool"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Traders Brace For CPI - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQll0OVhRZnFvWjZIaG1WQmFxaDZ3QlRMamVZSTVveFRBOExzZE5uWWF1VEpDNWV5TWIySG5GRkVITDEzaTdORTlmVEdCNnhpZE0xQm1WTVB6R1VyYlVVOUZhMnV1VlRvbWRtQk4zVVFiNmlSdlVkeWR2Q2Q0aW11eFVEVVQxeGxYLUlBcmJuT1lJdw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-14T08:14:05+00:00",
+      "summary": "US Stock Market Today: S&P 500 Futures Edge Higher As Traders Brace For CPI&nbsp;&nbsp;Yahoo Finance",
+      "key_points": [
+        "US Stock Market Today: S&P 500 Futures Edge Higher As Traders Brace For CPI&nbsp;&nbsp;Yahoo Finance"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock: General Partner Inc. Cuts Holdings - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaThUd3JzRWlLTDNNUFMxRkFBd0hpMVEyT194clRpcHRCU3Rab1NUeEFSQkpxbExvdG9EZ3BySnJKdzBMYl9LNE95RGJPSEFLeVN0VE5VaF9zV29kQnVBUnFrNnZyVWREbmRPenhJUC1FTjhQWHVqTy0wbERCbkdJaUZGVDFzS0pDMXhsNFAwejN0VXhYWWd3eGRadlR0TjNsbFRBbDZZbmh2bDU0T25jTkV3ZUpDUQ?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:41:08+00:00",
+      "summary": "Apple Inc. $AAPL Stock: General Partner Inc. Cuts Holdings&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock: General Partner Inc."
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock Bought by Park National Corp OH - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTlqdjFyRDJ3WWU1WWJoLVdFRDVvWmhmV0d2eXM4dlV6NnZ2ek1scUJlTGVHVk5HNmhIZGxlaXhiT2tpLU5UTndKMHNUV2gzSkYxYXo4WVFabVREUENmNVlvOHVRSmQwZjI5V1BlZ0FxQjc5T2tvc1BBVkFmOFlwcnd2QnVJeE1UZWkzSHRpNDVKcS1sMHZGVXFocXEyN0ZaRHJrX0VOTkdYZkdPcnJMZVUybw?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:41:08+00:00",
+      "summary": "Apple Inc. $AAPL Stock Bought by Park National Corp OH&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock Bought by Park National Corp OH&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock Purchased by Global Wealth Strategies & Associates - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWF2eER5aUpSRXN0S1c2cG5pbXdBZmZ2VC1jMGtqUWNab0cxZEdBRWY1b0oya1dUZmdqcE9jT2ZaXzUtVExFdEtLdTJuZGw5TzVCWldZZEtMUVJjLUpoUHVzX1R3dlpGZDlMZGNra2gyLVRoTUhRQnhhaFk4emNDN19EN3NUWWRmd0RPODlXLWJCSW91ZDFQcEpGU19xdzZuVWdxajc2Qkw3azVMQmRMbWZLOWdHcDg4UDByUHVUa0dNR293UzZTUG9B?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:41:08+00:00",
+      "summary": "Apple Inc. $AAPL Stock Purchased by Global Wealth Strategies & Associates&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock Purchased by Global Wealth Strategies & Associates&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock Purchased by GoalVest Advisory LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMy1vVkIwNEY0cGpDTkVxRHo1VGpiNWNnLVFQYXV0Tlpxd3F1VFozOVRvZk5DNGh3V28zZ2k2SlM1MmMzc0NSWURzRktWaFpjWWhQcUt2emhXLVZGS2ppaTNZNE5NQ0Jvbm1tS0xTMWhMdWtwSzFzQmtnTkRSUm9XdzMyc3I3LWl2RDN3WjJOOThXem1FdTRVbWFvN0IzUWNJVF9DdTdrSzItbXA4UFZlaUNEUWNHSHc?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:41:08+00:00",
+      "summary": "Apple Inc. $AAPL Stock Purchased by GoalVest Advisory LLC&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock Purchased by GoalVest Advisory LLC&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Shares Sold by Neville Rodie & Shaw Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkN6Mk5sOGEwRHdLMXY5Z2ZQNlBvYkx0Y29fVXBfUW40dlN3OHhJRF9mRWc4Qmt3QVFFb2Z5TExlRXpLSTF6cl81YlRUeEtDUFUtMGxZd3B3QzVmOXc2ajI1bWVGVWtHc19lSks3dzdLMEpiaGVhT2tKeWdJSDRjSXBhU3BVSWt1Rkp5bmRVX3laU19maVVacjE5eEJMSWljc2ttQ09HY1VkTFo0Vy11d3dFQQ?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:41:08+00:00",
+      "summary": "Apple Inc. $AAPL Shares Sold by Neville Rodie & Shaw Inc.&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Shares Sold by Neville Rodie & Shaw Inc.&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "AAPL: Apple Hits $5 Trillion on HomeView Debut but Gains Fade Soon After - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZy1ZODNzMmRsTmJwVmhNVmxhTXBMUTJZVTFpN2JSRDdiZFVKQ2hmd0s3cVFHUTJLOEVkR1VGWF93dGNYc1MxYW5GeWJEcmtrcXkxaVFNYUR0eFhvNXZad3FnUU9IeHhmRFpwNTZWdndIRnR1WlYwSFdad2Y2SGJJSFh2Nm5IS0NZVzRaeWh3REdIWkxEWjR6aWlRMGRyZjJ1cklndjk4dkp4VUt0dUpzelQyYWFmQXFMZTNPYVBXOXhOLTdkYXVaNXpFN0c?oc=5",
+      "source": "TradingView",
+      "published": "2026-10-14T07:36:08+00:00",
+      "summary": "AAPL: Apple Hits $5 Trillion on HomeView Debut but Gains Fade Soon After&nbsp;&nbsp;TradingView",
+      "key_points": [
+        "AAPL: Apple Hits $5 Trillion on HomeView Debut but Gains Fade Soon After&nbsp;&nbsp;TradingView"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock: Eastern Bank Grows Position - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEplZmUydGpFcDM2NEVWRmMtLVFESTRjUTZDSHVicFdjc1pyZHNFc1JKdHZKR0F0VW5RbGlBV056ZUlRMmlMYU9iTDRtdWlrWDgzZmJqZ1gtb0F6eDlia3NOVE1kUGFXb0FQdjBZSzF5SzlKbnUyaVlkd2xkMHRwVEtxZW9fTk04cVRqSVQtOVgwY3NGaU1LZEpkUUVIMWEyWlZ3VjFsTHpmZ2hnMXc?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:33:02+00:00",
+      "summary": "Apple Inc. $AAPL Stock: Eastern Bank Grows Position&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock: Eastern Bank Grows Position&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock: Central Pacific Bank Trust Division Cuts Position - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkVGMXFFcl80SVhxU1JTMzk2M09FNkdjcWJXTTBqNmd4ZGd2X2liTHV6bHR5OUJXc0Q2UU9Id3R6Z1lNZi04QTRyakRRVFdfM1o2VE1kd0haM3pKcjdHZ29tSjJVOE9CYldVaU1DZDVOWjk4N0Y5T2M1LWtPNXBSLUJKMERFb3FRczIxU2Z5dGxRQ1ZnN29ERFZrel9iTDVOdjhiX21fUzByNUkwVktXSTNwOWk1S3F6eFJlTVpxZk9rbFlMazFlMnZudw?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:20:54+00:00",
+      "summary": "Apple Inc. $AAPL Stock: Central Pacific Bank Trust Division Cuts Position&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock: Central Pacific Bank Trust Division Cuts Position&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock: Adelphi Trust Co Decreases Holdings - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3YtM0thVUhJX3IxY2taUm1sUl9UTHVXRTJCUHVBY0NRak05Y0FocUJkTGFqVXRFUDNGSW5HYUpuQVBFWFRScDdPRmdkaFN0UFpmbkNXRTgzU0xHbWJjck9JWlVoVUZrN0lMOTNxaXpwa19acGRvMXdXM1R5NFdrWXo4SnlkVzdPbm1nbGZ5UWdYbFFCZG02YkI3MDdSc0daXzZ2OHcwa2dvUWVpeVU0aHl6aWkzU2xG?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-14T07:10:55+00:00",
+      "summary": "Apple Inc. $AAPL Stock: Adelphi Trust Co Decreases Holdings&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock: Adelphi Trust Co Decreases Holdings&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Cloud Data Engineering and the Foundations of Enterprise AI - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXY2YjFzNXE3UW1IQzRuN3VxYy1EcTdTZ2NiOUZPSW85SzhBTzJfVTlTWWNCMEVxY29JUlBxLUQyUGprODlrLUE3M1paOGxGRnpKNjdqWUNHaTRtSGdwanQ3LWJfSFh1LVkxOEpxTXpQN2xHSmtSVGZDR1pKUTVnZ2M4TXZ0ZEJZRzFETQ?oc=5",
+      "source": "TechBullion",
+      "published": "2026-10-14T06:46:59+00:00",
+      "summary": "Cloud Data Engineering and the Foundations of Enterprise AI&nbsp;&nbsp;TechBullion",
+      "key_points": [
+        "Cloud Data Engineering and the Foundations of Enterprise AI&nbsp;&nbsp;TechBullion"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Vibe Editing Turns the Video Editor into a Conversation - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjh5QlVKWENkblJpWWxvU1Jnb1ZVbHpKbUpFdV9YZXJVYWJVVFZUN1ZCdTdoaUhMRk01SGZzWl96R2ZEUnpvTF82SXNqd2JiLWZoRVNpclZ4bG5HY0tUMVpVOEc4YXdONHE2dUZzbm1rbDBHcVhZUE1tWlJkOGRZU0M1ZkNXLTA?oc=5",
+      "source": "TechBullion",
+      "published": "2026-10-14T05:50:17+00:00",
+      "summary": "Vibe Editing Turns the Video Editor into a Conversation&nbsp;&nbsp;TechBullion",
+      "key_points": [
+        "Vibe Editing Turns the Video Editor into a Conversation&nbsp;&nbsp;TechBullion"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbms3NTdKQ1d0Y1ExY1ZWdzlkWVhsb0xaWU9pY0d4ejZIbG5sU3hzdE00akk5RS1Oc0JNWHQ0WWhwNUd5dUg1QWRCVHJCUl9MNWxQbW9yOXY0cC1xZlM4MFZhWVV1WnZ0c21BQVJhZUd0a1N3UHZkSHBqbUo5X2Nrak5GeDNKdlVUbnA1a1NETWIzVHdhc1dCdjUwVXF3dnlXZWREZFRXc05lNk1jT0VmZFRYVzZnbm8?oc=5",
+      "source": "Benzinga",
+      "published": "2026-10-14T05:45:48+00:00",
+      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)&nbsp;&nbsp;Benzinga",
+      "key_points": [
+        "Stock Market: Will S&P 500 Open Up or Down Today?",
+        "- State Street SPDR S&P 500 ETF Trust (ARCA:SPY)&nbsp;&nbsp;Benzinga"
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Malaysia's banks face major Stream regulatory reporting overhaul - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXdiaUNIaU5oMGp4dm9oLTFzTEw0U1dGMW4wSkZlYm5sRGRuNW1FdWRDbXVmTHc2TFVkTU1OdkdlckVQbDFUclQtTGhmek5hTG9MZURiNzVMY0w0V2hVeEtvaHNld1JURkIzR1hlVlJOZ2p0TXpMQTNtdThrZm0ySU9CaFRhRWExYmRKWjNZY05OTFJvWFA0OWdWdGkxeGNMcms2eXQtSGxmNlR2LXFqa1Jnbl9HbUhqeVhjb0RkT1VVSUHSAcMBQVVfeXFMTUF3YmlDSGlOaDBqeHZvaC0xc0xMNFNXRjFuMEpGZWJubERkbjVtRXVkQ211Zkx3NkxVZE1NTnZHZXJFUGwxVHJULUxoZnpOYUxvTGVEYjc1TGNMNFdoVXhLb2hzZXdSVEZCM0dYZVZSTmdqdE16TEEzbXU4a2ZtMklPQmhUYUVhMWJkSlozWWNOTkxSb1hQNDlnVnRpMXhjTHJrNnl0LUhsZjZUdi1xamtSZ25fR21IanlYY29EZE9VVUlB?oc=5",
+      "source": "NST Online",
+      "published": "2026-10-14T05:38:29+00:00",
+      "summary": "Malaysia's banks face major Stream regulatory reporting overhaul&nbsp;&nbsp;NST Online",
+      "key_points": [
+        "Malaysia's banks face major Stream regulatory reporting overhaul&nbsp;&nbsp;NST Online"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Knowit : Mela selects Knowit as its partner for data-driven decision-making - www.marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTJqVC15clk4TUozRkxobDZFVjRzUVk0N1dYbDNxOEJxVkh3bFFCZENKR2JiT1o4b2tNNlJBWmFGdWRKY0p3cF80b1drTVhqWXk5eFowT2hxZHlfUFNuWHhOQ2lsM2lxTEFvUjdEQXM5SHdUdDBCemVVR3hyNklXMjRnMU9QeFgwWkFHTXBRVXBZVVpPYlBfS09IX0Ftdk1GZ3R3MWN4ZFl3SXVpMlRTa19XdDNJV1FHNjhwZ0V5OGxTcmJq?oc=5",
+      "source": "www.marketscreener.com",
+      "published": "2026-10-14T05:05:06+00:00",
+      "summary": "Knowit : Mela selects Knowit as its partner for data-driven decision-making&nbsp;&nbsp;www.marketscreener.com",
+      "key_points": [
+        "Knowit : Mela selects Knowit as its partner for data-driven decision-making&nbsp;&nbsp;www.marketscreener.com"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
+      ]
+    },
     {
       "title": "Career & Finance Horoscope, October 14, 2026: One professional connection could change your direction, but should you trust the opportunity? | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNU2N2U3ZSUW9GZmFVVF9DaUV4ZHNoVk1pQWlpbzZQYUgyenJuRWlfMUZQQ2hNLUk3ZS1Iek5EVnRlQ29uNWpZb0p4VEF1ZUlTZnhoMGQwRnhfME5BazNhcmxqNWE5bjhNRTR1cF81VUxMUWFabncxOFVvUXVlTU9ucjJlcElEZXNGbmprdUUzVnZEc0NieFRaVTB6Y0dqUlA1YTNpWERLczkwc2UwRmRHUU9fa3o1R2tSaXJlejNySmdNZWU0NHlTTkVkdDByVzdTNV9fZ21iQjdRMDVNZzJ2MDB0aHhMbktfR1RjVHFFSFlFMENEb0UtLU55QllaeFNKU25SMEtnY0RadXFEbnprNU5jYzRheWgtRVV4YUZSbVhpanhCQ2theTdudWYwd9IBswJBVV95cUxOQ3U2ekxyM2RlNy1xaEd4WWpSR085VUlYSVZpWWU2WDNRb2JNWUI3TW9xMjF2UTh3YjhmMlRLZFI5TURNSld6cnFnT2I3X2VfX29XUWI1YTdEMWVPTWk2YXhFV00ydjctaks0V0FhX1Rfa09VcFlGMmtLWHFTUjZ6MWhZT1YtalU2MEthTTBxR1FUX1EwQXBxOWZfNWQ0TzJYNHpCQjVYU1IxVERUeHZSYjNXS2F3RXJINkVsMVVndk0zM0Vfd3lPTnRMajhBTTRFN2lVYV81cFYyLV9rSERjVEJGVHdYbldZaURXbzdkUlpYQ2hLM3pzc1J0dG92R2lVaHkzbVUyQW0yMkhtdDk4MlFadXpDcEZXanZfSUhDNFlRc1V5aWJYSl9SQWZfdUhUblZv?oc=5",
@@ -31,108 +835,18 @@
       ]
     },
     {
-      "title": "Why Did AAPL, BMBL, BP Stocks Rise To 52-Week Highs Today? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHZGbjFWYTAwVnJuVkRHRHZWaXdWSi1MZXNpeUdaaW1kM251a0ltdmZwc0hKY0xDTGpZODRsZkIzc0R2UTVRczNsSmlvU05yVU4yS0FKWDZJSG5DbGF4Y0I4cGlOMmJrUXVVejh3ZXRjYzlUUmYteU9pOXF6QlFsZmpUOEtUVW92N3cteXFLRHlZaWZLRUo3ak5WaW1jWHUyeWY0ZlVzaHBncEZaTHVsRW1HRGpXQ3c?oc=5",
-      "source": "TradingView",
+      "title": "Bank Negara Malaysia warns public against deepfake investment scams - Sinar Daily",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54RkxtOUQxOGg4NWhRTFlDOU5ESjNxVHdmT2piemk1VElaQlBEVW1HQl9MczJZR3NkQTI4cGk0SXFYZ1ZJY2J1TEVxcHlJVE92dUVBNnRn?oc=5",
+      "source": "Sinar Daily",
       "published": "2026-10-14T02:57:00+00:00",
-      "summary": "Why Did AAPL, BMBL, BP Stocks Rise To 52-Week Highs Today?&nbsp;&nbsp;TradingView",
+      "summary": "Bank Negara Malaysia warns public against deepfake investment scams&nbsp;&nbsp;Sinar Daily",
       "key_points": [
-        "Why Did AAPL, BMBL, BP Stocks Rise To 52-Week Highs Today?&nbsp;&nbsp;TradingView"
+        "Bank Negara Malaysia warns public against deepfake investment scams&nbsp;&nbsp;Sinar Daily"
       ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Medium",
       "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Welcome Home Product Roundup: HomeView Expands Into Smart Home, What's Next for AAPL Stock After Record High? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazFjVnlZX3RNSGZGcWdaeWlEVDRCV1VySmJaRDFnU2RSelVabmFsSGEzNUlGd1JFeGhEZWh2bVlraWJ3YlQ0ZUUzU0JlVVZmcnAzRThMelhKYnpsWFRmdmtpMDdSVXdZRDVoc0Y0VF8xVlNqczZfalJvNWNpeGROcHNELXZTZjJlcE5wMWlWZW13OXhZM2R4cjItT0lMRURocnBQZ09RWldYUGd3R2hLaFBIRQ?oc=5",
-      "source": "TradingKey",
-      "published": "2026-10-14T02:51:11+00:00",
-      "summary": "Apple Welcome Home Product Roundup: HomeView Expands Into Smart Home, What's Next for AAPL Stock After Record High?&nbsp;&nbsp;TradingKey",
-      "key_points": [
-        "Apple Welcome Home Product Roundup: HomeView Expands Into Smart Home, What's Next for AAPL Stock After Record High?&nbsp;&nbsp;TradingKey"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Dow, S&P 500, Nasdaq Futures Mixed Amid Rising Oil Prices Ahead Of CPI Data: BAC, RIVN, SLS, GME Stocks In Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcE5WMVZ6bll2cHkwZGFOaXg1TWpKNU1PSFR6N0t3Q2pZLUdnTzRnMWZjRkxYbWMwQTdGSHMxdEtjdzBXNlRhQzcyRHZvTkpja3NzZ3M3SFpNblU1TnNqUzFIU2lud3BLN3EyYmQxM0JpTHM3dG1VRFB3cnFMZmZ6SVlLenhIdjBmcjJJdnZzcDR0dDg?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-14T02:31:00+00:00",
-      "summary": "Dow, S&P 500, Nasdaq Futures Mixed Amid Rising Oil Prices Ahead Of CPI Data: BAC, RIVN, SLS, GME Stocks In Focus&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Dow, S&P 500, Nasdaq Futures Mixed Amid Rising Oil Prices Ahead Of CPI Data: BAC, RIVN, SLS, GME Stocks In Focus&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vWkJFUkNSVTNpSXFUNGgxZWtlWUdXSmt3eC04ZllUYm9ma3UtYUNMS1ZQbDhDX0R1am5LZlZDcmx5Q2ZkR1pUTVBaOFR1WHgtY0FTakRvVkNpY1dnSDljcEp4SGpHYkw1cVF4LUhYZndrbmY5MlRR0gF8QVVfeXFMTmZhUmNzY2Z3a2tVNVlDdHVPZXUzeUQ2a3Vjc2Y4OGZuUTdmYlRvdDhSZXhVZmN0MWpoRjNkd19QYzQxZjN6RXlLcGZGYk5jLUQ1ZUdUZVpQSHp6eDh5X05pN1lWY2JpRWlpenZDNDFGQTJSdGtaOVFrczZUdQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-14T02:24:02+00:00",
-      "summary": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline&nbsp;&nbsp;CNBC",
-      "key_points": [
-        "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline&nbsp;&nbsp;CNBC"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-14T01:31:00+00:00",
-      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
-      "key_points": [
-        "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-14T01:25:00+00:00",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "key_points": [
-        "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
+        "Malaysia Finance"
       ],
       "sections": [
         "Finance"
@@ -142,7 +856,7 @@
       "title": "Finance presenter Alan Kohler to sign off from ABC for final time - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHRaMmRCLUNBU25aMk01NlQyRThoWFlqTTh4cDZfazY3VHZZbkt1Y1lpRThkYkRyak9oQmlBZW4tMFVsTk5NV0IyNjJzc3ZzSFdBY2Flb0pqa211LURRQmtNMDE2ZHFXR3FKVnVoMXZQOXFyaHRrMnZPMFpSU3lKRk5CM0xTSHA1amo4aDljSEx6WU5COTZqc2hBYVJxS3c?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published": "2026-10-14T01:10:45+00:00",
+      "published": "2026-10-14T01:12:43+00:00",
       "summary": "Finance presenter Alan Kohler to sign off from ABC for final time&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
       "key_points": [
         "Finance presenter Alan Kohler to sign off from ABC for final time&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation"
@@ -154,171 +868,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "US Stock Market today: Why are S&P 500, Dow Jones, Nasdaq, Russell 2000 down? Latest updates on Wall Stree - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNd2xkTndPYUROeEFlaC1Sel93cHFrZ29PdEY1azJCTXgyNl9EbTR2YTlKSlEyU0xJX25DdTg2NGEzZkJRNzlna3pHRFdLbWcydjFabGdheXQ5am9sdFQtc3l0WFVkUFkwR0VUdmI2QUNEdDNGVmpoUlZ3STJUR3poQXQzbmpvazlmbUZYWWdZUkhoOEpmVDZGQ3MtUDVhNmF0a0hnb2Z2eTh5bkJBU1NuMTdGUVJWd0ZqclZnbGdrNmFRdTlVRlFwQWstN1d5STlqNFZRVGhfOWxMb09LV3g0aFM1LXc1QmlBVHljcElYV3dTR2syanVZRlNWRWNXeFNqeWlXem1GMTFxUHZZU1JlRDRXc29Ucm5Qb1FfSGVNRFpuMEU1dE9Ob09UMHVtUndaV1hZ0gG4AkFVX3lxTE1keHB6TEZlRnpUY2RhWXdlakRjbmF6YzhlWS1DWGJqTkNQbmtXWFk0cWhUMkJLZGpJR1luaGNuLVp3eExxbVlfNktxcDc1QzdXRVU5VV9UQW0tUWx0a18xTVRVSmNjZzIzcFFzQ081S0dxZlM0eWktM3pHSm1SRXhVdVctUDE4bjlkeXRGSDBnRzhfa0RDVUlKTURXUWotWTFJcGtmLTBTcWtrbXZjQnNkeFMzWmh6M0JWaWYwQ3VDZVBjT2VUYVR0RmdPU3NIQVgyanJ6a2V2ZFllMThITTNodkhDVDBpWTZBUmM0Zzd4bHJJWldwYU1LSFB2WHlHeXYzR1pfNTBrdVM0SnZySG5razczWGNJbkNkQmVpb1dYcG82SDc5b2x0UkFHVmdIN05CMjRWSjVwVQ?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-10-14T01:07:29+00:00",
-      "summary": "US Stock Market today: Why are S&P 500, Dow Jones, Nasdaq, Russell 2000 down? Latest updates on Wall Stree&nbsp;&nbsp;The Economic Times",
-      "key_points": [
-        "US Stock Market today: Why are S&P 500, Dow Jones, Nasdaq, Russell 2000 down?",
-        "Latest updates on Wall Stree&nbsp;&nbsp;The Economic Times"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWpIOXdfUFJGd0ZrRThTTXNXdDBrSDBhWHJGcE0zTm1YMEZNWGZLSmVyZzNHU0dXX01TTUxNOUlUczBjOUlJSV9ucG1vZ3pkY0NGUktuUkd4cEc0TWpKT0plU1phYlJySXdkWWJENGJhZ1Q3azVDMERKMGtPTmpFVGtPS0tIRWI2WURLOGRQYzRGazJuNHZfNk5ZQ1ZZS2dyLUVMcUJZVUhsVV9HM2g1U1JqdGt2UHJnQzJIYVRFSkQxd2E4cWY2LWk1SQ?oc=5",
-      "source": "Investing.com",
-      "published": "2026-10-14T00:57:31+00:00",
-      "summary": "U.S. stock futures muted after chip losses drag Wall Street; CPI data awaited&nbsp;&nbsp;Investing.com",
-      "key_points": [
-        "U.S.",
-        "stock futures muted after chip losses drag Wall Street; CPI data awaited&nbsp;&nbsp;Investing.com"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOamNvdUVwakZUcWVQUlBMV1ROSGxHOXdhZXBIbUt1azhSVUM5S0JkRFF1RHR4SkxzMGNHRDdFd2FxQWF4X2w1QU00aG5pMkM4V0NiMm1LQlZDN3ktWXVPek12bUJpRGxlLXlYb2tTUE1icXBwLUxfMkxfU2xyWk9DTmhuakUxZ3BRMWJZQV9YZzNkbFUxT2FuVENEeXRWU0x4RFBoM3FSOWZia2pFeFo5Y21oakQ0dDFCNWVmX0ZWSVFrOGx2NlB2bVU3bFZQbHFVbmc5S1hnaDQ1YlcwUnlHOTYtR1dXc3A3a2JTV1FiWWtvMFJFZ3hJWg?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-10-14T00:41:12+00:00",
-      "summary": "AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year&nbsp;&nbsp;Stocktwits",
-      "key_points": [
-        "AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year&nbsp;&nbsp;Stocktwits"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Inc (AAPL) Shares Surge 0.1% -- What GF Score of 95 Tells Investors - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUNUZWJDaHlMWW81OUxkTEtnZ0N1S3RWUk9ST0Y3MTlWckZrQXdTRHVXcDZwYjNKR2xzWVdLc25rdWFCc1NQM3g0YkswVkd5N1FKSmRpUzRseVlpTGZ0RTBsM1dDbUstNDkzNURtNkg0WkRnMDZEbXpRM3RVUXVtcFpISW45Umlnb0dDb0x5bl9EQVZoZnJOdjVtRkl0bUNyeUdSZUo5ZGg?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-10-14T00:34:20+00:00",
-      "summary": "Apple Inc (AAPL) Shares Surge 0.1% -- What GF Score of 95 Tells Investors&nbsp;&nbsp;GuruFocus",
-      "key_points": [
-        "Apple Inc (AAPL) Shares Surge 0.1% -- What GF Score of 95 Tells Investors&nbsp;&nbsp;GuruFocus"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Inc. (AAPL) Stock Forecasts - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0p6ZUpBX084emJJRkZkZ2dUaEtpTFZlaHZySVpsQVVNcGxmSlRpTW5icVJZZHQtelNIUHE2dzBWZ2p3Y3R5TVZMV3J6Y2ExS3dFeDU0TG43aml0Vjk2QVJfbldmdUlkRkhtZ1daZ0V4dTBDdXVaWC1qRUU0dWhXY3FuVzRvYnkzNXRsZXBlLU8?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published": "2026-10-14T00:21:44+00:00",
-      "summary": "Apple Inc. (AAPL) Stock Forecasts&nbsp;&nbsp;Yahoo! Finance Canada",
-      "key_points": [
-        "Apple Inc.",
-        "(AAPL) Stock Forecasts&nbsp;&nbsp;Yahoo!"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Stock: The Biggest AI Winner Isn't Building AI (NASDAQ:AAPL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTUZUWVAtQnN1TTNYM3FpUkxlZDBncU1fS2xUR0FFOHFsSjdNclhabFZhcTV4N3hhUHA3OEYxbFhKRWJvcHhaUUhONEdrQTNiOExaSVdSczhfd21OczFEYjJaR3ZoaEhHRmhsMXhKVm9Cd1NlRC1JX05HRktjdmtJeVd5bUVGTlRjOWt4VjNR?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-10-14T00:12:18+00:00",
-      "summary": "Apple Stock: The Biggest AI Winner Isn't Building AI (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha",
-      "key_points": [
-        "Apple Stock: The Biggest AI Winner Isn't Building AI (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHgxYUF6YzJQVGJHSE9INmpndDZ2Ty0xTnZGcl9vZy1UMXJYd3J1NEdTdlJUbHNPeDBlUzB4bW5VRDFzc25ocHhlN2ZUMGxjRTMyTklzXzZvbHFhaWlLODBReGxzNUswQlJ3NHQxM3ZieW56eHlhdE1LRXJJSWFoWnZLdnhnOHBSTUFkdVMzcw?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-13T23:37:15+00:00",
-      "summary": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Nasdaq ends down as chipmakers fall and bank earnings roll in - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdkNncVkwQU9JeFhSRFFWQ1FhcW5SUk5hY1hQMkpocmdCRlZ5b04zOGJnZ184T1lONDh1cUQwZFY3RVJxUmJzZDhpUWZ0RlhsUGluV3hoVG1TV2JWNEZtUS12R1Z0VURRQmt3SjkyUU44UkZTcmF1RnFaTm9POE9LYW5TWjY3el9jNzQwV1lOVkhaOGFDTE9Wc1NrM0RYTzJ5UFM4eF92UWV3LW03SHJ1U1I5cHF4eDNFS1liNw?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-13T23:25:08+00:00",
-      "summary": "Nasdaq ends down as chipmakers fall and bank earnings roll in&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "Nasdaq ends down as chipmakers fall and bank earnings roll in&nbsp;&nbsp;Reuters"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Nasdaq ends down as chipmakers fall - CommBank",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlVSbU1lUjdDUUNhWDNwam56b2JrVHF6Y20zS0tPbEI1VE9oZkc5ZklDU1o1NnA5aVJMN04tbjdPSFdnX2p0QkxhU24wME41RkFXVktjRzFCZnRTUHlJajRVRjRzS0FoSExid201V2JLZVNvRUxod3JYcWQ2MjhjMnl5VV9mUFczanB3UXV5aS03RzB1RGh5Snln?oc=5",
-      "source": "CommBank",
-      "published": "2026-10-13T22:50:12+00:00",
-      "summary": "Nasdaq ends down as chipmakers fall&nbsp;&nbsp;CommBank",
-      "key_points": [
-        "Nasdaq ends down as chipmakers fall&nbsp;&nbsp;CommBank"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -340,42 +889,6 @@
       ]
     },
     {
-      "title": "Apple’s Next Stop: $6 Trillion Market In 2 Years (NASDAQ:AAPL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGx5cUMtcklCcndRX1Q1aXI5aEJadzBVb1IxYnVMeDdOLWxQMUd6SjI4a0VWWURzeklMakdZck02MHhGX2xtcmZPa09JaGp6LTVEeUdjcDB5SUl1M0pkdjdYWlBJc09TYllQeHFrUk5WcEVfQTFyazF5VExoTVRNZTZrcjkyRkpEMk5NYTBB?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-10-13T21:35:27+00:00",
-      "summary": "Apple’s Next Stop: $6 Trillion Market In 2 Years (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha",
-      "key_points": [
-        "Apple’s Next Stop: $6 Trillion Market In 2 Years (NASDAQ:AAPL)&nbsp;&nbsp;Seeking Alpha"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Elon Musk’s SpaceX could change how Americans buy iPhones - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkFZdE9sVjFQSF9SMXNhd3VOVk5fZEVob0FqbHY3dy1PYVMtYUpoNFhVQkVSZXp2dEZaa0pOaHl0X3N1cm5KRmlRTzdTcVJIRTV0X1JGVFNldjNLSV9sQ21WWk9yUWhxR1RhOFFJTm1PaFhVZkJVQThiUFlVcVFjQXJwSE5EOExmaE9IMXUwRkQ4Q3JFWHpuOQ?oc=5",
-      "source": "TheStreet",
-      "published": "2026-10-13T21:03:00+00:00",
-      "summary": "Elon Musk’s SpaceX could change how Americans buy iPhones&nbsp;&nbsp;TheStreet",
-      "key_points": [
-        "Elon Musk’s SpaceX could change how Americans buy iPhones&nbsp;&nbsp;TheStreet"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
       "link": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html",
       "source": "Business News",
@@ -383,133 +896,6 @@
       "summary": "United Airlines is doing away with flight segment as a way to reach Premier status and increasing the spending requirements for Premier 1K.",
       "key_points": [
         "United Airlines is doing away with flight segment as a way to reach Premier status and increasing the spending requirements for Premier 1K."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-      "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T21:02:00+00:00",
-      "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
-      "key_points": [
-        "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Micron Was Heaviest Weight on the S&P 500 - Newser",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnFadnoyLVZDa2xqOE55Z1NPV1JPVnZBX05aeGd1QXc2aW1Qakl6TjlfR3RqMDcwam90Ym4xd3lNZUFrRTJfT0tQS3ZPenpOb1Q4RDB4eHVSMHdLc2dwVS1Xd3Q0X3FDZVVBbi04YVdHZjg3ZW04b1JfQ1hfdUNTelpsY3JOWXBCWWlCeERIdVZxSVZ2NmYtWEhORmNwUQ?oc=5",
-      "source": "Newser",
-      "published": "2026-10-13T20:51:00+00:00",
-      "summary": "Micron Was Heaviest Weight on the S&P 500&nbsp;&nbsp;Newser",
-      "key_points": [
-        "Micron Was Heaviest Weight on the S&P 500&nbsp;&nbsp;Newser"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T20:42:00+00:00",
-      "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
-      "key_points": [
-        "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-13T20:41:01+00:00",
-      "summary": "S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses&nbsp;&nbsp;CNBC",
-      "key_points": [
-        "S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses&nbsp;&nbsp;CNBC"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T20:41:00+00:00",
-      "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
-      "key_points": [
-        "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "U.S. stocks edge back from their record following the first big batch of profit reports for the summer - BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWpCd0xaWDQ1WUZKNG8tWVA5NkdWR2VMcUcxNlF3azNNR1pyM19Xbm9uOHFGMGtaSGdaNGh5VWczazBwaDI0b0pyNk1PRkFWTGl4dl9vbVNnelJFNnpyRFg4dFFjZ2JUVWNzb2ktZldwRDhLT2VLeXExdURwVG5seGdWSTFTZGd0dm9EaW9EYi1hZlJXQmFOTGNMbklMU2cwdTVjNWpwelp1Uy1NQi1UbWIyMWZrQlZ0S1h6MHhHMEpWaDlaU1QzRlYyZmtJQ3JURXd3?oc=5",
-      "source": "BNN Bloomberg",
-      "published": "2026-10-13T20:33:20+00:00",
-      "summary": "U.S. stocks edge back from their record following the first big batch of profit reports for the summer&nbsp;&nbsp;BNN Bloomberg",
-      "key_points": [
-        "U.S.",
-        "stocks edge back from their record following the first big batch of profit reports for the summer&nbsp;&nbsp;BNN Bloomberg"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T20:32:00+00:00",
-      "summary": "AST’s commercial rollout could face delays due to satellite-launch challenges and SpaceX’s growing ambitions, an analyst warns.",
-      "key_points": [
-        "AST’s commercial rollout could face delays due to satellite-launch challenges and SpaceX’s growing ambitions, an analyst warns."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -539,79 +925,6 @@
       ]
     },
     {
-      "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-      "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T20:29:00+00:00",
-      "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year, as the company tries to rein in spending on medical care.",
-      "key_points": [
-        "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year, as the company tries to rein in spending on medical care."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-      "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T20:27:00+00:00",
-      "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
-      "key_points": [
-        "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Micron’s stock extends declines as China competition heats up",
-      "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T20:25:00+00:00",
-      "summary": "Even Elon Musk says Chinese memory-chip makers are catching up.",
-      "key_points": [
-        "Even Elon Musk says Chinese memory-chip makers are catching up."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-13T20:16:00+00:00",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "key_points": [
-        "“The house is worth $925,000 and mom owns it outright.",
-        "She also has $480,000 in investments.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "AI kill switch: Can we really shut down artificial intelligence? - TechTarget",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRm5xdFNIMHgyLXJ5V2xrdXJqbk8zNWJWX1JyRTMwNWpkUlhYNnJIV3FEM3JuZ3NLNWQzZTNGN3pETUlSa05VTnZHVVJOa1hlM3RkdkVldW1IME1UVUtTakxhUHZtVmpOZ24wQXhrSXJTZGNJX04wOHNzc2E1OEtvZFVESUtudWVQTHo5NjVCdUVvamVTNHNFaXV2eDRLV2VSTFkxV2ZzWjU3U1J6cUE?oc=5",
       "source": "TechTarget",
@@ -630,65 +943,10 @@
       ]
     },
     {
-      "title": "Stocks Struggle Ahead of September CPI Report: Stock Market Today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXUtamxXVzBQa2ZqdEtqbWpkdWxFTkdQb0lZN1I2Vlc5UWdNakcwQUFBVWVzRnBjeFI3R2huWURjcGxUeVJVODZqUnlsRVctUlZac0JkaEFNZmV4WG42ajFaaUlmaFVxNFNId2xqYWN5c0E2dUE3dW9pSTFsd25PNFRWQnlKYThyNHF0OUxjQnh4Y2hLMnJWY0RseDBwLVFRX0E?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-13T20:08:50+00:00",
-      "summary": "Stocks Struggle Ahead of September CPI Report: Stock Market Today&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Stocks Struggle Ahead of September CPI Report: Stock Market Today&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Is Visa Stock Increasing Your Market Risk? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbzhydUtxU3k2UnlmWjJtd0I0TVZZbkRJanJua3F4bjRXQTl6eEZibHdLaTFMdVZ3RFZtUHlsZ0cxWHE4bmhmMFRaaFdmYlpVQTJWQmVXQjJ0UzJENzZoN2pwSDMxaXVWdUVPeENtNWVDSW85OVlfUXNnOEpTWnRwSkdfOW9GTkpRSkFETGZ2ZTEwazF5UmhxQzdFYzhhSXM?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-13T19:31:31+00:00",
-      "summary": "Is Visa Stock Increasing Your Market Risk?&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Is Visa Stock Increasing Your Market Risk?&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple Gets a New M&A Chief. How You Should Play AAPL Stock Now. - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVl85RWw3Slh4Y2xsSUVPX3hUTXNvaUc0ZzR1ZzNWbkFOclBiS1VBUFkteWJjaUk4VHdRbHdlYVBaaTQzSGpSbzZfM1MzLWFZckNWU3owNzFoRUdoa3p5TVhqWWhmYXB0eTlRSzg4eXdXTkVWaVBaRkJEN3M0TTg5TVFmZkxqQlpMWWV5MHJpbUk4UFI0TzJuLUNtS0l6TE44enpwNmlYVUQ?oc=5",
-      "source": "Barchart.com",
-      "published": "2026-10-13T19:28:40+00:00",
-      "summary": "Apple Gets a New M&A Chief. How You Should Play AAPL Stock Now.&nbsp;&nbsp;Barchart.com",
-      "key_points": [
-        "Apple Gets a New M&A Chief.",
-        "How You Should Play AAPL Stock Now.&nbsp;&nbsp;Barchart.com"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Navigating modern finance career paths - Daily Pioneer",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rN241emZjVHoxYmY4RVk1bVM0ZUpfcmZnbjNwTmpXc3lUWWlvdjhoSnZaWjc5b08wNUtsXzlOcERvNWJDeGRnQnlLUVlhUGlDeS1RTUNUcmFUUVptNWlfeEJ6S1g5VF9CQ1ByRzg4eExpbHhVY1Rv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHNQekZzbjIzRFEtTUhWNFpJOTVrM0ZacXE4bjNCRzN3M25XWDFXdkV2RFk1bzVrNHZxcHZKbDI1VFRVNVRiTi1TZ1BCZTdVRnU1N0xSaVdlWWJqdlhPN0tEYXR5anhnNFBfOHcwNkJhTm15T2taRXg2X1JuOVF5QTU5MUtlajg5dmI1U2RrMzBQZw?oc=5",
       "source": "Daily Pioneer",
-      "published": "2026-10-13T19:23:54+00:00",
+      "published": "2026-10-13T19:21:48+00:00",
       "summary": "Navigating modern finance career paths&nbsp;&nbsp;Daily Pioneer",
       "key_points": [
         "Navigating modern finance career paths&nbsp;&nbsp;Daily Pioneer"
@@ -721,60 +979,6 @@
       ]
     },
     {
-      "title": "Apple Bets on a $299 Siri Screen as Its Home Prices Keep Climbing: Here’s What It Means for AAPL Stock - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGxfTHNhRWxFd09Sb0V6UU5VY0pvT0pLdUQ4VklTZmV0Rk9sdG9KMDNwdmxIdmFocW9IRnFMSnU0djdka19mUlRBZXRHQ3Y1Q3dXNGNrY211SnNyMDhpS1d4VEd3bTlUeWRYX0lUbUtVYXdsNk9pUFlXZTh4R2tybEJ1cWhTeXhQMnVuX1hpX18xeDhJY2tXZ2MzRFNRU2lsVTdhLUFtS2lrLUVaZ3VOSmliSWVOUTVnaDRFZzhDQUNqN0c5?oc=5",
-      "source": "TIKR.com",
-      "published": "2026-10-13T18:52:28+00:00",
-      "summary": "Apple Bets on a $299 Siri Screen as Its Home Prices Keep Climbing: Here’s What It Means for AAPL Stock&nbsp;&nbsp;TIKR.com",
-      "key_points": [
-        "Apple Bets on a $299 Siri Screen as Its Home Prices Keep Climbing: Here’s What It Means for AAPL Stock&nbsp;&nbsp;TIKR.com"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Apple (AAPL): Services Growth and iPhone Mix Set the Next Earnings Bar - AlphaStreet",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHloUGNOUXYtNzFZNmFZYnRfeGF5Y0stYlFVendHTVpEZi1OaHhSdzJUb3B3dzFIRFIyRjByVThBMXNvbmNfYVZYUUFjZHFGdWwzdUhTTUNaaVllNTVNNlh0eGZMNVBnRUl3NmJnQmR0bzVmVm5NVkJTSkNFMkxQN01IVTVlR3FKRFE3UDVvSFEtOVFNaW5ocnE3dmVhQdIBowFBVV95cUxNNmREMzU2bjNPNTBEbU9Bc2xINjN3Y0hGYjhPZUlPV3hpNmV3YjI2N1VJSC1pb1JWZjRQSENTUGtUR29UM2w3dTJ0MGxFNXVvZHFfZ1FLNVVEQ0d3WkhlR041U1RKSGxNM0hlTkh2alZ6WVdCOW9nRjJGRXQzRjdvTnY3aVdkNlRyMXVaVE4xdUNCWE9lRUxpV2VYczNqME1kTlV3?oc=5",
-      "source": "AlphaStreet",
-      "published": "2026-10-13T18:42:26+00:00",
-      "summary": "Apple (AAPL): Services Growth and iPhone Mix Set the Next Earnings Bar&nbsp;&nbsp;AlphaStreet",
-      "key_points": [
-        "Apple (AAPL): Services Growth and iPhone Mix Set the Next Earnings Bar&nbsp;&nbsp;AlphaStreet"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet on Dan Ives’ $4 Trillion AI Wave? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkZSTGlmbnBRSDQ4WnJCbHpldVBCQ3ZMTXBWbTktQk16MmtBWDA5elpFb3Q3RjFwVE5Fdjh3akhySnN1eV80b3JnQXROb0pLc21NRkFDZ2RRa1VpQmc2el9id0FGcHVIbnRSTWh4TzVSRk5uc2RLME1yYjJ4TW4tM0FYUUNtZ3htaFNfZ3V5RkNhRjZ4NU9EOA?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-13T18:41:29+00:00",
-      "summary": "Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet on Dan Ives’ $4 Trillion AI Wave?&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet on Dan Ives’ $4 Trillion AI Wave?&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Apple / AAPL"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
       "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
       "source": "Business News",
@@ -790,6 +994,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "‘Companies that fail to embrace AI may cease to exist’: Israeli tech entrepreneur on the revolution reshaping business - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2WXE5ZEk5N1ZDbmRBWWF0dGNFVUVhUnQtMmZhZklyRy0xcW1iU3drYVNxZmJ4UU5VSFk3NDhROF9ILVZhRXJZUXJJUXpweDhmQ2JvVktEZXp4ZWRTRFhPV3JUTGlPZ1gweUQxLQ?oc=5",
+      "source": "Ynetnews",
+      "published": "2026-10-13T17:16:08+00:00",
+      "summary": "‘Companies that fail to embrace AI may cease to exist’: Israeli tech entrepreneur on the revolution reshaping business&nbsp;&nbsp;Ynetnews",
+      "key_points": [
+        "‘Companies that fail to embrace AI may cease to exist’: Israeli tech entrepreneur on the revolution reshaping business&nbsp;&nbsp;Ynetnews"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -892,43 +1114,7 @@
         "UPDATE: Trump to visit Ga.; Six Flags death; Tech, Emory invest in artificial intelligence; Several Isaias-spawned tornadoes confirmed in Ga.&nbsp;&nbsp;97.5 Glory FM"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Some AI researchers are taking up smoking because they believe artificial intelligence will cure cancer - TechSpot",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSFF0Tlk3NXFiSnp1WjRGTVpqR25tenlmVERjaHVmM1ZxRWtpSmdTS3h1RUUySXM1M182bWQ0WW5iTUZhbHFpMTQ5Rk5KM2JGODJOd3FURnlwRHJiYjFxNjlCa0dRRWdZRUZ6alFBTUV4Zk9UUTFaeUlkVjA0a204MndZcVlUNWZCd0ZBLVdobEVMMWFQQTRXTTA4aw?oc=5",
-      "source": "TechSpot",
-      "published": "2026-10-13T11:17:00+00:00",
-      "summary": "Some AI researchers are taking up smoking because they believe artificial intelligence will cure cancer&nbsp;&nbsp;TechSpot",
-      "key_points": [
-        "Some AI researchers are taking up smoking because they believe artificial intelligence will cure cancer&nbsp;&nbsp;TechSpot"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Why Arena Breakout Infinite Became the Toughest Extraction Shooter on PC - TechBullion - TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQamI4R3dzVXJVdzE5dTNfZUtwMFBBWjlodHNpdmRkaEdQRHVHZ3lYUkRGd0h0RzZxcXhwWXZjbnBibkp3UkQzbTVIcEJUTGxibWhhUE9mMFFjQ21BMzA1NjRXWTAzWHE3bk9vNkYtTW10SG84WTQzUkY1M29sS0VETEE5TUkzOGVFMm9Jb09MUmlkME5ib0NqVUtmbFpqQQ?oc=5",
-      "source": "TechBullion",
-      "published": "2026-10-13T10:02:16+00:00",
-      "summary": "Why Arena Breakout Infinite Became the Toughest Extraction Shooter on PC - TechBullion&nbsp;&nbsp;TechBullion",
-      "key_points": [
-        "Why Arena Breakout Infinite Became the Toughest Extraction Shooter on PC - TechBullion&nbsp;&nbsp;TechBullion"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Tech Industry"
       ],
@@ -946,30 +1132,12 @@
         "MBA in Business Analytics 2026: Learn Analytics Tools, Data Skillset, Industry Projects, Fees, Inter&nbsp;&nbsp;Shiksha"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Business & Financial Analytics"
       ],
       "sections": [
         "Work"
-      ]
-    },
-    {
-      "title": "Tech Debate: Is it Artificial Intelligence or Super Intelligence? - Fast Company South Africa",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0lwT2hMTXVCZk1XRHpUY1pPWjRlcllkZS1UZWo1ZFJ4YnFmUTdaeXY2UTdNUWpqTlBveVEzdkVfOWxHZDlZVVlyLWswSGlQNnUwTWxRN2IxTlByUW1EVHBBaTdXd0psR291YVdWZmRQMFNKUVdhbGtQLXYxMlItMEhuODJPYk9qbnFpa2ZfM21sLXdYdFk5bUdXQXY4VTVVZEhId3ZsRXd3a2JtUkRmemZzMkh2cHA4Q2hCY0t3?oc=5",
-      "source": "Fast Company South Africa",
-      "published": "2026-10-13T05:57:12+00:00",
-      "summary": "Tech Debate: Is it Artificial Intelligence or Super Intelligence?&nbsp;&nbsp;Fast Company South Africa",
-      "key_points": [
-        "Tech Debate: Is it Artificial Intelligence or Super Intelligence?&nbsp;&nbsp;Fast Company South Africa"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -982,7 +1150,7 @@
         "The Artificial Intelligence (AI) in Business Analytics Market Is Projected to Grow Rapidly at a 15.3% CAGR Through 2030&nbsp;&nbsp;EIN News"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "Business & Financial Analytics"
       ],
@@ -1043,6 +1211,24 @@
       ],
       "sections": [
         "Technology"
+      ]
+    },
+    {
+      "title": "AI in Analytics: Examples, Benefits, and Real-World Use Cases - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdzlzSzU4MFBWUzJnX3F5MWgwMlVLdW1PSGQwel9DQ3ducnlJT3NVZ0ZVdkxPWmJ3RU9vU1AtZEJWbW9oQlB4VFhCTkJRRU80WVJYLVdvODUxU2hGSFE?oc=5",
+      "source": "Coursera",
+      "published": "2026-10-12T17:28:00+00:00",
+      "summary": "AI in Analytics: Examples, Benefits, and Real-World Use Cases&nbsp;&nbsp;Coursera",
+      "key_points": [
+        "AI in Analytics: Examples, Benefits, and Real-World Use Cases&nbsp;&nbsp;Coursera"
+      ],
+      "why_recommended": "Matched your \"Data & Portfolio Tools\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Data & Portfolio Tools"
+      ],
+      "sections": [
+        "Projects"
       ]
     },
     {
@@ -1246,42 +1432,6 @@
       ]
     },
     {
-      "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-      "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-      "source": "Business News",
-      "published": "2026-10-09T15:07:46+00:00",
-      "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-      "key_points": [
-        "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-      "link": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-      "source": "Business News",
-      "published": "2026-10-09T11:57:05+00:00",
-      "summary": "Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned.",
-      "key_points": [
-        "Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Career & Finance Horoscope, October 9, 2026: Avoid making major commitments until you have clearer information today | Astrology - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMmd2VURPLTVQWUhBdTVNS0h1dDFLMXJRSVhlNzMtV3pVa0lHYnl4RVBaNklGaTV1aExtNlg3SGdKVnlYc3Z5dmE2OU9xdTBSYnFBUjhKM1RwclhKeVd4T1RHSE92OUNIUXM3RXYyMTFYcVp2NTM4US1hOWxfMC04TmQyRloxUUNBOUxVQm9GVkJLNHZ5MmpfVWE1MGMxTkwzbmtRVzdQbkxybDE4RHR4cnl6dHlEOGIwQzdrTzg4RklLYjB2aFZfYmpYdnpEWXlhUVhmVGZGWFhpZzEzU2o2ejM3WEFYVUc2bnpqYW9tZVh5dFV2cDdvcjV5V3ppT3FDTVpmTS1lZU9Kd1Z0c1RITtIBlgJBVV95cUxQV3piTm5fdVBZejBYRFFlVUw5ZVF5SG9iT2pZTVRlZFBMNzVDeWVVWVhXTEQxMnFqWklEQTNMRm1fek0teVBEelduNWxBaFZ3RzZtTGdOZTREdnl1MVJBSE9JWWZkaGgxQlJyQURWTVItOExZaklIZU1KdndXdC1rSm5NZTlUOWo4SzhHR0JQVk1XX1NtejZKcmdpUnQzQk93b21DaUlQVy1oVjZaSlpvSXRkVVB4dlpUZ3BfLU9yUzBBUzIta2pDWmFVOEI4V0xCRHh6SGFNeUZmQWgwZkhtQl9YX3BhTWdvLVFwLW54N0xLRXJFZV9FRktWWUVKNDJDdUNFaE15YXN3WWpmUFd6NTRvVFNQUQ?oc=5",
       "source": "Hindustan Times",
@@ -1297,24 +1447,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
-      "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-      "source": "Business News",
-      "published": "2026-10-08T20:12:33+00:00",
-      "summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
-      "key_points": [
-        "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -1336,13 +1468,13 @@
       ]
     },
     {
-      "title": "Accounting for AI's professional impact - divergent studies on how young finance professionals see AI adding up when it comes to career prospects - Diginomica",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa09FMThSOGFTWW1WVG83YkdSY0FJMWo3cXM5S0pZeW00NVE2Y0Q1VWdCMzdsUzU5TFBQbURvLTdFSVBLU21QdDE5cUFCSkxyci1hc3pTMDVjaF9TZWp6LVhldi1kYWpBLVl2ZUFMT2s5bVV0LU1WclkyUlZSS01UQXd2U1NqVURWblpfNzZsWlFHR0ZydWx1SHhlUTV1b3JmOGJHM2RJc2puWHUzbVVkUnh2M3Jqelo2RW1sNmFn?oc=5",
-      "source": "Diginomica",
-      "published": "2026-10-08T09:35:01+00:00",
-      "summary": "Accounting for AI's professional impact - divergent studies on how young finance professionals see AI adding up when it comes to career prospects&nbsp;&nbsp;Diginomica",
+      "title": "October 2026 horoscope: Career, finance and health predictions - IOL",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWJmbEc4RU5JRm1keThsZ1VLcnpwSmd0bmpZNDBRMGFqMmFSdjlGOWlYajU5bDFuRHpVMnBHdk9fc2c4RnctcFFmQW5FaDZsai01ZHRwd3FZemE5eVJucFJ5MURnNXZsMVdVYmVJS0F5WGI1Zk4yOWszQXlNcFZJOEdSWTN0Y3paUU9WZVVONTBLQWFCTS03RzRhRXplUnBYOHNkNmRTWk41VGc?oc=5",
+      "source": "IOL",
+      "published": "2026-10-08T11:57:36+00:00",
+      "summary": "October 2026 horoscope: Career, finance and health predictions&nbsp;&nbsp;IOL",
       "key_points": [
-        "Accounting for AI's professional impact - divergent studies on how young finance professionals see AI adding up when it comes to career prospects&nbsp;&nbsp;Diginomica"
+        "October 2026 horoscope: Career, finance and health predictions&nbsp;&nbsp;IOL"
       ],
       "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
       "importance": "Low",
@@ -1408,24 +1540,6 @@
       ]
     },
     {
-      "title": "Saint Leo aims to cut college time and costs with reduced-credit degree - Bay News 9",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlB3RW5FeGlSWV80ZDlxWEZRQnVwU2x1UldpUERrUXNxSWFQbUVFTGpWUFZMYkFnWGJHRTJLMHJSMC1Pa1RnT3NCLUpEU0laclcyRGtSOFloa3Q2b0RUNEVCeTd2RGs2QlY4YnBzSFduTC1DQXBZZ2dOOUUyWFRUTUNyMjA1cFVud2xldWNDTmhkQUh1dF9DQVo5UFkyMXVrTk4yRWZSOWhkZUx1S1J6dk1WdmEyUE9O?oc=5",
-      "source": "Bay News 9",
-      "published": "2026-10-05T20:26:00+00:00",
-      "summary": "Saint Leo aims to cut college time and costs with reduced-credit degree&nbsp;&nbsp;Bay News 9",
-      "key_points": [
-        "Saint Leo aims to cut college time and costs with reduced-credit degree&nbsp;&nbsp;Bay News 9"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
       "title": "Perak FA - Sabah FA, 20/03/1999 - Malaysia Super League - Match sheet - Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBY19yUzRTVWdRMG9wQ1pkT0dYT0V0RmIyb184WTdBLXZmbURyUDJob0llZ2tXQTZHQi1oRzFmODBXZThWbzZQRGxJbFE4X1AzR0Z2ZHVvMnkxNVhhTi1pTjVaZ28xQmd4cTFxREIteUVnbEcyTkgtQw?oc=5",
       "source": "Transfermarkt",
@@ -1460,6 +1574,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Saint Leo aims to cut college time and costs with reduced-credit degree - Bay News 9",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlB3RW5FeGlSWV80ZDlxWEZRQnVwU2x1UldpUERrUXNxSWFQbUVFTGpWUFZMYkFnWGJHRTJLMHJSMC1Pa1RnT3NCLUpEU0laclcyRGtSOFloa3Q2b0RUNEVCeTd2RGs2QlY4YnBzSFduTC1DQXBZZ2dOOUUyWFRUTUNyMjA1cFVud2xldWNDTmhkQUh1dF9DQVo5UFkyMXVrTk4yRWZSOWhkZUx1S1J6dk1WdmEyUE9O?oc=5",
+      "source": "Bay News 9",
+      "published": "2026-10-05T07:00:00+00:00",
+      "summary": "Saint Leo aims to cut college time and costs with reduced-credit degree&nbsp;&nbsp;Bay News 9",
+      "key_points": [
+        "Saint Leo aims to cut college time and costs with reduced-credit degree&nbsp;&nbsp;Bay News 9"
+      ],
+      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Business & Financial Analytics"
+      ],
+      "sections": [
+        "Work"
       ]
     }
   ]
