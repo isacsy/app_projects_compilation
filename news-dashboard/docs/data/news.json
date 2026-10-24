@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:46:22.565103+00:00",
+  "generated_at": "2026-10-24T20:34:31.891565+00:00",
   "sections": [
     "Finance",
     "Work",
@@ -8,18 +8,198 @@
     "Projects",
     "Personal Interests"
   ],
-  "daily_brief": "Top stories right now: Money-saving habits to cope with higher prices — from our readers (Finance) | Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio - Yahoo Finance (Finance) | Why popular airplanes are getting scrapped years early (Finance) | Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler. (Finance) | Looking for AI stocks that are still cheap? Consider these two under-the-radar picks. (Finance)",
-  "count": 90,
+  "daily_brief": "Top stories right now: My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute? (Finance) | ‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me? (Finance) | My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave. (Finance) | Young Americans are giving up on car ownership. It’s a path to financial freedom for some. (Finance) | I’m 58 and hate annuities. How can I get dependable income in retirement? (Finance)",
+  "count": 87,
   "items": [
     {
-      "title": "Money-saving habits to cope with higher prices — from our readers",
-      "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
       "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T15:27:00+00:00",
-      "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
+      "published": "2026-10-24T20:15:00+00:00",
+      "summary": "“Nothing has been set aside for his needs.”",
       "key_points": [
-        "I asked people what they’re doing to make life more affordable today.",
-        "I’ll definitely be trying some of these."
+        "“Nothing has been set aside for his needs.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T20:00:00+00:00",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "key_points": [
+        "“My late father bought our house for $250,000 in the 1990s.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T19:45:00+00:00",
+      "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+      "key_points": [
+        "“He wants to buy something for $600,000 now that we are empty-nesters.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T18:45:00+00:00",
+      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+      "key_points": [
+        "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T18:03:00+00:00",
+      "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
+      "key_points": [
+        "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T17:39:00+00:00",
+      "summary": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
+      "key_points": [
+        "“I’m 32 years old and feel like I should know how to do this stuff by now.”"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T17:23:00+00:00",
+      "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+      "key_points": [
+        "Nearly half of Americans haven’t calculated what they’ll need in retirement."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T16:59:00+00:00",
+      "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+      "key_points": [
+        "Trick or treat?",
+        "Musk has a long record of saying things have little relation to reality."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T16:46:00+00:00",
+      "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
+      "key_points": [
+        "Social Security is looking to reverse an initially slow uptake on Trump accounts"
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+      "source": "MarketWatch.com - Top Stories",
+      "published": "2026-10-24T16:18:00+00:00",
+      "summary": "Store aisles are getting a digital makeover.",
+      "key_points": [
+        "Store aisles are getting a digital makeover."
+      ],
+      "why_recommended": "Matched your \"General Finance\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "General Finance"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "source": "Business News",
+      "published": "2026-10-24T15:53:30+00:00",
+      "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+      "key_points": [
+        "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -49,6 +229,24 @@
       ]
     },
     {
+      "title": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell - Exposing the Risk Hiding in Your Portfolio - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSGVhWDQwX1h1c3drNzljektZdkg0TVQ5U1dZZUxmZ3l2ZnVKRzk0VGp1RVgxZkN3TEY1aE52RGhSdWFpSnZ5a1FOY01NSjFERXNDOWFzSS0wWm02ZFZpbVV3R2gtRENJWGxXaEI1cjBrWlVGVERzcjFyYzhWanpuM1VGOXVUalpmV3ZkN245dC1jYkNPS1VaSFZKUlYzSkJVT3Z1MENfSnJsVXQ5Vm5idk5nX1hkeHgzbEJzd3g1QXlpRzMzZFVjY3JHMFFRcHEycjNKQ1JBVll4OTBmMk53dFF3TTliazRkcm9xWg?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-10-24T15:20:00+00:00",
+      "summary": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell - Exposing the Risk Hiding in Your Portfolio&nbsp;&nbsp;24/7 Wall St.",
+      "key_points": [
+        "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell - Exposing the Risk Hiding in Your Portfolio&nbsp;&nbsp;24/7 Wall St."
+      ],
+      "why_recommended": "Matched your \"Stock Market\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Stock Market"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
       "title": "Why popular airplanes are getting scrapped years early",
       "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
       "source": "Business News",
@@ -56,96 +254,6 @@
       "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
       "key_points": [
         "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T15:10:00+00:00",
-      "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
-      "key_points": [
-        "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T14:40:00+00:00",
-      "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
-      "key_points": [
-        "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-      "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T14:24:00+00:00",
-      "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
-      "key_points": [
-        "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T14:06:00+00:00",
-      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
-      "key_points": [
-        "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T14:00:00+00:00",
-      "summary": "“Nothing has been set aside for his needs.”",
-      "key_points": [
-        "“Nothing has been set aside for his needs.”"
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
       "importance": "Medium",
@@ -175,36 +283,18 @@
       ]
     },
     {
-      "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
-      "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T13:37:00+00:00",
-      "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
+      "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-10-24T13:30:00+00:00",
+      "summary": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections&nbsp;&nbsp;Yahoo Finance",
       "key_points": [
-        "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year."
+        "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections&nbsp;&nbsp;Yahoo Finance"
       ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
+      "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
       "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "My niece’s college rent is covered by a 529 plan. What else can I pay for tax-free?",
-      "link": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T13:28:00+00:00",
-      "summary": "“We worked out a monthly budget of $1,500 for her share of rent, utilities and food, including groceries and meals on campus.”",
-      "key_points": [
-        "“We worked out a monthly budget of $1,500 for her share of rent, utilities and food, including groceries and meals on campus.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
+        "Stock Market"
       ],
       "sections": [
         "Finance"
@@ -219,6 +309,25 @@
       "key_points": [
         "Apple Inc.",
         "$AAPL Stock Acquired by Stone Summit Wealth LLC&nbsp;&nbsp;MarketBeat"
+      ],
+      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "sections": [
+        "Finance"
+      ]
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock Sold by Salem Investment Counselors Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODd6clduYkpKZXpZdW5TbFNENF9JQkFYQWVubjlQZU9OWmRiTUwwQzN6MXZhM0ozREx0Q1lTTjViQUhsTkw5ZUdaVHVaQm9wb1lQOWxOVWpjWmdwWDJCck5neVlqMGpUS1pyZjNPelotU2RMSDdvYURxVnY3SmNQLVJjV3J3azhwSVFwTElMV2RjLTRTdFgwVm05OWRpX0lSMGpVR1l1ZHJFaVdCNDF3Sk9JalNZMDJMSE5TLTJB?oc=5",
+      "source": "MarketBeat",
+      "published": "2026-10-24T13:27:17+00:00",
+      "summary": "Apple Inc. $AAPL Stock Sold by Salem Investment Counselors Inc.&nbsp;&nbsp;MarketBeat",
+      "key_points": [
+        "Apple Inc.",
+        "$AAPL Stock Sold by Salem Investment Counselors Inc.&nbsp;&nbsp;MarketBeat"
       ],
       "why_recommended": "Matched your \"Apple / AAPL\" topic.",
       "importance": "Medium",
@@ -268,58 +377,21 @@
       ]
     },
     {
-      "title": "Apple Inc. $AAPL Stock Sold by Salem Investment Counselors Inc. - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODd6clduYkpKZXpZdW5TbFNENF9JQkFYQWVubjlQZU9OWmRiTUwwQzN6MXZhM0ozREx0Q1lTTjViQUhsTkw5ZUdaVHVaQm9wb1lQOWxOVWpjWmdwWDJCck5neVlqMGpUS1pyZjNPelotU2RMSDdvYURxVnY3SmNQLVJjV3J3azhwSVFwTElMV2RjLTRTdFgwVm05OWRpX0lSMGpVR1l1ZHJFaVdCNDF3Sk9JalNZMDJMSE5TLTJB?oc=5",
-      "source": "MarketBeat",
-      "published": "2026-10-24T13:27:17+00:00",
-      "summary": "Apple Inc. $AAPL Stock Sold by Salem Investment Counselors Inc.&nbsp;&nbsp;MarketBeat",
+      "title": "Minuttia Study Finds Vendors Write Up to Half of AI-Cited Best Tools Lists - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDlVWUFIbHZHUE1ydGRhV3hjUkRvZmpxSnpkcmlaLU9GdU9pWndYbzZUYjE3RkdLWl9CamNCUmJfYWpacWd5YlpvWUp3OHExRXJCUE1LZ2FmakxPQTU4VXEwNE5kSV9vWVRCcXIyRmJjZjkwWjd6NEtNcDRWZHlTT09ndEp4LW1Jb3hTbFRYS0J1V0x3cDdrdG44WGEtejN6?oc=5",
+      "source": "TechBullion",
+      "published": "2026-10-24T13:01:20+00:00",
+      "summary": "Minuttia Study Finds Vendors Write Up to Half of AI-Cited Best Tools Lists&nbsp;&nbsp;TechBullion",
       "key_points": [
-        "Apple Inc.",
-        "$AAPL Stock Sold by Salem Investment Counselors Inc.&nbsp;&nbsp;MarketBeat"
+        "Minuttia Study Finds Vendors Write Up to Half of AI-Cited Best Tools Lists&nbsp;&nbsp;TechBullion"
       ],
-      "why_recommended": "Matched your \"Apple / AAPL\" topic.",
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Medium",
       "topics": [
-        "Apple / AAPL"
+        "Tech Industry"
       ],
       "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T13:00:00+00:00",
-      "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-      "key_points": [
-        "“I retired in 2020 and subsequently went through a divorce a few years later.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "source": "MarketWatch.com - Top Stories",
-      "published": "2026-10-24T12:30:00+00:00",
-      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-      "key_points": [
-        "“My late father bought our house for $250,000 in the 1990s.”"
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
+        "Technology"
       ]
     },
     {
@@ -582,6 +654,24 @@
       ]
     },
     {
+      "title": "China’s AI compute power set to double, but heavily reliant on US chips: report - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZl9scE9GTE5xLXFiT29rTlRCUFA5YWJHUS1JR2hoU2RvUnE0UlZwZk9mTDJnUXdlRGdHcHlaMFYxQ004T04wcXBfTzdxcThlN2xkZW10d2dpNlpSZmpoXzk0Sl9FRUJwSUFQN1FQZjFEOUQ1VFZLa0xNSXluZ1lNYUV2dGpwMzMzZUNzWUpydmtzWXlteWppQjk5NzJQdnRvWmpuNFlWU25OQzF2bGVLYXRsMy1iMy12MjcwZEFrNXo3S2JfN1Ew0gHHAUFVX3lxTE5JTGpieDNTZldrd0REWk1vS2d3N2xZV2E3cDVQTWNMTU1fbHR6SXQ1WGRwQVVfWV9vSUNVd04yOGlsOTE0NlM2QTduUFd4dVRSejNmOUllSWg1bDl3Y29PVE1XRWk2bWNzRVVXeFpuMm5UUHpaNV8ydDRVRmVGR0JPV0tXMEV5eE9nRlpRZHcyc2h1Y3h6SmZoUkpUUk8zbUpLeGtZZmRkaHFiMjhocHI0YkdOTy11QzkyYTdfcUdIc19yTWpmbGM?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-10-24T01:00:11+00:00",
+      "summary": "China’s AI compute power set to double, but heavily reliant on US chips: report&nbsp;&nbsp;South China Morning Post",
+      "key_points": [
+        "China’s AI compute power set to double, but heavily reliant on US chips: report&nbsp;&nbsp;South China Morning Post"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Medium",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "Wall Street closes lower to end rocky week - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
       "source": "Reuters",
@@ -618,24 +708,6 @@
       ]
     },
     {
-      "title": "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed - BBN Times",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG81TzZadUxsS2VHU1doLWlEalZQclMzUFRnaUtzT2xaYm12YnM4ZzhXRFg3MjR4aHZ3N0hfQS1qMkwzVE90REViVGJRYXdpcDlrMVJ4S2E0Z0FKMkFjWFRmQy14VTlTdDg4RGE2cExQRFJVdEZmX05YQTUxdzhEOFB4dVNIVnExbW1pMmtIUjNqbWxLc2syWTZoekl0amxLMGluOEZwSDlxa3ZBRmt0VjNDVXhyUVdaZ2x4d0R2VTdDZHphQWtzMEFidWNjQ3dOUTJfQUZoTjJla0tHVXZ3Rk5QS0wtcHRCM2ctS2ZzRGc?oc=5",
-      "source": "BBN Times",
-      "published": "2026-10-23T22:38:12+00:00",
-      "summary": "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed&nbsp;&nbsp;BBN Times",
-      "key_points": [
-        "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed&nbsp;&nbsp;BBN Times"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
       "title": "Wes Moss Says $1 Million in the S&P 500 Pays Just $12,000 a Year in Dividends. Here’s His Fix. - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1h6UDlueU9MQVhWc1NOLVloSm0wSjYyWk5WWXNnbGZ0RHZ0bkU0a2tWR3Vwd3VxaWh0ZnJOYUJrSEtwSzd2RHNKVUhaa1ZidEVQVnVCVW5SU2JyeGQ2Q0h5ckN1WXI3Uktjc0dQNDhOTHB3NmUtU0dtdFcxaWljVkFIU1ZXdUdIRTdYQVM3XzE5UQ?oc=5",
       "source": "Yahoo Finance",
@@ -644,24 +716,6 @@
       "key_points": [
         "Wes Moss Says $1 Million in the S&P 500 Pays Just $12,000 a Year in Dividends.",
         "Here’s His Fix.&nbsp;&nbsp;Yahoo Finance"
-      ],
-      "why_recommended": "Matched your \"Stock Market\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "Stock Market"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdDhfMDBaV0ZFSzd3ZHF6TTNBSlhSNnRoOVN3cU1jOGtBdkZKWE9WRG5nMHBDdmJxV0xwVHMzYXdnTTZHMk1fcnc0dUpmb3JZaU9WdlBvZEl6dzREcTB5dU12cFVxZU93em9PLWdfbDluSXlsc0NTSWd2NWhMbmVzV2ZiaFBEY2J5SURKM2lEMDI?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-23T21:39:06+00:00",
-      "summary": "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months&nbsp;&nbsp;Yahoo Finance",
-      "key_points": [
-        "Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months&nbsp;&nbsp;Yahoo Finance"
       ],
       "why_recommended": "Matched your \"Stock Market\" topic.",
       "importance": "Medium",
@@ -745,6 +799,24 @@
       ]
     },
     {
+      "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlEybEdMcEUxeVE1djB4ajAtTV9VemtnRjU2Q1ctYnNuRnZjUU1ZOHJ4MU1ZU0FGZ2FDU3gyVTcybXJlZ1RGVUZKU3dlTmNZdWd0Xzl3S2o1VGhzSHdyZVpON2k1bHEzWGhYMUQ1N3FlS2M2Y1J4eUZnQ1p6bHNPNTBiaHhJWVY1bVZ6bDM1Y05BWHJzSmNBVDZZdm1hMTdqUkVraV92UGNhNVVn?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-10-23T20:23:35+00:00",
+      "summary": "AI Tech Fears Push Global Credit Spreads to 17-Month High&nbsp;&nbsp;Bloomberg.com",
+      "key_points": [
+        "AI Tech Fears Push Global Credit Spreads to 17-Month High&nbsp;&nbsp;Bloomberg.com"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
+      ]
+    },
+    {
       "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
       "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
       "source": "Business News",
@@ -754,25 +826,7 @@
         "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday."
       ],
       "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
-      "topics": [
-        "General Finance"
-      ],
-      "sections": [
-        "Finance"
-      ]
-    },
-    {
-      "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-      "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-      "source": "Business News",
-      "published": "2026-10-23T16:51:21+00:00",
-      "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
-      "key_points": [
-        "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares."
-      ],
-      "why_recommended": "Matched your \"General Finance\" topic.",
-      "importance": "Medium",
+      "importance": "Low",
       "topics": [
         "General Finance"
       ],
@@ -814,6 +868,24 @@
       ],
       "sections": [
         "Finance"
+      ]
+    },
+    {
+      "title": "Exclusive: Longhorns used AI against Florida — a 'new wave' for UT sports - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjF6M2x3R2hodlk0dGJGZGFKNmNZQlBEOVd1SXA2b2pGQk9wQnl2TnhZeldjZ25ZdzduTERsTTVfeDh5bzJpNXhKRTV6c1NwbnhPTjVjMGJBa1A0WVdWWUxfUHFPTVhLLXdoeVN0MWgtbVhGNGlsT2JzbVF3c3JQSk9XbXprNWIxZ3JhRlE5cW11ZU1US3Z4dmtYYXMwQ2ozY2lNM24tMGV4SXZZ?oc=5",
+      "source": "Austin American-Statesman",
+      "published": "2026-10-23T14:16:41+00:00",
+      "summary": "Exclusive: Longhorns used AI against Florida — a 'new wave' for UT sports&nbsp;&nbsp;Austin American-Statesman",
+      "key_points": [
+        "Exclusive: Longhorns used AI against Florida — a 'new wave' for UT sports&nbsp;&nbsp;Austin American-Statesman"
+      ],
+      "why_recommended": "Matched your \"Tech Industry\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Tech Industry"
+      ],
+      "sections": [
+        "Technology"
       ]
     },
     {
@@ -889,24 +961,6 @@
       ]
     },
     {
-      "title": "110 Influencers Explore Malaysia’s Food, Culture & Hidden Gems Through Digital Content - SAYS",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeTF5WEdOa2ZsTGh1X0FTeVVhUERJcEp0UlNWeWtqZVNQbXNQUnVFTGUwWkt3REhOVGZ3X2VfNmlrcU1ybFZuSkZIU19wUlQ0M014aThEcVdfY2puVlZDdTFMVGVJZjhYTlZhb25QVHJ4S0VqM3JialU1eVZma2hjOTFoZEYzYXRsbDhzNDNHZnJlYWV3S24zQXBTT1JveF84TUhQQlF0UjMtY1M2MG1zejdB?oc=5",
-      "source": "SAYS",
-      "published": "2026-10-23T09:22:00+00:00",
-      "summary": "110 Influencers Explore Malaysia’s Food, Culture & Hidden Gems Through Digital Content&nbsp;&nbsp;SAYS",
-      "key_points": [
-        "110 Influencers Explore Malaysia’s Food, Culture & Hidden Gems Through Digital Content&nbsp;&nbsp;SAYS"
-      ],
-      "why_recommended": "Matched your \"Malaysia News\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia News"
-      ],
-      "sections": [
-        "Personal Interests"
-      ]
-    },
-    {
       "title": "Tech giants target spending on Florida’s state-level elections - Politico",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejQxUWFPaVhtOGJSai1JaUthcTlSc0NkMnBpVGxOOWlZWVBfckkyZnk3NnBaMG1DbEhGUFRzV3dWWXV1bWZDYnRERGNOUjJYVlIyYW5EYnpvRzVvdFJGWGtiRkxDZE1qWExWQWRGcVJiQWlkVmUwU1NEWHNYQlI3bi1jZF9IT0VpemJDd2Q0a2JUNDIzSFdSdkx5U0w?oc=5",
       "source": "Politico",
@@ -950,24 +1004,6 @@
       "summary": "DeepSeek, MiniMax secure licences to deploy AI overseas under China export rules&nbsp;&nbsp;South China Morning Post",
       "key_points": [
         "DeepSeek, MiniMax secure licences to deploy AI overseas under China export rules&nbsp;&nbsp;South China Morning Post"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
-      "title": "Apple is Wall Street’s favourite AI haven as spending fears hit - The Edge Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGdoNkhxRzZiWS1LUmt1TGxiMk5Pd1dwdHZncTRidHJRelBzVjl3OXhOYlMxWXAwbWh5eVk3d2dXSkRuUU5KQ0dULTZuUHVRLUc3X2o1N2tQaXpKUFUzOVY3RUtlNTJZcWpVdjlfX3FYbGZFSzM3N0twQ2pIZmZIeGNZTHVwYjZqRTJReWVJdzYtUFEwRnE4bzJyTS1vTnJ6dXVUS3Yxb2lnUnZhV3FWZGZZY3ZlMVc0TFE?oc=5",
-      "source": "The Edge Singapore",
-      "published": "2026-10-23T04:06:15+00:00",
-      "summary": "Apple is Wall Street’s favourite AI haven as spending fears hit&nbsp;&nbsp;The Edge Singapore",
-      "key_points": [
-        "Apple is Wall Street’s favourite AI haven as spending fears hit&nbsp;&nbsp;The Edge Singapore"
       ],
       "why_recommended": "Matched your \"Tech Industry\" topic.",
       "importance": "Low",
@@ -1087,24 +1123,6 @@
       ]
     },
     {
-      "title": "Louisiana court buys AI servers to test how tech can streamline workload - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1NjUkxxaEV0Q0I5WTZmX1h5LW45dko5TlAxMmRKRW9BTDNtLU5KeThPY3U1eGZfOUVoSXU1SVRoano0aWgycFRsY0t2TkhQVFh4LVh0VHN2ZTY0VHNTNXJRRmY1WlpRRzNxT1FURElhTFZDbzZoQ1M5ZU1IV0JLUldUSzFrSnpJN2JOOElnUnNFUTFqUUljRXNfSkJMZi1IbURPR2VoNkNEc0ZMSDRfbnlHWnBPV18tSm5QT0ljRQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-22T18:58:04+00:00",
-      "summary": "Louisiana court buys AI servers to test how tech can streamline workload&nbsp;&nbsp;Reuters",
-      "key_points": [
-        "Louisiana court buys AI servers to test how tech can streamline workload&nbsp;&nbsp;Reuters"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
       "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
       "source": "Business News",
@@ -1123,24 +1141,6 @@
       ]
     },
     {
-      "title": "Gartner forecasts 15% global IT spending growth, recaps top tech predictions - Network World",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHd5WGx4YVNxeG9nOHV6aDNkUVcwYlFCZDFuTEdnTXI2UFRkenQ1Q1M5U3RycnVPcFpEbmNpRll0RExadGlHekZVR2J1T19NM2RFdzZ1LWlwWTQ5R0Vfbko0V2lUR1VxazRKOUEzV1hJQ1VZZEN6Y0dib2psaUhmNm5xRHlpNDVKZ004UG51SGozZl9ScUJqLUw1V0FUYi1DLWNRRXhoYUNsSG80ZzBuYjQ3enlTSUkxcGx4SHNlZGU4QQ?oc=5",
-      "source": "Network World",
-      "published": "2026-10-22T17:24:37+00:00",
-      "summary": "Gartner forecasts 15% global IT spending growth, recaps top tech predictions&nbsp;&nbsp;Network World",
-      "key_points": [
-        "Gartner forecasts 15% global IT spending growth, recaps top tech predictions&nbsp;&nbsp;Network World"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
-      ]
-    },
-    {
       "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
       "link": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
       "source": "Business News",
@@ -1156,24 +1156,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "KFH reinforces leadership in Kuwaitzation goals with participation in ‘Watheefti 2026’ career fair - Kuwait Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV3BOT1JRQUYzVVVqeU15c3ZfZXRFQUVxM2h5VFRMWmFpNVJqWGIyLTBhNG1iNGdDRTJQd0xTQ0lSMTlTdTgyRjNYTGIxMVEtcUNTV0NENWJxTnhiTnpWNDdVYjZjNGdHdDFuWkg5Zy04YWtvMW5GS1N3c3BsUEtIUUFOR2tEUmFveTNiVUlfcXZTTXZRV2ZMaUxmOFNTMHZua2xZX2JDZTFkRVNXbzVnRVVWRE1RcFFBZVVWcExmXzkxS3d6WTY0SkpZakE4V3BLWGhDdHJ4UDd2UXRJ?oc=5",
-      "source": "Kuwait Times",
-      "published": "2026-10-22T16:04:14+00:00",
-      "summary": "KFH reinforces leadership in Kuwaitzation goals with participation in ‘Watheefti 2026’ career fair&nbsp;&nbsp;Kuwait Times",
-      "key_points": [
-        "KFH reinforces leadership in Kuwaitzation goals with participation in ‘Watheefti 2026’ career fair&nbsp;&nbsp;Kuwait Times"
-      ],
-      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Finance Degrees & Careers"
-      ],
-      "sections": [
-        "Education"
       ]
     },
     {
@@ -1211,24 +1193,6 @@
       ],
       "sections": [
         "Finance"
-      ]
-    },
-    {
-      "title": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMUwwNEw5d0lLX3hlYkpFR1lpRk1MX2JRa2hvLV9yb2hrTEpQa3JoZUlEREQ1bXhhN1c3QjQ1R0VhR0thb2Y5RVhsbEl1R2QybFBTdV9wWVEwYnpWQUt1c21hUFllUHVwby1sdDdfLUpQOFRncGNhTjFmemdwTnBrWHl4RzM2YUJsa1laTTAwd0s0Yzdka05BdWs1THdDR0dQSl9iM1h2bTNFZjlQa1VLSjBIemhKVlFlMUdObmNnendOdzZhY1HSAcYBQVVfeXFMT2p3ejZwUXUzRVB3Z1llbkNYbkR0bnc2Q0xINVJFdF9CZlZXcG5pYnNCbXp3YkR3NF9DN3dZUkR1MTA5UEd6OXhNV2t6azhoTTJSSGJaTWxLaERiMmNRT0E0ektNb2tsRjNvX1duSTRRWkhkYUQ5cjlHbmZWMHFMRDRGYTVrdmtBZVR3NHVOYkI4QklBeHFCTHFqY29CdHptaUZ4MS00a3ZmUkJONVktSjdWcWpPN2tTRWdpcnZwRGpNRkFfVWJB?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-10-22T12:00:14+00:00",
-      "summary": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia&nbsp;&nbsp;South China Morning Post",
-      "key_points": [
-        "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia&nbsp;&nbsp;South China Morning Post"
-      ],
-      "why_recommended": "Matched your \"Tech Industry\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Tech Industry"
-      ],
-      "sections": [
-        "Technology"
       ]
     },
     {
@@ -1286,24 +1250,6 @@
       ]
     },
     {
-      "title": "Govt finalising Natural Gas Roadmap to strengthen energy security: Akmal Nasrullah - KLSE Screener",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDVBcEZudHVCYU9vQlRsZUxOX2ZxbXIydVZPMEY1blBkSEdWSGNjLUNJaHBCX095WnF5bFp5dW84UXBTOFVoelZDQU1jckIyRUlVMkVOSHd3cFhrSmh0eUU2UmUtcWllVzJQSnM2dU1rcm00aHBaeWUwYmhSQWZXQkJ1NUhFNXoycHN2OUZSYUxQdXM2VTNhNEMxTGRKTnpKQmtvaE9rQmxwYkZOTXo2bmI1NUhJc1UzRG5JRGQtaXVuaFEzb1pwRDdTQQ?oc=5",
-      "source": "KLSE Screener",
-      "published": "2026-10-22T06:27:51+00:00",
-      "summary": "Govt finalising Natural Gas Roadmap to strengthen energy security: Akmal Nasrullah&nbsp;&nbsp;KLSE Screener",
-      "key_points": [
-        "Govt finalising Natural Gas Roadmap to strengthen energy security: Akmal Nasrullah&nbsp;&nbsp;KLSE Screener"
-      ],
-      "why_recommended": "Matched your \"Malaysia News\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia News"
-      ],
-      "sections": [
-        "Personal Interests"
-      ]
-    },
-    {
       "title": "RHB Bank gets Bank Negara extension until Feb 2027 for Tokio Marine deal talks - The Star",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUS1XY3A5c1hNa0VuLVBaaDBPZ3lKTlJwYVJ5QldjbGYtcHp1YnR0cUhwZ09HRTRjV0pKSm4xN3ZleEJnUUljSTdoYzlDd2xjaUNUWmJoRThtLTVHWEc0bmNESUx5R3FnMG82NnVqQjM3Wnd0ZFpCNWgxbHQ3ZTFpM0dzNWpJNUNnSWt0a3hzcmdpZFo1TldERU90NTZ0bXFnMXdQcnd2UEdXYW1lWGhQUE1Wblg0QUMyb1lwVHhnSzBHUzA2bDhYLVBDZUs3TG9JWHZrVUVn?oc=5",
       "source": "The Star",
@@ -1356,24 +1302,6 @@
       ],
       "sections": [
         "Education"
-      ]
-    },
-    {
-      "title": "Malaysia Central Bank Launches SSDS+ for Tokenized Bonds - Crypto Economy",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBER29CcW83Ml9Ua213a2tNUjd5RmR2d3pBUGhyR0NlaHAwZGFqbE1RaTRUX0pjQ3dycWFXLUlHbmdwNmJWZUxfemRRN3daRUVmNE1UNnRqM1RMZndZUFRUR0xZSjNrUjYwanZacjZrRkM?oc=5",
-      "source": "Crypto Economy",
-      "published": "2026-10-21T12:19:54+00:00",
-      "summary": "Malaysia Central Bank Launches SSDS+ for Tokenized Bonds&nbsp;&nbsp;Crypto Economy",
-      "key_points": [
-        "Malaysia Central Bank Launches SSDS+ for Tokenized Bonds&nbsp;&nbsp;Crypto Economy"
-      ],
-      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Malaysia Finance"
-      ],
-      "sections": [
-        "Finance"
       ]
     },
     {
@@ -1521,13 +1449,31 @@
       ]
     },
     {
-      "title": "Business Analytics Market Insights Report Examining Demand Patterns and Competitive Landscape - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcmpRcDA4eFhrb2F6UnJGc3R4a2xPZDczdzFfdXNmOTZCM1VfRV9DRmExUTRNZ1JlQTNBcGxDTVgxQWJZUGtTbGlBak1iOGhTOVZQbVhKc2ZfaExzaTVjTEVYX0Q0NkJVckp5NlVFQVQ4ZkZnbEJvc1pZLXUwVDdJVVdZdDdNOVpYTWcwcEZnajAyeTBUamFQZ1pBVTBLcGY4UC1INWxJTDA4ZEtCUldHTjRoMnZ4ZzF0SEhUSlZMMUd0dE16OUhUWnNYMDdkc2JN?oc=5",
-      "source": "EIN News",
-      "published": "2026-10-19T14:45:00+00:00",
-      "summary": "Business Analytics Market Insights Report Examining Demand Patterns and Competitive Landscape&nbsp;&nbsp;EIN News",
+      "title": "Career & Finance Horoscope, October 20, 2026: Professional tensions may reveal where clearer boundaries and better planning are needed | Astrology - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUHZfdlJjS09yMTEwejZncWlUU1EtYWo3d0t6Q2xvUGZPekNMcFJTRXIzTDVpdjhTMElWMFFzcGN1WkdReHZ6T0lULVdqVUtiSDhuZW9lMF9PdXJMSWdGXzczeGc5aDF4aU04M0MwVWMtWUFBNDlBYVB2eHB4ZW14aTZkcUFULUp3bHl1WW5PVVowVjk1UVhRNDhIeTI1SG1qWjZkdmFPUUY2d3djT3VCLWprNkdicWlVWnFOeWJibGNPVGNhRUYyejA1SDNrTkF2amdOYUpyUDdsa0VHa0h1YkVzZEZlaUdFTWZ4VTVNUkVOODRxcFhwdFdVenRKMDdPcjNfRTF2RjNxVTllNmxlYtIBlgJBVV95cUxNTUcwbldZYmRNYXlNcUNDRnRJOHYyYy1iLWdQRTRnS2FoQklZdGMxdWQtNjFaWWhNQ21kN0VTRzRkOXZsZnNMVThkakJ4Wk1Eckp3QW92VXU0MGdHQkd5VmdxWXN6d1ItTzFjaEFwcmJoLUZXZlJSRXFiMWUtZS0zUTAwUkZidHR4VG9zZWRtTk5jTTlqcDM2VmhhNXFOZmhEZ0xzckszWndBS1E1ZEJnZ0hrNktKaFFDbnR4ZFVGcmVfWEl4SXhKcFZVUTlmNlB0RG1pSUhEaHE1eWwwUldLekxfU05MQmUyVUhjNURzeHZyUHFaRWRMWjdmRGRnSGZVZEtrYXpKUjlNYkdRY09jcXJueVdtdw?oc=5",
+      "source": "Hindustan Times",
+      "published": "2026-10-20T02:30:07+00:00",
+      "summary": "Career & Finance Horoscope, October 20, 2026: Professional tensions may reveal where clearer boundaries and better planning are needed | Astrology&nbsp;&nbsp;Hindustan Times",
       "key_points": [
-        "Business Analytics Market Insights Report Examining Demand Patterns and Competitive Landscape&nbsp;&nbsp;EIN News"
+        "Career & Finance Horoscope, October 20, 2026: Professional tensions may reveal where clearer boundaries and better planning are needed | Astrology&nbsp;&nbsp;Hindustan Times"
+      ],
+      "why_recommended": "Matched your \"Finance Degrees & Careers\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Finance Degrees & Careers"
+      ],
+      "sections": [
+        "Education"
+      ]
+    },
+    {
+      "title": "Business Analytics Market Insights Report Examining Demand Patterns and Competitive Landscape - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHVOZ2ZPT1BXdmpvd2JIOGNNZlVzckQxVDZFUFUxTTVrbXpiYk8tWk9mb2diU1ZFNjNhVF9wWmthSkhaZ2dFNWdQcUdnSVVtWjN3ZkIwdTk4YU11aV9zYlFNWVpuRUExZFFBSlVhN2tPeHE5Vk1zX3FXTWFJX0dGNTdSck5YcHVzMUFqa2hVSFBtYlY1OUZaU0w2RzZjOEtUbzRmS2pEU2VIQW5ibEdjTQ?oc=5",
+      "source": "The National Law Review",
+      "published": "2026-10-19T16:09:59+00:00",
+      "summary": "Business Analytics Market Insights Report Examining Demand Patterns and Competitive Landscape&nbsp;&nbsp;The National Law Review",
+      "key_points": [
+        "Business Analytics Market Insights Report Examining Demand Patterns and Competitive Landscape&nbsp;&nbsp;The National Law Review"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
@@ -1539,22 +1485,39 @@
       ]
     },
     {
-      "title": "SIBM Bengaluru Opens Applications for 2027–29 M.B.A. and M.B.A. (Business Analytics) via SNAP 2026 | Hindustan Times - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYWNaT0d2X3JUZ1A5OWVrc0V5VFZHYkhSSC13cWdNQ0htMEhHVkVRSHRub2t1U1lVVkwxdWFHdXBPU2h2cUJ5OGEtY1R1NUdYcWVNMmVWMVBMclhBd29jd21SNl9NY3FXRFdhVXVJZFNqT0NydXFOUTVqNm55Q0k4OTZTNVpWQmp1Yktnb3RadHlKdnNmNmozVUtkTm8xY2paN0V4SHUxZ2lsQVZjVWtfbHE1Tjd0Y0Z1QUg2MDNGN0dxM0xUTGxUcXR6ZGNXbDc2R1Frb1llNi1oMkMwa0llemxVaTFxOUk2QVHSAe8BQVVfeXFMTkNOS2ZmcFFFWE1kZHZhVjJPM2FVOEM0UkUwSWJ1cFJtVUM2eVRBVkctakZCOWo0RGlNTGFIalU4WUJrMG1xM2FMblhqOWY1ZWdqWGdRTlNVcE14ekFrNTgyUkNEc1dpUWhVVng3RkpHYi1VWGI3aEFXU3R2UjBpblY4RHhscVVYSzRLajZSd3BLcHlxZzBVS3BsbWhZT3Brcm45SlJtaTZUSThMQ083QlEtWWNPUEozck1naXF1T2hnc25sbnVIb3VaUWg4cXhRbE14bllNUVpsMzBfazdyTkE0UTdlMDBLSXZxb093U1E?oc=5",
-      "source": "Hindustan Times",
-      "published": "2026-10-16T06:03:03+00:00",
-      "summary": "SIBM Bengaluru Opens Applications for 2027–29 M.B.A. and M.B.A. (Business Analytics) via SNAP 2026 | Hindustan Times&nbsp;&nbsp;Hindustan Times",
+      "title": "Malaysia’s growth tops forecasts as AI boom drives export surge - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjhnOTV4MWF5eHJFbWtYYnhwVjRxUEY0dEJIVXNOWlU3dUI4Y3ZqcGFlY0ZOR0Jpc1Noa2E2aEZmeXdWQ0RZMWRYbm54VkF1LUd0S1NpVU1mZm5DalJYbGxKcXhGRWhDeFJHdlA2YkRiRzBpa1hrVFd2ZWZaWVJ6X3NlNl92VkdBVVFNcGJOUWk4cmJTa1hGV2NtYzB5b0U4Unc?oc=5",
+      "source": "The Straits Times",
+      "published": "2026-10-16T07:00:00+00:00",
+      "summary": "Malaysia’s growth tops forecasts as AI boom drives export surge&nbsp;&nbsp;The Straits Times",
       "key_points": [
-        "SIBM Bengaluru Opens Applications for 2027–29 M.B.A.",
-        "and M.B.A."
+        "Malaysia’s growth tops forecasts as AI boom drives export surge&nbsp;&nbsp;The Straits Times"
       ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
       "topics": [
-        "Business & Financial Analytics"
+        "Malaysia Finance"
       ],
       "sections": [
-        "Work"
+        "Finance"
+      ]
+    },
+    {
+      "title": "Malaysia's economy grows 5.3pct in Q3, advance estimate shows - KLSE Screener",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakVNNndxV2FQWF9nWW9TSWlwZ0l2MkJCS2hhRmQybzFuRXJjbU1iZ0pzd2FISGo4MUVmWkZnZ1Q5MW16MGg1d0tURXRkbGhTQW5qMzNqWFY4Y3pzeGhwMUt0bGZnM2VzOVE3WmFycTVLLU83QXYtekJJVmV6dzM4c0JPOVNCLUM2Y2J3S1ptMDdBcmE3TFFtNnF3YTJCRFhITHY5bWxIbWZRYzBxSjBEWHF4cjU?oc=5",
+      "source": "KLSE Screener",
+      "published": "2026-10-16T04:07:34+00:00",
+      "summary": "Malaysia's economy grows 5.3pct in Q3, advance estimate shows&nbsp;&nbsp;KLSE Screener",
+      "key_points": [
+        "Malaysia's economy grows 5.3pct in Q3, advance estimate shows&nbsp;&nbsp;KLSE Screener"
+      ],
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
+      "importance": "Low",
+      "topics": [
+        "Malaysia Finance"
+      ],
+      "sections": [
+        "Finance"
       ]
     },
     {
@@ -1576,49 +1539,31 @@
       ]
     },
     {
-      "title": "IIM Ahmedabad announces blended MBA in Business Analytics and AI: Eligibility, course structure and... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSm95UWhNYzFnZC1RR2toZU1jcDJhTlRjd2JTX3pzVUp3WTEyOFh2UGtJWUFrcVh6QUk2VDdvSXRBYUFGWnQ4X1lYeVN4QlpORWpEVWFJUTZaWWNxMEVRU2JZaDNhVWZWYjFnWUZYOGhmdmc4cmY2VkN6ZzdVUUcyVXZOWkRVaGRkemE1LW5xa3hQd0VpVGZwTTVkVXNqdnBvR1F4QUlNTVBPTzBueXZWVUxfN0hWQjRreGhsR2FDcVVENmxmZlI5REZRa0ttOXlpRG5rYU92cmJPZko3ZlJHNFItQlFza1pYNHgwQWZYNWVncnoweEV6dkRpMHI3c2lFUHpzcFFmUdIBjAJBVV95cUxNc1lCZ21FSVJwQ1Vma3oyaHFZM2toeHBvUlBKTXJzYk15RmVfQW1GaVM1RVFvSDFQQmVmckhibzE0WERyamk0RUQxdVdRUWZYN1dOMlg1QTJlVzB4dmZzMHJWeGZSblJmQlBmT3d3WVdTOE5EYkpyWnFtRzJ1dGNaM3VfTGRESE9wQlNleFVLNUhtVGxkUWdGR2l5ekxMU3Fyd0Qtem1mdGwtRTFqRnk1S2JzZDRIOHh1cGdnOGZMeGZJcldRVE44RThJWGQtMXZ6bFZaNll3OEhWSnUwMWl0cjRuQ1V2TWY3SXdiMlI4M01uZ0R6Rmx4SFlYNi00a2g2anpVODJBSjlRQXJC?oc=5",
-      "source": "Moneycontrol.com",
-      "published": "2026-10-15T05:29:00+00:00",
-      "summary": "IIM Ahmedabad announces blended MBA in Business Analytics and AI: Eligibility, course structure and...&nbsp;&nbsp;Moneycontrol.com",
+      "title": "Bank Negara has room to adjust interest rates if inflation pressures rise, says governor - The Star",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbWFMUTNLOUpZSjFuS0MxQVBlRVhjUzh5T0ZJT3E2ZEI2ZGgyRTIyNkFtelgwVXhMOFdFVmhZS3VybjJQanE3Q3dHalJtUnpNQ2tXV01EczV4QTNMdm0yRV83cVZlc1plTDVMdVdIb2tmbU4xNy15UUwweUREZ2dzWEl2ZXNZYVU2WVJGcHozS1ItU0dpU0tCYnRMUVUwVHZTb205ZktUdjVMckNkTVlhQmptUDhucWhUbnBFdW5ST045ODVBamh3eUs3ZXhER1hOLWwxc3hpSXdfR2VadmpGMXpn?oc=5",
+      "source": "The Star",
+      "published": "2026-10-15T07:00:00+00:00",
+      "summary": "Bank Negara has room to adjust interest rates if inflation pressures rise, says governor&nbsp;&nbsp;The Star",
       "key_points": [
-        "IIM Ahmedabad announces blended MBA in Business Analytics and AI: Eligibility, course structure and...&nbsp;&nbsp;Moneycontrol.com"
+        "Bank Negara has room to adjust interest rates if inflation pressures rise, says governor&nbsp;&nbsp;The Star"
       ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
+      "why_recommended": "Matched your \"Malaysia Finance\" topic.",
       "importance": "Low",
       "topics": [
-        "Business & Financial Analytics"
+        "Malaysia Finance"
       ],
       "sections": [
-        "Work"
+        "Finance"
       ]
     },
     {
-      "title": "IIM Ahmedabad launches blended MBA in AI, Business Analytics with flexible exit option - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTkJxWGZFczNYYS1tR0ttWHVrR2plWTd3Nk5NNFU1VEZsNFZFcjFnM2tSMmxYZUg4TGVLem1rN21iR0tLSUVZTWVVVTllbmpFV0N5d2ZZZGN6RU1ITjkwZjhZTWZxQ3h6UDJtZUg0WW5TTWlWSlVSeVVtUlhXbWlfNkhRR09za0V6dDN3NEp3NW1uWDNnNjZKNzNUM282RmY4ZnR2ZEVJWnlmakxYcE1uNS1wMndlY1BsNTd6OWY3VHV6dUpFckphRFM3SkQwY2I5NFAtdzJVVlZIdFk4TjhHcHJHZGpsZzZtMU50dnNn0gHzAUFVX3lxTE5OcnFreS1jcmtVWEM4OTVra3c3VFNPYzZickQyLWJGWjFYS0pMQ1JQNU13Nk1VTjV1cG9BOEN2a0l6RkN5Y3NIakphU092SDdGRWVvcFFIUjByVElpT1IyMUlTLTZGWmR4SnFwOEdPb0FLUm8xQ3JzaVRWRkRNTkFGVkM0NTdIcVNGeWk5VWFISk13VlJPVmNpM0h4OHFXeF9SVjZKcU1oM2h6VW4ydjRqb2JqVHA4d3pxUTB2R3RjWlhVcktoekhja1hZSVlKSXBxZXRLczNnY3VkVWpsaTZES3V2ZW1qRnd3SkVYUkNJdnl3Zw?oc=5",
-      "source": "India Today",
-      "published": "2026-10-15T04:29:30+00:00",
-      "summary": "IIM Ahmedabad launches blended MBA in AI, Business Analytics with flexible exit option&nbsp;&nbsp;India Today",
+      "title": "Data Intelligence Reshapes Business Analytics: TIAN Kaixin Advances Enterprise Decision-Making Across Industries - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWQxYmVFSTN6YXItVzhySzBqRUkzUHgzWUN4TnRETVNpTGl5V2FuOFJKaXNUQUNZcVVzaDZVV1Ewb0M4LUEzM0ZWQnktOUFBT3ZRYWhqRXZtY3hXT2ZYUDBvVHRtaGRTZ1dNeW1uNDV4bTJBX2FIbE4xTktQalVGN0lJYms0OHJHd2oxTG5TVU9fdmdDYlAxRjhMU2dWeThkRHhYZG5tYjhhSkczYXJfNFgxekpDTDdqeFFmU29pazRfaV80amplbGxaem12dXoxTHc?oc=5",
+      "source": "TechBullion",
+      "published": "2026-10-15T07:00:00+00:00",
+      "summary": "Data Intelligence Reshapes Business Analytics: TIAN Kaixin Advances Enterprise Decision-Making Across Industries&nbsp;&nbsp;TechBullion",
       "key_points": [
-        "IIM Ahmedabad launches blended MBA in AI, Business Analytics with flexible exit option&nbsp;&nbsp;India Today"
-      ],
-      "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
-      "importance": "Low",
-      "topics": [
-        "Business & Financial Analytics"
-      ],
-      "sections": [
-        "Work"
-      ]
-    },
-    {
-      "title": "IIM Ahmedabad Announces 2-Year MBA in AI and Business Analytics for 2027-29 Batch, Check Fees and Eligibility - Jagran Josh",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTlaSkFQOXJ5QllWcm9zTUNlS2VPWmZwTktsa1ZLVWlkekZUR05fdnltN1hTRHkySWs1eUNVck5TS29qY21GR0s4bi1sSWh0YmlNeVV2NGpYSEpKaWZPbHIyQnZRZnl0VnhsRTN5dDhESThvYndDRXJhd01ZdmV1WS1jaWVYc0dKRXZOUG5qNTJSYmlkSDZIM3FVRGRXeDRRSjhpOHl0T3hKandjODNwOHNzbndtLXdxUG5td3g0dTFPZm1fcGNjM0JZQ1pPYWJIUDBqM2tqNWRFN0ttT2haZtIB5wFBVV95cUxOWThMVV9HS19pUThNbWZ0QzMtdXc4a1EybzlXVGp5VEF4TlZaeUpQQXpkeFpFT0UtbTdTNXcwdmdVdzlRendpNVBtYXlNSUVvd1dHSThRWTkxaWgtTnJHck9Ja1FhZTNuUlpZak5JS3JzWEF0TTN3QWU2NmlLRzlvVmkyMEtDcFVPRHJsZzhFTTBBZ1VISjdUeUZoUVZWV3dKZnRZMmFyNDRrU3lQTHd6Z0Z6WEVoSE14cHJzcER5S1UyQmRHT0ZPLWFJcHo1eXo2c1g4Q1BqVHNHSGdGS0JlRWJIUEFwOEU?oc=5",
-      "source": "Jagran Josh",
-      "published": "2026-10-15T04:16:17+00:00",
-      "summary": "IIM Ahmedabad Announces 2-Year MBA in AI and Business Analytics for 2027-29 Batch, Check Fees and Eligibility&nbsp;&nbsp;Jagran Josh",
-      "key_points": [
-        "IIM Ahmedabad Announces 2-Year MBA in AI and Business Analytics for 2027-29 Batch, Check Fees and Eligibility&nbsp;&nbsp;Jagran Josh"
+        "Data Intelligence Reshapes Business Analytics: TIAN Kaixin Advances Enterprise Decision-Making Across Industries&nbsp;&nbsp;TechBullion"
       ],
       "why_recommended": "Matched your \"Business & Financial Analytics\" topic.",
       "importance": "Low",
